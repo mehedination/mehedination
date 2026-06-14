@@ -1,0 +1,22 @@
+name: Blogs
+on:
+  schedule:
+    - cron: "0 22 * * *"
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+      
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://news.google.com/rss/search?q=artificial-intelligence+when:24h&hl=en-US&gl=US&ceid=US:en"
+          max_post_count: "6"
+          commit_message: "📝 Latest Google News"
+          committer_username: "jahidcoder"
+          committer_email: "235753025+jahidcoder@users.noreply.github.com"

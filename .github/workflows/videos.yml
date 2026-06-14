@@ -1,0 +1,174 @@
+name: Videos
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install youtube-search-python "httpx<0.28"
+
+      - name: Fetch YouTube Search Results and Update README
+        shell: python
+        run: |
+          import os
+          import re
+          import html
+          import time
+          import urllib.parse
+          from datetime import datetime, timedelta
+          from youtubesearchpython import VideosSearch
+
+          # Convert a duration string (e.g. "6:40" or "0:16") to total seconds
+          def parse_duration_to_seconds(duration_str):
+              try:
+                  parts = list(map(int, duration_str.split(":")))
+                  if len(parts) == 1:
+                      return parts[0]
+                  elif len(parts) == 2:
+                      return parts[0] * 60 + parts[1]
+                  elif len(parts) == 3:
+                      return parts[0] * 3600 + parts[1] * 60 + parts[2]
+              except Exception:
+                  return 0
+              return 0
+
+          # Estimate the exact Unix publish timestamp based on the relative time string
+          def parse_publish_time_to_timestamp(publish_time_str):
+              current_time = int(time.time())
+              if not publish_time_str:
+                  return current_time
+              
+              s = publish_time_str.lower().strip()
+              numbers = re.findall(r"\d+", s)
+              num = int(numbers[0]) if numbers else 1
+              
+              if "second" in s:
+                  return current_time - num
+              elif "minute" in s:
+                  return current_time - (num * 60)
+              elif "hour" in s:
+                  return current_time - (num * 3600)
+              elif "day" in s:
+                  return current_time - (num * 86400)
+              elif "week" in s:
+                  return current_time - (num * 7 * 86400)
+              elif "month" in s:
+                  return current_time - (num * 30 * 86400)
+              elif "year" in s:
+                  return current_time - (num * 365 * 86400)
+                  
+              return current_time
+
+          # Calculate yesterday's date dynamically to limit results to the last 24 hours
+          time_threshold = datetime.now() - timedelta(days=1)
+          date_string = time_threshold.strftime("%Y-%m-%d")
+          
+          # Build search query
+          query = f"artificial intelligence after:{date_string}"
+          print(f"Using query: {query}")
+
+          # Fetch search results
+          try:
+              videos_search = VideosSearch(query, limit=6)
+              results = videos_search.result()
+          except Exception as e:
+              print(f"Error fetching YouTube results: {e}")
+              exit(1)
+
+          items = results.get("result", [])
+          if not items:
+              print("No videos found.")
+              exit(0)
+
+          # Generate an HTML Table formatted in a 3-column grid
+          html_content = "\n<!-- BEGIN VID -->\n"
+          html_content += "<table align=\"center\">\n"
+          
+          rows = []
+          current_row = []
+
+          for i, item in enumerate(items):
+              video_id = item.get("id")
+              if not video_id:
+                  continue
+              title = html.unescape(item.get("title", ""))
+              title_escaped = title.replace("\"", "&quot;")
+              title_encoded = urllib.parse.quote_plus(title)
+              
+              duration_str = item.get("duration", "0")
+              duration_secs = parse_duration_to_seconds(duration_str)
+              
+              # Calculate correct publish timestamp dynamically
+              publish_time_str = item.get("publishedTime", "").strip()
+              publish_timestamp = parse_publish_time_to_timestamp(publish_time_str)
+              
+              # Construct demolab.com dynamic SVG card URLs with correct publish timestamp
+              dark_url = f"https://ytcards.demolab.com/?id={video_id}&title={title_encoded}&lang=en&timestamp={publish_timestamp}&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration={duration_secs}"
+              light_url = f"https://ytcards.demolab.com/?id={video_id}&title={title_encoded}&lang=en&timestamp={publish_timestamp}&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration={duration_secs}"
+              
+              cell = f"""    <td valign="top">
+                <a href="https://www.youtube.com/watch?v={video_id}" target="_blank">
+                  <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="{dark_url}">
+                    <img src="{light_url}" alt="{title_escaped}" title="{title_escaped}">
+                  </picture>
+                </a>
+              </td>"""
+              current_row.append(cell)
+              
+              if len(current_row) == 3:
+                  rows.append(current_row)
+                  current_row = []
+          
+          if current_row:
+              rows.append(current_row)
+              
+          for row in rows:
+              html_content += "  <tr>\n"
+              for cell in row:
+                  html_content += cell + "\n"
+              html_content += "  </tr>\n"
+              
+          html_content += "</table>\n"
+          html_content += "<!-- END VID -->"
+
+          readme_path = "README.md"
+          if not os.path.exists(readme_path):
+              print("README.md not found.")
+              exit(1)
+
+          with open(readme_path, "r", encoding="utf-8") as f:
+              readme_content = f.read()
+
+          pattern = re.compile(r"<!-- BEGIN VID -->.*?<!-- END VID -->", re.DOTALL)
+          if pattern.search(readme_content):
+              new_readme_content = pattern.sub(html_content, readme_content)
+              with open(readme_path, "w", encoding="utf-8") as f:
+                  f.write(new_readme_content)
+              print("README.md updated successfully.")
+          else:
+              print("Placeholder tags <!-- BEGIN VID --> and <!-- END VID --> not found in README.md.")
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "jisannation"
+          git config --global user.email "235753025+jahidcoder@users.noreply.github.com"
+          git add README.md
+          git commit -m "🎥 Update YouTube Search Results" || echo "No changes to commit"
+          git push
