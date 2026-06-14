@@ -40,43 +40,62 @@
 <details open>
  <summary><h3>🎥 Latest Google Videos</h3></summary>
 
+
 <!-- BEGIN VID -->
-<a href="https://www.youtube.com/shorts/BwqhoWERQIo">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BwqhoWERQIo&title=The+Most+Searched+Sport+%7C+Bicycle+kick+breakdown&lang=en&timestamp=1781366574&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=16">
-    <img src="https://ytcards.demolab.com/?id=BwqhoWERQIo&title=The+Most+Searched+Sport+%7C+Bicycle+kick+breakdown&lang=en&timestamp=1781366574&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=16" alt="The Most Searched Sport | Bicycle kick breakdown" title="The Most Searched Sport | Bicycle kick breakdown">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/J2oAw1td51Q">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=J2oAw1td51Q&title=The+ultimate+office+tour+for+a+sports+fan&lang=en&timestamp=1781360076&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=30">
-    <img src="https://ytcards.demolab.com/?id=J2oAw1td51Q&title=The+ultimate+office+tour+for+a+sports+fan&lang=en&timestamp=1781360076&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=30" alt="The ultimate office tour for a sports fan" title="The ultimate office tour for a sports fan">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/bDiULGfJ5cs">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=bDiULGfJ5cs&title=Search+explains+the+soccer+positions+%E2%9A%BD%EF%B8%8F&lang=en&timestamp=1781302009&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=42">
-    <img src="https://ytcards.demolab.com/?id=bDiULGfJ5cs&title=Search+explains+the+soccer+positions+%E2%9A%BD%EF%B8%8F&lang=en&timestamp=1781302009&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=42" alt="Search explains the soccer positions ⚽️" title="Search explains the soccer positions ⚽️">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=gPx12V4yiIk">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=gPx12V4yiIk&title=The+Most+Searched+Sport&lang=en&timestamp=1781193577&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=61">
-    <img src="https://ytcards.demolab.com/?id=gPx12V4yiIk&title=The+Most+Searched+Sport&lang=en&timestamp=1781193577&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=61" alt="The Most Searched Sport" title="The Most Searched Sport">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/jR4jcH1KD-M">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jR4jcH1KD-M&title=Let+the+games+begin+%E2%9A%BD+%23GoogleDoodle&lang=en&timestamp=1781186401&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7">
-    <img src="https://ytcards.demolab.com/?id=jR4jcH1KD-M&title=Let+the+games+begin+%E2%9A%BD+%23GoogleDoodle&lang=en&timestamp=1781186401&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7" alt="Let the games begin ⚽ #GoogleDoodle" title="Let the games begin ⚽ #GoogleDoodle">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/jfUjk_FcST8">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jfUjk_FcST8&title=See+3+interactive+and+stunning+visual+apps+made+with+%40GoogleGemini+in+Google+AI+Studio.&lang=en&timestamp=1781125335&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=59">
-    <img src="https://ytcards.demolab.com/?id=jfUjk_FcST8&title=See+3+interactive+and+stunning+visual+apps+made+with+%40GoogleGemini+in+Google+AI+Studio.&lang=en&timestamp=1781125335&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=59" alt="See 3 interactive and stunning visual apps made with @GoogleGemini in Google AI Studio." title="See 3 interactive and stunning visual apps made with @GoogleGemini in Google AI Studio.">
-  </picture>
-</a>
+<table align="center">
+  <tr>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=QADKN3hantI" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QADKN3hantI&title=It%27s+Beginning%3A+AI+Improves+Itself&lang=en&timestamp=1781365197&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=400">
+          <img src="https://ytcards.demolab.com/?id=QADKN3hantI&title=It%27s+Beginning%3A+AI+Improves+Itself&lang=en&timestamp=1781365197&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=400" alt="It's Beginning: AI Improves Itself" title="It's Beginning: AI Improves Itself">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=2aWsoaVqUAU" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2aWsoaVqUAU&title=Artificial+intelligence%3A+Phoenix+residents+react+to+rapid+rise+of+AI+%7C+FOX+10+Phoenix&lang=en&timestamp=1781408397&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=119">
+          <img src="https://ytcards.demolab.com/?id=2aWsoaVqUAU&title=Artificial+intelligence%3A+Phoenix+residents+react+to+rapid+rise+of+AI+%7C+FOX+10+Phoenix&lang=en&timestamp=1781408397&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=119" alt="Artificial intelligence: Phoenix residents react to rapid rise of AI | FOX 10 Phoenix" title="Artificial intelligence: Phoenix residents react to rapid rise of AI | FOX 10 Phoenix">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=Ae_9Uozn-_M" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Ae_9Uozn-_M&title=The+7+Levels+of+AI&lang=en&timestamp=1781365197&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=865">
+          <img src="https://ytcards.demolab.com/?id=Ae_9Uozn-_M&title=The+7+Levels+of+AI&lang=en&timestamp=1781365197&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=865" alt="The 7 Levels of AI" title="The 7 Levels of AI">
+        </picture>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=01V6f_eQXQ0" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=01V6f_eQXQ0&title=%27The+System+Is+Rigged%27%3A+Why+The+Wealth+Gap+Will+Explode+%7C+Peter+Boettke&lang=en&timestamp=1781386797&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3279">
+          <img src="https://ytcards.demolab.com/?id=01V6f_eQXQ0&title=%27The+System+Is+Rigged%27%3A+Why+The+Wealth+Gap+Will+Explode+%7C+Peter+Boettke&lang=en&timestamp=1781386797&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3279" alt="'The System Is Rigged': Why The Wealth Gap Will Explode | Peter Boettke" title="'The System Is Rigged': Why The Wealth Gap Will Explode | Peter Boettke">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=t7_ZXgfJVG8" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=t7_ZXgfJVG8&title=Recursive+Self+Improvement&lang=en&timestamp=1781354397&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1872">
+          <img src="https://ytcards.demolab.com/?id=t7_ZXgfJVG8&title=Recursive+Self+Improvement&lang=en&timestamp=1781354397&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1872" alt="Recursive Self Improvement" title="Recursive Self Improvement">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=ehsq_0Cw6e4" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ehsq_0Cw6e4&title=AI+Lies+Are+Finally+Getting+Punished&lang=en&timestamp=1781365197&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1817">
+          <img src="https://ytcards.demolab.com/?id=ehsq_0Cw6e4&title=AI+Lies+Are+Finally+Getting+Punished&lang=en&timestamp=1781365197&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1817" alt="AI Lies Are Finally Getting Punished" title="AI Lies Are Finally Getting Punished">
+        </picture>
+      </a>
+    </td>
+  </tr>
+</table>
 <!-- END VID -->
 
 ---
