@@ -41,56 +41,57 @@
  <summary><h3>🎥 Latest Google Videos</h3></summary>
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=QADKN3hantI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=447Dp_37kMM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QADKN3hantI&title=It%27s+Beginning%3A+AI+Improves+Itself&lang=en&timestamp=1781365197&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=400">
-          <img src="https://ytcards.demolab.com/?id=QADKN3hantI&title=It%27s+Beginning%3A+AI+Improves+Itself&lang=en&timestamp=1781365197&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=400" alt="It's Beginning: AI Improves Itself" title="It's Beginning: AI Improves Itself">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=447Dp_37kMM&title=Additional+Insights%3A+Hearing+God%27s+Voice+in+an+Age+of+Artificial+Intelligence&lang=en&timestamp=1781448205&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=567">
+          <img src="https://ytcards.demolab.com/?id=447Dp_37kMM&title=Additional+Insights%3A+Hearing+God%27s+Voice+in+an+Age+of+Artificial+Intelligence&lang=en&timestamp=1781448205&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=567" alt="Additional Insights: Hearing God's Voice in an Age of Artificial Intelligence" title="Additional Insights: Hearing God's Voice in an Age of Artificial Intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=2aWsoaVqUAU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=yT-iu1kovKg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2aWsoaVqUAU&title=Artificial+intelligence%3A+Phoenix+residents+react+to+rapid+rise+of+AI+%7C+FOX+10+Phoenix&lang=en&timestamp=1781408397&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=119">
-          <img src="https://ytcards.demolab.com/?id=2aWsoaVqUAU&title=Artificial+intelligence%3A+Phoenix+residents+react+to+rapid+rise+of+AI+%7C+FOX+10+Phoenix&lang=en&timestamp=1781408397&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=119" alt="Artificial intelligence: Phoenix residents react to rapid rise of AI | FOX 10 Phoenix" title="Artificial intelligence: Phoenix residents react to rapid rise of AI | FOX 10 Phoenix">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=yT-iu1kovKg&title=In+a+Bengaluru+market%2C+vendors+hired+to+train+AI+systems&lang=en&timestamp=1781426605&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=564">
+          <img src="https://ytcards.demolab.com/?id=yT-iu1kovKg&title=In+a+Bengaluru+market%2C+vendors+hired+to+train+AI+systems&lang=en&timestamp=1781426605&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=564" alt="In a Bengaluru market, vendors hired to train AI systems" title="In a Bengaluru market, vendors hired to train AI systems">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Ae_9Uozn-_M" target="_blank">
+      <a href="https://www.youtube.com/watch?v=w8jiiVEW8r4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Ae_9Uozn-_M&title=The+7+Levels+of+AI&lang=en&timestamp=1781365197&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=865">
-          <img src="https://ytcards.demolab.com/?id=Ae_9Uozn-_M&title=The+7+Levels+of+AI&lang=en&timestamp=1781365197&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=865" alt="The 7 Levels of AI" title="The 7 Levels of AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=w8jiiVEW8r4&title=Nvidia%27s+AI+Bubble+will+POP+from+these+4+Headwinds&lang=en&timestamp=1781451805&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=613">
+          <img src="https://ytcards.demolab.com/?id=w8jiiVEW8r4&title=Nvidia%27s+AI+Bubble+will+POP+from+these+4+Headwinds&lang=en&timestamp=1781451805&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=613" alt="Nvidia's AI Bubble will POP from these 4 Headwinds" title="Nvidia's AI Bubble will POP from these 4 Headwinds">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=01V6f_eQXQ0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=uKAmIAP965A" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=01V6f_eQXQ0&title=%27The+System+Is+Rigged%27%3A+Why+The+Wealth+Gap+Will+Explode+%7C+Peter+Boettke&lang=en&timestamp=1781386797&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3279">
-          <img src="https://ytcards.demolab.com/?id=01V6f_eQXQ0&title=%27The+System+Is+Rigged%27%3A+Why+The+Wealth+Gap+Will+Explode+%7C+Peter+Boettke&lang=en&timestamp=1781386797&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3279" alt="'The System Is Rigged': Why The Wealth Gap Will Explode | Peter Boettke" title="'The System Is Rigged': Why The Wealth Gap Will Explode | Peter Boettke">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=uKAmIAP965A&title=The+Dark+Truth+Behind+AI+%7C+Human+Suffering+Hidden+Behind+Artificial+Intelligence+%7C+Documentry+&lang=en&timestamp=1781444605&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=342">
+          <img src="https://ytcards.demolab.com/?id=uKAmIAP965A&title=The+Dark+Truth+Behind+AI+%7C+Human+Suffering+Hidden+Behind+Artificial+Intelligence+%7C+Documentry+&lang=en&timestamp=1781444605&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=342" alt="The Dark Truth Behind AI | Human Suffering Hidden Behind Artificial Intelligence | Documentry " title="The Dark Truth Behind AI | Human Suffering Hidden Behind Artificial Intelligence | Documentry ">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=t7_ZXgfJVG8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=mEui1YolKGk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=t7_ZXgfJVG8&title=Recursive+Self+Improvement&lang=en&timestamp=1781354397&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1872">
-          <img src="https://ytcards.demolab.com/?id=t7_ZXgfJVG8&title=Recursive+Self+Improvement&lang=en&timestamp=1781354397&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1872" alt="Recursive Self Improvement" title="Recursive Self Improvement">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mEui1YolKGk&title=What+AI+Can%27t+Replace+%E2%80%94+Staying+Human+in+the+Age+of+Artificial+Intelligence&lang=en&timestamp=1781451805&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=778">
+          <img src="https://ytcards.demolab.com/?id=mEui1YolKGk&title=What+AI+Can%27t+Replace+%E2%80%94+Staying+Human+in+the+Age+of+Artificial+Intelligence&lang=en&timestamp=1781451805&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=778" alt="What AI Can't Replace — Staying Human in the Age of Artificial Intelligence" title="What AI Can't Replace — Staying Human in the Age of Artificial Intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ehsq_0Cw6e4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=k3_XT2ZNkFk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ehsq_0Cw6e4&title=AI+Lies+Are+Finally+Getting+Punished&lang=en&timestamp=1781365197&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1817">
-          <img src="https://ytcards.demolab.com/?id=ehsq_0Cw6e4&title=AI+Lies+Are+Finally+Getting+Punished&lang=en&timestamp=1781365197&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1817" alt="AI Lies Are Finally Getting Punished" title="AI Lies Are Finally Getting Punished">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=k3_XT2ZNkFk&title=Amazon+Wants+100%2C000+People+Before+June+24&lang=en&timestamp=1781459005&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=371">
+          <img src="https://ytcards.demolab.com/?id=k3_XT2ZNkFk&title=Amazon+Wants+100%2C000+People+Before+June+24&lang=en&timestamp=1781459005&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=371" alt="Amazon Wants 100,000 People Before June 24" title="Amazon Wants 100,000 People Before June 24">
         </picture>
       </a>
     </td>
