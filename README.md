@@ -42,56 +42,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=447Dp_37kMM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=haB_od-xCWY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=447Dp_37kMM&title=Additional+Insights%3A+Hearing+God%27s+Voice+in+an+Age+of+Artificial+Intelligence&lang=en&timestamp=1781448205&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=567">
-          <img src="https://ytcards.demolab.com/?id=447Dp_37kMM&title=Additional+Insights%3A+Hearing+God%27s+Voice+in+an+Age+of+Artificial+Intelligence&lang=en&timestamp=1781448205&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=567" alt="Additional Insights: Hearing God's Voice in an Age of Artificial Intelligence" title="Additional Insights: Hearing God's Voice in an Age of Artificial Intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=haB_od-xCWY&title=Google+Just+Revealed+What+Comes+After+AGI+And+It%E2%80%99s+Shocking&lang=en&timestamp=1781566025&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=813">
+          <img src="https://ytcards.demolab.com/?id=haB_od-xCWY&title=Google+Just+Revealed+What+Comes+After+AGI+And+It%E2%80%99s+Shocking&lang=en&timestamp=1781566025&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=813" alt="Google Just Revealed What Comes After AGI And It’s Shocking" title="Google Just Revealed What Comes After AGI And It’s Shocking">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=yT-iu1kovKg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=veKUSM3j98g" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=yT-iu1kovKg&title=In+a+Bengaluru+market%2C+vendors+hired+to+train+AI+systems&lang=en&timestamp=1781426605&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=564">
-          <img src="https://ytcards.demolab.com/?id=yT-iu1kovKg&title=In+a+Bengaluru+market%2C+vendors+hired+to+train+AI+systems&lang=en&timestamp=1781426605&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=564" alt="In a Bengaluru market, vendors hired to train AI systems" title="In a Bengaluru market, vendors hired to train AI systems">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=veKUSM3j98g&title=Artificial+Intelligence+Full+Course+2026+%7C+AI+Tutorial+For+Beginners+%7C+AI+Full+Course+%7C+Simplilearn&lang=en&timestamp=1781562425&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=18161">
+          <img src="https://ytcards.demolab.com/?id=veKUSM3j98g&title=Artificial+Intelligence+Full+Course+2026+%7C+AI+Tutorial+For+Beginners+%7C+AI+Full+Course+%7C+Simplilearn&lang=en&timestamp=1781562425&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=18161" alt="Artificial Intelligence Full Course 2026 | AI Tutorial For Beginners | AI Full Course | Simplilearn" title="Artificial Intelligence Full Course 2026 | AI Tutorial For Beginners | AI Full Course | Simplilearn">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=w8jiiVEW8r4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=0Ti5p74cOk0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=w8jiiVEW8r4&title=Nvidia%27s+AI+Bubble+will+POP+from+these+4+Headwinds&lang=en&timestamp=1781451805&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=613">
-          <img src="https://ytcards.demolab.com/?id=w8jiiVEW8r4&title=Nvidia%27s+AI+Bubble+will+POP+from+these+4+Headwinds&lang=en&timestamp=1781451805&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=613" alt="Nvidia's AI Bubble will POP from these 4 Headwinds" title="Nvidia's AI Bubble will POP from these 4 Headwinds">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=0Ti5p74cOk0&title=We+Asked+AI+To+Make+Soccer+Less+Boring&lang=en&timestamp=1781562425&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=38">
+          <img src="https://ytcards.demolab.com/?id=0Ti5p74cOk0&title=We+Asked+AI+To+Make+Soccer+Less+Boring&lang=en&timestamp=1781562425&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=38" alt="We Asked AI To Make Soccer Less Boring" title="We Asked AI To Make Soccer Less Boring">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=uKAmIAP965A" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Xs75ovu-LLQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=uKAmIAP965A&title=The+Dark+Truth+Behind+AI+%7C+Human+Suffering+Hidden+Behind+Artificial+Intelligence+%7C+Documentry+&lang=en&timestamp=1781444605&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=342">
-          <img src="https://ytcards.demolab.com/?id=uKAmIAP965A&title=The+Dark+Truth+Behind+AI+%7C+Human+Suffering+Hidden+Behind+Artificial+Intelligence+%7C+Documentry+&lang=en&timestamp=1781444605&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=342" alt="The Dark Truth Behind AI | Human Suffering Hidden Behind Artificial Intelligence | Documentry " title="The Dark Truth Behind AI | Human Suffering Hidden Behind Artificial Intelligence | Documentry ">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Xs75ovu-LLQ&title=Meet+Your+New+Co-Worker%3A+Can+Robots+Fix+Our+Manpower+Crunch%3F+%7C+Talking+Point&lang=en&timestamp=1781526425&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1355">
+          <img src="https://ytcards.demolab.com/?id=Xs75ovu-LLQ&title=Meet+Your+New+Co-Worker%3A+Can+Robots+Fix+Our+Manpower+Crunch%3F+%7C+Talking+Point&lang=en&timestamp=1781526425&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1355" alt="Meet Your New Co-Worker: Can Robots Fix Our Manpower Crunch? | Talking Point" title="Meet Your New Co-Worker: Can Robots Fix Our Manpower Crunch? | Talking Point">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=mEui1YolKGk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=F_7M4Hc-usM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mEui1YolKGk&title=What+AI+Can%27t+Replace+%E2%80%94+Staying+Human+in+the+Age+of+Artificial+Intelligence&lang=en&timestamp=1781451805&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=778">
-          <img src="https://ytcards.demolab.com/?id=mEui1YolKGk&title=What+AI+Can%27t+Replace+%E2%80%94+Staying+Human+in+the+Age+of+Artificial+Intelligence&lang=en&timestamp=1781451805&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=778" alt="What AI Can't Replace — Staying Human in the Age of Artificial Intelligence" title="What AI Can't Replace — Staying Human in the Age of Artificial Intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=F_7M4Hc-usM&title=Stanford+CS153+Frontier+Systems+%7C+Scale%2C+AGI%2C+and+the+Future+of+Everything&lang=en&timestamp=1781548025&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2470">
+          <img src="https://ytcards.demolab.com/?id=F_7M4Hc-usM&title=Stanford+CS153+Frontier+Systems+%7C+Scale%2C+AGI%2C+and+the+Future+of+Everything&lang=en&timestamp=1781548025&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2470" alt="Stanford CS153 Frontier Systems | Scale, AGI, and the Future of Everything" title="Stanford CS153 Frontier Systems | Scale, AGI, and the Future of Everything">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=k3_XT2ZNkFk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=J9sWxViOXZo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=k3_XT2ZNkFk&title=Amazon+Wants+100%2C000+People+Before+June+24&lang=en&timestamp=1781459005&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=371">
-          <img src="https://ytcards.demolab.com/?id=k3_XT2ZNkFk&title=Amazon+Wants+100%2C000+People+Before+June+24&lang=en&timestamp=1781459005&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=371" alt="Amazon Wants 100,000 People Before June 24" title="Amazon Wants 100,000 People Before June 24">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=J9sWxViOXZo&title=Software+jobs+in+2026...&lang=en&timestamp=1781519225&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=546">
+          <img src="https://ytcards.demolab.com/?id=J9sWxViOXZo&title=Software+jobs+in+2026...&lang=en&timestamp=1781519225&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=546" alt="Software jobs in 2026..." title="Software jobs in 2026...">
         </picture>
       </a>
     </td>
