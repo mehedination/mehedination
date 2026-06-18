@@ -44,56 +44,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Xgd_bQ4Mscg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=qI1tLQF-_9A" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Xgd_bQ4Mscg&title=Is+AI+ALIVE%3F+What+AI+is+teaching+us+about+consciousness+with+Michael+Pollan+and+Chris+Hayes&lang=en&timestamp=1781616088&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3420">
-          <img src="https://ytcards.demolab.com/?id=Xgd_bQ4Mscg&title=Is+AI+ALIVE%3F+What+AI+is+teaching+us+about+consciousness+with+Michael+Pollan+and+Chris+Hayes&lang=en&timestamp=1781616088&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3420" alt="Is AI ALIVE? What AI is teaching us about consciousness with Michael Pollan and Chris Hayes" title="Is AI ALIVE? What AI is teaching us about consciousness with Michael Pollan and Chris Hayes">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qI1tLQF-_9A&title=Jeff+Bezos+Makes+Shocking+AI+Prediction+and+the+Future+of+Jobs&lang=en&timestamp=1781741650&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=328">
+          <img src="https://ytcards.demolab.com/?id=qI1tLQF-_9A&title=Jeff+Bezos+Makes+Shocking+AI+Prediction+and+the+Future+of+Jobs&lang=en&timestamp=1781741650&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=328" alt="Jeff Bezos Makes Shocking AI Prediction and the Future of Jobs" title="Jeff Bezos Makes Shocking AI Prediction and the Future of Jobs">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=pPPg8eD3teE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=djYKi28hL_8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=pPPg8eD3teE&title=10+Times+AI+Did+Something+Scientists+Said+Was+Impossible&lang=en&timestamp=1781623288&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=713">
-          <img src="https://ytcards.demolab.com/?id=pPPg8eD3teE&title=10+Times+AI+Did+Something+Scientists+Said+Was+Impossible&lang=en&timestamp=1781623288&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=713" alt="10 Times AI Did Something Scientists Said Was Impossible" title="10 Times AI Did Something Scientists Said Was Impossible">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=djYKi28hL_8&title=G7+Leaders+Meet+Sam+Altman%2C+AI+CEOs+To+Discuss+Future+Of+Artificial+Intelligence&lang=en&timestamp=1781712850&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=183">
+          <img src="https://ytcards.demolab.com/?id=djYKi28hL_8&title=G7+Leaders+Meet+Sam+Altman%2C+AI+CEOs+To+Discuss+Future+Of+Artificial+Intelligence&lang=en&timestamp=1781712850&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=183" alt="G7 Leaders Meet Sam Altman, AI CEOs To Discuss Future Of Artificial Intelligence" title="G7 Leaders Meet Sam Altman, AI CEOs To Discuss Future Of Artificial Intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ltXyjyAkgTs" target="_blank">
+      <a href="https://www.youtube.com/watch?v=hrwPDjtrLh0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ltXyjyAkgTs&title=Ryan+Blair%3A+AI+bubble+will+drive+people+to+use+faith-based+tech+%7C+Bianca+Across+The+Nation&lang=en&timestamp=1781644888&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=449">
-          <img src="https://ytcards.demolab.com/?id=ltXyjyAkgTs&title=Ryan+Blair%3A+AI+bubble+will+drive+people+to+use+faith-based+tech+%7C+Bianca+Across+The+Nation&lang=en&timestamp=1781644888&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=449" alt="Ryan Blair: AI bubble will drive people to use faith-based tech | Bianca Across The Nation" title="Ryan Blair: AI bubble will drive people to use faith-based tech | Bianca Across The Nation">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hrwPDjtrLh0&title=USPTO+Hour+-+Artificial+intelligence+updates&lang=en&timestamp=1781709250&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3601">
+          <img src="https://ytcards.demolab.com/?id=hrwPDjtrLh0&title=USPTO+Hour+-+Artificial+intelligence+updates&lang=en&timestamp=1781709250&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3601" alt="USPTO Hour - Artificial intelligence updates" title="USPTO Hour - Artificial intelligence updates">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=mr8C1eGumQM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=fzALM23Z328" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mr8C1eGumQM&title=What+If+Artificial+Intelligence+Progress+Explodes%3F+%28with+Benjamin+Todd%29&lang=en&timestamp=1781630488&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4581">
-          <img src="https://ytcards.demolab.com/?id=mr8C1eGumQM&title=What+If+Artificial+Intelligence+Progress+Explodes%3F+%28with+Benjamin+Todd%29&lang=en&timestamp=1781630488&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4581" alt="What If Artificial Intelligence Progress Explodes? (with Benjamin Todd)" title="What If Artificial Intelligence Progress Explodes? (with Benjamin Todd)">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=fzALM23Z328&title=The+Heat%3A+Artificial+Intelligence+%7C+How+AI+can+help+the+Global+South&lang=en&timestamp=1781738050&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1758">
+          <img src="https://ytcards.demolab.com/?id=fzALM23Z328&title=The+Heat%3A+Artificial+Intelligence+%7C+How+AI+can+help+the+Global+South&lang=en&timestamp=1781738050&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1758" alt="The Heat: Artificial Intelligence | How AI can help the Global South" title="The Heat: Artificial Intelligence | How AI can help the Global South">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=6bNGsXfKJGI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=O-orK1FhD9A" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6bNGsXfKJGI&title=Brian+Gallagher+and+Gary+Marcus%3A+A+Skeptic%E2%80%99s+Guide+to+Artificial+Intelligence&lang=en&timestamp=1781623288&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3871">
-          <img src="https://ytcards.demolab.com/?id=6bNGsXfKJGI&title=Brian+Gallagher+and+Gary+Marcus%3A+A+Skeptic%E2%80%99s+Guide+to+Artificial+Intelligence&lang=en&timestamp=1781623288&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3871" alt="Brian Gallagher and Gary Marcus: A Skeptic’s Guide to Artificial Intelligence" title="Brian Gallagher and Gary Marcus: A Skeptic’s Guide to Artificial Intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=O-orK1FhD9A&title=After+being+replaced+by+artificial+intelligence%2C+my+bonus+was+canceled...+Now+my+boss+regrets+it%21&lang=en&timestamp=1781684050&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6225">
+          <img src="https://ytcards.demolab.com/?id=O-orK1FhD9A&title=After+being+replaced+by+artificial+intelligence%2C+my+bonus+was+canceled...+Now+my+boss+regrets+it%21&lang=en&timestamp=1781684050&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6225" alt="After being replaced by artificial intelligence, my bonus was canceled... Now my boss regrets it!" title="After being replaced by artificial intelligence, my bonus was canceled... Now my boss regrets it!">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=1g9a96XzDB4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=wq8Wm7qWdJ4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1g9a96XzDB4&title=What+If+The+Creator+Is+Artificial+Intelligence%3F&lang=en&timestamp=1781655688&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1235">
-          <img src="https://ytcards.demolab.com/?id=1g9a96XzDB4&title=What+If+The+Creator+Is+Artificial+Intelligence%3F&lang=en&timestamp=1781655688&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1235" alt="What If The Creator Is Artificial Intelligence?" title="What If The Creator Is Artificial Intelligence?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wq8Wm7qWdJ4&title=The+Future+of+K-12+Education+in+the+Age+of+Artificial+Intelligence&lang=en&timestamp=1781669650&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5650">
+          <img src="https://ytcards.demolab.com/?id=wq8Wm7qWdJ4&title=The+Future+of+K-12+Education+in+the+Age+of+Artificial+Intelligence&lang=en&timestamp=1781669650&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5650" alt="The Future of K-12 Education in the Age of Artificial Intelligence" title="The Future of K-12 Education in the Age of Artificial Intelligence">
         </picture>
       </a>
     </td>
