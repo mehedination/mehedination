@@ -45,56 +45,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=qI1tLQF-_9A" target="_blank">
+      <a href="https://www.youtube.com/watch?v=GWu2-nXRgjM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qI1tLQF-_9A&title=Jeff+Bezos+Makes+Shocking+AI+Prediction+and+the+Future+of+Jobs&lang=en&timestamp=1781741650&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=328">
-          <img src="https://ytcards.demolab.com/?id=qI1tLQF-_9A&title=Jeff+Bezos+Makes+Shocking+AI+Prediction+and+the+Future+of+Jobs&lang=en&timestamp=1781741650&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=328" alt="Jeff Bezos Makes Shocking AI Prediction and the Future of Jobs" title="Jeff Bezos Makes Shocking AI Prediction and the Future of Jobs">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=GWu2-nXRgjM&title=How+is+China+using+AI+in+the+classroom%3F+%7C+The+Take&lang=en&timestamp=1781880989&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1305">
+          <img src="https://ytcards.demolab.com/?id=GWu2-nXRgjM&title=How+is+China+using+AI+in+the+classroom%3F+%7C+The+Take&lang=en&timestamp=1781880989&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1305" alt="How is China using AI in the classroom? | The Take" title="How is China using AI in the classroom? | The Take">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=djYKi28hL_8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ACyYB3rkVw0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=djYKi28hL_8&title=G7+Leaders+Meet+Sam+Altman%2C+AI+CEOs+To+Discuss+Future+Of+Artificial+Intelligence&lang=en&timestamp=1781712850&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=183">
-          <img src="https://ytcards.demolab.com/?id=djYKi28hL_8&title=G7+Leaders+Meet+Sam+Altman%2C+AI+CEOs+To+Discuss+Future+Of+Artificial+Intelligence&lang=en&timestamp=1781712850&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=183" alt="G7 Leaders Meet Sam Altman, AI CEOs To Discuss Future Of Artificial Intelligence" title="G7 Leaders Meet Sam Altman, AI CEOs To Discuss Future Of Artificial Intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ACyYB3rkVw0&title=Rick+Beato%27s+%22I+Was+Right+About+AI%22+Um....+Rick%3F%3F%3F+Hello%3F&lang=en&timestamp=1781841389&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2865">
+          <img src="https://ytcards.demolab.com/?id=ACyYB3rkVw0&title=Rick+Beato%27s+%22I+Was+Right+About+AI%22+Um....+Rick%3F%3F%3F+Hello%3F&lang=en&timestamp=1781841389&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2865" alt="Rick Beato's &quot;I Was Right About AI&quot; Um.... Rick??? Hello?" title="Rick Beato's &quot;I Was Right About AI&quot; Um.... Rick??? Hello?">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=hrwPDjtrLh0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=D-Q4Ccvdl2A" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hrwPDjtrLh0&title=USPTO+Hour+-+Artificial+intelligence+updates&lang=en&timestamp=1781709250&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3601">
-          <img src="https://ytcards.demolab.com/?id=hrwPDjtrLh0&title=USPTO+Hour+-+Artificial+intelligence+updates&lang=en&timestamp=1781709250&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3601" alt="USPTO Hour - Artificial intelligence updates" title="USPTO Hour - Artificial intelligence updates">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=D-Q4Ccvdl2A&title=Recursive+Self-Improvement+Has+Already+Begun+%7C+Anthony+Aguirre&lang=en&timestamp=1781888189&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5647">
+          <img src="https://ytcards.demolab.com/?id=D-Q4Ccvdl2A&title=Recursive+Self-Improvement+Has+Already+Begun+%7C+Anthony+Aguirre&lang=en&timestamp=1781888189&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5647" alt="Recursive Self-Improvement Has Already Begun | Anthony Aguirre" title="Recursive Self-Improvement Has Already Begun | Anthony Aguirre">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=fzALM23Z328" target="_blank">
+      <a href="https://www.youtube.com/watch?v=12pycx6VUsw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=fzALM23Z328&title=The+Heat%3A+Artificial+Intelligence+%7C+How+AI+can+help+the+Global+South&lang=en&timestamp=1781738050&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1758">
-          <img src="https://ytcards.demolab.com/?id=fzALM23Z328&title=The+Heat%3A+Artificial+Intelligence+%7C+How+AI+can+help+the+Global+South&lang=en&timestamp=1781738050&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1758" alt="The Heat: Artificial Intelligence | How AI can help the Global South" title="The Heat: Artificial Intelligence | How AI can help the Global South">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=12pycx6VUsw&title=Inside+Elon+Musk%27s+empire+%7C+BBC+Americast&lang=en&timestamp=1781880989&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1661">
+          <img src="https://ytcards.demolab.com/?id=12pycx6VUsw&title=Inside+Elon+Musk%27s+empire+%7C+BBC+Americast&lang=en&timestamp=1781880989&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1661" alt="Inside Elon Musk's empire | BBC Americast" title="Inside Elon Musk's empire | BBC Americast">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=O-orK1FhD9A" target="_blank">
+      <a href="https://www.youtube.com/watch?v=s80fSqj39lk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=O-orK1FhD9A&title=After+being+replaced+by+artificial+intelligence%2C+my+bonus+was+canceled...+Now+my+boss+regrets+it%21&lang=en&timestamp=1781684050&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6225">
-          <img src="https://ytcards.demolab.com/?id=O-orK1FhD9A&title=After+being+replaced+by+artificial+intelligence%2C+my+bonus+was+canceled...+Now+my+boss+regrets+it%21&lang=en&timestamp=1781684050&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6225" alt="After being replaced by artificial intelligence, my bonus was canceled... Now my boss regrets it!" title="After being replaced by artificial intelligence, my bonus was canceled... Now my boss regrets it!">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=s80fSqj39lk&title=Will+AI+Actually+Destroy+Humanity%3F+1+Doomer+vs+9+Rationalists+at+LessOnline+2026&lang=en&timestamp=1781859389&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2416">
+          <img src="https://ytcards.demolab.com/?id=s80fSqj39lk&title=Will+AI+Actually+Destroy+Humanity%3F+1+Doomer+vs+9+Rationalists+at+LessOnline+2026&lang=en&timestamp=1781859389&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2416" alt="Will AI Actually Destroy Humanity? 1 Doomer vs 9 Rationalists at LessOnline 2026" title="Will AI Actually Destroy Humanity? 1 Doomer vs 9 Rationalists at LessOnline 2026">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=wq8Wm7qWdJ4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=cRaV8jYSKDs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wq8Wm7qWdJ4&title=The+Future+of+K-12+Education+in+the+Age+of+Artificial+Intelligence&lang=en&timestamp=1781669650&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5650">
-          <img src="https://ytcards.demolab.com/?id=wq8Wm7qWdJ4&title=The+Future+of+K-12+Education+in+the+Age+of+Artificial+Intelligence&lang=en&timestamp=1781669650&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5650" alt="The Future of K-12 Education in the Age of Artificial Intelligence" title="The Future of K-12 Education in the Age of Artificial Intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=cRaV8jYSKDs&title=Full+video%3A+A+peaceful+day+in+the+European+countryside+%7C+Baking+Sweet+Treats+with+a+DIY+Oven&lang=en&timestamp=1781880989&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=10965">
+          <img src="https://ytcards.demolab.com/?id=cRaV8jYSKDs&title=Full+video%3A+A+peaceful+day+in+the+European+countryside+%7C+Baking+Sweet+Treats+with+a+DIY+Oven&lang=en&timestamp=1781880989&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=10965" alt="Full video: A peaceful day in the European countryside | Baking Sweet Treats with a DIY Oven" title="Full video: A peaceful day in the European countryside | Baking Sweet Treats with a DIY Oven">
         </picture>
       </a>
     </td>
