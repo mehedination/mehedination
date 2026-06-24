@@ -48,56 +48,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=uLO_KBhuQCY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=nYYQRK4l-OQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=uLO_KBhuQCY&title=Microsoft+CEO%3A+%E2%80%98We+CAN%E2%80%99T+let+AI+giants+eat+the+economy%E2%80%99&lang=en&timestamp=1782182927&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=608">
-          <img src="https://ytcards.demolab.com/?id=uLO_KBhuQCY&title=Microsoft+CEO%3A+%E2%80%98We+CAN%E2%80%99T+let+AI+giants+eat+the+economy%E2%80%99&lang=en&timestamp=1782182927&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=608" alt="Microsoft CEO: ‘We CAN’T let AI giants eat the economy’" title="Microsoft CEO: ‘We CAN’T let AI giants eat the economy’">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nYYQRK4l-OQ&title=Former+CISA+Director+Chris+Krebs+calls+intelligence+community%27s+AI+warning+%22pretty+alarming%22&lang=en&timestamp=1782255035&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=327">
+          <img src="https://ytcards.demolab.com/?id=nYYQRK4l-OQ&title=Former+CISA+Director+Chris+Krebs+calls+intelligence+community%27s+AI+warning+%22pretty+alarming%22&lang=en&timestamp=1782255035&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=327" alt="Former CISA Director Chris Krebs calls intelligence community's AI warning &quot;pretty alarming&quot;" title="Former CISA Director Chris Krebs calls intelligence community's AI warning &quot;pretty alarming&quot;">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=HkVpSoaIKsc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Cjnppupu6gk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=HkVpSoaIKsc&title=Why+AI+Users+Are+Raving+About+GLM+5.2&lang=en&timestamp=1782157727&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1507">
-          <img src="https://ytcards.demolab.com/?id=HkVpSoaIKsc&title=Why+AI+Users+Are+Raving+About+GLM+5.2&lang=en&timestamp=1782157727&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1507" alt="Why AI Users Are Raving About GLM 5.2" title="Why AI Users Are Raving About GLM 5.2">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Cjnppupu6gk&title=Tech+stocks+tumble+over+AI+cost+concerns&lang=en&timestamp=1782251435&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=195">
+          <img src="https://ytcards.demolab.com/?id=Cjnppupu6gk&title=Tech+stocks+tumble+over+AI+cost+concerns&lang=en&timestamp=1782251435&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=195" alt="Tech stocks tumble over AI cost concerns" title="Tech stocks tumble over AI cost concerns">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=tiGq88_rLMQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=SHmEpQriF6E" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tiGq88_rLMQ&title=AI+Godfather%3A%C2%A0You+Have+No+Idea%C2%A0%22We%27re+Near+The+End%22+-%C2%A0Geoffrey+Hinton&lang=en&timestamp=1782146927&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1137">
-          <img src="https://ytcards.demolab.com/?id=tiGq88_rLMQ&title=AI+Godfather%3A%C2%A0You+Have+No+Idea%C2%A0%22We%27re+Near+The+End%22+-%C2%A0Geoffrey+Hinton&lang=en&timestamp=1782146927&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1137" alt="AI Godfather: You Have No Idea &quot;We're Near The End&quot; - Geoffrey Hinton" title="AI Godfather: You Have No Idea &quot;We're Near The End&quot; - Geoffrey Hinton">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SHmEpQriF6E&title=CRASH+IMMINENT%3A+AI+Frenzy+Could+Repeat+Pre-Crash+Wall+Street+%27Bubble%27&lang=en&timestamp=1782233435&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1148">
+          <img src="https://ytcards.demolab.com/?id=SHmEpQriF6E&title=CRASH+IMMINENT%3A+AI+Frenzy+Could+Repeat+Pre-Crash+Wall+Street+%27Bubble%27&lang=en&timestamp=1782233435&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1148" alt="CRASH IMMINENT: AI Frenzy Could Repeat Pre-Crash Wall Street 'Bubble'" title="CRASH IMMINENT: AI Frenzy Could Repeat Pre-Crash Wall Street 'Bubble'">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=_LcbEZT-_RE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=4-oJdv4deac" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_LcbEZT-_RE&title=The+Pope+and+Mormon+Apostle+Unite+Against+Artificial+Intelligence&lang=en&timestamp=1782157727&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3030">
-          <img src="https://ytcards.demolab.com/?id=_LcbEZT-_RE&title=The+Pope+and+Mormon+Apostle+Unite+Against+Artificial+Intelligence&lang=en&timestamp=1782157727&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3030" alt="The Pope and Mormon Apostle Unite Against Artificial Intelligence" title="The Pope and Mormon Apostle Unite Against Artificial Intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4-oJdv4deac&title=Elections+in+the+age+of+AI%3A+Can+US+voters+still+trust+what+they+see%3F+%7C+This+is+America&lang=en&timestamp=1782247835&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1610">
+          <img src="https://ytcards.demolab.com/?id=4-oJdv4deac&title=Elections+in+the+age+of+AI%3A+Can+US+voters+still+trust+what+they+see%3F+%7C+This+is+America&lang=en&timestamp=1782247835&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1610" alt="Elections in the age of AI: Can US voters still trust what they see? | This is America" title="Elections in the age of AI: Can US voters still trust what they see? | This is America">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=EAFamlCmN0I" target="_blank">
+      <a href="https://www.youtube.com/watch?v=-iYLrIjtTug" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EAFamlCmN0I&title=The+Next+5+Years+of+Artificial+Intelligence&lang=en&timestamp=1782146927&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=679">
-          <img src="https://ytcards.demolab.com/?id=EAFamlCmN0I&title=The+Next+5+Years+of+Artificial+Intelligence&lang=en&timestamp=1782146927&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=679" alt="The Next 5 Years of Artificial Intelligence" title="The Next 5 Years of Artificial Intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-iYLrIjtTug&title=Here%27s+How+Badly+AI+F%2A%2A%2Aed+Over+Steam+Machine&lang=en&timestamp=1782240635&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1058">
+          <img src="https://ytcards.demolab.com/?id=-iYLrIjtTug&title=Here%27s+How+Badly+AI+F%2A%2A%2Aed+Over+Steam+Machine&lang=en&timestamp=1782240635&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1058" alt="Here's How Badly AI F***ed Over Steam Machine" title="Here's How Badly AI F***ed Over Steam Machine">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=XYp2d8wax08" target="_blank">
+      <a href="https://www.youtube.com/watch?v=k5jYwyhDMxA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XYp2d8wax08&title=The+Lies+of+AI%3A+MACHINE&lang=en&timestamp=1782139727&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=756">
-          <img src="https://ytcards.demolab.com/?id=XYp2d8wax08&title=The+Lies+of+AI%3A+MACHINE&lang=en&timestamp=1782139727&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=756" alt="The Lies of AI: MACHINE" title="The Lies of AI: MACHINE">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=k5jYwyhDMxA&title=5+AI+Agent+Terms+You+Need+to+Know&lang=en&timestamp=1782215435&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=667">
+          <img src="https://ytcards.demolab.com/?id=k5jYwyhDMxA&title=5+AI+Agent+Terms+You+Need+to+Know&lang=en&timestamp=1782215435&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=667" alt="5 AI Agent Terms You Need to Know" title="5 AI Agent Terms You Need to Know">
         </picture>
       </a>
     </td>
