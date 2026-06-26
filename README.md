@@ -49,56 +49,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=nYYQRK4l-OQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=OBUzl_IaWIw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nYYQRK4l-OQ&title=Former+CISA+Director+Chris+Krebs+calls+intelligence+community%27s+AI+warning+%22pretty+alarming%22&lang=en&timestamp=1782255035&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=327">
-          <img src="https://ytcards.demolab.com/?id=nYYQRK4l-OQ&title=Former+CISA+Director+Chris+Krebs+calls+intelligence+community%27s+AI+warning+%22pretty+alarming%22&lang=en&timestamp=1782255035&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=327" alt="Former CISA Director Chris Krebs calls intelligence community's AI warning &quot;pretty alarming&quot;" title="Former CISA Director Chris Krebs calls intelligence community's AI warning &quot;pretty alarming&quot;">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=OBUzl_IaWIw&title=%22How+to+Think+About+AI%22%3A+Cory+Doctorow+on+Big+Tech%2C+Understanding+AI%2C+Labor+Automation+%26+More&lang=en&timestamp=1782399453&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=897">
+          <img src="https://ytcards.demolab.com/?id=OBUzl_IaWIw&title=%22How+to+Think+About+AI%22%3A+Cory+Doctorow+on+Big+Tech%2C+Understanding+AI%2C+Labor+Automation+%26+More&lang=en&timestamp=1782399453&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=897" alt="&quot;How to Think About AI&quot;: Cory Doctorow on Big Tech, Understanding AI, Labor Automation & More" title="&quot;How to Think About AI&quot;: Cory Doctorow on Big Tech, Understanding AI, Labor Automation & More">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Cjnppupu6gk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=IwKuv4LrCVk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Cjnppupu6gk&title=Tech+stocks+tumble+over+AI+cost+concerns&lang=en&timestamp=1782251435&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=195">
-          <img src="https://ytcards.demolab.com/?id=Cjnppupu6gk&title=Tech+stocks+tumble+over+AI+cost+concerns&lang=en&timestamp=1782251435&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=195" alt="Tech stocks tumble over AI cost concerns" title="Tech stocks tumble over AI cost concerns">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=IwKuv4LrCVk&title=Anthropic+is+coming+for+EVERYTHING&lang=en&timestamp=1782431853&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=903">
+          <img src="https://ytcards.demolab.com/?id=IwKuv4LrCVk&title=Anthropic+is+coming+for+EVERYTHING&lang=en&timestamp=1782431853&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=903" alt="Anthropic is coming for EVERYTHING" title="Anthropic is coming for EVERYTHING">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=SHmEpQriF6E" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ZY6RVj3yP2U" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SHmEpQriF6E&title=CRASH+IMMINENT%3A+AI+Frenzy+Could+Repeat+Pre-Crash+Wall+Street+%27Bubble%27&lang=en&timestamp=1782233435&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1148">
-          <img src="https://ytcards.demolab.com/?id=SHmEpQriF6E&title=CRASH+IMMINENT%3A+AI+Frenzy+Could+Repeat+Pre-Crash+Wall+Street+%27Bubble%27&lang=en&timestamp=1782233435&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1148" alt="CRASH IMMINENT: AI Frenzy Could Repeat Pre-Crash Wall Street 'Bubble'" title="CRASH IMMINENT: AI Frenzy Could Repeat Pre-Crash Wall Street 'Bubble'">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ZY6RVj3yP2U&title=WHAT+THE+TECH%3F+Could+Artificial+Intelligence+Raise+Your+Electric+Bill%3F&lang=en&timestamp=1782428253&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=134">
+          <img src="https://ytcards.demolab.com/?id=ZY6RVj3yP2U&title=WHAT+THE+TECH%3F+Could+Artificial+Intelligence+Raise+Your+Electric+Bill%3F&lang=en&timestamp=1782428253&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=134" alt="WHAT THE TECH? Could Artificial Intelligence Raise Your Electric Bill?" title="WHAT THE TECH? Could Artificial Intelligence Raise Your Electric Bill?">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=4-oJdv4deac" target="_blank">
+      <a href="https://www.youtube.com/watch?v=XbTF0XsfCuA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4-oJdv4deac&title=Elections+in+the+age+of+AI%3A+Can+US+voters+still+trust+what+they+see%3F+%7C+This+is+America&lang=en&timestamp=1782247835&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1610">
-          <img src="https://ytcards.demolab.com/?id=4-oJdv4deac&title=Elections+in+the+age+of+AI%3A+Can+US+voters+still+trust+what+they+see%3F+%7C+This+is+America&lang=en&timestamp=1782247835&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1610" alt="Elections in the age of AI: Can US voters still trust what they see? | This is America" title="Elections in the age of AI: Can US voters still trust what they see? | This is America">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XbTF0XsfCuA&title=Beyond+the+Hype%3A+A+Data+Analyst%E2%80%99s+Real-World+Take+on+AI+%7C+%23GirlsWhoL&lang=en&timestamp=1782359853&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4214">
+          <img src="https://ytcards.demolab.com/?id=XbTF0XsfCuA&title=Beyond+the+Hype%3A+A+Data+Analyst%E2%80%99s+Real-World+Take+on+AI+%7C+%23GirlsWhoL&lang=en&timestamp=1782359853&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4214" alt="Beyond the Hype: A Data Analyst’s Real-World Take on AI | #GirlsWhoL" title="Beyond the Hype: A Data Analyst’s Real-World Take on AI | #GirlsWhoL">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=-iYLrIjtTug" target="_blank">
+      <a href="https://www.youtube.com/watch?v=QqrSb8HmPRA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-iYLrIjtTug&title=Here%27s+How+Badly+AI+F%2A%2A%2Aed+Over+Steam+Machine&lang=en&timestamp=1782240635&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1058">
-          <img src="https://ytcards.demolab.com/?id=-iYLrIjtTug&title=Here%27s+How+Badly+AI+F%2A%2A%2Aed+Over+Steam+Machine&lang=en&timestamp=1782240635&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1058" alt="Here's How Badly AI F***ed Over Steam Machine" title="Here's How Badly AI F***ed Over Steam Machine">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QqrSb8HmPRA&title=Master+of+Management+in+Artificial+Intelligence+-+Program+Overview+%7C+June+25%2C+2026&lang=en&timestamp=1782417453&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3500">
+          <img src="https://ytcards.demolab.com/?id=QqrSb8HmPRA&title=Master+of+Management+in+Artificial+Intelligence+-+Program+Overview+%7C+June+25%2C+2026&lang=en&timestamp=1782417453&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3500" alt="Master of Management in Artificial Intelligence - Program Overview | June 25, 2026" title="Master of Management in Artificial Intelligence - Program Overview | June 25, 2026">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=k5jYwyhDMxA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=q9iTiBsIheA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=k5jYwyhDMxA&title=5+AI+Agent+Terms+You+Need+to+Know&lang=en&timestamp=1782215435&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=667">
-          <img src="https://ytcards.demolab.com/?id=k5jYwyhDMxA&title=5+AI+Agent+Terms+You+Need+to+Know&lang=en&timestamp=1782215435&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=667" alt="5 AI Agent Terms You Need to Know" title="5 AI Agent Terms You Need to Know">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=q9iTiBsIheA&title=Who+Benefits+Most+from+AI%3F+The+Complete+AI+Ecosystem+Breakdown%21&lang=en&timestamp=1782399453&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1367">
+          <img src="https://ytcards.demolab.com/?id=q9iTiBsIheA&title=Who+Benefits+Most+from+AI%3F+The+Complete+AI+Ecosystem+Breakdown%21&lang=en&timestamp=1782399453&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1367" alt="Who Benefits Most from AI? The Complete AI Ecosystem Breakdown!" title="Who Benefits Most from AI? The Complete AI Ecosystem Breakdown!">
         </picture>
       </a>
     </td>
