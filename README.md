@@ -51,56 +51,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=oKvee9qkOUA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=IpOdZZ9NidM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=oKvee9qkOUA&title=Former+Indiana+governor+explains+how+his+nonprofit+will+help+workers+impacted+by+AI+boom&lang=en&timestamp=1782502820&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=303">
-          <img src="https://ytcards.demolab.com/?id=oKvee9qkOUA&title=Former+Indiana+governor+explains+how+his+nonprofit+will+help+workers+impacted+by+AI+boom&lang=en&timestamp=1782502820&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=303" alt="Former Indiana governor explains how his nonprofit will help workers impacted by AI boom" title="Former Indiana governor explains how his nonprofit will help workers impacted by AI boom">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=IpOdZZ9NidM&title=SHOCKWAVE%3A+Market+divergences+keep+DRAWING+attention&lang=en&timestamp=1782601451&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=383">
+          <img src="https://ytcards.demolab.com/?id=IpOdZZ9NidM&title=SHOCKWAVE%3A+Market+divergences+keep+DRAWING+attention&lang=en&timestamp=1782601451&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=383" alt="SHOCKWAVE: Market divergences keep DRAWING attention" title="SHOCKWAVE: Market divergences keep DRAWING attention">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=dy-AzXzBKvo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=PqhPCyH_UY8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=dy-AzXzBKvo&title=Is+Apple%27s+Massive+Price+Hike+of+MacBooks%2C+iPads+Justified%3F+%7C+Vantage+on+Firstpost%C2%A0%7C+N18G+%7C+4K&lang=en&timestamp=1782502820&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=409">
-          <img src="https://ytcards.demolab.com/?id=dy-AzXzBKvo&title=Is+Apple%27s+Massive+Price+Hike+of+MacBooks%2C+iPads+Justified%3F+%7C+Vantage+on+Firstpost%C2%A0%7C+N18G+%7C+4K&lang=en&timestamp=1782502820&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=409" alt="Is Apple's Massive Price Hike of MacBooks, iPads Justified? | Vantage on Firstpost | N18G | 4K" title="Is Apple's Massive Price Hike of MacBooks, iPads Justified? | Vantage on Firstpost | N18G | 4K">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PqhPCyH_UY8&title=Mozart+Vs.+AI+%E2%80%93+Can+YOU+tell+the+Difference%3F%3F&lang=en&timestamp=1782569051&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=733">
+          <img src="https://ytcards.demolab.com/?id=PqhPCyH_UY8&title=Mozart+Vs.+AI+%E2%80%93+Can+YOU+tell+the+Difference%3F%3F&lang=en&timestamp=1782569051&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=733" alt="Mozart Vs. AI – Can YOU tell the Difference??" title="Mozart Vs. AI – Can YOU tell the Difference??">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ztRtkiMaaVI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Aie0nYktsNA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ztRtkiMaaVI&title=Elon+Musk%27s+AI+Was+Asked+%22Who+Is+Jesus%3F%22+%E2%80%94+Its+Answer+Left+Both+Christians+and+Atheists+Speechless&lang=en&timestamp=1782495620&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1718">
-          <img src="https://ytcards.demolab.com/?id=ztRtkiMaaVI&title=Elon+Musk%27s+AI+Was+Asked+%22Who+Is+Jesus%3F%22+%E2%80%94+Its+Answer+Left+Both+Christians+and+Atheists+Speechless&lang=en&timestamp=1782495620&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1718" alt="Elon Musk's AI Was Asked &quot;Who Is Jesus?&quot; — Its Answer Left Both Christians and Atheists Speechless" title="Elon Musk's AI Was Asked &quot;Who Is Jesus?&quot; — Its Answer Left Both Christians and Atheists Speechless">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Aie0nYktsNA&title=My+New+AI+Workflow&lang=en&timestamp=1782565451&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1509">
+          <img src="https://ytcards.demolab.com/?id=Aie0nYktsNA&title=My+New+AI+Workflow&lang=en&timestamp=1782565451&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1509" alt="My New AI Workflow" title="My New AI Workflow">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=m4JmkiGgHBM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=KRt05kAklys" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=m4JmkiGgHBM&title=The+AI+That%E2%80%99s+Quietly+Becoming+Indispensable&lang=en&timestamp=1782492020&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=599">
-          <img src="https://ytcards.demolab.com/?id=m4JmkiGgHBM&title=The+AI+That%E2%80%99s+Quietly+Becoming+Indispensable&lang=en&timestamp=1782492020&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=599" alt="The AI That’s Quietly Becoming Indispensable" title="The AI That’s Quietly Becoming Indispensable">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KRt05kAklys&title=This+NEW+AI+AGENT+is+INSANE%21+%F0%9F%A4%AF&lang=en&timestamp=1782576251&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=496">
+          <img src="https://ytcards.demolab.com/?id=KRt05kAklys&title=This+NEW+AI+AGENT+is+INSANE%21+%F0%9F%A4%AF&lang=en&timestamp=1782576251&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=496" alt="This NEW AI AGENT is INSANE! 🤯" title="This NEW AI AGENT is INSANE! 🤯">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=77UKuKbaIFc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=OhwUL_AUvxI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=77UKuKbaIFc&title=We%27re+Using+Computers+the+Wrong+Way&lang=en&timestamp=1782502820&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1340">
-          <img src="https://ytcards.demolab.com/?id=77UKuKbaIFc&title=We%27re+Using+Computers+the+Wrong+Way&lang=en&timestamp=1782502820&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1340" alt="We're Using Computers the Wrong Way" title="We're Using Computers the Wrong Way">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=OhwUL_AUvxI&title=Why+AI+Is+Killing+D%26D&lang=en&timestamp=1782579851&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=495">
+          <img src="https://ytcards.demolab.com/?id=OhwUL_AUvxI&title=Why+AI+Is+Killing+D%26D&lang=en&timestamp=1782579851&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=495" alt="Why AI Is Killing D&D" title="Why AI Is Killing D&D">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=NxtJHGiMap0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=__dJp-5oflM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=NxtJHGiMap0&title=Vancouver+Police+facing+backlash+over+possible+use+of+AI+in+post+online&lang=en&timestamp=1782495620&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=76">
-          <img src="https://ytcards.demolab.com/?id=NxtJHGiMap0&title=Vancouver+Police+facing+backlash+over+possible+use+of+AI+in+post+online&lang=en&timestamp=1782495620&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=76" alt="Vancouver Police facing backlash over possible use of AI in post online" title="Vancouver Police facing backlash over possible use of AI in post online">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=__dJp-5oflM&title=%23AskAbhijit+369%3A+AI%2C+Robotics%2C+DNA%2C+Brain+Enhancement%2C+Future+of+Humanity&lang=en&timestamp=1782587051&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=11281">
+          <img src="https://ytcards.demolab.com/?id=__dJp-5oflM&title=%23AskAbhijit+369%3A+AI%2C+Robotics%2C+DNA%2C+Brain+Enhancement%2C+Future+of+Humanity&lang=en&timestamp=1782587051&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=11281" alt="#AskAbhijit 369: AI, Robotics, DNA, Brain Enhancement, Future of Humanity" title="#AskAbhijit 369: AI, Robotics, DNA, Brain Enhancement, Future of Humanity">
         </picture>
       </a>
     </td>
