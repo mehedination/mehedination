@@ -52,56 +52,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=IpOdZZ9NidM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=vOWYBF9EGyw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=IpOdZZ9NidM&title=SHOCKWAVE%3A+Market+divergences+keep+DRAWING+attention&lang=en&timestamp=1782601451&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=383">
-          <img src="https://ytcards.demolab.com/?id=IpOdZZ9NidM&title=SHOCKWAVE%3A+Market+divergences+keep+DRAWING+attention&lang=en&timestamp=1782601451&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=383" alt="SHOCKWAVE: Market divergences keep DRAWING attention" title="SHOCKWAVE: Market divergences keep DRAWING attention">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vOWYBF9EGyw&title=How+AI+is+Changing+the+Job+Market+and+Workplace+in+America&lang=en&timestamp=1782655864&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=289">
+          <img src="https://ytcards.demolab.com/?id=vOWYBF9EGyw&title=How+AI+is+Changing+the+Job+Market+and+Workplace+in+America&lang=en&timestamp=1782655864&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=289" alt="How AI is Changing the Job Market and Workplace in America" title="How AI is Changing the Job Market and Workplace in America">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=PqhPCyH_UY8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=-fZl6NP2krA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PqhPCyH_UY8&title=Mozart+Vs.+AI+%E2%80%93+Can+YOU+tell+the+Difference%3F%3F&lang=en&timestamp=1782569051&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=733">
-          <img src="https://ytcards.demolab.com/?id=PqhPCyH_UY8&title=Mozart+Vs.+AI+%E2%80%93+Can+YOU+tell+the+Difference%3F%3F&lang=en&timestamp=1782569051&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=733" alt="Mozart Vs. AI – Can YOU tell the Difference??" title="Mozart Vs. AI – Can YOU tell the Difference??">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-fZl6NP2krA&title=What+AI+Revealed+Hidden+in+the+Dead+Sea+Scrolls+Shocked+Scholars&lang=en&timestamp=1782681064&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1788">
+          <img src="https://ytcards.demolab.com/?id=-fZl6NP2krA&title=What+AI+Revealed+Hidden+in+the+Dead+Sea+Scrolls+Shocked+Scholars&lang=en&timestamp=1782681064&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1788" alt="What AI Revealed Hidden in the Dead Sea Scrolls Shocked Scholars" title="What AI Revealed Hidden in the Dead Sea Scrolls Shocked Scholars">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Aie0nYktsNA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=H_weJVwIEDE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Aie0nYktsNA&title=My+New+AI+Workflow&lang=en&timestamp=1782565451&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1509">
-          <img src="https://ytcards.demolab.com/?id=Aie0nYktsNA&title=My+New+AI+Workflow&lang=en&timestamp=1782565451&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1509" alt="My New AI Workflow" title="My New AI Workflow">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=H_weJVwIEDE&title=These+4+Stocks+Could+Win+Even+If+AI+Crashes+%7C+Warren+Buffett+&lang=en&timestamp=1782666664&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1682">
+          <img src="https://ytcards.demolab.com/?id=H_weJVwIEDE&title=These+4+Stocks+Could+Win+Even+If+AI+Crashes+%7C+Warren+Buffett+&lang=en&timestamp=1782666664&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1682" alt="These 4 Stocks Could Win Even If AI Crashes | Warren Buffett " title="These 4 Stocks Could Win Even If AI Crashes | Warren Buffett ">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=KRt05kAklys" target="_blank">
+      <a href="https://www.youtube.com/watch?v=8lh_JjYio6w" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KRt05kAklys&title=This+NEW+AI+AGENT+is+INSANE%21+%F0%9F%A4%AF&lang=en&timestamp=1782576251&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=496">
-          <img src="https://ytcards.demolab.com/?id=KRt05kAklys&title=This+NEW+AI+AGENT+is+INSANE%21+%F0%9F%A4%AF&lang=en&timestamp=1782576251&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=496" alt="This NEW AI AGENT is INSANE! 🤯" title="This NEW AI AGENT is INSANE! 🤯">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8lh_JjYio6w&title=20+Insane+AI+Devices+That+Feel+Like+They%E2%80%99re+From+2030&lang=en&timestamp=1782645064&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1083">
+          <img src="https://ytcards.demolab.com/?id=8lh_JjYio6w&title=20+Insane+AI+Devices+That+Feel+Like+They%E2%80%99re+From+2030&lang=en&timestamp=1782645064&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1083" alt="20 Insane AI Devices That Feel Like They’re From 2030" title="20 Insane AI Devices That Feel Like They’re From 2030">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=OhwUL_AUvxI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=hrs291vg9cE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=OhwUL_AUvxI&title=Why+AI+Is+Killing+D%26D&lang=en&timestamp=1782579851&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=495">
-          <img src="https://ytcards.demolab.com/?id=OhwUL_AUvxI&title=Why+AI+Is+Killing+D%26D&lang=en&timestamp=1782579851&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=495" alt="Why AI Is Killing D&D" title="Why AI Is Killing D&D">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hrs291vg9cE&title=Time+To+Worry&lang=en&timestamp=1782666664&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=787">
+          <img src="https://ytcards.demolab.com/?id=hrs291vg9cE&title=Time+To+Worry&lang=en&timestamp=1782666664&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=787" alt="Time To Worry" title="Time To Worry">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=__dJp-5oflM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=fVQPXoJkuTE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=__dJp-5oflM&title=%23AskAbhijit+369%3A+AI%2C+Robotics%2C+DNA%2C+Brain+Enhancement%2C+Future+of+Humanity&lang=en&timestamp=1782587051&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=11281">
-          <img src="https://ytcards.demolab.com/?id=__dJp-5oflM&title=%23AskAbhijit+369%3A+AI%2C+Robotics%2C+DNA%2C+Brain+Enhancement%2C+Future+of+Humanity&lang=en&timestamp=1782587051&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=11281" alt="#AskAbhijit 369: AI, Robotics, DNA, Brain Enhancement, Future of Humanity" title="#AskAbhijit 369: AI, Robotics, DNA, Brain Enhancement, Future of Humanity">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=fVQPXoJkuTE&title=Teaching+AI+about+pain+is+important&lang=en&timestamp=1782641464&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=269">
+          <img src="https://ytcards.demolab.com/?id=fVQPXoJkuTE&title=Teaching+AI+about+pain+is+important&lang=en&timestamp=1782641464&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=269" alt="Teaching AI about pain is important" title="Teaching AI about pain is important">
         </picture>
       </a>
     </td>
