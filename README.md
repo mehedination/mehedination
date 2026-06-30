@@ -53,56 +53,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=vOWYBF9EGyw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=_0RPZtpzWq0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vOWYBF9EGyw&title=How+AI+is+Changing+the+Job+Market+and+Workplace+in+America&lang=en&timestamp=1782655864&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=289">
-          <img src="https://ytcards.demolab.com/?id=vOWYBF9EGyw&title=How+AI+is+Changing+the+Job+Market+and+Workplace+in+America&lang=en&timestamp=1782655864&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=289" alt="How AI is Changing the Job Market and Workplace in America" title="How AI is Changing the Job Market and Workplace in America">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_0RPZtpzWq0&title=Debt%2C+decline%2C+closures+%E2%80%93+Is+US+higher+education+crumbling%3F+%7C+This+is+America&lang=en&timestamp=1782766416&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1604">
+          <img src="https://ytcards.demolab.com/?id=_0RPZtpzWq0&title=Debt%2C+decline%2C+closures+%E2%80%93+Is+US+higher+education+crumbling%3F+%7C+This+is+America&lang=en&timestamp=1782766416&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1604" alt="Debt, decline, closures – Is US higher education crumbling? | This is America" title="Debt, decline, closures – Is US higher education crumbling? | This is America">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=-fZl6NP2krA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=XSS9fD8XWuQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-fZl6NP2krA&title=What+AI+Revealed+Hidden+in+the+Dead+Sea+Scrolls+Shocked+Scholars&lang=en&timestamp=1782681064&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1788">
-          <img src="https://ytcards.demolab.com/?id=-fZl6NP2krA&title=What+AI+Revealed+Hidden+in+the+Dead+Sea+Scrolls+Shocked+Scholars&lang=en&timestamp=1782681064&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1788" alt="What AI Revealed Hidden in the Dead Sea Scrolls Shocked Scholars" title="What AI Revealed Hidden in the Dead Sea Scrolls Shocked Scholars">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XSS9fD8XWuQ&title=Mythos+AI+Demo+Raises+Cybersecurity+Concerns+%7C+WION+Fineprint&lang=en&timestamp=1782762816&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=123">
+          <img src="https://ytcards.demolab.com/?id=XSS9fD8XWuQ&title=Mythos+AI+Demo+Raises+Cybersecurity+Concerns+%7C+WION+Fineprint&lang=en&timestamp=1782762816&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=123" alt="Mythos AI Demo Raises Cybersecurity Concerns | WION Fineprint" title="Mythos AI Demo Raises Cybersecurity Concerns | WION Fineprint">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=H_weJVwIEDE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=davMjmDY2T4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=H_weJVwIEDE&title=These+4+Stocks+Could+Win+Even+If+AI+Crashes+%7C+Warren+Buffett+&lang=en&timestamp=1782666664&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1682">
-          <img src="https://ytcards.demolab.com/?id=H_weJVwIEDE&title=These+4+Stocks+Could+Win+Even+If+AI+Crashes+%7C+Warren+Buffett+&lang=en&timestamp=1782666664&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1682" alt="These 4 Stocks Could Win Even If AI Crashes | Warren Buffett " title="These 4 Stocks Could Win Even If AI Crashes | Warren Buffett ">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=davMjmDY2T4&title=Ford+Rehires+Engineers+After+AI+Falls+Short+In+Key+Operations+%7C+WION+News&lang=en&timestamp=1782759216&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=108">
+          <img src="https://ytcards.demolab.com/?id=davMjmDY2T4&title=Ford+Rehires+Engineers+After+AI+Falls+Short+In+Key+Operations+%7C+WION+News&lang=en&timestamp=1782759216&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=108" alt="Ford Rehires Engineers After AI Falls Short In Key Operations | WION News" title="Ford Rehires Engineers After AI Falls Short In Key Operations | WION News">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=8lh_JjYio6w" target="_blank">
+      <a href="https://www.youtube.com/watch?v=9GGgQbaLzBo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8lh_JjYio6w&title=20+Insane+AI+Devices+That+Feel+Like+They%E2%80%99re+From+2030&lang=en&timestamp=1782645064&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1083">
-          <img src="https://ytcards.demolab.com/?id=8lh_JjYio6w&title=20+Insane+AI+Devices+That+Feel+Like+They%E2%80%99re+From+2030&lang=en&timestamp=1782645064&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1083" alt="20 Insane AI Devices That Feel Like They’re From 2030" title="20 Insane AI Devices That Feel Like They’re From 2030">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9GGgQbaLzBo&title=Nvidia+Signs+Major+AI+Deal%2C+Expands+Global+Artificial+Intelligence+Push+%7C+WION+World+News&lang=en&timestamp=1782726816&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=359">
+          <img src="https://ytcards.demolab.com/?id=9GGgQbaLzBo&title=Nvidia+Signs+Major+AI+Deal%2C+Expands+Global+Artificial+Intelligence+Push+%7C+WION+World+News&lang=en&timestamp=1782726816&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=359" alt="Nvidia Signs Major AI Deal, Expands Global Artificial Intelligence Push | WION World News" title="Nvidia Signs Major AI Deal, Expands Global Artificial Intelligence Push | WION World News">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=hrs291vg9cE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=sNF_1PIEda0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hrs291vg9cE&title=Time+To+Worry&lang=en&timestamp=1782666664&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=787">
-          <img src="https://ytcards.demolab.com/?id=hrs291vg9cE&title=Time+To+Worry&lang=en&timestamp=1782666664&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=787" alt="Time To Worry" title="Time To Worry">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sNF_1PIEda0&title=Artificial+Intelligence+vs+The+Holy+Spirit+-+Dr.+Larry+Ollison&lang=en&timestamp=1782773616&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2689">
+          <img src="https://ytcards.demolab.com/?id=sNF_1PIEda0&title=Artificial+Intelligence+vs+The+Holy+Spirit+-+Dr.+Larry+Ollison&lang=en&timestamp=1782773616&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2689" alt="Artificial Intelligence vs The Holy Spirit - Dr. Larry Ollison" title="Artificial Intelligence vs The Holy Spirit - Dr. Larry Ollison">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=fVQPXoJkuTE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ENSfNWoasgY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=fVQPXoJkuTE&title=Teaching+AI+about+pain+is+important&lang=en&timestamp=1782641464&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=269">
-          <img src="https://ytcards.demolab.com/?id=fVQPXoJkuTE&title=Teaching+AI+about+pain+is+important&lang=en&timestamp=1782641464&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=269" alt="Teaching AI about pain is important" title="Teaching AI about pain is important">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ENSfNWoasgY&title=Madonna+Says+AI+is+the+%27Exact+Opposite+of+Making+Art%27+%7C+WION+Newspoint&lang=en&timestamp=1782723216&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=97">
+          <img src="https://ytcards.demolab.com/?id=ENSfNWoasgY&title=Madonna+Says+AI+is+the+%27Exact+Opposite+of+Making+Art%27+%7C+WION+Newspoint&lang=en&timestamp=1782723216&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=97" alt="Madonna Says AI is the 'Exact Opposite of Making Art' | WION Newspoint" title="Madonna Says AI is the 'Exact Opposite of Making Art' | WION Newspoint">
         </picture>
       </a>
     </td>
