@@ -55,56 +55,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=NzqLOygOfVE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=3a6_yUp489c" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=NzqLOygOfVE&title=Can+China%27s+new+AI+model+GLM-5.2+rival+Anthropic%2C+OpenAI+platforms%3F+%7C+The+World+%7C+ABC+News&lang=en&timestamp=1782824881&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=455">
-          <img src="https://ytcards.demolab.com/?id=NzqLOygOfVE&title=Can+China%27s+new+AI+model+GLM-5.2+rival+Anthropic%2C+OpenAI+platforms%3F+%7C+The+World+%7C+ABC+News&lang=en&timestamp=1782824881&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=455" alt="Can China's new AI model GLM-5.2 rival Anthropic, OpenAI platforms? | The World | ABC News" title="Can China's new AI model GLM-5.2 rival Anthropic, OpenAI platforms? | The World | ABC News">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3a6_yUp489c&title=Trump+administration+removed+AI+guardrails+on+powerful+Claude+models%2C+Anthropic+says&lang=en&timestamp=1782924566&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=136">
+          <img src="https://ytcards.demolab.com/?id=3a6_yUp489c&title=Trump+administration+removed+AI+guardrails+on+powerful+Claude+models%2C+Anthropic+says&lang=en&timestamp=1782924566&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=136" alt="Trump administration removed AI guardrails on powerful Claude models, Anthropic says" title="Trump administration removed AI guardrails on powerful Claude models, Anthropic says">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=G4DZ75SYYVc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=5YqqUGF1arU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=G4DZ75SYYVc&title=Figure+03+Takes+Over+BMW+Factory+With+Stunning+New+AI+Skills&lang=en&timestamp=1782839281&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=158">
-          <img src="https://ytcards.demolab.com/?id=G4DZ75SYYVc&title=Figure+03+Takes+Over+BMW+Factory+With+Stunning+New+AI+Skills&lang=en&timestamp=1782839281&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=158" alt="Figure 03 Takes Over BMW Factory With Stunning New AI Skills" title="Figure 03 Takes Over BMW Factory With Stunning New AI Skills">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5YqqUGF1arU&title=A.I.+Artificial+Intelligence+%7C+Called+Back+by+the+Unknown+%7C+Beyond+Infinity&lang=en&timestamp=1782917366&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=595">
+          <img src="https://ytcards.demolab.com/?id=5YqqUGF1arU&title=A.I.+Artificial+Intelligence+%7C+Called+Back+by+the+Unknown+%7C+Beyond+Infinity&lang=en&timestamp=1782917366&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=595" alt="A.I. Artificial Intelligence | Called Back by the Unknown | Beyond Infinity" title="A.I. Artificial Intelligence | Called Back by the Unknown | Beyond Infinity">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=AgpeggCsRH4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=D3uAZaUR8Y0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=AgpeggCsRH4&title=Could+Open+Source+AI+be+Banned%3F&lang=en&timestamp=1782832081&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2893">
-          <img src="https://ytcards.demolab.com/?id=AgpeggCsRH4&title=Could+Open+Source+AI+be+Banned%3F&lang=en&timestamp=1782832081&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2893" alt="Could Open Source AI be Banned?" title="Could Open Source AI be Banned?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=D3uAZaUR8Y0&title=Artificial+Intelligence+and+the+Uncertainty+of+the+Future...&lang=en&timestamp=1782938966&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1702">
+          <img src="https://ytcards.demolab.com/?id=D3uAZaUR8Y0&title=Artificial+Intelligence+and+the+Uncertainty+of+the+Future...&lang=en&timestamp=1782938966&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1702" alt="Artificial Intelligence and the Uncertainty of the Future..." title="Artificial Intelligence and the Uncertainty of the Future...">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=7lT5WEp4eKU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=pE7eUTkb7LA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=7lT5WEp4eKU&title=The+AI+Sector+Everyone+Is+Ignoring%21+How+YOU+Can+Profit+-+Starting+Now%21&lang=en&timestamp=1782835681&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=706">
-          <img src="https://ytcards.demolab.com/?id=7lT5WEp4eKU&title=The+AI+Sector+Everyone+Is+Ignoring%21+How+YOU+Can+Profit+-+Starting+Now%21&lang=en&timestamp=1782835681&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=706" alt="The AI Sector Everyone Is Ignoring! How YOU Can Profit - Starting Now!" title="The AI Sector Everyone Is Ignoring! How YOU Can Profit - Starting Now!">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=pE7eUTkb7LA&title=How+Artificial+Intelligence+Will+Fight+The+Next+War&lang=en&timestamp=1782938966&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1030">
+          <img src="https://ytcards.demolab.com/?id=pE7eUTkb7LA&title=How+Artificial+Intelligence+Will+Fight+The+Next+War&lang=en&timestamp=1782938966&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1030" alt="How Artificial Intelligence Will Fight The Next War" title="How Artificial Intelligence Will Fight The Next War">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=st5bYXFZKmI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=lqFjcSYybCY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=st5bYXFZKmI&title=Markets+to+have+best+quarter+in+years+as+gas+prices+stay+high&lang=en&timestamp=1782860881&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=168">
-          <img src="https://ytcards.demolab.com/?id=st5bYXFZKmI&title=Markets+to+have+best+quarter+in+years+as+gas+prices+stay+high&lang=en&timestamp=1782860881&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=168" alt="Markets to have best quarter in years as gas prices stay high" title="Markets to have best quarter in years as gas prices stay high">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lqFjcSYybCY&title=An+Introduction+to+using+Artificial+Intelligence+%28AI%29+for+Vulnerability+Research&lang=en&timestamp=1782931766&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5381">
+          <img src="https://ytcards.demolab.com/?id=lqFjcSYybCY&title=An+Introduction+to+using+Artificial+Intelligence+%28AI%29+for+Vulnerability+Research&lang=en&timestamp=1782931766&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5381" alt="An Introduction to using Artificial Intelligence (AI) for Vulnerability Research" title="An Introduction to using Artificial Intelligence (AI) for Vulnerability Research">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=QeAHC1jGxck" target="_blank">
+      <a href="https://www.youtube.com/watch?v=8PZLL4-kG-M" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QeAHC1jGxck&title=Your+OS+Changes+Everything+for+Local+AI&lang=en&timestamp=1782828481&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=853">
-          <img src="https://ytcards.demolab.com/?id=QeAHC1jGxck&title=Your+OS+Changes+Everything+for+Local+AI&lang=en&timestamp=1782828481&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=853" alt="Your OS Changes Everything for Local AI" title="Your OS Changes Everything for Local AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8PZLL4-kG-M&title=AI+FOR+ALL%3A+Evan+Solomon%2C+Canada%27s+Minister+of+Artificial+Intelligence+%7C+The+Herle+Burly&lang=en&timestamp=1782956966&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4224">
+          <img src="https://ytcards.demolab.com/?id=8PZLL4-kG-M&title=AI+FOR+ALL%3A+Evan+Solomon%2C+Canada%27s+Minister+of+Artificial+Intelligence+%7C+The+Herle+Burly&lang=en&timestamp=1782956966&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4224" alt="AI FOR ALL: Evan Solomon, Canada's Minister of Artificial Intelligence | The Herle Burly" title="AI FOR ALL: Evan Solomon, Canada's Minister of Artificial Intelligence | The Herle Burly">
         </picture>
       </a>
     </td>
