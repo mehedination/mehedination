@@ -56,56 +56,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=3a6_yUp489c" target="_blank">
+      <a href="https://www.youtube.com/watch?v=VJTvPEWp-ec" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3a6_yUp489c&title=Trump+administration+removed+AI+guardrails+on+powerful+Claude+models%2C+Anthropic+says&lang=en&timestamp=1782924566&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=136">
-          <img src="https://ytcards.demolab.com/?id=3a6_yUp489c&title=Trump+administration+removed+AI+guardrails+on+powerful+Claude+models%2C+Anthropic+says&lang=en&timestamp=1782924566&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=136" alt="Trump administration removed AI guardrails on powerful Claude models, Anthropic says" title="Trump administration removed AI guardrails on powerful Claude models, Anthropic says">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=VJTvPEWp-ec&title=Is+AI+the+Great+Filter%3F+%7C+The+Fermi+Paradox&lang=en&timestamp=1782999016&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2494">
+          <img src="https://ytcards.demolab.com/?id=VJTvPEWp-ec&title=Is+AI+the+Great+Filter%3F+%7C+The+Fermi+Paradox&lang=en&timestamp=1782999016&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2494" alt="Is AI the Great Filter? | The Fermi Paradox" title="Is AI the Great Filter? | The Fermi Paradox">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=5YqqUGF1arU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=zA8hwdmmVos" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5YqqUGF1arU&title=A.I.+Artificial+Intelligence+%7C+Called+Back+by+the+Unknown+%7C+Beyond+Infinity&lang=en&timestamp=1782917366&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=595">
-          <img src="https://ytcards.demolab.com/?id=5YqqUGF1arU&title=A.I.+Artificial+Intelligence+%7C+Called+Back+by+the+Unknown+%7C+Beyond+Infinity&lang=en&timestamp=1782917366&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=595" alt="A.I. Artificial Intelligence | Called Back by the Unknown | Beyond Infinity" title="A.I. Artificial Intelligence | Called Back by the Unknown | Beyond Infinity">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zA8hwdmmVos&title=AI+Bubble+Fears+Grow+as+Michael+Burry%2C+Top+Economists+Sound+Alarm+%7C+Vantage+on+Firstpost%C2%A0%7C+N18G+%7C+4K&lang=en&timestamp=1783020616&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=482">
+          <img src="https://ytcards.demolab.com/?id=zA8hwdmmVos&title=AI+Bubble+Fears+Grow+as+Michael+Burry%2C+Top+Economists+Sound+Alarm+%7C+Vantage+on+Firstpost%C2%A0%7C+N18G+%7C+4K&lang=en&timestamp=1783020616&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=482" alt="AI Bubble Fears Grow as Michael Burry, Top Economists Sound Alarm | Vantage on Firstpost | N18G | 4K" title="AI Bubble Fears Grow as Michael Burry, Top Economists Sound Alarm | Vantage on Firstpost | N18G | 4K">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=D3uAZaUR8Y0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=kT2cInoYcA8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=D3uAZaUR8Y0&title=Artificial+Intelligence+and+the+Uncertainty+of+the+Future...&lang=en&timestamp=1782938966&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1702">
-          <img src="https://ytcards.demolab.com/?id=D3uAZaUR8Y0&title=Artificial+Intelligence+and+the+Uncertainty+of+the+Future...&lang=en&timestamp=1782938966&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1702" alt="Artificial Intelligence and the Uncertainty of the Future..." title="Artificial Intelligence and the Uncertainty of the Future...">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=kT2cInoYcA8&title=UN+warns+unchecked+AI+progress+may+pose+catastrophic+risks&lang=en&timestamp=1782999016&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=196">
+          <img src="https://ytcards.demolab.com/?id=kT2cInoYcA8&title=UN+warns+unchecked+AI+progress+may+pose+catastrophic+risks&lang=en&timestamp=1782999016&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=196" alt="UN warns unchecked AI progress may pose catastrophic risks" title="UN warns unchecked AI progress may pose catastrophic risks">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=pE7eUTkb7LA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=mFZ1ma-tNcg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=pE7eUTkb7LA&title=How+Artificial+Intelligence+Will+Fight+The+Next+War&lang=en&timestamp=1782938966&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1030">
-          <img src="https://ytcards.demolab.com/?id=pE7eUTkb7LA&title=How+Artificial+Intelligence+Will+Fight+The+Next+War&lang=en&timestamp=1782938966&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1030" alt="How Artificial Intelligence Will Fight The Next War" title="How Artificial Intelligence Will Fight The Next War">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mFZ1ma-tNcg&title=AI+Words+You+Hear+Every+Day+in+English&lang=en&timestamp=1782963016&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2077">
+          <img src="https://ytcards.demolab.com/?id=mFZ1ma-tNcg&title=AI+Words+You+Hear+Every+Day+in+English&lang=en&timestamp=1782963016&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2077" alt="AI Words You Hear Every Day in English" title="AI Words You Hear Every Day in English">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=lqFjcSYybCY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=mGSvik8yvY8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lqFjcSYybCY&title=An+Introduction+to+using+Artificial+Intelligence+%28AI%29+for+Vulnerability+Research&lang=en&timestamp=1782931766&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5381">
-          <img src="https://ytcards.demolab.com/?id=lqFjcSYybCY&title=An+Introduction+to+using+Artificial+Intelligence+%28AI%29+for+Vulnerability+Research&lang=en&timestamp=1782931766&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5381" alt="An Introduction to using Artificial Intelligence (AI) for Vulnerability Research" title="An Introduction to using Artificial Intelligence (AI) for Vulnerability Research">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mGSvik8yvY8&title=%22We+Can+No+Longer+Say+We+Did+Not+Know%22%3A+UN+Chief++Guterres+on+Artificial+Intelligence+%7C+APT&lang=en&timestamp=1783017016&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=357">
+          <img src="https://ytcards.demolab.com/?id=mGSvik8yvY8&title=%22We+Can+No+Longer+Say+We+Did+Not+Know%22%3A+UN+Chief++Guterres+on+Artificial+Intelligence+%7C+APT&lang=en&timestamp=1783017016&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=357" alt="&quot;We Can No Longer Say We Did Not Know&quot;: UN Chief  Guterres on Artificial Intelligence | APT" title="&quot;We Can No Longer Say We Did Not Know&quot;: UN Chief  Guterres on Artificial Intelligence | APT">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=8PZLL4-kG-M" target="_blank">
+      <a href="https://www.youtube.com/watch?v=EGrJjhS42Rk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8PZLL4-kG-M&title=AI+FOR+ALL%3A+Evan+Solomon%2C+Canada%27s+Minister+of+Artificial+Intelligence+%7C+The+Herle+Burly&lang=en&timestamp=1782956966&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4224">
-          <img src="https://ytcards.demolab.com/?id=8PZLL4-kG-M&title=AI+FOR+ALL%3A+Evan+Solomon%2C+Canada%27s+Minister+of+Artificial+Intelligence+%7C+The+Herle+Burly&lang=en&timestamp=1782956966&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4224" alt="AI FOR ALL: Evan Solomon, Canada's Minister of Artificial Intelligence | The Herle Burly" title="AI FOR ALL: Evan Solomon, Canada's Minister of Artificial Intelligence | The Herle Burly">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EGrJjhS42Rk&title=Stonehenge+Was+Re-analyzed+By+AI+-+What+It+Found+Can%27t+Be+Ignored&lang=en&timestamp=1783009816&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1830">
+          <img src="https://ytcards.demolab.com/?id=EGrJjhS42Rk&title=Stonehenge+Was+Re-analyzed+By+AI+-+What+It+Found+Can%27t+Be+Ignored&lang=en&timestamp=1783009816&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1830" alt="Stonehenge Was Re-analyzed By AI - What It Found Can't Be Ignored" title="Stonehenge Was Re-analyzed By AI - What It Found Can't Be Ignored">
         </picture>
       </a>
     </td>
