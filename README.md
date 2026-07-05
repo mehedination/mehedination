@@ -57,56 +57,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=VJTvPEWp-ec" target="_blank">
+      <a href="https://www.youtube.com/watch?v=PTlTEB-PCl4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=VJTvPEWp-ec&title=Is+AI+the+Great+Filter%3F+%7C+The+Fermi+Paradox&lang=en&timestamp=1782999016&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2494">
-          <img src="https://ytcards.demolab.com/?id=VJTvPEWp-ec&title=Is+AI+the+Great+Filter%3F+%7C+The+Fermi+Paradox&lang=en&timestamp=1782999016&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2494" alt="Is AI the Great Filter? | The Fermi Paradox" title="Is AI the Great Filter? | The Fermi Paradox">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PTlTEB-PCl4&title=Artificial+Intelligence%3A+%27What+we+do+with+it+is+now+up+to+all+of+us%27+-+UN+Chief+%7C+United+Nations&lang=en&timestamp=1783168763&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3595">
+          <img src="https://ytcards.demolab.com/?id=PTlTEB-PCl4&title=Artificial+Intelligence%3A+%27What+we+do+with+it+is+now+up+to+all+of+us%27+-+UN+Chief+%7C+United+Nations&lang=en&timestamp=1783168763&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3595" alt="Artificial Intelligence: 'What we do with it is now up to all of us' - UN Chief | United Nations" title="Artificial Intelligence: 'What we do with it is now up to all of us' - UN Chief | United Nations">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=zA8hwdmmVos" target="_blank">
+      <a href="https://www.youtube.com/watch?v=aYp3eY4MDIA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zA8hwdmmVos&title=AI+Bubble+Fears+Grow+as+Michael+Burry%2C+Top+Economists+Sound+Alarm+%7C+Vantage+on+Firstpost%C2%A0%7C+N18G+%7C+4K&lang=en&timestamp=1783020616&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=482">
-          <img src="https://ytcards.demolab.com/?id=zA8hwdmmVos&title=AI+Bubble+Fears+Grow+as+Michael+Burry%2C+Top+Economists+Sound+Alarm+%7C+Vantage+on+Firstpost%C2%A0%7C+N18G+%7C+4K&lang=en&timestamp=1783020616&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=482" alt="AI Bubble Fears Grow as Michael Burry, Top Economists Sound Alarm | Vantage on Firstpost | N18G | 4K" title="AI Bubble Fears Grow as Michael Burry, Top Economists Sound Alarm | Vantage on Firstpost | N18G | 4K">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aYp3eY4MDIA&title=Game+Devs+Speak+About+AI&lang=en&timestamp=1783190363&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1074">
+          <img src="https://ytcards.demolab.com/?id=aYp3eY4MDIA&title=Game+Devs+Speak+About+AI&lang=en&timestamp=1783190363&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1074" alt="Game Devs Speak About AI" title="Game Devs Speak About AI">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=kT2cInoYcA8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=JDc_sPjwo2I" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=kT2cInoYcA8&title=UN+warns+unchecked+AI+progress+may+pose+catastrophic+risks&lang=en&timestamp=1782999016&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=196">
-          <img src="https://ytcards.demolab.com/?id=kT2cInoYcA8&title=UN+warns+unchecked+AI+progress+may+pose+catastrophic+risks&lang=en&timestamp=1782999016&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=196" alt="UN warns unchecked AI progress may pose catastrophic risks" title="UN warns unchecked AI progress may pose catastrophic risks">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JDc_sPjwo2I&title=AI+Could+Operate+Companies+Under+Argentina%27s+New+Bill+%7C+WION+News&lang=en&timestamp=1783165163&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=146">
+          <img src="https://ytcards.demolab.com/?id=JDc_sPjwo2I&title=AI+Could+Operate+Companies+Under+Argentina%27s+New+Bill+%7C+WION+News&lang=en&timestamp=1783165163&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=146" alt="AI Could Operate Companies Under Argentina's New Bill | WION News" title="AI Could Operate Companies Under Argentina's New Bill | WION News">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=mFZ1ma-tNcg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=TjuGjkLD7kE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mFZ1ma-tNcg&title=AI+Words+You+Hear+Every+Day+in+English&lang=en&timestamp=1782963016&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2077">
-          <img src="https://ytcards.demolab.com/?id=mFZ1ma-tNcg&title=AI+Words+You+Hear+Every+Day+in+English&lang=en&timestamp=1782963016&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2077" alt="AI Words You Hear Every Day in English" title="AI Words You Hear Every Day in English">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=TjuGjkLD7kE&title=Your+Personal+Renaissance%2C+Your+Future%2C+and+AI%3A+A+Masterclass+for+2030+and+Beyond&lang=en&timestamp=1783168763&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6601">
+          <img src="https://ytcards.demolab.com/?id=TjuGjkLD7kE&title=Your+Personal+Renaissance%2C+Your+Future%2C+and+AI%3A+A+Masterclass+for+2030+and+Beyond&lang=en&timestamp=1783168763&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6601" alt="Your Personal Renaissance, Your Future, and AI: A Masterclass for 2030 and Beyond" title="Your Personal Renaissance, Your Future, and AI: A Masterclass for 2030 and Beyond">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=mGSvik8yvY8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=SPIwCg5f78M" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mGSvik8yvY8&title=%22We+Can+No+Longer+Say+We+Did+Not+Know%22%3A+UN+Chief++Guterres+on+Artificial+Intelligence+%7C+APT&lang=en&timestamp=1783017016&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=357">
-          <img src="https://ytcards.demolab.com/?id=mGSvik8yvY8&title=%22We+Can+No+Longer+Say+We+Did+Not+Know%22%3A+UN+Chief++Guterres+on+Artificial+Intelligence+%7C+APT&lang=en&timestamp=1783017016&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=357" alt="&quot;We Can No Longer Say We Did Not Know&quot;: UN Chief  Guterres on Artificial Intelligence | APT" title="&quot;We Can No Longer Say We Did Not Know&quot;: UN Chief  Guterres on Artificial Intelligence | APT">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SPIwCg5f78M&title=A+SCIENTIFIC+BREAKTHROUGH+IS+COMING.+THE+BODY+AND+VIRUSES.+ROBOT+TAX.+HUMANS+WITHOUT+A+LIFE+ALGOR...&lang=en&timestamp=1783157963&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4751">
+          <img src="https://ytcards.demolab.com/?id=SPIwCg5f78M&title=A+SCIENTIFIC+BREAKTHROUGH+IS+COMING.+THE+BODY+AND+VIRUSES.+ROBOT+TAX.+HUMANS+WITHOUT+A+LIFE+ALGOR...&lang=en&timestamp=1783157963&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4751" alt="A SCIENTIFIC BREAKTHROUGH IS COMING. THE BODY AND VIRUSES. ROBOT TAX. HUMANS WITHOUT A LIFE ALGOR..." title="A SCIENTIFIC BREAKTHROUGH IS COMING. THE BODY AND VIRUSES. ROBOT TAX. HUMANS WITHOUT A LIFE ALGOR...">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=EGrJjhS42Rk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=pYPbZX-y6qc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EGrJjhS42Rk&title=Stonehenge+Was+Re-analyzed+By+AI+-+What+It+Found+Can%27t+Be+Ignored&lang=en&timestamp=1783009816&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1830">
-          <img src="https://ytcards.demolab.com/?id=EGrJjhS42Rk&title=Stonehenge+Was+Re-analyzed+By+AI+-+What+It+Found+Can%27t+Be+Ignored&lang=en&timestamp=1783009816&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1830" alt="Stonehenge Was Re-analyzed By AI - What It Found Can't Be Ignored" title="Stonehenge Was Re-analyzed By AI - What It Found Can't Be Ignored">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=pYPbZX-y6qc&title=Elon+Musk+%26+Peter+Thiel&lang=en&timestamp=1783197563&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=692">
+          <img src="https://ytcards.demolab.com/?id=pYPbZX-y6qc&title=Elon+Musk+%26+Peter+Thiel&lang=en&timestamp=1783197563&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=692" alt="Elon Musk & Peter Thiel" title="Elon Musk & Peter Thiel">
         </picture>
       </a>
     </td>
