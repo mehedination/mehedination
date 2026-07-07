@@ -59,56 +59,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=1ItQnh3LWeg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=gYORRh377Gw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1ItQnh3LWeg&title=AI+Gave+You+A+Promotion%3A+Why+AI+Isn%E2%80%99t+Replacing+Jobs&lang=en&timestamp=1783252072&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=834">
-          <img src="https://ytcards.demolab.com/?id=1ItQnh3LWeg&title=AI+Gave+You+A+Promotion%3A+Why+AI+Isn%E2%80%99t+Replacing+Jobs&lang=en&timestamp=1783252072&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=834" alt="AI Gave You A Promotion: Why AI Isn’t Replacing Jobs" title="AI Gave You A Promotion: Why AI Isn’t Replacing Jobs">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=gYORRh377Gw&title=AI+expert+worries+about+the+risk+of+humans+losing+control+%7C+Four+Corners&lang=en&timestamp=1783330688&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=906">
+          <img src="https://ytcards.demolab.com/?id=gYORRh377Gw&title=AI+expert+worries+about+the+risk+of+humans+losing+control+%7C+Four+Corners&lang=en&timestamp=1783330688&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=906" alt="AI expert worries about the risk of humans losing control | Four Corners" title="AI expert worries about the risk of humans losing control | Four Corners">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Yw0B3Gf2VP0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=v6UtyhJ_Pno" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Yw0B3Gf2VP0&title=Godfather+Of+AI%3A+We%27re+Not+Prepared+For+The+Superintelligence+That+Is+Coming+-+Geoffrey+Hinton&lang=en&timestamp=1783270072&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1154">
-          <img src="https://ytcards.demolab.com/?id=Yw0B3Gf2VP0&title=Godfather+Of+AI%3A+We%27re+Not+Prepared+For+The+Superintelligence+That+Is+Coming+-+Geoffrey+Hinton&lang=en&timestamp=1783270072&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1154" alt="Godfather Of AI: We're Not Prepared For The Superintelligence That Is Coming - Geoffrey Hinton" title="Godfather Of AI: We're Not Prepared For The Superintelligence That Is Coming - Geoffrey Hinton">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=v6UtyhJ_Pno&title=Pritzker+signs+new+Illinois+law+creating+accountability+for+artificial+intelligence+developers&lang=en&timestamp=1783377488&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=125">
+          <img src="https://ytcards.demolab.com/?id=v6UtyhJ_Pno&title=Pritzker+signs+new+Illinois+law+creating+accountability+for+artificial+intelligence+developers&lang=en&timestamp=1783377488&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=125" alt="Pritzker signs new Illinois law creating accountability for artificial intelligence developers" title="Pritzker signs new Illinois law creating accountability for artificial intelligence developers">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=K8hYErmwhaI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=FaQHwLFVsug" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=K8hYErmwhaI&title=Can+China+cheat+its+way+to+AI+supremacy%3F+%7C+BBC+News&lang=en&timestamp=1783273672&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1573">
-          <img src="https://ytcards.demolab.com/?id=K8hYErmwhaI&title=Can+China+cheat+its+way+to+AI+supremacy%3F+%7C+BBC+News&lang=en&timestamp=1783273672&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1573" alt="Can China cheat its way to AI supremacy? | BBC News" title="Can China cheat its way to AI supremacy? | BBC News">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=FaQHwLFVsug&title=Big+tech+changes+tune+on+A.I.+eliminating+jobs&lang=en&timestamp=1783370288&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=79">
+          <img src="https://ytcards.demolab.com/?id=FaQHwLFVsug&title=Big+tech+changes+tune+on+A.I.+eliminating+jobs&lang=en&timestamp=1783370288&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=79" alt="Big tech changes tune on A.I. eliminating jobs" title="Big tech changes tune on A.I. eliminating jobs">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=A4cY1bCgC_A" target="_blank">
+      <a href="https://www.youtube.com/watch?v=hXKHJyNIu5o" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=A4cY1bCgC_A&title=Grok+AI+Was+Asked+Who+Built+the+Pyramids+-+The+Answer+Shocked+Everyone&lang=en&timestamp=1783266472&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1844">
-          <img src="https://ytcards.demolab.com/?id=A4cY1bCgC_A&title=Grok+AI+Was+Asked+Who+Built+the+Pyramids+-+The+Answer+Shocked+Everyone&lang=en&timestamp=1783266472&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1844" alt="Grok AI Was Asked Who Built the Pyramids - The Answer Shocked Everyone" title="Grok AI Was Asked Who Built the Pyramids - The Answer Shocked Everyone">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hXKHJyNIu5o&title=%22Thou+Shalt+Not+Steal%22+%E2%80%94+The+Massive+Crime+That+Destroyed+an+AI+Religion&lang=en&timestamp=1783366688&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=686">
+          <img src="https://ytcards.demolab.com/?id=hXKHJyNIu5o&title=%22Thou+Shalt+Not+Steal%22+%E2%80%94+The+Massive+Crime+That+Destroyed+an+AI+Religion&lang=en&timestamp=1783366688&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=686" alt="&quot;Thou Shalt Not Steal&quot; — The Massive Crime That Destroyed an AI Religion" title="&quot;Thou Shalt Not Steal&quot; — The Massive Crime That Destroyed an AI Religion">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=xoJrPI1ed4M" target="_blank">
+      <a href="https://www.youtube.com/watch?v=nbQXuMyCHAk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xoJrPI1ed4M&title=Why+Is+Gen+Z+Turning+Against+AI%3B+What%27s+Behind+the+Trend%3F+%7C+Firstpost+Tech+%26+Trade+%7C+N18G&lang=en&timestamp=1783262872&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=552">
-          <img src="https://ytcards.demolab.com/?id=xoJrPI1ed4M&title=Why+Is+Gen+Z+Turning+Against+AI%3B+What%27s+Behind+the+Trend%3F+%7C+Firstpost+Tech+%26+Trade+%7C+N18G&lang=en&timestamp=1783262872&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=552" alt="Why Is Gen Z Turning Against AI; What's Behind the Trend? | Firstpost Tech & Trade | N18G" title="Why Is Gen Z Turning Against AI; What's Behind the Trend? | Firstpost Tech & Trade | N18G">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nbQXuMyCHAk&title=BOMBSHELL+Reports%3A+Trump+Administration+DOGE+cuts+FALLOUT%2C+AI+bubble+warning&lang=en&timestamp=1783337888&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=394">
+          <img src="https://ytcards.demolab.com/?id=nbQXuMyCHAk&title=BOMBSHELL+Reports%3A+Trump+Administration+DOGE+cuts+FALLOUT%2C+AI+bubble+warning&lang=en&timestamp=1783337888&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=394" alt="BOMBSHELL Reports: Trump Administration DOGE cuts FALLOUT, AI bubble warning" title="BOMBSHELL Reports: Trump Administration DOGE cuts FALLOUT, AI bubble warning">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=_3Y-Z_TrKxQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=uVtafniH6Ss" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_3Y-Z_TrKxQ&title=Why+Anthropic+won%27t+mind+Alibaba%27s+Claude+ban+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1783259272&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=343">
-          <img src="https://ytcards.demolab.com/?id=_3Y-Z_TrKxQ&title=Why+Anthropic+won%27t+mind+Alibaba%27s+Claude+ban+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1783259272&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=343" alt="Why Anthropic won't mind Alibaba's Claude ban • FRANCE 24 English" title="Why Anthropic won't mind Alibaba's Claude ban • FRANCE 24 English">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=uVtafniH6Ss&title=Artificial+intelligence+technology+helping+patients+with+ALS&lang=en&timestamp=1783377488&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=144">
+          <img src="https://ytcards.demolab.com/?id=uVtafniH6Ss&title=Artificial+intelligence+technology+helping+patients+with+ALS&lang=en&timestamp=1783377488&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=144" alt="Artificial intelligence technology helping patients with ALS" title="Artificial intelligence technology helping patients with ALS">
         </picture>
       </a>
     </td>
