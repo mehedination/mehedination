@@ -60,56 +60,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=gYORRh377Gw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=XXaUd0fGpOs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=gYORRh377Gw&title=AI+expert+worries+about+the+risk+of+humans+losing+control+%7C+Four+Corners&lang=en&timestamp=1783330688&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=906">
-          <img src="https://ytcards.demolab.com/?id=gYORRh377Gw&title=AI+expert+worries+about+the+risk+of+humans+losing+control+%7C+Four+Corners&lang=en&timestamp=1783330688&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=906" alt="AI expert worries about the risk of humans losing control | Four Corners" title="AI expert worries about the risk of humans losing control | Four Corners">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XXaUd0fGpOs&title=Artificial+Intelligence%3A+Complete+path+to+2030&lang=en&timestamp=1783428791&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7324">
+          <img src="https://ytcards.demolab.com/?id=XXaUd0fGpOs&title=Artificial+Intelligence%3A+Complete+path+to+2030&lang=en&timestamp=1783428791&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7324" alt="Artificial Intelligence: Complete path to 2030" title="Artificial Intelligence: Complete path to 2030">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=v6UtyhJ_Pno" target="_blank">
+      <a href="https://www.youtube.com/watch?v=CyHR9ny1XQw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=v6UtyhJ_Pno&title=Pritzker+signs+new+Illinois+law+creating+accountability+for+artificial+intelligence+developers&lang=en&timestamp=1783377488&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=125">
-          <img src="https://ytcards.demolab.com/?id=v6UtyhJ_Pno&title=Pritzker+signs+new+Illinois+law+creating+accountability+for+artificial+intelligence+developers&lang=en&timestamp=1783377488&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=125" alt="Pritzker signs new Illinois law creating accountability for artificial intelligence developers" title="Pritzker signs new Illinois law creating accountability for artificial intelligence developers">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=CyHR9ny1XQw&title=Going+Up+Against+AI+in+Ohio+%7C+Don+McMillan+Comedy&lang=en&timestamp=1783446791&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=351">
+          <img src="https://ytcards.demolab.com/?id=CyHR9ny1XQw&title=Going+Up+Against+AI+in+Ohio+%7C+Don+McMillan+Comedy&lang=en&timestamp=1783446791&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=351" alt="Going Up Against AI in Ohio | Don McMillan Comedy" title="Going Up Against AI in Ohio | Don McMillan Comedy">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=FaQHwLFVsug" target="_blank">
+      <a href="https://www.youtube.com/watch?v=IjZcF8-LnCI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=FaQHwLFVsug&title=Big+tech+changes+tune+on+A.I.+eliminating+jobs&lang=en&timestamp=1783370288&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=79">
-          <img src="https://ytcards.demolab.com/?id=FaQHwLFVsug&title=Big+tech+changes+tune+on+A.I.+eliminating+jobs&lang=en&timestamp=1783370288&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=79" alt="Big tech changes tune on A.I. eliminating jobs" title="Big tech changes tune on A.I. eliminating jobs">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=IjZcF8-LnCI&title=AI+Readiness+Tops+India%27s+FY27+Hiring+Trends%3A+Report+%7C+Vantage+on+Firstpost+%7C+4K&lang=en&timestamp=1783450391&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=398">
+          <img src="https://ytcards.demolab.com/?id=IjZcF8-LnCI&title=AI+Readiness+Tops+India%27s+FY27+Hiring+Trends%3A+Report+%7C+Vantage+on+Firstpost+%7C+4K&lang=en&timestamp=1783450391&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=398" alt="AI Readiness Tops India's FY27 Hiring Trends: Report | Vantage on Firstpost | 4K" title="AI Readiness Tops India's FY27 Hiring Trends: Report | Vantage on Firstpost | 4K">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=hXKHJyNIu5o" target="_blank">
+      <a href="https://www.youtube.com/watch?v=avlp2Hfnn6s" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hXKHJyNIu5o&title=%22Thou+Shalt+Not+Steal%22+%E2%80%94+The+Massive+Crime+That+Destroyed+an+AI+Religion&lang=en&timestamp=1783366688&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=686">
-          <img src="https://ytcards.demolab.com/?id=hXKHJyNIu5o&title=%22Thou+Shalt+Not+Steal%22+%E2%80%94+The+Massive+Crime+That+Destroyed+an+AI+Religion&lang=en&timestamp=1783366688&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=686" alt="&quot;Thou Shalt Not Steal&quot; — The Massive Crime That Destroyed an AI Religion" title="&quot;Thou Shalt Not Steal&quot; — The Massive Crime That Destroyed an AI Religion">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=avlp2Hfnn6s&title=AI+Safety+Expert%3A+We+Cannot+Control+What%27s+Coming+in+2028&lang=en&timestamp=1783443191&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=983">
+          <img src="https://ytcards.demolab.com/?id=avlp2Hfnn6s&title=AI+Safety+Expert%3A+We+Cannot+Control+What%27s+Coming+in+2028&lang=en&timestamp=1783443191&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=983" alt="AI Safety Expert: We Cannot Control What's Coming in 2028" title="AI Safety Expert: We Cannot Control What's Coming in 2028">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=nbQXuMyCHAk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=3q4KDSmwlA8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nbQXuMyCHAk&title=BOMBSHELL+Reports%3A+Trump+Administration+DOGE+cuts+FALLOUT%2C+AI+bubble+warning&lang=en&timestamp=1783337888&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=394">
-          <img src="https://ytcards.demolab.com/?id=nbQXuMyCHAk&title=BOMBSHELL+Reports%3A+Trump+Administration+DOGE+cuts+FALLOUT%2C+AI+bubble+warning&lang=en&timestamp=1783337888&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=394" alt="BOMBSHELL Reports: Trump Administration DOGE cuts FALLOUT, AI bubble warning" title="BOMBSHELL Reports: Trump Administration DOGE cuts FALLOUT, AI bubble warning">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3q4KDSmwlA8&title=Introduction+to+Artificial+Intelligence+with+Brian+Yu+-+Chapter+1+-+Playing+%28live%2C+unedited%29&lang=en&timestamp=1783392791&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7361">
+          <img src="https://ytcards.demolab.com/?id=3q4KDSmwlA8&title=Introduction+to+Artificial+Intelligence+with+Brian+Yu+-+Chapter+1+-+Playing+%28live%2C+unedited%29&lang=en&timestamp=1783392791&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7361" alt="Introduction to Artificial Intelligence with Brian Yu - Chapter 1 - Playing (live, unedited)" title="Introduction to Artificial Intelligence with Brian Yu - Chapter 1 - Playing (live, unedited)">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=uVtafniH6Ss" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Qz_1q36q378" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=uVtafniH6Ss&title=Artificial+intelligence+technology+helping+patients+with+ALS&lang=en&timestamp=1783377488&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=144">
-          <img src="https://ytcards.demolab.com/?id=uVtafniH6Ss&title=Artificial+intelligence+technology+helping+patients+with+ALS&lang=en&timestamp=1783377488&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=144" alt="Artificial intelligence technology helping patients with ALS" title="Artificial intelligence technology helping patients with ALS">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Qz_1q36q378&title=Samsung+Electronics+profits+surge+1%2C800%25+annually+amid+artificial+intelligence+spending+boom&lang=en&timestamp=1783417991&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=360">
+          <img src="https://ytcards.demolab.com/?id=Qz_1q36q378&title=Samsung+Electronics+profits+surge+1%2C800%25+annually+amid+artificial+intelligence+spending+boom&lang=en&timestamp=1783417991&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=360" alt="Samsung Electronics profits surge 1,800% annually amid artificial intelligence spending boom" title="Samsung Electronics profits surge 1,800% annually amid artificial intelligence spending boom">
         </picture>
       </a>
     </td>
