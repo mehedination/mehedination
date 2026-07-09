@@ -61,56 +61,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=XXaUd0fGpOs" target="_blank">
+      <a href="https://www.youtube.com/watch?v=dfcg3h6_0f8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XXaUd0fGpOs&title=Artificial+Intelligence%3A+Complete+path+to+2030&lang=en&timestamp=1783428791&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7324">
-          <img src="https://ytcards.demolab.com/?id=XXaUd0fGpOs&title=Artificial+Intelligence%3A+Complete+path+to+2030&lang=en&timestamp=1783428791&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7324" alt="Artificial Intelligence: Complete path to 2030" title="Artificial Intelligence: Complete path to 2030">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=dfcg3h6_0f8&title=Tech+Yeah%3A+AI+Actress+Gets+Feature+Film+%26+Robo+Toilets+Bring+the+Bathroom+to+You+%7C+The+Daily+Show&lang=en&timestamp=1783513891&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=313">
+          <img src="https://ytcards.demolab.com/?id=dfcg3h6_0f8&title=Tech+Yeah%3A+AI+Actress+Gets+Feature+Film+%26+Robo+Toilets+Bring+the+Bathroom+to+You+%7C+The+Daily+Show&lang=en&timestamp=1783513891&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=313" alt="Tech Yeah: AI Actress Gets Feature Film & Robo Toilets Bring the Bathroom to You | The Daily Show" title="Tech Yeah: AI Actress Gets Feature Film & Robo Toilets Bring the Bathroom to You | The Daily Show">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=CyHR9ny1XQw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=CLFaglRULWE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=CyHR9ny1XQw&title=Going+Up+Against+AI+in+Ohio+%7C+Don+McMillan+Comedy&lang=en&timestamp=1783446791&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=351">
-          <img src="https://ytcards.demolab.com/?id=CyHR9ny1XQw&title=Going+Up+Against+AI+in+Ohio+%7C+Don+McMillan+Comedy&lang=en&timestamp=1783446791&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=351" alt="Going Up Against AI in Ohio | Don McMillan Comedy" title="Going Up Against AI in Ohio | Don McMillan Comedy">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=CLFaglRULWE&title=AI+for+Good+Global+Summit+2026+%7C+Remarks+by+President+Kagame&lang=en&timestamp=1783510291&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=383">
+          <img src="https://ytcards.demolab.com/?id=CLFaglRULWE&title=AI+for+Good+Global+Summit+2026+%7C+Remarks+by+President+Kagame&lang=en&timestamp=1783510291&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=383" alt="AI for Good Global Summit 2026 | Remarks by President Kagame" title="AI for Good Global Summit 2026 | Remarks by President Kagame">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=IjZcF8-LnCI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=HQkPJk0GXqs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=IjZcF8-LnCI&title=AI+Readiness+Tops+India%27s+FY27+Hiring+Trends%3A+Report+%7C+Vantage+on+Firstpost+%7C+4K&lang=en&timestamp=1783450391&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=398">
-          <img src="https://ytcards.demolab.com/?id=IjZcF8-LnCI&title=AI+Readiness+Tops+India%27s+FY27+Hiring+Trends%3A+Report+%7C+Vantage+on+Firstpost+%7C+4K&lang=en&timestamp=1783450391&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=398" alt="AI Readiness Tops India's FY27 Hiring Trends: Report | Vantage on Firstpost | 4K" title="AI Readiness Tops India's FY27 Hiring Trends: Report | Vantage on Firstpost | 4K">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=HQkPJk0GXqs&title=MIT+Predicts+The+12+Ways+AI+Ends+%7C+The+Shoggoth+Is+Already+Here&lang=en&timestamp=1783553491&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=792">
+          <img src="https://ytcards.demolab.com/?id=HQkPJk0GXqs&title=MIT+Predicts+The+12+Ways+AI+Ends+%7C+The+Shoggoth+Is+Already+Here&lang=en&timestamp=1783553491&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=792" alt="MIT Predicts The 12 Ways AI Ends | The Shoggoth Is Already Here" title="MIT Predicts The 12 Ways AI Ends | The Shoggoth Is Already Here">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=avlp2Hfnn6s" target="_blank">
+      <a href="https://www.youtube.com/watch?v=fg8ScOChRkk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=avlp2Hfnn6s&title=AI+Safety+Expert%3A+We+Cannot+Control+What%27s+Coming+in+2028&lang=en&timestamp=1783443191&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=983">
-          <img src="https://ytcards.demolab.com/?id=avlp2Hfnn6s&title=AI+Safety+Expert%3A+We+Cannot+Control+What%27s+Coming+in+2028&lang=en&timestamp=1783443191&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=983" alt="AI Safety Expert: We Cannot Control What's Coming in 2028" title="AI Safety Expert: We Cannot Control What's Coming in 2028">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=fg8ScOChRkk&title=NATO+Unleashes+Secret+AI+Weapon+Against+Russia+%7C+WION&lang=en&timestamp=1783531891&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=237">
+          <img src="https://ytcards.demolab.com/?id=fg8ScOChRkk&title=NATO+Unleashes+Secret+AI+Weapon+Against+Russia+%7C+WION&lang=en&timestamp=1783531891&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=237" alt="NATO Unleashes Secret AI Weapon Against Russia | WION" title="NATO Unleashes Secret AI Weapon Against Russia | WION">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=3q4KDSmwlA8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=as9CgagxuDw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3q4KDSmwlA8&title=Introduction+to+Artificial+Intelligence+with+Brian+Yu+-+Chapter+1+-+Playing+%28live%2C+unedited%29&lang=en&timestamp=1783392791&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7361">
-          <img src="https://ytcards.demolab.com/?id=3q4KDSmwlA8&title=Introduction+to+Artificial+Intelligence+with+Brian+Yu+-+Chapter+1+-+Playing+%28live%2C+unedited%29&lang=en&timestamp=1783392791&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7361" alt="Introduction to Artificial Intelligence with Brian Yu - Chapter 1 - Playing (live, unedited)" title="Introduction to Artificial Intelligence with Brian Yu - Chapter 1 - Playing (live, unedited)">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=as9CgagxuDw&title=NATO+Unleashes%C2%A0Secret+AI+Weapon+Against%C2%A0Russia%3A+Inside+Maven+Smart+System+%7C+GRAVITAS&lang=en&timestamp=1783535491&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=240">
+          <img src="https://ytcards.demolab.com/?id=as9CgagxuDw&title=NATO+Unleashes%C2%A0Secret+AI+Weapon+Against%C2%A0Russia%3A+Inside+Maven+Smart+System+%7C+GRAVITAS&lang=en&timestamp=1783535491&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=240" alt="NATO Unleashes Secret AI Weapon Against Russia: Inside Maven Smart System | GRAVITAS" title="NATO Unleashes Secret AI Weapon Against Russia: Inside Maven Smart System | GRAVITAS">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Qz_1q36q378" target="_blank">
+      <a href="https://www.youtube.com/watch?v=vB8xAMl-WaI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Qz_1q36q378&title=Samsung+Electronics+profits+surge+1%2C800%25+annually+amid+artificial+intelligence+spending+boom&lang=en&timestamp=1783417991&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=360">
-          <img src="https://ytcards.demolab.com/?id=Qz_1q36q378&title=Samsung+Electronics+profits+surge+1%2C800%25+annually+amid+artificial+intelligence+spending+boom&lang=en&timestamp=1783417991&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=360" alt="Samsung Electronics profits surge 1,800% annually amid artificial intelligence spending boom" title="Samsung Electronics profits surge 1,800% annually amid artificial intelligence spending boom">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vB8xAMl-WaI&title=49%3A+THE+FUTURE+IS+AI%3A+Are+We+Ready%3F&lang=en&timestamp=1783553491&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1740">
+          <img src="https://ytcards.demolab.com/?id=vB8xAMl-WaI&title=49%3A+THE+FUTURE+IS+AI%3A+Are+We+Ready%3F&lang=en&timestamp=1783553491&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1740" alt="49: THE FUTURE IS AI: Are We Ready?" title="49: THE FUTURE IS AI: Are We Ready?">
         </picture>
       </a>
     </td>
