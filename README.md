@@ -62,56 +62,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=dfcg3h6_0f8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ZKWWEnXZPfA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=dfcg3h6_0f8&title=Tech+Yeah%3A+AI+Actress+Gets+Feature+Film+%26+Robo+Toilets+Bring+the+Bathroom+to+You+%7C+The+Daily+Show&lang=en&timestamp=1783513891&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=313">
-          <img src="https://ytcards.demolab.com/?id=dfcg3h6_0f8&title=Tech+Yeah%3A+AI+Actress+Gets+Feature+Film+%26+Robo+Toilets+Bring+the+Bathroom+to+You+%7C+The+Daily+Show&lang=en&timestamp=1783513891&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=313" alt="Tech Yeah: AI Actress Gets Feature Film & Robo Toilets Bring the Bathroom to You | The Daily Show" title="Tech Yeah: AI Actress Gets Feature Film & Robo Toilets Bring the Bathroom to You | The Daily Show">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ZKWWEnXZPfA&title=What+Happens+When+AI+Becomes+Smarter+Than+Humans%3F&lang=en&timestamp=1783611203&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1323">
+          <img src="https://ytcards.demolab.com/?id=ZKWWEnXZPfA&title=What+Happens+When+AI+Becomes+Smarter+Than+Humans%3F&lang=en&timestamp=1783611203&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1323" alt="What Happens When AI Becomes Smarter Than Humans?" title="What Happens When AI Becomes Smarter Than Humans?">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=CLFaglRULWE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=NvrZEecpAOI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=CLFaglRULWE&title=AI+for+Good+Global+Summit+2026+%7C+Remarks+by+President+Kagame&lang=en&timestamp=1783510291&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=383">
-          <img src="https://ytcards.demolab.com/?id=CLFaglRULWE&title=AI+for+Good+Global+Summit+2026+%7C+Remarks+by+President+Kagame&lang=en&timestamp=1783510291&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=383" alt="AI for Good Global Summit 2026 | Remarks by President Kagame" title="AI for Good Global Summit 2026 | Remarks by President Kagame">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=NvrZEecpAOI&title=Grok+4.5+Just+Shocked+The+AI+Community+-+SpaceXAI+Grok+4.5&lang=en&timestamp=1783596803&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1101">
+          <img src="https://ytcards.demolab.com/?id=NvrZEecpAOI&title=Grok+4.5+Just+Shocked+The+AI+Community+-+SpaceXAI+Grok+4.5&lang=en&timestamp=1783596803&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1101" alt="Grok 4.5 Just Shocked The AI Community - SpaceXAI Grok 4.5" title="Grok 4.5 Just Shocked The AI Community - SpaceXAI Grok 4.5">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=HQkPJk0GXqs" target="_blank">
+      <a href="https://www.youtube.com/watch?v=i-gfexFPbf4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=HQkPJk0GXqs&title=MIT+Predicts+The+12+Ways+AI+Ends+%7C+The+Shoggoth+Is+Already+Here&lang=en&timestamp=1783553491&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=792">
-          <img src="https://ytcards.demolab.com/?id=HQkPJk0GXqs&title=MIT+Predicts+The+12+Ways+AI+Ends+%7C+The+Shoggoth+Is+Already+Here&lang=en&timestamp=1783553491&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=792" alt="MIT Predicts The 12 Ways AI Ends | The Shoggoth Is Already Here" title="MIT Predicts The 12 Ways AI Ends | The Shoggoth Is Already Here">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=i-gfexFPbf4&title=The+AI+Debt+Bubble+Could+Wipe+Out+Your+Savings+%7C+AT20&lang=en&timestamp=1783611203&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1097">
+          <img src="https://ytcards.demolab.com/?id=i-gfexFPbf4&title=The+AI+Debt+Bubble+Could+Wipe+Out+Your+Savings+%7C+AT20&lang=en&timestamp=1783611203&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1097" alt="The AI Debt Bubble Could Wipe Out Your Savings | AT20" title="The AI Debt Bubble Could Wipe Out Your Savings | AT20">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=fg8ScOChRkk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=kpGZ83XqDqA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=fg8ScOChRkk&title=NATO+Unleashes+Secret+AI+Weapon+Against+Russia+%7C+WION&lang=en&timestamp=1783531891&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=237">
-          <img src="https://ytcards.demolab.com/?id=fg8ScOChRkk&title=NATO+Unleashes+Secret+AI+Weapon+Against+Russia+%7C+WION&lang=en&timestamp=1783531891&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=237" alt="NATO Unleashes Secret AI Weapon Against Russia | WION" title="NATO Unleashes Secret AI Weapon Against Russia | WION">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=kpGZ83XqDqA&title=How+AI+Changes+if+Open+Source+Gets+Banned&lang=en&timestamp=1783625603&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1415">
+          <img src="https://ytcards.demolab.com/?id=kpGZ83XqDqA&title=How+AI+Changes+if+Open+Source+Gets+Banned&lang=en&timestamp=1783625603&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1415" alt="How AI Changes if Open Source Gets Banned" title="How AI Changes if Open Source Gets Banned">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=as9CgagxuDw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=dPIYf8UURDk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=as9CgagxuDw&title=NATO+Unleashes%C2%A0Secret+AI+Weapon+Against%C2%A0Russia%3A+Inside+Maven+Smart+System+%7C+GRAVITAS&lang=en&timestamp=1783535491&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=240">
-          <img src="https://ytcards.demolab.com/?id=as9CgagxuDw&title=NATO+Unleashes%C2%A0Secret+AI+Weapon+Against%C2%A0Russia%3A+Inside+Maven+Smart+System+%7C+GRAVITAS&lang=en&timestamp=1783535491&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=240" alt="NATO Unleashes Secret AI Weapon Against Russia: Inside Maven Smart System | GRAVITAS" title="NATO Unleashes Secret AI Weapon Against Russia: Inside Maven Smart System | GRAVITAS">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=dPIYf8UURDk&title=Scientists+Found+Something+In+The+Nazca+Desert+That+Rewrites+Human+History&lang=en&timestamp=1783625603&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1776">
+          <img src="https://ytcards.demolab.com/?id=dPIYf8UURDk&title=Scientists+Found+Something+In+The+Nazca+Desert+That+Rewrites+Human+History&lang=en&timestamp=1783625603&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1776" alt="Scientists Found Something In The Nazca Desert That Rewrites Human History" title="Scientists Found Something In The Nazca Desert That Rewrites Human History">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=vB8xAMl-WaI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=PCMwo8s_nvk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vB8xAMl-WaI&title=49%3A+THE+FUTURE+IS+AI%3A+Are+We+Ready%3F&lang=en&timestamp=1783553491&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1740">
-          <img src="https://ytcards.demolab.com/?id=vB8xAMl-WaI&title=49%3A+THE+FUTURE+IS+AI%3A+Are+We+Ready%3F&lang=en&timestamp=1783553491&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1740" alt="49: THE FUTURE IS AI: Are We Ready?" title="49: THE FUTURE IS AI: Are We Ready?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PCMwo8s_nvk&title=Who+Are+We%3F+The+Problem+AI+Can%27t+Solve&lang=en&timestamp=1783614803&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1245">
+          <img src="https://ytcards.demolab.com/?id=PCMwo8s_nvk&title=Who+Are+We%3F+The+Problem+AI+Can%27t+Solve&lang=en&timestamp=1783614803&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1245" alt="Who Are We? The Problem AI Can't Solve" title="Who Are We? The Problem AI Can't Solve">
         </picture>
       </a>
     </td>
