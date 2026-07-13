@@ -65,56 +65,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=-4Xp13rrHgM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=SVAwzodyFUo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-4Xp13rrHgM&title=%27AI+for+Good%27+Summit%3A+How+artificial+intelligence+is+tackling+global+challenges&lang=en&timestamp=1783807061&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=125">
-          <img src="https://ytcards.demolab.com/?id=-4Xp13rrHgM&title=%27AI+for+Good%27+Summit%3A+How+artificial+intelligence+is+tackling+global+challenges&lang=en&timestamp=1783807061&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=125" alt="'AI for Good' Summit: How artificial intelligence is tackling global challenges" title="'AI for Good' Summit: How artificial intelligence is tackling global challenges">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SVAwzodyFUo&title=How+to+Manage+Your+AI+Before+It+Makes+the+Wrong+Decision&lang=en&timestamp=1783854955&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=530">
+          <img src="https://ytcards.demolab.com/?id=SVAwzodyFUo&title=How+to+Manage+Your+AI+Before+It+Makes+the+Wrong+Decision&lang=en&timestamp=1783854955&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=530" alt="How to Manage Your AI Before It Makes the Wrong Decision" title="How to Manage Your AI Before It Makes the Wrong Decision">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=XzENH8S_yfo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=W11AImyHXb4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XzENH8S_yfo&title=Villagers+React+to+It+Begins%3A+An+AI+Literally+Attempted+Murder+To+Avoid+Shutdown&lang=en&timestamp=1783789061&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1476">
-          <img src="https://ytcards.demolab.com/?id=XzENH8S_yfo&title=Villagers+React+to+It+Begins%3A+An+AI+Literally+Attempted+Murder+To+Avoid+Shutdown&lang=en&timestamp=1783789061&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1476" alt="Villagers React to It Begins: An AI Literally Attempted Murder To Avoid Shutdown" title="Villagers React to It Begins: An AI Literally Attempted Murder To Avoid Shutdown">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=W11AImyHXb4&title=AI+May+Not+Solve+Demographic+Decline&lang=en&timestamp=1783880155&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=348">
+          <img src="https://ytcards.demolab.com/?id=W11AImyHXb4&title=AI+May+Not+Solve+Demographic+Decline&lang=en&timestamp=1783880155&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=348" alt="AI May Not Solve Demographic Decline" title="AI May Not Solve Demographic Decline">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Ci-Mm_TUS0E" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ql-J3N8PWkI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Ci-Mm_TUS0E&title=AI+Isn%27t+Replacing+Who+You+Think&lang=en&timestamp=1783789061&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3909">
-          <img src="https://ytcards.demolab.com/?id=Ci-Mm_TUS0E&title=AI+Isn%27t+Replacing+Who+You+Think&lang=en&timestamp=1783789061&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3909" alt="AI Isn't Replacing Who You Think" title="AI Isn't Replacing Who You Think">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ql-J3N8PWkI&title=10+Times+AI+Behaved+In+Ways+That+Terrified+The+Scientists+Who+Built+It&lang=en&timestamp=1783869355&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=658">
+          <img src="https://ytcards.demolab.com/?id=ql-J3N8PWkI&title=10+Times+AI+Behaved+In+Ways+That+Terrified+The+Scientists+Who+Built+It&lang=en&timestamp=1783869355&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=658" alt="10 Times AI Behaved In Ways That Terrified The Scientists Who Built It" title="10 Times AI Behaved In Ways That Terrified The Scientists Who Built It">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=pdMIb7RyL08" target="_blank">
+      <a href="https://www.youtube.com/watch?v=vz8R2PtEB6E" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=pdMIb7RyL08&title=%24AITX+CEO+Steve+Reinharz+Shows+How+AI+Is+Changing+the+Way+He+Runs+a+Business&lang=en&timestamp=1783778261&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=362">
-          <img src="https://ytcards.demolab.com/?id=pdMIb7RyL08&title=%24AITX+CEO+Steve+Reinharz+Shows+How+AI+Is+Changing+the+Way+He+Runs+a+Business&lang=en&timestamp=1783778261&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=362" alt="$AITX CEO Steve Reinharz Shows How AI Is Changing the Way He Runs a Business" title="$AITX CEO Steve Reinharz Shows How AI Is Changing the Way He Runs a Business">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vz8R2PtEB6E&title=Ex-Google+Insider%3A+We+Cannot+Stop+What%27s+Coming+In+2027+-+Mo+Gawdat&lang=en&timestamp=1783872955&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1087">
+          <img src="https://ytcards.demolab.com/?id=vz8R2PtEB6E&title=Ex-Google+Insider%3A+We+Cannot+Stop+What%27s+Coming+In+2027+-+Mo+Gawdat&lang=en&timestamp=1783872955&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1087" alt="Ex-Google Insider: We Cannot Stop What's Coming In 2027 - Mo Gawdat" title="Ex-Google Insider: We Cannot Stop What's Coming In 2027 - Mo Gawdat">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Baf7Sby5KLY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=LVZ7iqo6Qw0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Baf7Sby5KLY&title=The+Agenda%3A+China%E2%80%99s+Tech+Leaders+on+AI+Cars%2C+Robotaxis+and+the+Mobility+Revolution&lang=en&timestamp=1783789061&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1782">
-          <img src="https://ytcards.demolab.com/?id=Baf7Sby5KLY&title=The+Agenda%3A+China%E2%80%99s+Tech+Leaders+on+AI+Cars%2C+Robotaxis+and+the+Mobility+Revolution&lang=en&timestamp=1783789061&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1782" alt="The Agenda: China’s Tech Leaders on AI Cars, Robotaxis and the Mobility Revolution" title="The Agenda: China’s Tech Leaders on AI Cars, Robotaxis and the Mobility Revolution">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=LVZ7iqo6Qw0&title=How+Luxury+Travel+Suitcases+Are+Crafted+from+Grey+Brahman+Bull+Horn+%7C+Full+Factory+Process&lang=en&timestamp=1783858555&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=958">
+          <img src="https://ytcards.demolab.com/?id=LVZ7iqo6Qw0&title=How+Luxury+Travel+Suitcases+Are+Crafted+from+Grey+Brahman+Bull+Horn+%7C+Full+Factory+Process&lang=en&timestamp=1783858555&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=958" alt="How Luxury Travel Suitcases Are Crafted from Grey Brahman Bull Horn | Full Factory Process" title="How Luxury Travel Suitcases Are Crafted from Grey Brahman Bull Horn | Full Factory Process">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=-ZLY4JjJLes" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Q4HYVjTXdtM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-ZLY4JjJLes&title=3+AI+Bottlenecks+Every+Investors+Must+Own%21&lang=en&timestamp=1783799861&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1050">
-          <img src="https://ytcards.demolab.com/?id=-ZLY4JjJLes&title=3+AI+Bottlenecks+Every+Investors+Must+Own%21&lang=en&timestamp=1783799861&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1050" alt="3 AI Bottlenecks Every Investors Must Own!" title="3 AI Bottlenecks Every Investors Must Own!">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Q4HYVjTXdtM&title=Evolution+or+revolution%3A+Assessing+the+global+challenges+of+modern+warfare%3F+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1783880155&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1214">
+          <img src="https://ytcards.demolab.com/?id=Q4HYVjTXdtM&title=Evolution+or+revolution%3A+Assessing+the+global+challenges+of+modern+warfare%3F+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1783880155&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1214" alt="Evolution or revolution: Assessing the global challenges of modern warfare? • FRANCE 24 English" title="Evolution or revolution: Assessing the global challenges of modern warfare? • FRANCE 24 English">
         </picture>
       </a>
     </td>
