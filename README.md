@@ -66,56 +66,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=SVAwzodyFUo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Mr2Q8YYNHGY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SVAwzodyFUo&title=How+to+Manage+Your+AI+Before+It+Makes+the+Wrong+Decision&lang=en&timestamp=1783854955&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=530">
-          <img src="https://ytcards.demolab.com/?id=SVAwzodyFUo&title=How+to+Manage+Your+AI+Before+It+Makes+the+Wrong+Decision&lang=en&timestamp=1783854955&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=530" alt="How to Manage Your AI Before It Makes the Wrong Decision" title="How to Manage Your AI Before It Makes the Wrong Decision">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Mr2Q8YYNHGY&title=PM+Albanese+to+unveil+world-first+artificial+intelligence+framework+%7C+9+News+Australia&lang=en&timestamp=1784068738&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=785">
+          <img src="https://ytcards.demolab.com/?id=Mr2Q8YYNHGY&title=PM+Albanese+to+unveil+world-first+artificial+intelligence+framework+%7C+9+News+Australia&lang=en&timestamp=1784068738&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=785" alt="PM Albanese to unveil world-first artificial intelligence framework | 9 News Australia" title="PM Albanese to unveil world-first artificial intelligence framework | 9 News Australia">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=W11AImyHXb4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=XRztZJIbmAY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=W11AImyHXb4&title=AI+May+Not+Solve+Demographic+Decline&lang=en&timestamp=1783880155&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=348">
-          <img src="https://ytcards.demolab.com/?id=W11AImyHXb4&title=AI+May+Not+Solve+Demographic+Decline&lang=en&timestamp=1783880155&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=348" alt="AI May Not Solve Demographic Decline" title="AI May Not Solve Demographic Decline">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XRztZJIbmAY&title=AI+in+the+Water%3A+How+Artificial+Intelligence+is+Transforming+Wastewater+Treatment&lang=en&timestamp=1784036338&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=490">
+          <img src="https://ytcards.demolab.com/?id=XRztZJIbmAY&title=AI+in+the+Water%3A+How+Artificial+Intelligence+is+Transforming+Wastewater+Treatment&lang=en&timestamp=1784036338&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=490" alt="AI in the Water: How Artificial Intelligence is Transforming Wastewater Treatment" title="AI in the Water: How Artificial Intelligence is Transforming Wastewater Treatment">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ql-J3N8PWkI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=MkV9MxnOF-8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ql-J3N8PWkI&title=10+Times+AI+Behaved+In+Ways+That+Terrified+The+Scientists+Who+Built+It&lang=en&timestamp=1783869355&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=658">
-          <img src="https://ytcards.demolab.com/?id=ql-J3N8PWkI&title=10+Times+AI+Behaved+In+Ways+That+Terrified+The+Scientists+Who+Built+It&lang=en&timestamp=1783869355&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=658" alt="10 Times AI Behaved In Ways That Terrified The Scientists Who Built It" title="10 Times AI Behaved In Ways That Terrified The Scientists Who Built It">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=MkV9MxnOF-8&title=Big+Tech+Ran+Out+Of+Ideas+%E2%80%94+And+AI+Is+The+Cover+Story+%E2%80%94+We+Had+To+React&lang=en&timestamp=1784036338&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2074">
+          <img src="https://ytcards.demolab.com/?id=MkV9MxnOF-8&title=Big+Tech+Ran+Out+Of+Ideas+%E2%80%94+And+AI+Is+The+Cover+Story+%E2%80%94+We+Had+To+React&lang=en&timestamp=1784036338&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2074" alt="Big Tech Ran Out Of Ideas — And AI Is The Cover Story — We Had To React" title="Big Tech Ran Out Of Ideas — And AI Is The Cover Story — We Had To React">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=vz8R2PtEB6E" target="_blank">
+      <a href="https://www.youtube.com/watch?v=SzdT7rTVZk8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vz8R2PtEB6E&title=Ex-Google+Insider%3A+We+Cannot+Stop+What%27s+Coming+In+2027+-+Mo+Gawdat&lang=en&timestamp=1783872955&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1087">
-          <img src="https://ytcards.demolab.com/?id=vz8R2PtEB6E&title=Ex-Google+Insider%3A+We+Cannot+Stop+What%27s+Coming+In+2027+-+Mo+Gawdat&lang=en&timestamp=1783872955&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1087" alt="Ex-Google Insider: We Cannot Stop What's Coming In 2027 - Mo Gawdat" title="Ex-Google Insider: We Cannot Stop What's Coming In 2027 - Mo Gawdat">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SzdT7rTVZk8&title=How+will+Australia+enforce+its+AI+rules%3F+%7C+ABC+NEWS&lang=en&timestamp=1784075938&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=311">
+          <img src="https://ytcards.demolab.com/?id=SzdT7rTVZk8&title=How+will+Australia+enforce+its+AI+rules%3F+%7C+ABC+NEWS&lang=en&timestamp=1784075938&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=311" alt="How will Australia enforce its AI rules? | ABC NEWS" title="How will Australia enforce its AI rules? | ABC NEWS">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=LVZ7iqo6Qw0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=J3MA03WMuew" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=LVZ7iqo6Qw0&title=How+Luxury+Travel+Suitcases+Are+Crafted+from+Grey+Brahman+Bull+Horn+%7C+Full+Factory+Process&lang=en&timestamp=1783858555&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=958">
-          <img src="https://ytcards.demolab.com/?id=LVZ7iqo6Qw0&title=How+Luxury+Travel+Suitcases+Are+Crafted+from+Grey+Brahman+Bull+Horn+%7C+Full+Factory+Process&lang=en&timestamp=1783858555&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=958" alt="How Luxury Travel Suitcases Are Crafted from Grey Brahman Bull Horn | Full Factory Process" title="How Luxury Travel Suitcases Are Crafted from Grey Brahman Bull Horn | Full Factory Process">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=J3MA03WMuew&title=Why+are+AI+Bros+incapable+of+talking+about+reality%3F&lang=en&timestamp=1784021938&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=309">
+          <img src="https://ytcards.demolab.com/?id=J3MA03WMuew&title=Why+are+AI+Bros+incapable+of+talking+about+reality%3F&lang=en&timestamp=1784021938&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=309" alt="Why are AI Bros incapable of talking about reality?" title="Why are AI Bros incapable of talking about reality?">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Q4HYVjTXdtM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=7k0gARzPGuc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Q4HYVjTXdtM&title=Evolution+or+revolution%3A+Assessing+the+global+challenges+of+modern+warfare%3F+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1783880155&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1214">
-          <img src="https://ytcards.demolab.com/?id=Q4HYVjTXdtM&title=Evolution+or+revolution%3A+Assessing+the+global+challenges+of+modern+warfare%3F+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1783880155&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1214" alt="Evolution or revolution: Assessing the global challenges of modern warfare? • FRANCE 24 English" title="Evolution or revolution: Assessing the global challenges of modern warfare? • FRANCE 24 English">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=7k0gARzPGuc&title=Scientists+Continue+to+Find+Human+Brain-Like+Structures+Inside+AI&lang=en&timestamp=1784021938&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=340">
+          <img src="https://ytcards.demolab.com/?id=7k0gARzPGuc&title=Scientists+Continue+to+Find+Human+Brain-Like+Structures+Inside+AI&lang=en&timestamp=1784021938&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=340" alt="Scientists Continue to Find Human Brain-Like Structures Inside AI" title="Scientists Continue to Find Human Brain-Like Structures Inside AI">
         </picture>
       </a>
     </td>
