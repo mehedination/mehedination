@@ -38,56 +38,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=jLkvjQFXDrE" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jLkvjQFXDrE&title=How+do+AI+data+centers+impact+the+environment%3F&lang=en&timestamp=1784231259&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=283">
-          <img src="https://ytcards.demolab.com/?id=jLkvjQFXDrE&title=How+do+AI+data+centers+impact+the+environment%3F&lang=en&timestamp=1784231259&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=283" alt="How do AI data centers impact the environment?" title="How do AI data centers impact the environment?">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
       <a href="https://www.youtube.com/watch?v=x-ls5wXeAzc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=x-ls5wXeAzc&title=LIVE%3A+World+Artificial+Intelligence+Conference+kicks-off+in+Shanghai&lang=en&timestamp=1784281659&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3887">
-          <img src="https://ytcards.demolab.com/?id=x-ls5wXeAzc&title=LIVE%3A+World+Artificial+Intelligence+Conference+kicks-off+in+Shanghai&lang=en&timestamp=1784281659&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3887" alt="LIVE: World Artificial Intelligence Conference kicks-off in Shanghai" title="LIVE: World Artificial Intelligence Conference kicks-off in Shanghai">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=x-ls5wXeAzc&title=LIVE%3A+World+Artificial+Intelligence+Conference+kicks-off+in+Shanghai&lang=en&timestamp=1784279993&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3887">
+          <img src="https://ytcards.demolab.com/?id=x-ls5wXeAzc&title=LIVE%3A+World+Artificial+Intelligence+Conference+kicks-off+in+Shanghai&lang=en&timestamp=1784279993&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3887" alt="LIVE: World Artificial Intelligence Conference kicks-off in Shanghai" title="LIVE: World Artificial Intelligence Conference kicks-off in Shanghai">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=YfcATPJC1go" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=YfcATPJC1go&title=China%27s+Xi+says+AI+should+not+be+dominated+by+one+country&lang=en&timestamp=1784270859&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=62">
-          <img src="https://ytcards.demolab.com/?id=YfcATPJC1go&title=China%27s+Xi+says+AI+should+not+be+dominated+by+one+country&lang=en&timestamp=1784270859&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=62" alt="China's Xi says AI should not be dominated by one country" title="China's Xi says AI should not be dominated by one country">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=YfcATPJC1go&title=China%27s+Xi+Jinping+says+AI+should+not+be+dominated+by+one+country&lang=en&timestamp=1784272793&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=62">
+          <img src="https://ytcards.demolab.com/?id=YfcATPJC1go&title=China%27s+Xi+Jinping+says+AI+should+not+be+dominated+by+one+country&lang=en&timestamp=1784272793&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=62" alt="China's Xi Jinping says AI should not be dominated by one country" title="China's Xi Jinping says AI should not be dominated by one country">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=jLkvjQFXDrE" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jLkvjQFXDrE&title=How+do+AI+data+centers+impact+the+environment%3F&lang=en&timestamp=1784229593&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=283">
+          <img src="https://ytcards.demolab.com/?id=jLkvjQFXDrE&title=How+do+AI+data+centers+impact+the+environment%3F&lang=en&timestamp=1784229593&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=283" alt="How do AI data centers impact the environment?" title="How do AI data centers impact the environment?">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=_T4MBYJjOqc" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_T4MBYJjOqc&title=AI+may+be+able+to+help+you+budget+%E2%80%93+but+there+are+risks+to+letting+it+manage+your+money&lang=en&timestamp=1784213259&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=198">
-          <img src="https://ytcards.demolab.com/?id=_T4MBYJjOqc&title=AI+may+be+able+to+help+you+budget+%E2%80%93+but+there+are+risks+to+letting+it+manage+your+money&lang=en&timestamp=1784213259&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=198" alt="AI may be able to help you budget – but there are risks to letting it manage your money" title="AI may be able to help you budget – but there are risks to letting it manage your money">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
       <a href="https://www.youtube.com/watch?v=6CDPSJJ7cMk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6CDPSJJ7cMk&title=Artificial+Intelligence+and+the+Future+of+Work%3A+AI%E2%80%99s+Current+and+Expected+Impacts+on+the+Workforce&lang=en&timestamp=1784252859&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3800">
-          <img src="https://ytcards.demolab.com/?id=6CDPSJJ7cMk&title=Artificial+Intelligence+and+the+Future+of+Work%3A+AI%E2%80%99s+Current+and+Expected+Impacts+on+the+Workforce&lang=en&timestamp=1784252859&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3800" alt="Artificial Intelligence and the Future of Work: AI’s Current and Expected Impacts on the Workforce" title="Artificial Intelligence and the Future of Work: AI’s Current and Expected Impacts on the Workforce">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6CDPSJJ7cMk&title=Artificial+Intelligence+and+the+Future+of+Work%3A+AI%E2%80%99s+Current+and+Expected+Impacts+on+the+Workforce&lang=en&timestamp=1784254793&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3800">
+          <img src="https://ytcards.demolab.com/?id=6CDPSJJ7cMk&title=Artificial+Intelligence+and+the+Future+of+Work%3A+AI%E2%80%99s+Current+and+Expected+Impacts+on+the+Workforce&lang=en&timestamp=1784254793&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3800" alt="Artificial Intelligence and the Future of Work: AI’s Current and Expected Impacts on the Workforce" title="Artificial Intelligence and the Future of Work: AI’s Current and Expected Impacts on the Workforce">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=8DfUygCZ-fo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=0rHkwdG8ybk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8DfUygCZ-fo&title=LIVE%3A+World+Artificial+Intelligence+Conference+2026+Opens+in+Shanghai+With+AI+Innovations+%7C+AI1B&lang=en&timestamp=1784281659&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6524">
-          <img src="https://ytcards.demolab.com/?id=8DfUygCZ-fo&title=LIVE%3A+World+Artificial+Intelligence+Conference+2026+Opens+in+Shanghai+With+AI+Innovations+%7C+AI1B&lang=en&timestamp=1784281659&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6524" alt="LIVE: World Artificial Intelligence Conference 2026 Opens in Shanghai With AI Innovations | AI1B" title="LIVE: World Artificial Intelligence Conference 2026 Opens in Shanghai With AI Innovations | AI1B">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=0rHkwdG8ybk&title=%F0%9F%94%B4LIVE%3A+Xi+Jinping+Delivers+Major+AI+Speech+at+WAIC+2026+%7C+AC1S&lang=en&timestamp=1784261993&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6486">
+          <img src="https://ytcards.demolab.com/?id=0rHkwdG8ybk&title=%F0%9F%94%B4LIVE%3A+Xi+Jinping+Delivers+Major+AI+Speech+at+WAIC+2026+%7C+AC1S&lang=en&timestamp=1784261993&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6486" alt="🔴LIVE: Xi Jinping Delivers Major AI Speech at WAIC 2026 | AC1S" title="🔴LIVE: Xi Jinping Delivers Major AI Speech at WAIC 2026 | AC1S">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=_T4MBYJjOqc" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_T4MBYJjOqc&title=AI+may+be+able+to+help+you+budget+%E2%80%93+but+there+are+risks+to+letting+it+manage+your+money&lang=en&timestamp=1784218793&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=198">
+          <img src="https://ytcards.demolab.com/?id=_T4MBYJjOqc&title=AI+may+be+able+to+help+you+budget+%E2%80%93+but+there+are+risks+to+letting+it+manage+your+money&lang=en&timestamp=1784218793&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=198" alt="AI may be able to help you budget – but there are risks to letting it manage your money" title="AI may be able to help you budget – but there are risks to letting it manage your money">
         </picture>
       </a>
     </td>
