@@ -36,56 +36,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=jLkvjQFXDrE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jLkvjQFXDrE&title=How+do+AI+data+centers+impact+the+environment%3F&lang=en&timestamp=1784230500&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=283">
-          <img src="https://ytcards.demolab.com/?id=jLkvjQFXDrE&title=How+do+AI+data+centers+impact+the+environment%3F&lang=en&timestamp=1784230500&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=283" alt="How do AI data centers impact the environment?" title="How do AI data centers impact the environment?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jLkvjQFXDrE&title=How+do+AI+data+centers+impact+the+environment%3F&lang=en&timestamp=1784230557&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=283">
+          <img src="https://ytcards.demolab.com/?id=jLkvjQFXDrE&title=How+do+AI+data+centers+impact+the+environment%3F&lang=en&timestamp=1784230557&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=283" alt="How do AI data centers impact the environment?" title="How do AI data centers impact the environment?">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=YfcATPJC1go" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=YfcATPJC1go&title=China%27s+Xi+says+AI+should+not+be+dominated+by+one+country&lang=en&timestamp=1784273700&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=62">
-          <img src="https://ytcards.demolab.com/?id=YfcATPJC1go&title=China%27s+Xi+says+AI+should+not+be+dominated+by+one+country&lang=en&timestamp=1784273700&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=62" alt="China's Xi says AI should not be dominated by one country" title="China's Xi says AI should not be dominated by one country">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=YfcATPJC1go&title=China%27s+President+Xi+addresses+artificial+intelligence+conference+in+Shanghai&lang=en&timestamp=1784273757&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=62">
+          <img src="https://ytcards.demolab.com/?id=YfcATPJC1go&title=China%27s+President+Xi+addresses+artificial+intelligence+conference+in+Shanghai&lang=en&timestamp=1784273757&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=62" alt="China's President Xi addresses artificial intelligence conference in Shanghai" title="China's President Xi addresses artificial intelligence conference in Shanghai">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=_T4MBYJjOqc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_T4MBYJjOqc&title=AI+may+be+able+to+help+you+budget+%E2%80%93+but+there+are+risks+to+letting+it+manage+your+money&lang=en&timestamp=1784208900&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=198">
-          <img src="https://ytcards.demolab.com/?id=_T4MBYJjOqc&title=AI+may+be+able+to+help+you+budget+%E2%80%93+but+there+are+risks+to+letting+it+manage+your+money&lang=en&timestamp=1784208900&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=198" alt="AI may be able to help you budget – but there are risks to letting it manage your money" title="AI may be able to help you budget – but there are risks to letting it manage your money">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_T4MBYJjOqc&title=Behind+the+risks+and+benefits+of+letting+AI+manage+your+money&lang=en&timestamp=1784208957&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=198">
+          <img src="https://ytcards.demolab.com/?id=_T4MBYJjOqc&title=Behind+the+risks+and+benefits+of+letting+AI+manage+your+money&lang=en&timestamp=1784208957&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=198" alt="Behind the risks and benefits of letting AI manage your money" title="Behind the risks and benefits of letting AI manage your money">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=x-ls5wXeAzc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=8fHsUzSi5ZQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=x-ls5wXeAzc&title=LIVE%3A+World+Artificial+Intelligence+Conference+kicks-off+in+Shanghai&lang=en&timestamp=1784280900&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3887">
-          <img src="https://ytcards.demolab.com/?id=x-ls5wXeAzc&title=LIVE%3A+World+Artificial+Intelligence+Conference+kicks-off+in+Shanghai&lang=en&timestamp=1784280900&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3887" alt="LIVE: World Artificial Intelligence Conference kicks-off in Shanghai" title="LIVE: World Artificial Intelligence Conference kicks-off in Shanghai">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8fHsUzSi5ZQ&title=Gerbrand+Ceder%E2%80%99s+advice+for+young+scientists&lang=en&timestamp=1784241357&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=55">
+          <img src="https://ytcards.demolab.com/?id=8fHsUzSi5ZQ&title=Gerbrand+Ceder%E2%80%99s+advice+for+young+scientists&lang=en&timestamp=1784241357&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=55" alt="Gerbrand Ceder’s advice for young scientists" title="Gerbrand Ceder’s advice for young scientists">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=8fHsUzSi5ZQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=iN4h5xu_LkE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8fHsUzSi5ZQ&title=Gerbrand+Ceder%E2%80%99s+advice+for+young+scientists&lang=en&timestamp=1784241300&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=55">
-          <img src="https://ytcards.demolab.com/?id=8fHsUzSi5ZQ&title=Gerbrand+Ceder%E2%80%99s+advice+for+young+scientists&lang=en&timestamp=1784241300&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=55" alt="Gerbrand Ceder’s advice for young scientists" title="Gerbrand Ceder’s advice for young scientists">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=iN4h5xu_LkE&title=Can+You+ACTUALLY+Get+an+AI+Job+Without+a+Degree%3F+%28The+Honest+Answer%29&lang=en&timestamp=1784212557&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=488">
+          <img src="https://ytcards.demolab.com/?id=iN4h5xu_LkE&title=Can+You+ACTUALLY+Get+an+AI+Job+Without+a+Degree%3F+%28The+Honest+Answer%29&lang=en&timestamp=1784212557&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=488" alt="Can You ACTUALLY Get an AI Job Without a Degree? (The Honest Answer)" title="Can You ACTUALLY Get an AI Job Without a Degree? (The Honest Answer)">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=jaamCdw1izk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jaamCdw1izk&title=New+Alvin+and+the+Chipmunks+CAUGHT+Using+AI%3F%21&lang=en&timestamp=1784230500&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=164">
-          <img src="https://ytcards.demolab.com/?id=jaamCdw1izk&title=New+Alvin+and+the+Chipmunks+CAUGHT+Using+AI%3F%21&lang=en&timestamp=1784230500&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=164" alt="New Alvin and the Chipmunks CAUGHT Using AI?!" title="New Alvin and the Chipmunks CAUGHT Using AI?!">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jaamCdw1izk&title=Alvin+and+the+Chipmunks+CAUGHT+Using+AI%3F%21&lang=en&timestamp=1784230557&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=164">
+          <img src="https://ytcards.demolab.com/?id=jaamCdw1izk&title=Alvin+and+the+Chipmunks+CAUGHT+Using+AI%3F%21&lang=en&timestamp=1784230557&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=164" alt="Alvin and the Chipmunks CAUGHT Using AI?!" title="Alvin and the Chipmunks CAUGHT Using AI?!">
         </picture>
       </a>
     </td>
