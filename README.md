@@ -40,56 +40,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=YfcATPJC1go" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=YfcATPJC1go&title=China%27s+Xi+Jinping+says+AI+should+not+be+dominated+by+one+country&lang=en&timestamp=1784272215&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=62">
-          <img src="https://ytcards.demolab.com/?id=YfcATPJC1go&title=China%27s+Xi+Jinping+says+AI+should+not+be+dominated+by+one+country&lang=en&timestamp=1784272215&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=62" alt="China's Xi Jinping says AI should not be dominated by one country" title="China's Xi Jinping says AI should not be dominated by one country">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=x-ls5wXeAzc" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=x-ls5wXeAzc&title=LIVE%3A+World+Artificial+Intelligence+Conference+kicks-off+in+Shanghai&lang=en&timestamp=1784283015&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3887">
-          <img src="https://ytcards.demolab.com/?id=x-ls5wXeAzc&title=LIVE%3A+World+Artificial+Intelligence+Conference+kicks-off+in+Shanghai&lang=en&timestamp=1784283015&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3887" alt="LIVE: World Artificial Intelligence Conference kicks-off in Shanghai" title="LIVE: World Artificial Intelligence Conference kicks-off in Shanghai">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=YfcATPJC1go&title=China%27s+Xi+Jinping+says+AI+should+not+be+dominated+by+one+country&lang=en&timestamp=1784272220&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=62">
+          <img src="https://ytcards.demolab.com/?id=YfcATPJC1go&title=China%27s+Xi+Jinping+says+AI+should+not+be+dominated+by+one+country&lang=en&timestamp=1784272220&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=62" alt="China's Xi Jinping says AI should not be dominated by one country" title="China's Xi Jinping says AI should not be dominated by one country">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=jLkvjQFXDrE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jLkvjQFXDrE&title=How+do+AI+data+centers+impact+the+environment%3F&lang=en&timestamp=1784229015&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=283">
-          <img src="https://ytcards.demolab.com/?id=jLkvjQFXDrE&title=How+do+AI+data+centers+impact+the+environment%3F&lang=en&timestamp=1784229015&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=283" alt="How do AI data centers impact the environment?" title="How do AI data centers impact the environment?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jLkvjQFXDrE&title=How+do+AI+data+centers+impact+the+environment%3F&lang=en&timestamp=1784232620&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=283">
+          <img src="https://ytcards.demolab.com/?id=jLkvjQFXDrE&title=How+do+AI+data+centers+impact+the+environment%3F&lang=en&timestamp=1784232620&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=283" alt="How do AI data centers impact the environment?" title="How do AI data centers impact the environment?">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=MQ75Ydz7VRU" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=MQ75Ydz7VRU&title=AI+and+Pen+Testing-+Is+This+Industry+Dead%3F+with+John+Strand&lang=en&timestamp=1784232620&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4978">
+          <img src="https://ytcards.demolab.com/?id=MQ75Ydz7VRU&title=AI+and+Pen+Testing-+Is+This+Industry+Dead%3F+with+John+Strand&lang=en&timestamp=1784232620&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4978" alt="AI and Pen Testing- Is This Industry Dead? with John Strand" title="AI and Pen Testing- Is This Industry Dead? with John Strand">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=0rHkwdG8ybk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=x-ls5wXeAzc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=0rHkwdG8ybk&title=%F0%9F%94%B4LIVE%3A+Xi+Jinping+Delivers+Major+AI+Speech+at+WAIC+2026+%7C+AC1S&lang=en&timestamp=1784261415&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6486">
-          <img src="https://ytcards.demolab.com/?id=0rHkwdG8ybk&title=%F0%9F%94%B4LIVE%3A+Xi+Jinping+Delivers+Major+AI+Speech+at+WAIC+2026+%7C+AC1S&lang=en&timestamp=1784261415&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6486" alt="🔴LIVE: Xi Jinping Delivers Major AI Speech at WAIC 2026 | AC1S" title="🔴LIVE: Xi Jinping Delivers Major AI Speech at WAIC 2026 | AC1S">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=x-ls5wXeAzc&title=LIVE%3A+World+Artificial+Intelligence+Conference+kicks-off+in+Shanghai&lang=en&timestamp=1784283020&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3887">
+          <img src="https://ytcards.demolab.com/?id=x-ls5wXeAzc&title=LIVE%3A+World+Artificial+Intelligence+Conference+kicks-off+in+Shanghai&lang=en&timestamp=1784283020&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3887" alt="LIVE: World Artificial Intelligence Conference kicks-off in Shanghai" title="LIVE: World Artificial Intelligence Conference kicks-off in Shanghai">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=_T4MBYJjOqc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=jaamCdw1izk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_T4MBYJjOqc&title=Behind+the+risks+and+benefits+of+letting+AI+manage+your+money&lang=en&timestamp=1784225415&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=198">
-          <img src="https://ytcards.demolab.com/?id=_T4MBYJjOqc&title=Behind+the+risks+and+benefits+of+letting+AI+manage+your+money&lang=en&timestamp=1784225415&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=198" alt="Behind the risks and benefits of letting AI manage your money" title="Behind the risks and benefits of letting AI manage your money">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jaamCdw1izk&title=Did+Alvin+and+the+Chipmunks+Just+Get+CAUGHT+Using+AI%3F&lang=en&timestamp=1784232620&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=164">
+          <img src="https://ytcards.demolab.com/?id=jaamCdw1izk&title=Did+Alvin+and+the+Chipmunks+Just+Get+CAUGHT+Using+AI%3F&lang=en&timestamp=1784232620&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=164" alt="Did Alvin and the Chipmunks Just Get CAUGHT Using AI?" title="Did Alvin and the Chipmunks Just Get CAUGHT Using AI?">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=iN4h5xu_LkE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=QBK0kb8rzF8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=iN4h5xu_LkE&title=Can+You+ACTUALLY+Get+an+AI+Job+Without+a+Degree%3F+%28The+Honest+Answer%29&lang=en&timestamp=1784225415&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=488">
-          <img src="https://ytcards.demolab.com/?id=iN4h5xu_LkE&title=Can+You+ACTUALLY+Get+an+AI+Job+Without+a+Degree%3F+%28The+Honest+Answer%29&lang=en&timestamp=1784225415&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=488" alt="Can You ACTUALLY Get an AI Job Without a Degree? (The Honest Answer)" title="Can You ACTUALLY Get an AI Job Without a Degree? (The Honest Answer)">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QBK0kb8rzF8&title=%F0%9F%92%A5AI+Can+K%21ll+Us+All%F0%9F%92%A5Christian+Parents+Are+Religious+Extremists%F0%9F%92%A5Homeschooling+Is+%40buse%F0%9F%92%A5&lang=en&timestamp=1784232620&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5835">
+          <img src="https://ytcards.demolab.com/?id=QBK0kb8rzF8&title=%F0%9F%92%A5AI+Can+K%21ll+Us+All%F0%9F%92%A5Christian+Parents+Are+Religious+Extremists%F0%9F%92%A5Homeschooling+Is+%40buse%F0%9F%92%A5&lang=en&timestamp=1784232620&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5835" alt="💥AI Can K!ll Us All💥Christian Parents Are Religious Extremists💥Homeschooling Is @buse💥" title="💥AI Can K!ll Us All💥Christian Parents Are Religious Extremists💥Homeschooling Is @buse💥">
         </picture>
       </a>
     </td>
