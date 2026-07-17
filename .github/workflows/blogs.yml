@@ -18,5 +18,5 @@ jobs:
           feed_list: "https://news.google.com/rss/search?q=artificial-intelligence+when:24h&hl=en-US&gl=US&ceid=US:en"
           max_post_count: "6"
           commit_message: "📝 Latest Google News"
-          committer_username: "jahidcoder"
-          committer_email: "235753025+jahidcoder@users.noreply.github.com"
+          committer_username: "mehedination"
+          committer_email: "137965021+mehedination@users.noreply.github.com"
