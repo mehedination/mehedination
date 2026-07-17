@@ -68,56 +68,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=0TqyKUDNjL4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=jLkvjQFXDrE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=0TqyKUDNjL4&title=Yoshua+Bengio%3A+AI+is+moving+faster+than+our+ability+to+govern+it+%7C+AI+for+Good+2026+%7C+Global+Stage&lang=en&timestamp=1784119565&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=811">
-          <img src="https://ytcards.demolab.com/?id=0TqyKUDNjL4&title=Yoshua+Bengio%3A+AI+is+moving+faster+than+our+ability+to+govern+it+%7C+AI+for+Good+2026+%7C+Global+Stage&lang=en&timestamp=1784119565&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=811" alt="Yoshua Bengio: AI is moving faster than our ability to govern it | AI for Good 2026 | Global Stage" title="Yoshua Bengio: AI is moving faster than our ability to govern it | AI for Good 2026 | Global Stage">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jLkvjQFXDrE&title=How+do+AI+data+centers+impact+the+environment%3F&lang=en&timestamp=1784231314&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=283">
+          <img src="https://ytcards.demolab.com/?id=jLkvjQFXDrE&title=How+do+AI+data+centers+impact+the+environment%3F&lang=en&timestamp=1784231314&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=283" alt="How do AI data centers impact the environment?" title="How do AI data centers impact the environment?">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=YfXxYu45ql0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=_T4MBYJjOqc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=YfXxYu45ql0&title=Speech+by+Governor+Barr+on+artificial+intelligence%2C+July+14%2C+2026&lang=en&timestamp=1784119565&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1233">
-          <img src="https://ytcards.demolab.com/?id=YfXxYu45ql0&title=Speech+by+Governor+Barr+on+artificial+intelligence%2C+July+14%2C+2026&lang=en&timestamp=1784119565&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1233" alt="Speech by Governor Barr on artificial intelligence, July 14, 2026" title="Speech by Governor Barr on artificial intelligence, July 14, 2026">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_T4MBYJjOqc&title=Behind+the+risks+and+benefits+of+letting+AI+manage+your+money&lang=en&timestamp=1784209714&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=198">
+          <img src="https://ytcards.demolab.com/?id=_T4MBYJjOqc&title=Behind+the+risks+and+benefits+of+letting+AI+manage+your+money&lang=en&timestamp=1784209714&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=198" alt="Behind the risks and benefits of letting AI manage your money" title="Behind the risks and benefits of letting AI manage your money">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=HlLa5iA8lOs" target="_blank">
+      <a href="https://www.youtube.com/watch?v=izwXjGt8SlM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=HlLa5iA8lOs&title=The+Future+of+AI%3A+With+Sir+Demis+Hassabis+%26+Dame+Wendy+Hall&lang=en&timestamp=1784126765&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4914">
-          <img src="https://ytcards.demolab.com/?id=HlLa5iA8lOs&title=The+Future+of+AI%3A+With+Sir+Demis+Hassabis+%26+Dame+Wendy+Hall&lang=en&timestamp=1784126765&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4914" alt="The Future of AI: With Sir Demis Hassabis & Dame Wendy Hall" title="The Future of AI: With Sir Demis Hassabis & Dame Wendy Hall">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=izwXjGt8SlM&title=LIVE%3A+Signing+ceremony+in+China+to+establish+a+global+AI+cooperation+organization&lang=en&timestamp=1784206114&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1625">
+          <img src="https://ytcards.demolab.com/?id=izwXjGt8SlM&title=LIVE%3A+Signing+ceremony+in+China+to+establish+a+global+AI+cooperation+organization&lang=en&timestamp=1784206114&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1625" alt="LIVE: Signing ceremony in China to establish a global AI cooperation organization" title="LIVE: Signing ceremony in China to establish a global AI cooperation organization">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=jamsq6H7ttU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=bMj0zA8S6Xc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jamsq6H7ttU&title=Get+Certified+SQL%2BAI+%28DP-800%29%3A+Design+and+Develop+SQL+Solutions+Like+a+Pro+%28EMEA+%2F+US%29&lang=en&timestamp=1784133965&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3760">
-          <img src="https://ytcards.demolab.com/?id=jamsq6H7ttU&title=Get+Certified+SQL%2BAI+%28DP-800%29%3A+Design+and+Develop+SQL+Solutions+Like+a+Pro+%28EMEA+%2F+US%29&lang=en&timestamp=1784133965&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3760" alt="Get Certified SQL+AI (DP-800): Design and Develop SQL Solutions Like a Pro (EMEA / US)" title="Get Certified SQL+AI (DP-800): Design and Develop SQL Solutions Like a Pro (EMEA / US)">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=bMj0zA8S6Xc&title=AI+Explained%3A+Using+artificial+intelligence+to+translate+languages+worldwide&lang=en&timestamp=1784234914&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=118">
+          <img src="https://ytcards.demolab.com/?id=bMj0zA8S6Xc&title=AI+Explained%3A+Using+artificial+intelligence+to+translate+languages+worldwide&lang=en&timestamp=1784234914&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=118" alt="AI Explained: Using artificial intelligence to translate languages worldwide" title="AI Explained: Using artificial intelligence to translate languages worldwide">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=u39kUFWXgO0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=QBK0kb8rzF8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=u39kUFWXgO0&title=Anthony+Albanese+proposes+new+blueprint+for+Australia+to+manage+artificial+intelligence+%7C+7NEWS&lang=en&timestamp=1784105165&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=161">
-          <img src="https://ytcards.demolab.com/?id=u39kUFWXgO0&title=Anthony+Albanese+proposes+new+blueprint+for+Australia+to+manage+artificial+intelligence+%7C+7NEWS&lang=en&timestamp=1784105165&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=161" alt="Anthony Albanese proposes new blueprint for Australia to manage artificial intelligence | 7NEWS" title="Anthony Albanese proposes new blueprint for Australia to manage artificial intelligence | 7NEWS">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QBK0kb8rzF8&title=%F0%9F%92%A5AI+Can+K%21ll+Us+All%F0%9F%92%A5Christians+Parents+Are+Religious+Extremists%F0%9F%92%A5Homeschooling+Is+%40buse%F0%9F%92%A5&lang=en&timestamp=1784227714&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5835">
+          <img src="https://ytcards.demolab.com/?id=QBK0kb8rzF8&title=%F0%9F%92%A5AI+Can+K%21ll+Us+All%F0%9F%92%A5Christians+Parents+Are+Religious+Extremists%F0%9F%92%A5Homeschooling+Is+%40buse%F0%9F%92%A5&lang=en&timestamp=1784227714&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5835" alt="💥AI Can K!ll Us All💥Christians Parents Are Religious Extremists💥Homeschooling Is @buse💥" title="💥AI Can K!ll Us All💥Christians Parents Are Religious Extremists💥Homeschooling Is @buse💥">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=3ZmO8kOsAMY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ZpnQWo8MFvw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3ZmO8kOsAMY&title=How+to+Write+a+Great+Report%3A+The+Role+of+AI&lang=en&timestamp=1784119565&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=695">
-          <img src="https://ytcards.demolab.com/?id=3ZmO8kOsAMY&title=How+to+Write+a+Great+Report%3A+The+Role+of+AI&lang=en&timestamp=1784119565&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=695" alt="How to Write a Great Report: The Role of AI" title="How to Write a Great Report: The Role of AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ZpnQWo8MFvw&title=The+AI+buildout+is+%E2%80%98UNSTOPPABLE%E2%80%99%3A+Walser+Wealth+Management+CIO&lang=en&timestamp=1784238514&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=265">
+          <img src="https://ytcards.demolab.com/?id=ZpnQWo8MFvw&title=The+AI+buildout+is+%E2%80%98UNSTOPPABLE%E2%80%99%3A+Walser+Wealth+Management+CIO&lang=en&timestamp=1784238514&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=265" alt="The AI buildout is ‘UNSTOPPABLE’: Walser Wealth Management CIO" title="The AI buildout is ‘UNSTOPPABLE’: Walser Wealth Management CIO">
         </picture>
       </a>
     </td>
