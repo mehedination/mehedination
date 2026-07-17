@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://www.fiverr.com/s/rEWP6DP">
+  <a href="https://www.upwork.com/freelancers/~01970adcf33cbded15">
     Mehedi Nation <img src="https://i.imgur.com/oZ3B6FS.png" height="25" width="25" alt="Verified" />
   </a>
 </h1>
@@ -19,8 +19,10 @@
 </p>
 
 <p align="center">
+  <a href="https://www.upwork.com/freelancers/~01970adcf33cbded15?mp_source=share">
+    <img alt="Upwork" title="Upwork" src="https://img.shields.io/badge/Upwork-14A800?logo=upwork&logoColor=white&style=for-the-badge"/></a>
   <a href="https://www.fiverr.com/s/jjxarKv">
-    <img alt="Fiverr" title="Fiverr" src="https://img.shields.io/badge/Fiverr-000000?logo=Google-Chrome&logoColor=white&style=for-the-badge"/></a>
+    <img alt="Fiverr" title="Fiverr" src="https://img.shields.io/badge/Fiverr-1DBF73?logo=fiverr&logoColor=white&style=for-the-badge"/></a>
   <a href="https://www.linkedin.com/in/mehedination">
     <img alt="LinkedIn" title="LinkedIn Profile" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&logoColor=white&style=for-the-badge"/></a>
   <a href="https://mail.google.com/?hl=en&tf=cm&fs=1&to=mehedynation@gmail.com">
@@ -65,7 +67,7 @@
 
   <h3>Profile Overview</h3>
   <p>
-  <img alt="jahidcoder Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mehedination&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+  <img alt="mehedination Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mehedination&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
   </p>
 
 
