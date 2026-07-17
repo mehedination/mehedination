@@ -42,56 +42,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=bzwG-e-NJpc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=YfcATPJC1go" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=bzwG-e-NJpc&title=FULL%3A+World+Artificial+Intelligence+Conference+Opens+in+Shanghai+%7C+AC1W&lang=en&timestamp=1784285919&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5155">
-          <img src="https://ytcards.demolab.com/?id=bzwG-e-NJpc&title=FULL%3A+World+Artificial+Intelligence+Conference+Opens+in+Shanghai+%7C+AC1W&lang=en&timestamp=1784285919&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5155" alt="FULL: World Artificial Intelligence Conference Opens in Shanghai | AC1W" title="FULL: World Artificial Intelligence Conference Opens in Shanghai | AC1W">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=YfcATPJC1go&title=China%27s+Xi+Jinping+says+AI+should+not+be+dominated+by+one+country&lang=en&timestamp=1784271591&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=62">
+          <img src="https://ytcards.demolab.com/?id=YfcATPJC1go&title=China%27s+Xi+Jinping+says+AI+should+not+be+dominated+by+one+country&lang=en&timestamp=1784271591&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=62" alt="China's Xi Jinping says AI should not be dominated by one country" title="China's Xi Jinping says AI should not be dominated by one country">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=jaamCdw1izk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=x-ls5wXeAzc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jaamCdw1izk&title=Did+Alvin+and+the+Chipmunks+Just+Get+CAUGHT+Using+AI%3F&lang=en&timestamp=1784239119&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=164">
-          <img src="https://ytcards.demolab.com/?id=jaamCdw1izk&title=Did+Alvin+and+the+Chipmunks+Just+Get+CAUGHT+Using+AI%3F&lang=en&timestamp=1784239119&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=164" alt="Did Alvin and the Chipmunks Just Get CAUGHT Using AI?" title="Did Alvin and the Chipmunks Just Get CAUGHT Using AI?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=x-ls5wXeAzc&title=LIVE%3A+World+Artificial+Intelligence+Conference+kicks-off+in+Shanghai&lang=en&timestamp=1784282391&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3887">
+          <img src="https://ytcards.demolab.com/?id=x-ls5wXeAzc&title=LIVE%3A+World+Artificial+Intelligence+Conference+kicks-off+in+Shanghai&lang=en&timestamp=1784282391&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3887" alt="LIVE: World Artificial Intelligence Conference kicks-off in Shanghai" title="LIVE: World Artificial Intelligence Conference kicks-off in Shanghai">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=IjHmv-FiS4Y" target="_blank">
+      <a href="https://www.youtube.com/watch?v=jLkvjQFXDrE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=IjHmv-FiS4Y&title=LIVE%3A+World+Artificial+Intelligence+Conference+2026+Opens+in+Shanghai+%7C+AI%2C+Robotics+%26+Future+Tech&lang=en&timestamp=1784282319&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5861">
-          <img src="https://ytcards.demolab.com/?id=IjHmv-FiS4Y&title=LIVE%3A+World+Artificial+Intelligence+Conference+2026+Opens+in+Shanghai+%7C+AI%2C+Robotics+%26+Future+Tech&lang=en&timestamp=1784282319&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5861" alt="LIVE: World Artificial Intelligence Conference 2026 Opens in Shanghai | AI, Robotics & Future Tech" title="LIVE: World Artificial Intelligence Conference 2026 Opens in Shanghai | AI, Robotics & Future Tech">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jLkvjQFXDrE&title=How+do+AI+data+centers+impact+the+environment%3F&lang=en&timestamp=1784242791&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=283">
+          <img src="https://ytcards.demolab.com/?id=jLkvjQFXDrE&title=How+do+AI+data+centers+impact+the+environment%3F&lang=en&timestamp=1784242791&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=283" alt="How do AI data centers impact the environment?" title="How do AI data centers impact the environment?">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=iN4h5xu_LkE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ebqX46CHTaY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=iN4h5xu_LkE&title=Can+You+ACTUALLY+Get+an+AI+Job+Without+a+Degree%3F+%28The+Honest+Answer%29&lang=en&timestamp=1784239119&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=488">
-          <img src="https://ytcards.demolab.com/?id=iN4h5xu_LkE&title=Can+You+ACTUALLY+Get+an+AI+Job+Without+a+Degree%3F+%28The+Honest+Answer%29&lang=en&timestamp=1784239119&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=488" alt="Can You ACTUALLY Get an AI Job Without a Degree? (The Honest Answer)" title="Can You ACTUALLY Get an AI Job Without a Degree? (The Honest Answer)">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ebqX46CHTaY&title=Build+a+Custom+PC+for+AI+and+Local+LLMs%21&lang=en&timestamp=1784311191&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=416">
+          <img src="https://ytcards.demolab.com/?id=ebqX46CHTaY&title=Build+a+Custom+PC+for+AI+and+Local+LLMs%21&lang=en&timestamp=1784311191&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=416" alt="Build a Custom PC for AI and Local LLMs!" title="Build a Custom PC for AI and Local LLMs!">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=0rHkwdG8ybk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=MQ75Ydz7VRU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=0rHkwdG8ybk&title=%F0%9F%94%B4LIVE%3A+Xi+Jinping+Delivers+Major+AI+Speech+at+WAIC+2026+%7C+AC1S&lang=en&timestamp=1784264319&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6486">
-          <img src="https://ytcards.demolab.com/?id=0rHkwdG8ybk&title=%F0%9F%94%B4LIVE%3A+Xi+Jinping+Delivers+Major+AI+Speech+at+WAIC+2026+%7C+AC1S&lang=en&timestamp=1784264319&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6486" alt="🔴LIVE: Xi Jinping Delivers Major AI Speech at WAIC 2026 | AC1S" title="🔴LIVE: Xi Jinping Delivers Major AI Speech at WAIC 2026 | AC1S">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=MQ75Ydz7VRU&title=AI+and+Pen+Testing-+Is+This+Industry+Dead%3F+with+John+Strand&lang=en&timestamp=1784242791&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4978">
+          <img src="https://ytcards.demolab.com/?id=MQ75Ydz7VRU&title=AI+and+Pen+Testing-+Is+This+Industry+Dead%3F+with+John+Strand&lang=en&timestamp=1784242791&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4978" alt="AI and Pen Testing- Is This Industry Dead? with John Strand" title="AI and Pen Testing- Is This Industry Dead? with John Strand">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=sil-9z8CfwQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=bzwG-e-NJpc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sil-9z8CfwQ&title=%F0%9F%94%B4LIVE%3A+World+Artificial+Intelligence+Conference+Kicks+Off+in+Shanghai+%7C+AC1W&lang=en&timestamp=1784285919&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=8280">
-          <img src="https://ytcards.demolab.com/?id=sil-9z8CfwQ&title=%F0%9F%94%B4LIVE%3A+World+Artificial+Intelligence+Conference+Kicks+Off+in+Shanghai+%7C+AC1W&lang=en&timestamp=1784285919&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=8280" alt="🔴LIVE: World Artificial Intelligence Conference Kicks Off in Shanghai | AC1W" title="🔴LIVE: World Artificial Intelligence Conference Kicks Off in Shanghai | AC1W">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=bzwG-e-NJpc&title=FULL%3A+World+Artificial+Intelligence+Conference+Opens+in+Shanghai+%7C+AC1W&lang=en&timestamp=1784285991&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5155">
+          <img src="https://ytcards.demolab.com/?id=bzwG-e-NJpc&title=FULL%3A+World+Artificial+Intelligence+Conference+Opens+in+Shanghai+%7C+AC1W&lang=en&timestamp=1784285991&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5155" alt="FULL: World Artificial Intelligence Conference Opens in Shanghai | AC1W" title="FULL: World Artificial Intelligence Conference Opens in Shanghai | AC1W">
         </picture>
       </a>
     </td>
