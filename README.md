@@ -45,56 +45,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=x-ls5wXeAzc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=lrao8jLtN0U" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=x-ls5wXeAzc&title=LIVE%3A+World+Artificial+Intelligence+Conference+kicks-off+in+Shanghai&lang=en&timestamp=1784282670&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3887">
-          <img src="https://ytcards.demolab.com/?id=x-ls5wXeAzc&title=LIVE%3A+World+Artificial+Intelligence+Conference+kicks-off+in+Shanghai&lang=en&timestamp=1784282670&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3887" alt="LIVE: World Artificial Intelligence Conference kicks-off in Shanghai" title="LIVE: World Artificial Intelligence Conference kicks-off in Shanghai">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lrao8jLtN0U&title=Artificial+Intelligence+Trends+That+Will+Change+Everything&lang=en&timestamp=1784329322&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1084">
+          <img src="https://ytcards.demolab.com/?id=lrao8jLtN0U&title=Artificial+Intelligence+Trends+That+Will+Change+Everything&lang=en&timestamp=1784329322&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1084" alt="Artificial Intelligence Trends That Will Change Everything" title="Artificial Intelligence Trends That Will Change Everything">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=wh2Qe4sSnw8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=rXK7fw0Hb_M" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wh2Qe4sSnw8&title=LIVE%3A+Xi+Jinping+Delivers+Keynote+Speech+at+World+AI+Conference+2026+%7C+WAIC+Shanghai+%7C+AI1Z&lang=en&timestamp=1784268270&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7470">
-          <img src="https://ytcards.demolab.com/?id=wh2Qe4sSnw8&title=LIVE%3A+Xi+Jinping+Delivers+Keynote+Speech+at+World+AI+Conference+2026+%7C+WAIC+Shanghai+%7C+AI1Z&lang=en&timestamp=1784268270&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7470" alt="LIVE: Xi Jinping Delivers Keynote Speech at World AI Conference 2026 | WAIC Shanghai | AI1Z" title="LIVE: Xi Jinping Delivers Keynote Speech at World AI Conference 2026 | WAIC Shanghai | AI1Z">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=rXK7fw0Hb_M&title=AI%3A+%E2%80%9CTechnology+that+will+shape+the+future+of+humanity+must+be+shaped+by+all+humanity%E2%80%9D+-+UN+Chief&lang=en&timestamp=1784314922&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=425">
+          <img src="https://ytcards.demolab.com/?id=rXK7fw0Hb_M&title=AI%3A+%E2%80%9CTechnology+that+will+shape+the+future+of+humanity+must+be+shaped+by+all+humanity%E2%80%9D+-+UN+Chief&lang=en&timestamp=1784314922&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=425" alt="AI: “Technology that will shape the future of humanity must be shaped by all humanity” - UN Chief" title="AI: “Technology that will shape the future of humanity must be shaped by all humanity” - UN Chief">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=ebqX46CHTaY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ebqX46CHTaY&title=Build+a+Custom+PC+for+AI+and+Local+LLMs%21&lang=en&timestamp=1784311470&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=416">
-          <img src="https://ytcards.demolab.com/?id=ebqX46CHTaY&title=Build+a+Custom+PC+for+AI+and+Local+LLMs%21&lang=en&timestamp=1784311470&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=416" alt="Build a Custom PC for AI and Local LLMs!" title="Build a Custom PC for AI and Local LLMs!">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ebqX46CHTaY&title=Build+a+Custom+PC+for+AI+and+Local+LLMs%21&lang=en&timestamp=1784311322&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=416">
+          <img src="https://ytcards.demolab.com/?id=ebqX46CHTaY&title=Build+a+Custom+PC+for+AI+and+Local+LLMs%21&lang=en&timestamp=1784311322&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=416" alt="Build a Custom PC for AI and Local LLMs!" title="Build a Custom PC for AI and Local LLMs!">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
+      <a href="https://www.youtube.com/watch?v=x-ls5wXeAzc" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=x-ls5wXeAzc&title=LIVE%3A+World+Artificial+Intelligence+Conference+kicks-off+in+Shanghai&lang=en&timestamp=1784282522&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3887">
+          <img src="https://ytcards.demolab.com/?id=x-ls5wXeAzc&title=LIVE%3A+World+Artificial+Intelligence+Conference+kicks-off+in+Shanghai&lang=en&timestamp=1784282522&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3887" alt="LIVE: World Artificial Intelligence Conference kicks-off in Shanghai" title="LIVE: World Artificial Intelligence Conference kicks-off in Shanghai">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=g7j5uypMffA" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=g7j5uypMffA&title=China%27s+AI+Conference+2026+Highlights%3A+Huawei+SuperPod%2C+Humanoid+Robots+%26+AI+Breakthroughs+%7C+AI1G&lang=en&timestamp=1784307722&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=545">
+          <img src="https://ytcards.demolab.com/?id=g7j5uypMffA&title=China%27s+AI+Conference+2026+Highlights%3A+Huawei+SuperPod%2C+Humanoid+Robots+%26+AI+Breakthroughs+%7C+AI1G&lang=en&timestamp=1784307722&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=545" alt="China's AI Conference 2026 Highlights: Huawei SuperPod, Humanoid Robots & AI Breakthroughs | AI1G" title="China's AI Conference 2026 Highlights: Huawei SuperPod, Humanoid Robots & AI Breakthroughs | AI1G">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
       <a href="https://www.youtube.com/watch?v=6CDPSJJ7cMk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6CDPSJJ7cMk&title=Artificial+Intelligence+and+the+Future+of+Work%3A+AI%E2%80%99s+Current+and+Expected+Impacts+on+the+Workforce&lang=en&timestamp=1784261070&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3800">
-          <img src="https://ytcards.demolab.com/?id=6CDPSJJ7cMk&title=Artificial+Intelligence+and+the+Future+of+Work%3A+AI%E2%80%99s+Current+and+Expected+Impacts+on+the+Workforce&lang=en&timestamp=1784261070&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3800" alt="Artificial Intelligence and the Future of Work: AI’s Current and Expected Impacts on the Workforce" title="Artificial Intelligence and the Future of Work: AI’s Current and Expected Impacts on the Workforce">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=uvFbZr2X5jE" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=uvFbZr2X5jE&title=LIVE+%7C+China%E2%80%99s+Xi+Jinping+Addresses+World+AI+Conference+As+Us+Tech+Rivalry+Heats+Up+%7C+China+News&lang=en&timestamp=1784268270&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=11213">
-          <img src="https://ytcards.demolab.com/?id=uvFbZr2X5jE&title=LIVE+%7C+China%E2%80%99s+Xi+Jinping+Addresses+World+AI+Conference+As+Us+Tech+Rivalry+Heats+Up+%7C+China+News&lang=en&timestamp=1784268270&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=11213" alt="LIVE | China’s Xi Jinping Addresses World AI Conference As Us Tech Rivalry Heats Up | China News" title="LIVE | China’s Xi Jinping Addresses World AI Conference As Us Tech Rivalry Heats Up | China News">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=7G-MDVXjALk" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=7G-MDVXjALk&title=Utah+becomes+the+first+state+to+implement+artificial+intelligence+for+prescriptions&lang=en&timestamp=1784293470&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=125">
-          <img src="https://ytcards.demolab.com/?id=7G-MDVXjALk&title=Utah+becomes+the+first+state+to+implement+artificial+intelligence+for+prescriptions&lang=en&timestamp=1784293470&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=125" alt="Utah becomes the first state to implement artificial intelligence for prescriptions" title="Utah becomes the first state to implement artificial intelligence for prescriptions">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6CDPSJJ7cMk&title=Artificial+Intelligence+and+the+Future+of+Work%3A+AI%E2%80%99s+Current+and+Expected+Impacts+on+the+Workforce&lang=en&timestamp=1784271722&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3800">
+          <img src="https://ytcards.demolab.com/?id=6CDPSJJ7cMk&title=Artificial+Intelligence+and+the+Future+of+Work%3A+AI%E2%80%99s+Current+and+Expected+Impacts+on+the+Workforce&lang=en&timestamp=1784271722&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3800" alt="Artificial Intelligence and the Future of Work: AI’s Current and Expected Impacts on the Workforce" title="Artificial Intelligence and the Future of Work: AI’s Current and Expected Impacts on the Workforce">
         </picture>
       </a>
     </td>
