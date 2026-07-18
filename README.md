@@ -47,56 +47,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=lrao8jLtN0U" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lrao8jLtN0U&title=Artificial+Intelligence+Trends+That+Will+Change+Everything&lang=en&timestamp=1784329729&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1084">
-          <img src="https://ytcards.demolab.com/?id=lrao8jLtN0U&title=Artificial+Intelligence+Trends+That+Will+Change+Everything&lang=en&timestamp=1784329729&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1084" alt="Artificial Intelligence Trends That Will Change Everything" title="Artificial Intelligence Trends That Will Change Everything">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
       <a href="https://www.youtube.com/watch?v=GGY17VD_9Bs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=GGY17VD_9Bs&title=The+Next+10+Years+of+AI+Will+Change+Everything++%7C+Alexander+Wissner-Gross+%7C+TEDxBoston&lang=en&timestamp=1784308129&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1113">
-          <img src="https://ytcards.demolab.com/?id=GGY17VD_9Bs&title=The+Next+10+Years+of+AI+Will+Change+Everything++%7C+Alexander+Wissner-Gross+%7C+TEDxBoston&lang=en&timestamp=1784308129&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1113" alt="The Next 10 Years of AI Will Change Everything  | Alexander Wissner-Gross | TEDxBoston" title="The Next 10 Years of AI Will Change Everything  | Alexander Wissner-Gross | TEDxBoston">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=GGY17VD_9Bs&title=The+Next+10+Years+of+AI+Will+Change+Everything++%7C+Alexander+Wissner-Gross+%7C+TEDxBoston&lang=en&timestamp=1784309696&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1113">
+          <img src="https://ytcards.demolab.com/?id=GGY17VD_9Bs&title=The+Next+10+Years+of+AI+Will+Change+Everything++%7C+Alexander+Wissner-Gross+%7C+TEDxBoston&lang=en&timestamp=1784309696&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1113" alt="The Next 10 Years of AI Will Change Everything  | Alexander Wissner-Gross | TEDxBoston" title="The Next 10 Years of AI Will Change Everything  | Alexander Wissner-Gross | TEDxBoston">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=f2hqUNlBXXo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=lrao8jLtN0U" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=f2hqUNlBXXo&title=29+Nations+sign+World+AI+Cooperation+Organization+agreement&lang=en&timestamp=1784311729&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=150">
-          <img src="https://ytcards.demolab.com/?id=f2hqUNlBXXo&title=29+Nations+sign+World+AI+Cooperation+Organization+agreement&lang=en&timestamp=1784311729&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=150" alt="29 Nations sign World AI Cooperation Organization agreement" title="29 Nations sign World AI Cooperation Organization agreement">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lrao8jLtN0U&title=Artificial+Intelligence+Trends+That+Will+Change+Everything&lang=en&timestamp=1784331296&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1084">
+          <img src="https://ytcards.demolab.com/?id=lrao8jLtN0U&title=Artificial+Intelligence+Trends+That+Will+Change+Everything&lang=en&timestamp=1784331296&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1084" alt="Artificial Intelligence Trends That Will Change Everything" title="Artificial Intelligence Trends That Will Change Everything">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=qFmausVLzEk" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qFmausVLzEk&title=Regulating+AI+is+like+catching+smoke%2C+warns+Christopher+Pyne+%7C+Insiders+On+Background&lang=en&timestamp=1784352896&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1464">
+          <img src="https://ytcards.demolab.com/?id=qFmausVLzEk&title=Regulating+AI+is+like+catching+smoke%2C+warns+Christopher+Pyne+%7C+Insiders+On+Background&lang=en&timestamp=1784352896&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1464" alt="Regulating AI is like catching smoke, warns Christopher Pyne | Insiders On Background" title="Regulating AI is like catching smoke, warns Christopher Pyne | Insiders On Background">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=AgUQUTkEK-M" target="_blank">
+      <a href="https://www.youtube.com/watch?v=f2hqUNlBXXo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=AgUQUTkEK-M&title=%22Many+People+Don%27t+Realize+What%27s+Coming+for+the+Markets%22+%7C+Raoul+Pal%27s+LATEST+WARNING&lang=en&timestamp=1784329729&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=981">
-          <img src="https://ytcards.demolab.com/?id=AgUQUTkEK-M&title=%22Many+People+Don%27t+Realize+What%27s+Coming+for+the+Markets%22+%7C+Raoul+Pal%27s+LATEST+WARNING&lang=en&timestamp=1784329729&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=981" alt="&quot;Many People Don't Realize What's Coming for the Markets&quot; | Raoul Pal's LATEST WARNING" title="&quot;Many People Don't Realize What's Coming for the Markets&quot; | Raoul Pal's LATEST WARNING">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=f2hqUNlBXXo&title=29+Nations+sign+World+AI+Cooperation+Organization+agreement&lang=en&timestamp=1784313296&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=150">
+          <img src="https://ytcards.demolab.com/?id=f2hqUNlBXXo&title=29+Nations+sign+World+AI+Cooperation+Organization+agreement&lang=en&timestamp=1784313296&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=150" alt="29 Nations sign World AI Cooperation Organization agreement" title="29 Nations sign World AI Cooperation Organization agreement">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=rXK7fw0Hb_M" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=rXK7fw0Hb_M&title=AI%3A+%E2%80%9CTechnology+that+will+shape+the+future+of+humanity+must+be+shaped+by+all+humanity%E2%80%9D+-+UN+Chief&lang=en&timestamp=1784311729&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=425">
-          <img src="https://ytcards.demolab.com/?id=rXK7fw0Hb_M&title=AI%3A+%E2%80%9CTechnology+that+will+shape+the+future+of+humanity+must+be+shaped+by+all+humanity%E2%80%9D+-+UN+Chief&lang=en&timestamp=1784311729&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=425" alt="AI: “Technology that will shape the future of humanity must be shaped by all humanity” - UN Chief" title="AI: “Technology that will shape the future of humanity must be shaped by all humanity” - UN Chief">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=rXK7fw0Hb_M&title=AI%3A+%E2%80%9CTechnology+that+will+shape+the+future+of+humanity+must+be+shaped+by+all+humanity%E2%80%9D+-+UN+Chief&lang=en&timestamp=1784313296&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=425">
+          <img src="https://ytcards.demolab.com/?id=rXK7fw0Hb_M&title=AI%3A+%E2%80%9CTechnology+that+will+shape+the+future+of+humanity+must+be+shaped+by+all+humanity%E2%80%9D+-+UN+Chief&lang=en&timestamp=1784313296&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=425" alt="AI: “Technology that will shape the future of humanity must be shaped by all humanity” - UN Chief" title="AI: “Technology that will shape the future of humanity must be shaped by all humanity” - UN Chief">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=2w2MfQKxEe4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=WYwMX21vOAc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2w2MfQKxEe4&title=Xi+Jinping+Calls+for+Global+AI+Cooperation+at+World+AI+Conference+2026&lang=en&timestamp=1784358529&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=69">
-          <img src="https://ytcards.demolab.com/?id=2w2MfQKxEe4&title=Xi+Jinping+Calls+for+Global+AI+Cooperation+at+World+AI+Conference+2026&lang=en&timestamp=1784358529&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=69" alt="Xi Jinping Calls for Global AI Cooperation at World AI Conference 2026" title="Xi Jinping Calls for Global AI Cooperation at World AI Conference 2026">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WYwMX21vOAc&title=why+are+these+musicals+using+AI%3F%21+%7C+the+growing+problem+with+artificial+intelligence+on+and+offstage&lang=en&timestamp=1784313296&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1885">
+          <img src="https://ytcards.demolab.com/?id=WYwMX21vOAc&title=why+are+these+musicals+using+AI%3F%21+%7C+the+growing+problem+with+artificial+intelligence+on+and+offstage&lang=en&timestamp=1784313296&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1885" alt="why are these musicals using AI?! | the growing problem with artificial intelligence on and offstage" title="why are these musicals using AI?! | the growing problem with artificial intelligence on and offstage">
         </picture>
       </a>
     </td>
