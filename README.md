@@ -49,56 +49,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
+      <a href="https://www.youtube.com/watch?v=GGY17VD_9Bs" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=GGY17VD_9Bs&title=The+Next+10+Years+of+AI+Will+Change+Everything++%7C+Alexander+Wissner-Gross+%7C+TEDxBoston&lang=en&timestamp=1784321830&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1113">
+          <img src="https://ytcards.demolab.com/?id=GGY17VD_9Bs&title=The+Next+10+Years+of+AI+Will+Change+Everything++%7C+Alexander+Wissner-Gross+%7C+TEDxBoston&lang=en&timestamp=1784321830&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1113" alt="The Next 10 Years of AI Will Change Everything  | Alexander Wissner-Gross | TEDxBoston" title="The Next 10 Years of AI Will Change Everything  | Alexander Wissner-Gross | TEDxBoston">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
       <a href="https://www.youtube.com/watch?v=lrao8jLtN0U" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lrao8jLtN0U&title=Artificial+Intelligence+Trends+That+Will+Change+Everything&lang=en&timestamp=1784329360&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1084">
-          <img src="https://ytcards.demolab.com/?id=lrao8jLtN0U&title=Artificial+Intelligence+Trends+That+Will+Change+Everything&lang=en&timestamp=1784329360&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1084" alt="Artificial Intelligence Trends That Will Change Everything" title="Artificial Intelligence Trends That Will Change Everything">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lrao8jLtN0U&title=Artificial+Intelligence+Trends+That+Will+Change+Everything&lang=en&timestamp=1784329030&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1084">
+          <img src="https://ytcards.demolab.com/?id=lrao8jLtN0U&title=Artificial+Intelligence+Trends+That+Will+Change+Everything&lang=en&timestamp=1784329030&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1084" alt="Artificial Intelligence Trends That Will Change Everything" title="Artificial Intelligence Trends That Will Change Everything">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=4KM70AALlKk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=WSHdRupUPd4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4KM70AALlKk&title=AI+backlash%3A+What%E2%80%99s+it+like+living+near+a+data+centre+%7C+ABC+NEWS&lang=en&timestamp=1784354560&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=631">
-          <img src="https://ytcards.demolab.com/?id=4KM70AALlKk&title=AI+backlash%3A+What%E2%80%99s+it+like+living+near+a+data+centre+%7C+ABC+NEWS&lang=en&timestamp=1784354560&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=631" alt="AI backlash: What’s it like living near a data centre | ABC NEWS" title="AI backlash: What’s it like living near a data centre | ABC NEWS">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=qFmausVLzEk" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qFmausVLzEk&title=Regulating+AI+is+like+catching+smoke%2C+warns+Christopher+Pyne+%7C+Insiders+On+Background&lang=en&timestamp=1784350960&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1464">
-          <img src="https://ytcards.demolab.com/?id=qFmausVLzEk&title=Regulating+AI+is+like+catching+smoke%2C+warns+Christopher+Pyne+%7C+Insiders+On+Background&lang=en&timestamp=1784350960&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1464" alt="Regulating AI is like catching smoke, warns Christopher Pyne | Insiders On Background" title="Regulating AI is like catching smoke, warns Christopher Pyne | Insiders On Background">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WSHdRupUPd4&title=Billionaire+Investor+WARNS%3A++AI+Will+END+UP+Destroying+The+Human+Species+-+Jeremy+Grantham&lang=en&timestamp=1784393830&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=767">
+          <img src="https://ytcards.demolab.com/?id=WSHdRupUPd4&title=Billionaire+Investor+WARNS%3A++AI+Will+END+UP+Destroying+The+Human+Species+-+Jeremy+Grantham&lang=en&timestamp=1784393830&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=767" alt="Billionaire Investor WARNS:  AI Will END UP Destroying The Human Species - Jeremy Grantham" title="Billionaire Investor WARNS:  AI Will END UP Destroying The Human Species - Jeremy Grantham">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=J7IC2YcNrY0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=e9aUAnwRtM4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=J7IC2YcNrY0&title=How+Artificial+Intelligence+Changed+the+Gaza+War+ISRAEL+Conflict+Exposed&lang=en&timestamp=1784322160&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=269">
-          <img src="https://ytcards.demolab.com/?id=J7IC2YcNrY0&title=How+Artificial+Intelligence+Changed+the+Gaza+War+ISRAEL+Conflict+Exposed&lang=en&timestamp=1784322160&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=269" alt="How Artificial Intelligence Changed the Gaza War ISRAEL Conflict Exposed" title="How Artificial Intelligence Changed the Gaza War ISRAEL Conflict Exposed">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=e9aUAnwRtM4&title=Aspen+Security+Forum+puts+focus+on+issue+of+artificial+intelligence&lang=en&timestamp=1784404630&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=185">
+          <img src="https://ytcards.demolab.com/?id=e9aUAnwRtM4&title=Aspen+Security+Forum+puts+focus+on+issue+of+artificial+intelligence&lang=en&timestamp=1784404630&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=185" alt="Aspen Security Forum puts focus on issue of artificial intelligence" title="Aspen Security Forum puts focus on issue of artificial intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=MnFA1-w1Pzs" target="_blank">
+      <a href="https://www.youtube.com/watch?v=4KM70AALlKk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=MnFA1-w1Pzs&title=Why+Google%27s+AI+chief+wants+governments+to+regulate+AI+before+AGI+arrives&lang=en&timestamp=1784307760&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=156">
-          <img src="https://ytcards.demolab.com/?id=MnFA1-w1Pzs&title=Why+Google%27s+AI+chief+wants+governments+to+regulate+AI+before+AGI+arrives&lang=en&timestamp=1784307760&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=156" alt="Why Google's AI chief wants governments to regulate AI before AGI arrives" title="Why Google's AI chief wants governments to regulate AI before AGI arrives">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4KM70AALlKk&title=AI+backlash%3A+What%E2%80%99s+it+like+living+near+a+data+centre+%7C+ABC+NEWS&lang=en&timestamp=1784357830&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=631">
+          <img src="https://ytcards.demolab.com/?id=4KM70AALlKk&title=AI+backlash%3A+What%E2%80%99s+it+like+living+near+a+data+centre+%7C+ABC+NEWS&lang=en&timestamp=1784357830&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=631" alt="AI backlash: What’s it like living near a data centre | ABC NEWS" title="AI backlash: What’s it like living near a data centre | ABC NEWS">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=5D4Zqp9GLSc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=qFmausVLzEk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5D4Zqp9GLSc&title=OpenAI+is+being+sued+for+stealing%2C+again%E2%80%A6&lang=en&timestamp=1784311360&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=296">
-          <img src="https://ytcards.demolab.com/?id=5D4Zqp9GLSc&title=OpenAI+is+being+sued+for+stealing%2C+again%E2%80%A6&lang=en&timestamp=1784311360&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=296" alt="OpenAI is being sued for stealing, again…" title="OpenAI is being sued for stealing, again…">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qFmausVLzEk&title=Regulating+AI+is+like+catching+smoke%2C+warns+Christopher+Pyne+%7C+Insiders+On+Background&lang=en&timestamp=1784350630&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1464">
+          <img src="https://ytcards.demolab.com/?id=qFmausVLzEk&title=Regulating+AI+is+like+catching+smoke%2C+warns+Christopher+Pyne+%7C+Insiders+On+Background&lang=en&timestamp=1784350630&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1464" alt="Regulating AI is like catching smoke, warns Christopher Pyne | Insiders On Background" title="Regulating AI is like catching smoke, warns Christopher Pyne | Insiders On Background">
         </picture>
       </a>
     </td>
