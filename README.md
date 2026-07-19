@@ -55,56 +55,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
+      <a href="https://www.youtube.com/watch?v=zWJ-g5u9Rqs" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zWJ-g5u9Rqs&title=AI+Bubble+vs+Dot+Com+Crash.+History+is+REPEATING&lang=en&timestamp=1784387597&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1314">
+          <img src="https://ytcards.demolab.com/?id=zWJ-g5u9Rqs&title=AI+Bubble+vs+Dot+Com+Crash.+History+is+REPEATING&lang=en&timestamp=1784387597&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1314" alt="AI Bubble vs Dot Com Crash. History is REPEATING" title="AI Bubble vs Dot Com Crash. History is REPEATING">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
       <a href="https://www.youtube.com/watch?v=8v5T7Gk0_b8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8v5T7Gk0_b8&title=Chinese+AI+Model+Raises+Pressure+on+US+Spending&lang=en&timestamp=1784376508&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=747">
-          <img src="https://ytcards.demolab.com/?id=8v5T7Gk0_b8&title=Chinese+AI+Model+Raises+Pressure+on+US+Spending&lang=en&timestamp=1784376508&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=747" alt="Chinese AI Model Raises Pressure on US Spending" title="Chinese AI Model Raises Pressure on US Spending">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8v5T7Gk0_b8&title=Chinese+AI+Model+Raises+Pressure+on+US+Spending&lang=en&timestamp=1784376797&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=747">
+          <img src="https://ytcards.demolab.com/?id=8v5T7Gk0_b8&title=Chinese+AI+Model+Raises+Pressure+on+US+Spending&lang=en&timestamp=1784376797&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=747" alt="Chinese AI Model Raises Pressure on US Spending" title="Chinese AI Model Raises Pressure on US Spending">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=_eCEUd22y1w" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_eCEUd22y1w&title=Are+we+losing+our+minds+to+AI%3F+%7C+BBC+News&lang=en&timestamp=1784365708&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1559">
-          <img src="https://ytcards.demolab.com/?id=_eCEUd22y1w&title=Are+we+losing+our+minds+to+AI%3F+%7C+BBC+News&lang=en&timestamp=1784365708&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1559" alt="Are we losing our minds to AI? | BBC News" title="Are we losing our minds to AI? | BBC News">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=uM_3C3-5Dl4" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=uM_3C3-5Dl4&title=UN+Chief%27s+Stark+AI+Warning+%7C+Will+Artificial+Intelligence+Reduce+Inequalities+Or+Reinforce+Them%3F&lang=en&timestamp=1784451688&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=483">
-          <img src="https://ytcards.demolab.com/?id=uM_3C3-5Dl4&title=UN+Chief%27s+Stark+AI+Warning+%7C+Will+Artificial+Intelligence+Reduce+Inequalities+Or+Reinforce+Them%3F&lang=en&timestamp=1784451688&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=483" alt="UN Chief's Stark AI Warning | Will Artificial Intelligence Reduce Inequalities Or Reinforce Them?" title="UN Chief's Stark AI Warning | Will Artificial Intelligence Reduce Inequalities Or Reinforce Them?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_eCEUd22y1w&title=Are+we+losing+our+minds+to+AI%3F+%7C+BBC+News&lang=en&timestamp=1784373197&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1559">
+          <img src="https://ytcards.demolab.com/?id=_eCEUd22y1w&title=Are+we+losing+our+minds+to+AI%3F+%7C+BBC+News&lang=en&timestamp=1784373197&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1559" alt="Are we losing our minds to AI? | BBC News" title="Are we losing our minds to AI? | BBC News">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=e9aUAnwRtM4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=uM_3C3-5Dl4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=e9aUAnwRtM4&title=Aspen+Security+Forum+puts+focus+on+issue+of+artificial+intelligence&lang=en&timestamp=1784405308&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=185">
-          <img src="https://ytcards.demolab.com/?id=e9aUAnwRtM4&title=Aspen+Security+Forum+puts+focus+on+issue+of+artificial+intelligence&lang=en&timestamp=1784405308&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=185" alt="Aspen Security Forum puts focus on issue of artificial intelligence" title="Aspen Security Forum puts focus on issue of artificial intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=uM_3C3-5Dl4&title=UN+Chief+Warns+AI+%22Cannot+Be+Governed+By+A+Handful+Of+Countries+Or+A+Handful+Of+Companies%22&lang=en&timestamp=1784452397&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=483">
+          <img src="https://ytcards.demolab.com/?id=uM_3C3-5Dl4&title=UN+Chief+Warns+AI+%22Cannot+Be+Governed+By+A+Handful+Of+Countries+Or+A+Handful+Of+Companies%22&lang=en&timestamp=1784452397&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=483" alt="UN Chief Warns AI &quot;Cannot Be Governed By A Handful Of Countries Or A Handful Of Companies&quot;" title="UN Chief Warns AI &quot;Cannot Be Governed By A Handful Of Countries Or A Handful Of Companies&quot;">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=aZ6o3SrzCWo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aZ6o3SrzCWo&title=World%27s+First+Robot+Fighting+Tournament+Is+Insane&lang=en&timestamp=1784387308&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=258">
-          <img src="https://ytcards.demolab.com/?id=aZ6o3SrzCWo&title=World%27s+First+Robot+Fighting+Tournament+Is+Insane&lang=en&timestamp=1784387308&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=258" alt="World's First Robot Fighting Tournament Is Insane" title="World's First Robot Fighting Tournament Is Insane">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aZ6o3SrzCWo&title=World%27s+First+Robot+Fighting+Tournament+Is+Insane&lang=en&timestamp=1784387597&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=258">
+          <img src="https://ytcards.demolab.com/?id=aZ6o3SrzCWo&title=World%27s+First+Robot+Fighting+Tournament+Is+Insane&lang=en&timestamp=1784387597&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=258" alt="World's First Robot Fighting Tournament Is Insane" title="World's First Robot Fighting Tournament Is Insane">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Xd_MwVcXGZU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=4tdhW7PFbqM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Xd_MwVcXGZU&title=Artificial+Intelligence+could+hurt+new+college+grads+more+in+the+job+market&lang=en&timestamp=1784383708&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=216">
-          <img src="https://ytcards.demolab.com/?id=Xd_MwVcXGZU&title=Artificial+Intelligence+could+hurt+new+college+grads+more+in+the+job+market&lang=en&timestamp=1784383708&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=216" alt="Artificial Intelligence could hurt new college grads more in the job market" title="Artificial Intelligence could hurt new college grads more in the job market">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4tdhW7PFbqM&title=The+Last+Supper+Has+Been+Reanalyzed+by+AI+%E2%80%94+The+Result+Shocked+the+Entire+World&lang=en&timestamp=1784398397&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1763">
+          <img src="https://ytcards.demolab.com/?id=4tdhW7PFbqM&title=The+Last+Supper+Has+Been+Reanalyzed+by+AI+%E2%80%94+The+Result+Shocked+the+Entire+World&lang=en&timestamp=1784398397&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1763" alt="The Last Supper Has Been Reanalyzed by AI — The Result Shocked the Entire World" title="The Last Supper Has Been Reanalyzed by AI — The Result Shocked the Entire World">
         </picture>
       </a>
     </td>
