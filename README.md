@@ -53,56 +53,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=8v5T7Gk0_b8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8v5T7Gk0_b8&title=Chinese+AI+Model+Raises+Pressure+on+US+Spending&lang=en&timestamp=1784377674&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=747">
-          <img src="https://ytcards.demolab.com/?id=8v5T7Gk0_b8&title=Chinese+AI+Model+Raises+Pressure+on+US+Spending&lang=en&timestamp=1784377674&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=747" alt="Chinese AI Model Raises Pressure on US Spending" title="Chinese AI Model Raises Pressure on US Spending">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8v5T7Gk0_b8&title=Chinese+AI+Model+Raises+Pressure+on+US+Spending&lang=en&timestamp=1784378139&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=747">
+          <img src="https://ytcards.demolab.com/?id=8v5T7Gk0_b8&title=Chinese+AI+Model+Raises+Pressure+on+US+Spending&lang=en&timestamp=1784378139&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=747" alt="Chinese AI Model Raises Pressure on US Spending" title="Chinese AI Model Raises Pressure on US Spending">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=_eCEUd22y1w" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_eCEUd22y1w&title=Are+we+losing+our+minds+to+AI%3F+%7C+BBC+News&lang=en&timestamp=1784367339&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1559">
+          <img src="https://ytcards.demolab.com/?id=_eCEUd22y1w&title=Are+we+losing+our+minds+to+AI%3F+%7C+BBC+News&lang=en&timestamp=1784367339&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1559" alt="Are we losing our minds to AI? | BBC News" title="Are we losing our minds to AI? | BBC News">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=WSHdRupUPd4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WSHdRupUPd4&title=Billionaire+Investor+WARNS%3A++AI+Will+END+UP+Destroying+The+Human+Species+-+Jeremy+Grantham&lang=en&timestamp=1784392074&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=767">
-          <img src="https://ytcards.demolab.com/?id=WSHdRupUPd4&title=Billionaire+Investor+WARNS%3A++AI+Will+END+UP+Destroying+The+Human+Species+-+Jeremy+Grantham&lang=en&timestamp=1784392074&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=767" alt="Billionaire Investor WARNS:  AI Will END UP Destroying The Human Species - Jeremy Grantham" title="Billionaire Investor WARNS:  AI Will END UP Destroying The Human Species - Jeremy Grantham">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=4tdhW7PFbqM" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4tdhW7PFbqM&title=The+Last+Supper+Has+Been+Reanalyzed+by+AI+%E2%80%94+The+Result+Shocked+the+Entire+World&lang=en&timestamp=1784395674&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1763">
-          <img src="https://ytcards.demolab.com/?id=4tdhW7PFbqM&title=The+Last+Supper+Has+Been+Reanalyzed+by+AI+%E2%80%94+The+Result+Shocked+the+Entire+World&lang=en&timestamp=1784395674&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1763" alt="The Last Supper Has Been Reanalyzed by AI — The Result Shocked the Entire World" title="The Last Supper Has Been Reanalyzed by AI — The Result Shocked the Entire World">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WSHdRupUPd4&title=Billionaire+Investor+WARNS%3A++AI+Will+END+UP+Destroying+The+Human+Species+-+Jeremy+Grantham&lang=en&timestamp=1784392539&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=767">
+          <img src="https://ytcards.demolab.com/?id=WSHdRupUPd4&title=Billionaire+Investor+WARNS%3A++AI+Will+END+UP+Destroying+The+Human+Species+-+Jeremy+Grantham&lang=en&timestamp=1784392539&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=767" alt="Billionaire Investor WARNS:  AI Will END UP Destroying The Human Species - Jeremy Grantham" title="Billionaire Investor WARNS:  AI Will END UP Destroying The Human Species - Jeremy Grantham">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=aZ6o3SrzCWo" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aZ6o3SrzCWo&title=World%27s+First+Robot+Fighting+Tournament+Is+Insane&lang=en&timestamp=1784388474&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=258">
-          <img src="https://ytcards.demolab.com/?id=aZ6o3SrzCWo&title=World%27s+First+Robot+Fighting+Tournament+Is+Insane&lang=en&timestamp=1784388474&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=258" alt="World's First Robot Fighting Tournament Is Insane" title="World's First Robot Fighting Tournament Is Insane">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=vAghx3KJUQU" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vAghx3KJUQU&title=They+Saw+%27A.I.+Films%27...+and+Thought+It+Meant+Artificial+Intelligence+%F0%9F%A4%A6%E2%80%8D%E2%99%82%EF%B8%8F+%7C+1957+Documentary+PROOF&lang=en&timestamp=1784417274&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6665">
-          <img src="https://ytcards.demolab.com/?id=vAghx3KJUQU&title=They+Saw+%27A.I.+Films%27...+and+Thought+It+Meant+Artificial+Intelligence+%F0%9F%A4%A6%E2%80%8D%E2%99%82%EF%B8%8F+%7C+1957+Documentary+PROOF&lang=en&timestamp=1784417274&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6665" alt="They Saw 'A.I. Films'... and Thought It Meant Artificial Intelligence 🤦‍♂️ | 1957 Documentary PROOF" title="They Saw 'A.I. Films'... and Thought It Meant Artificial Intelligence 🤦‍♂️ | 1957 Documentary PROOF">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
       <a href="https://www.youtube.com/watch?v=e9aUAnwRtM4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=e9aUAnwRtM4&title=Aspen+Security+Forum+puts+focus+on+issue+of+artificial+intelligence&lang=en&timestamp=1784402874&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=185">
-          <img src="https://ytcards.demolab.com/?id=e9aUAnwRtM4&title=Aspen+Security+Forum+puts+focus+on+issue+of+artificial+intelligence&lang=en&timestamp=1784402874&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=185" alt="Aspen Security Forum puts focus on issue of artificial intelligence" title="Aspen Security Forum puts focus on issue of artificial intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=e9aUAnwRtM4&title=Aspen+Security+Forum+puts+focus+on+issue+of+artificial+intelligence&lang=en&timestamp=1784403339&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=185">
+          <img src="https://ytcards.demolab.com/?id=e9aUAnwRtM4&title=Aspen+Security+Forum+puts+focus+on+issue+of+artificial+intelligence&lang=en&timestamp=1784403339&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=185" alt="Aspen Security Forum puts focus on issue of artificial intelligence" title="Aspen Security Forum puts focus on issue of artificial intelligence">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=aZ6o3SrzCWo" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aZ6o3SrzCWo&title=World%27s+First+Robot+Fighting+Tournament+Is+Insane&lang=en&timestamp=1784388939&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=258">
+          <img src="https://ytcards.demolab.com/?id=aZ6o3SrzCWo&title=World%27s+First+Robot+Fighting+Tournament+Is+Insane&lang=en&timestamp=1784388939&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=258" alt="World's First Robot Fighting Tournament Is Insane" title="World's First Robot Fighting Tournament Is Insane">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=4tdhW7PFbqM" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4tdhW7PFbqM&title=The+Last+Supper+Has+Been+Reanalyzed+by+AI+%E2%80%94+The+Result+Shocked+the+Entire+World&lang=en&timestamp=1784396139&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1763">
+          <img src="https://ytcards.demolab.com/?id=4tdhW7PFbqM&title=The+Last+Supper+Has+Been+Reanalyzed+by+AI+%E2%80%94+The+Result+Shocked+the+Entire+World&lang=en&timestamp=1784396139&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1763" alt="The Last Supper Has Been Reanalyzed by AI — The Result Shocked the Entire World" title="The Last Supper Has Been Reanalyzed by AI — The Result Shocked the Entire World">
         </picture>
       </a>
     </td>
