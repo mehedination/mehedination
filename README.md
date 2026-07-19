@@ -57,56 +57,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=B1ThwmDJmn0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=668e9L6G-qw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=B1ThwmDJmn0&title=China+World+AI+Conference+Mocked%3A+No+Western+Nations+Attend%2C+Turns+Into+A+%E2%80%9CBeggar%E2%80%99s+Fair%E2%80%9D&lang=en&timestamp=1784421443&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1016">
-          <img src="https://ytcards.demolab.com/?id=B1ThwmDJmn0&title=China+World+AI+Conference+Mocked%3A+No+Western+Nations+Attend%2C+Turns+Into+A+%E2%80%9CBeggar%E2%80%99s+Fair%E2%80%9D&lang=en&timestamp=1784421443&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1016" alt="China World AI Conference Mocked: No Western Nations Attend, Turns Into A “Beggar’s Fair”" title="China World AI Conference Mocked: No Western Nations Attend, Turns Into A “Beggar’s Fair”">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=e9aUAnwRtM4" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=e9aUAnwRtM4&title=Aspen+Security+Forum+puts+focus+on+issue+of+artificial+intelligence&lang=en&timestamp=1784403443&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=185">
-          <img src="https://ytcards.demolab.com/?id=e9aUAnwRtM4&title=Aspen+Security+Forum+puts+focus+on+issue+of+artificial+intelligence&lang=en&timestamp=1784403443&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=185" alt="Aspen Security Forum puts focus on issue of artificial intelligence" title="Aspen Security Forum puts focus on issue of artificial intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=668e9L6G-qw&title=How+Artificial+Intelligence+Is+Creating+Millionaires+and+Changing+Luxury+Spending+%7C+Tech+%26+Trade&lang=en&timestamp=1784471407&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=563">
+          <img src="https://ytcards.demolab.com/?id=668e9L6G-qw&title=How+Artificial+Intelligence+Is+Creating+Millionaires+and+Changing+Luxury+Spending+%7C+Tech+%26+Trade&lang=en&timestamp=1784471407&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=563" alt="How Artificial Intelligence Is Creating Millionaires and Changing Luxury Spending | Tech & Trade" title="How Artificial Intelligence Is Creating Millionaires and Changing Luxury Spending | Tech & Trade">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=VS00sg8rsnE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=VS00sg8rsnE&title=Why+AI+Suddenly+Looks+Extra+Bubbly&lang=en&timestamp=1784381843&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=536">
-          <img src="https://ytcards.demolab.com/?id=VS00sg8rsnE&title=Why+AI+Suddenly+Looks+Extra+Bubbly&lang=en&timestamp=1784381843&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=536" alt="Why AI Suddenly Looks Extra Bubbly" title="Why AI Suddenly Looks Extra Bubbly">
-        </picture>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=_eCEUd22y1w" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_eCEUd22y1w&title=Are+we+losing+our+minds+to+AI%3F+%7C+BBC+News&lang=en&timestamp=1784381843&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1559">
-          <img src="https://ytcards.demolab.com/?id=_eCEUd22y1w&title=Are+we+losing+our+minds+to+AI%3F+%7C+BBC+News&lang=en&timestamp=1784381843&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1559" alt="Are we losing our minds to AI? | BBC News" title="Are we losing our minds to AI? | BBC News">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=VS00sg8rsnE&title=Why+AI+Suddenly+Looks+Extra+Bubbly&lang=en&timestamp=1784386927&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=536">
+          <img src="https://ytcards.demolab.com/?id=VS00sg8rsnE&title=Why+AI+Suddenly+Looks+Extra+Bubbly&lang=en&timestamp=1784386927&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=536" alt="Why AI Suddenly Looks Extra Bubbly" title="Why AI Suddenly Looks Extra Bubbly">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=8v5T7Gk0_b8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8v5T7Gk0_b8&title=Chinese+AI+Model+Raises+Pressure+on+US+Spending&lang=en&timestamp=1784381843&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=747">
-          <img src="https://ytcards.demolab.com/?id=8v5T7Gk0_b8&title=Chinese+AI+Model+Raises+Pressure+on+US+Spending&lang=en&timestamp=1784381843&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=747" alt="Chinese AI Model Raises Pressure on US Spending" title="Chinese AI Model Raises Pressure on US Spending">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8v5T7Gk0_b8&title=Chinese+AI+Model+Raises+Pressure+on+US+Spending&lang=en&timestamp=1784386927&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=747">
+          <img src="https://ytcards.demolab.com/?id=8v5T7Gk0_b8&title=Chinese+AI+Model+Raises+Pressure+on+US+Spending&lang=en&timestamp=1784386927&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=747" alt="Chinese AI Model Raises Pressure on US Spending" title="Chinese AI Model Raises Pressure on US Spending">
+        </picture>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=qpC6jLih2Xg" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qpC6jLih2Xg&title=Coalition+want+a+%E2%80%98forward+leaning%E2%80%99+policy+on+artificial+intelligence&lang=en&timestamp=1784472187&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=95">
+          <img src="https://ytcards.demolab.com/?id=qpC6jLih2Xg&title=Coalition+want+a+%E2%80%98forward+leaning%E2%80%99+policy+on+artificial+intelligence&lang=en&timestamp=1784472187&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=95" alt="Coalition want a ‘forward leaning’ policy on artificial intelligence" title="Coalition want a ‘forward leaning’ policy on artificial intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=aZ6o3SrzCWo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=_eCEUd22y1w" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aZ6o3SrzCWo&title=World%27s+First+Robot+Fighting+Tournament+Is+Insane&lang=en&timestamp=1784389043&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=258">
-          <img src="https://ytcards.demolab.com/?id=aZ6o3SrzCWo&title=World%27s+First+Robot+Fighting+Tournament+Is+Insane&lang=en&timestamp=1784389043&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=258" alt="World's First Robot Fighting Tournament Is Insane" title="World's First Robot Fighting Tournament Is Insane">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_eCEUd22y1w&title=Are+we+losing+our+minds+to+AI%3F+%7C+BBC+News&lang=en&timestamp=1784386927&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1559">
+          <img src="https://ytcards.demolab.com/?id=_eCEUd22y1w&title=Are+we+losing+our+minds+to+AI%3F+%7C+BBC+News&lang=en&timestamp=1784386927&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1559" alt="Are we losing our minds to AI? | BBC News" title="Are we losing our minds to AI? | BBC News">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=e9aUAnwRtM4" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=e9aUAnwRtM4&title=Aspen+Security+Forum+puts+focus+on+issue+of+artificial+intelligence&lang=en&timestamp=1784404927&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=185">
+          <img src="https://ytcards.demolab.com/?id=e9aUAnwRtM4&title=Aspen+Security+Forum+puts+focus+on+issue+of+artificial+intelligence&lang=en&timestamp=1784404927&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=185" alt="Aspen Security Forum puts focus on issue of artificial intelligence" title="Aspen Security Forum puts focus on issue of artificial intelligence">
         </picture>
       </a>
     </td>
