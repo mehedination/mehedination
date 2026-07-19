@@ -59,56 +59,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=668e9L6G-qw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=8kNxcuYlIxc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=668e9L6G-qw&title=How+Artificial+Intelligence+Is+Creating+Millionaires+and+Changing+Luxury+Spending+%7C+Tech+%26+Trade&lang=en&timestamp=1784473459&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=563">
-          <img src="https://ytcards.demolab.com/?id=668e9L6G-qw&title=How+Artificial+Intelligence+Is+Creating+Millionaires+and+Changing+Luxury+Spending+%7C+Tech+%26+Trade&lang=en&timestamp=1784473459&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=563" alt="How Artificial Intelligence Is Creating Millionaires and Changing Luxury Spending | Tech & Trade" title="How Artificial Intelligence Is Creating Millionaires and Changing Luxury Spending | Tech & Trade">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8kNxcuYlIxc&title=Humanoid+Robots+Steal+The+Show+At+Shanghai+AI+Conference+%7C+Future+Of+Artificial+Intelligence&lang=en&timestamp=1784463248&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=112">
+          <img src="https://ytcards.demolab.com/?id=8kNxcuYlIxc&title=Humanoid+Robots+Steal+The+Show+At+Shanghai+AI+Conference+%7C+Future+Of+Artificial+Intelligence&lang=en&timestamp=1784463248&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=112" alt="Humanoid Robots Steal The Show At Shanghai AI Conference | Future Of Artificial Intelligence" title="Humanoid Robots Steal The Show At Shanghai AI Conference | Future Of Artificial Intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=e9aUAnwRtM4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=wZCCTKjwXzg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=e9aUAnwRtM4&title=Aspen+Security+Forum+puts+focus+on+issue+of+artificial+intelligence&lang=en&timestamp=1784405059&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=185">
-          <img src="https://ytcards.demolab.com/?id=e9aUAnwRtM4&title=Aspen+Security+Forum+puts+focus+on+issue+of+artificial+intelligence&lang=en&timestamp=1784405059&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=185" alt="Aspen Security Forum puts focus on issue of artificial intelligence" title="Aspen Security Forum puts focus on issue of artificial intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wZCCTKjwXzg&title=AI+Robots+Are+Here%21+No+Jobs+Will+be+Safe%21+Live+From+World+Artificial+Intelligence+Conference+%28WAIC%29&lang=en&timestamp=1784474048&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=818">
+          <img src="https://ytcards.demolab.com/?id=wZCCTKjwXzg&title=AI+Robots+Are+Here%21+No+Jobs+Will+be+Safe%21+Live+From+World+Artificial+Intelligence+Conference+%28WAIC%29&lang=en&timestamp=1784474048&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=818" alt="AI Robots Are Here! No Jobs Will be Safe! Live From World Artificial Intelligence Conference (WAIC)" title="AI Robots Are Here! No Jobs Will be Safe! Live From World Artificial Intelligence Conference (WAIC)">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=VS00sg8rsnE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=VS00sg8rsnE&title=Why+AI+Suddenly+Looks+Extra+Bubbly&lang=en&timestamp=1784394259&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=536">
-          <img src="https://ytcards.demolab.com/?id=VS00sg8rsnE&title=Why+AI+Suddenly+Looks+Extra+Bubbly&lang=en&timestamp=1784394259&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=536" alt="Why AI Suddenly Looks Extra Bubbly" title="Why AI Suddenly Looks Extra Bubbly">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=VS00sg8rsnE&title=Why+AI+Suddenly+Looks+Extra+Bubbly&lang=en&timestamp=1784402048&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=536">
+          <img src="https://ytcards.demolab.com/?id=VS00sg8rsnE&title=Why+AI+Suddenly+Looks+Extra+Bubbly&lang=en&timestamp=1784402048&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=536" alt="Why AI Suddenly Looks Extra Bubbly" title="Why AI Suddenly Looks Extra Bubbly">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=8v5T7Gk0_b8" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8v5T7Gk0_b8&title=Chinese+AI+Model+Raises+Pressure+on+US+Spending&lang=en&timestamp=1784394259&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=747">
-          <img src="https://ytcards.demolab.com/?id=8v5T7Gk0_b8&title=Chinese+AI+Model+Raises+Pressure+on+US+Spending&lang=en&timestamp=1784394259&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=747" alt="Chinese AI Model Raises Pressure on US Spending" title="Chinese AI Model Raises Pressure on US Spending">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
       <a href="https://www.youtube.com/watch?v=_eCEUd22y1w" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_eCEUd22y1w&title=Are+we+losing+our+minds+to+AI%3F+%7C+BBC+News&lang=en&timestamp=1784394259&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1559">
-          <img src="https://ytcards.demolab.com/?id=_eCEUd22y1w&title=Are+we+losing+our+minds+to+AI%3F+%7C+BBC+News&lang=en&timestamp=1784394259&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1559" alt="Are we losing our minds to AI? | BBC News" title="Are we losing our minds to AI? | BBC News">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_eCEUd22y1w&title=Are+we+losing+our+minds+to+AI%3F+%7C+BBC+News&lang=en&timestamp=1784402048&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1559">
+          <img src="https://ytcards.demolab.com/?id=_eCEUd22y1w&title=Are+we+losing+our+minds+to+AI%3F+%7C+BBC+News&lang=en&timestamp=1784402048&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1559" alt="Are we losing our minds to AI? | BBC News" title="Are we losing our minds to AI? | BBC News">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=qpC6jLih2Xg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=8v5T7Gk0_b8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qpC6jLih2Xg&title=Coalition+want+a+%E2%80%98forward+leaning%E2%80%99+policy+on+artificial+intelligence&lang=en&timestamp=1784473459&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=95">
-          <img src="https://ytcards.demolab.com/?id=qpC6jLih2Xg&title=Coalition+want+a+%E2%80%98forward+leaning%E2%80%99+policy+on+artificial+intelligence&lang=en&timestamp=1784473459&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=95" alt="Coalition want a ‘forward leaning’ policy on artificial intelligence" title="Coalition want a ‘forward leaning’ policy on artificial intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8v5T7Gk0_b8&title=Chinese+AI+Model+Raises+Pressure+on+US+Spending&lang=en&timestamp=1784402048&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=747">
+          <img src="https://ytcards.demolab.com/?id=8v5T7Gk0_b8&title=Chinese+AI+Model+Raises+Pressure+on+US+Spending&lang=en&timestamp=1784402048&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=747" alt="Chinese AI Model Raises Pressure on US Spending" title="Chinese AI Model Raises Pressure on US Spending">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=668e9L6G-qw" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=668e9L6G-qw&title=How+Artificial+Intelligence+Is+Creating+Millionaires+and+Changing+Luxury+Spending+%7C+Tech+%26+Trade&lang=en&timestamp=1784474048&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=563">
+          <img src="https://ytcards.demolab.com/?id=668e9L6G-qw&title=How+Artificial+Intelligence+Is+Creating+Millionaires+and+Changing+Luxury+Spending+%7C+Tech+%26+Trade&lang=en&timestamp=1784474048&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=563" alt="How Artificial Intelligence Is Creating Millionaires and Changing Luxury Spending | Tech & Trade" title="How Artificial Intelligence Is Creating Millionaires and Changing Luxury Spending | Tech & Trade">
         </picture>
       </a>
     </td>
