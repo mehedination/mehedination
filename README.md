@@ -66,56 +66,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=wZCCTKjwXzg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wZCCTKjwXzg&title=AI+Robots+Are+Here%21+No+Jobs+Will+be+Safe%21+Live+From+World+Artificial+Intelligence+Conference+%28WAIC%29&lang=en&timestamp=1784476246&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=818">
-          <img src="https://ytcards.demolab.com/?id=wZCCTKjwXzg&title=AI+Robots+Are+Here%21+No+Jobs+Will+be+Safe%21+Live+From+World+Artificial+Intelligence+Conference+%28WAIC%29&lang=en&timestamp=1784476246&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=818" alt="AI Robots Are Here! No Jobs Will be Safe! Live From World Artificial Intelligence Conference (WAIC)" title="AI Robots Are Here! No Jobs Will be Safe! Live From World Artificial Intelligence Conference (WAIC)">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wZCCTKjwXzg&title=AI+Robots+Are+Here%21+No+Jobs+Will+be+Safe%21+Live+From+World+Artificial+Intelligence+Conference+%28WAIC%29&lang=en&timestamp=1784474439&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=818">
+          <img src="https://ytcards.demolab.com/?id=wZCCTKjwXzg&title=AI+Robots+Are+Here%21+No+Jobs+Will+be+Safe%21+Live+From+World+Artificial+Intelligence+Conference+%28WAIC%29&lang=en&timestamp=1784474439&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=818" alt="AI Robots Are Here! No Jobs Will be Safe! Live From World Artificial Intelligence Conference (WAIC)" title="AI Robots Are Here! No Jobs Will be Safe! Live From World Artificial Intelligence Conference (WAIC)">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=ptaRoFeN8Gs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ptaRoFeN8Gs&title=10+Times+AI+Behaved+In+Ways+That+Terrified+The+Scientists+Who+Built+It+-+Part+2&lang=en&timestamp=1784476246&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=640">
-          <img src="https://ytcards.demolab.com/?id=ptaRoFeN8Gs&title=10+Times+AI+Behaved+In+Ways+That+Terrified+The+Scientists+Who+Built+It+-+Part+2&lang=en&timestamp=1784476246&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=640" alt="10 Times AI Behaved In Ways That Terrified The Scientists Who Built It - Part 2" title="10 Times AI Behaved In Ways That Terrified The Scientists Who Built It - Part 2">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ptaRoFeN8Gs&title=10+Times+AI+Behaved+In+Ways+That+Terrified+The+Scientists+Who+Built+It+-+Part+2&lang=en&timestamp=1784474439&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=640">
+          <img src="https://ytcards.demolab.com/?id=ptaRoFeN8Gs&title=10+Times+AI+Behaved+In+Ways+That+Terrified+The+Scientists+Who+Built+It+-+Part+2&lang=en&timestamp=1784474439&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=640" alt="10 Times AI Behaved In Ways That Terrified The Scientists Who Built It - Part 2" title="10 Times AI Behaved In Ways That Terrified The Scientists Who Built It - Part 2">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=pSUyLfirP8Y" target="_blank">
+      <a href="https://www.youtube.com/watch?v=9l3mCUQrNvk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=pSUyLfirP8Y&title=China%27s+Kimi+K3+Triggers+an+AI+Sputnik+Moment%2C+2.8+Trillion+Parameters+Go+Open+Source+%7C+Ep.+272&lang=en&timestamp=1784472646&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7651">
-          <img src="https://ytcards.demolab.com/?id=pSUyLfirP8Y&title=China%27s+Kimi+K3+Triggers+an+AI+Sputnik+Moment%2C+2.8+Trillion+Parameters+Go+Open+Source+%7C+Ep.+272&lang=en&timestamp=1784472646&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7651" alt="China's Kimi K3 Triggers an AI Sputnik Moment, 2.8 Trillion Parameters Go Open Source | Ep. 272" title="China's Kimi K3 Triggers an AI Sputnik Moment, 2.8 Trillion Parameters Go Open Source | Ep. 272">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9l3mCUQrNvk&title=Everyone+Should+Hear+This+Before+AI+Changes+Everything&lang=en&timestamp=1784503239&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=14068">
+          <img src="https://ytcards.demolab.com/?id=9l3mCUQrNvk&title=Everyone+Should+Hear+This+Before+AI+Changes+Everything&lang=en&timestamp=1784503239&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=14068" alt="Everyone Should Hear This Before AI Changes Everything" title="Everyone Should Hear This Before AI Changes Everything">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
+      <a href="https://www.youtube.com/watch?v=WY-jr1m3xq8" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WY-jr1m3xq8&title=The+Case+for+Making+Art+in+a+Crisis+%7C+Yiyun+Kang+%7C+TED&lang=en&timestamp=1784474439&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=737">
+          <img src="https://ytcards.demolab.com/?id=WY-jr1m3xq8&title=The+Case+for+Making+Art+in+a+Crisis+%7C+Yiyun+Kang+%7C+TED&lang=en&timestamp=1784474439&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=737" alt="The Case for Making Art in a Crisis | Yiyun Kang | TED" title="The Case for Making Art in a Crisis | Yiyun Kang | TED">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
       <a href="https://www.youtube.com/watch?v=8kNxcuYlIxc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8kNxcuYlIxc&title=Humanoid+Robots+Steal+The+Show+At+Shanghai+AI+Conference+%7C+Future+Of+Artificial+Intelligence&lang=en&timestamp=1784461846&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=112">
-          <img src="https://ytcards.demolab.com/?id=8kNxcuYlIxc&title=Humanoid+Robots+Steal+The+Show+At+Shanghai+AI+Conference+%7C+Future+Of+Artificial+Intelligence&lang=en&timestamp=1784461846&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=112" alt="Humanoid Robots Steal The Show At Shanghai AI Conference | Future Of Artificial Intelligence" title="Humanoid Robots Steal The Show At Shanghai AI Conference | Future Of Artificial Intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8kNxcuYlIxc&title=Humanoid+Robots+Steal+The+Show+At+Shanghai+AI+Conference+%7C+Future+Of+Artificial+Intelligence&lang=en&timestamp=1784470839&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=112">
+          <img src="https://ytcards.demolab.com/?id=8kNxcuYlIxc&title=Humanoid+Robots+Steal+The+Show+At+Shanghai+AI+Conference+%7C+Future+Of+Artificial+Intelligence&lang=en&timestamp=1784470839&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=112" alt="Humanoid Robots Steal The Show At Shanghai AI Conference | Future Of Artificial Intelligence" title="Humanoid Robots Steal The Show At Shanghai AI Conference | Future Of Artificial Intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=oYjarJ4v46I" target="_blank">
+      <a href="https://www.youtube.com/watch?v=fddW5Ghugkw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=oYjarJ4v46I&title=Your+Brain+Is+Getting+Weaker+Every+Time+You+Use+AI+%7C+Vijender+Masijeevi&lang=en&timestamp=1784461846&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1270">
-          <img src="https://ytcards.demolab.com/?id=oYjarJ4v46I&title=Your+Brain+Is+Getting+Weaker+Every+Time+You+Use+AI+%7C+Vijender+Masijeevi&lang=en&timestamp=1784461846&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1270" alt="Your Brain Is Getting Weaker Every Time You Use AI | Vijender Masijeevi" title="Your Brain Is Getting Weaker Every Time You Use AI | Vijender Masijeevi">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ZRYl_6eaJXs" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ZRYl_6eaJXs&title=All+the+Details+about+BSc+%28Hons%29+Artificial+Intelligence+%28AI%29+Degree+in+NSBM+%7C+Dev+School+LK+Review&lang=en&timestamp=1784461846&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=726">
-          <img src="https://ytcards.demolab.com/?id=ZRYl_6eaJXs&title=All+the+Details+about+BSc+%28Hons%29+Artificial+Intelligence+%28AI%29+Degree+in+NSBM+%7C+Dev+School+LK+Review&lang=en&timestamp=1784461846&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=726" alt="All the Details about BSc (Hons) Artificial Intelligence (AI) Degree in NSBM | Dev School LK Review" title="All the Details about BSc (Hons) Artificial Intelligence (AI) Degree in NSBM | Dev School LK Review">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=fddW5Ghugkw&title=Google%27s+Biggest+AI+Bet+Just+Ran+Into+Quantum+%E2%80%94+Silicon+Valley+Didn%27t+Expect+This&lang=en&timestamp=1784517639&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1157">
+          <img src="https://ytcards.demolab.com/?id=fddW5Ghugkw&title=Google%27s+Biggest+AI+Bet+Just+Ran+Into+Quantum+%E2%80%94+Silicon+Valley+Didn%27t+Expect+This&lang=en&timestamp=1784517639&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1157" alt="Google's Biggest AI Bet Just Ran Into Quantum — Silicon Valley Didn't Expect This" title="Google's Biggest AI Bet Just Ran Into Quantum — Silicon Valley Didn't Expect This">
         </picture>
       </a>
     </td>
