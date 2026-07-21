@@ -71,56 +71,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=wZCCTKjwXzg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=4DUXr4zM9tg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wZCCTKjwXzg&title=AI+Robots+Are+Here%21+No+Jobs+Will+be+Safe%21+Live+From+World+Artificial+Intelligence+Conference+%28WAIC%29&lang=en&timestamp=1784498726&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=818">
-          <img src="https://ytcards.demolab.com/?id=wZCCTKjwXzg&title=AI+Robots+Are+Here%21+No+Jobs+Will+be+Safe%21+Live+From+World+Artificial+Intelligence+Conference+%28WAIC%29&lang=en&timestamp=1784498726&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=818" alt="AI Robots Are Here! No Jobs Will be Safe! Live From World Artificial Intelligence Conference (WAIC)" title="AI Robots Are Here! No Jobs Will be Safe! Live From World Artificial Intelligence Conference (WAIC)">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4DUXr4zM9tg&title=OpenAI+chairman+Bret+Taylor+on+AI+tokenomics%2C+token+efficiency&lang=en&timestamp=1784557120&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=493">
+          <img src="https://ytcards.demolab.com/?id=4DUXr4zM9tg&title=OpenAI+chairman+Bret+Taylor+on+AI+tokenomics%2C+token+efficiency&lang=en&timestamp=1784557120&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=493" alt="OpenAI chairman Bret Taylor on AI tokenomics, token efficiency" title="OpenAI chairman Bret Taylor on AI tokenomics, token efficiency">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=9l3mCUQrNvk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=f-csVpmT13I" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9l3mCUQrNvk&title=Everyone+Should+Hear+This+Before+AI+Changes+Everything&lang=en&timestamp=1784502326&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=14068">
-          <img src="https://ytcards.demolab.com/?id=9l3mCUQrNvk&title=Everyone+Should+Hear+This+Before+AI+Changes+Everything&lang=en&timestamp=1784502326&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=14068" alt="Everyone Should Hear This Before AI Changes Everything" title="Everyone Should Hear This Before AI Changes Everything">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=f-csVpmT13I&title=Disney%E2%80%99s+New+AI+Cartoon+is%E2%80%A6&lang=en&timestamp=1784575120&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=175">
+          <img src="https://ytcards.demolab.com/?id=f-csVpmT13I&title=Disney%E2%80%99s+New+AI+Cartoon+is%E2%80%A6&lang=en&timestamp=1784575120&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=175" alt="Disney’s New AI Cartoon is…" title="Disney’s New AI Cartoon is…">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ZXJxeqgOefA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=HIV3_UUzZtY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ZXJxeqgOefA&title=Alex+Cameron+jokes+about+growing+anxiety+over+artificial+intelligence&lang=en&timestamp=1784584466&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=50">
-          <img src="https://ytcards.demolab.com/?id=ZXJxeqgOefA&title=Alex+Cameron+jokes+about+growing+anxiety+over+artificial+intelligence&lang=en&timestamp=1784584466&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=50" alt="Alex Cameron jokes about growing anxiety over artificial intelligence" title="Alex Cameron jokes about growing anxiety over artificial intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=HIV3_UUzZtY&title=AI+and+the+next+decade+of+human+progress+%7C+Ray+Kurzweil&lang=en&timestamp=1784557120&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1836">
+          <img src="https://ytcards.demolab.com/?id=HIV3_UUzZtY&title=AI+and+the+next+decade+of+human+progress+%7C+Ray+Kurzweil&lang=en&timestamp=1784557120&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1836" alt="AI and the next decade of human progress | Ray Kurzweil" title="AI and the next decade of human progress | Ray Kurzweil">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=8kNxcuYlIxc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=aS2hs2XVVaE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8kNxcuYlIxc&title=Humanoid+Robots+Steal+The+Show+At+Shanghai+AI+Conference+%7C+Future+Of+Artificial+Intelligence&lang=en&timestamp=1784498726&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=112">
-          <img src="https://ytcards.demolab.com/?id=8kNxcuYlIxc&title=Humanoid+Robots+Steal+The+Show+At+Shanghai+AI+Conference+%7C+Future+Of+Artificial+Intelligence&lang=en&timestamp=1784498726&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=112" alt="Humanoid Robots Steal The Show At Shanghai AI Conference | Future Of Artificial Intelligence" title="Humanoid Robots Steal The Show At Shanghai AI Conference | Future Of Artificial Intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aS2hs2XVVaE&title=USA+AI+vs+China+AI.+Who+is+Winning%3F&lang=en&timestamp=1784557120&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=848">
+          <img src="https://ytcards.demolab.com/?id=aS2hs2XVVaE&title=USA+AI+vs+China+AI.+Who+is+Winning%3F&lang=en&timestamp=1784557120&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=848" alt="USA AI vs China AI. Who is Winning?" title="USA AI vs China AI. Who is Winning?">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=VVbsCuC0CMg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=9nUmVktlwvA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=VVbsCuC0CMg&title=Something+is+wrong+with+artificial+intelligence&lang=en&timestamp=1784498726&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1749">
-          <img src="https://ytcards.demolab.com/?id=VVbsCuC0CMg&title=Something+is+wrong+with+artificial+intelligence&lang=en&timestamp=1784498726&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1749" alt="Something is wrong with artificial intelligence" title="Something is wrong with artificial intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9nUmVktlwvA&title=The+AI+Industry+Just+Got+What+It+Deserved&lang=en&timestamp=1784564320&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1459">
+          <img src="https://ytcards.demolab.com/?id=9nUmVktlwvA&title=The+AI+Industry+Just+Got+What+It+Deserved&lang=en&timestamp=1784564320&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1459" alt="The AI Industry Just Got What It Deserved" title="The AI Industry Just Got What It Deserved">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=FzmyWglhQUk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=kx_YpRTxTzY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=FzmyWglhQUk&title=The+danger+of+replacing+prayer+with+Artificial+Intelligence%E2%80%A6&lang=en&timestamp=1784570726&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=209">
-          <img src="https://ytcards.demolab.com/?id=FzmyWglhQUk&title=The+danger+of+replacing+prayer+with+Artificial+Intelligence%E2%80%A6&lang=en&timestamp=1784570726&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=209" alt="The danger of replacing prayer with Artificial Intelligence…" title="The danger of replacing prayer with Artificial Intelligence…">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=kx_YpRTxTzY&title=Artificial+Intelligence+Vlog+1&lang=en&timestamp=1784605780&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=595">
+          <img src="https://ytcards.demolab.com/?id=kx_YpRTxTzY&title=Artificial+Intelligence+Vlog+1&lang=en&timestamp=1784605780&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=595" alt="Artificial Intelligence Vlog 1" title="Artificial Intelligence Vlog 1">
         </picture>
       </a>
     </td>
