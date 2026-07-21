@@ -73,56 +73,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=4DUXr4zM9tg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4DUXr4zM9tg&title=OpenAI+chairman+Bret+Taylor+on+AI+tokenomics%2C+token+efficiency&lang=en&timestamp=1784554555&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=493">
-          <img src="https://ytcards.demolab.com/?id=4DUXr4zM9tg&title=OpenAI+chairman+Bret+Taylor+on+AI+tokenomics%2C+token+efficiency&lang=en&timestamp=1784554555&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=493" alt="OpenAI chairman Bret Taylor on AI tokenomics, token efficiency" title="OpenAI chairman Bret Taylor on AI tokenomics, token efficiency">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=f-csVpmT13I" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=f-csVpmT13I&title=Disney%E2%80%99s+New+AI+Cartoon+is%E2%80%A6&lang=en&timestamp=1784576155&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=175">
-          <img src="https://ytcards.demolab.com/?id=f-csVpmT13I&title=Disney%E2%80%99s+New+AI+Cartoon+is%E2%80%A6&lang=en&timestamp=1784576155&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=175" alt="Disney’s New AI Cartoon is…" title="Disney’s New AI Cartoon is…">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4DUXr4zM9tg&title=OpenAI+chairman+Bret+Taylor+on+AI+tokenomics%2C+token+efficiency&lang=en&timestamp=1784557568&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=493">
+          <img src="https://ytcards.demolab.com/?id=4DUXr4zM9tg&title=OpenAI+chairman+Bret+Taylor+on+AI+tokenomics%2C+token+efficiency&lang=en&timestamp=1784557568&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=493" alt="OpenAI chairman Bret Taylor on AI tokenomics, token efficiency" title="OpenAI chairman Bret Taylor on AI tokenomics, token efficiency">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=HIV3_UUzZtY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=HIV3_UUzZtY&title=AI+and+the+next+decade+of+human+progress+%7C+Ray+Kurzweil&lang=en&timestamp=1784558155&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1836">
-          <img src="https://ytcards.demolab.com/?id=HIV3_UUzZtY&title=AI+and+the+next+decade+of+human+progress+%7C+Ray+Kurzweil&lang=en&timestamp=1784558155&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1836" alt="AI and the next decade of human progress | Ray Kurzweil" title="AI and the next decade of human progress | Ray Kurzweil">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=HIV3_UUzZtY&title=AI+and+the+next+decade+of+human+progress+%7C+Ray+Kurzweil&lang=en&timestamp=1784557568&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1836">
+          <img src="https://ytcards.demolab.com/?id=HIV3_UUzZtY&title=AI+and+the+next+decade+of+human+progress+%7C+Ray+Kurzweil&lang=en&timestamp=1784557568&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1836" alt="AI and the next decade of human progress | Ray Kurzweil" title="AI and the next decade of human progress | Ray Kurzweil">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=QuVVkg4cfdQ" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QuVVkg4cfdQ&title=World+AI+Conference%3A+Humanoid+robots+play+table+tennis%2C+do+laundry+in+China&lang=en&timestamp=1784597168&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=80">
+          <img src="https://ytcards.demolab.com/?id=QuVVkg4cfdQ&title=World+AI+Conference%3A+Humanoid+robots+play+table+tennis%2C+do+laundry+in+China&lang=en&timestamp=1784597168&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=80" alt="World AI Conference: Humanoid robots play table tennis, do laundry in China" title="World AI Conference: Humanoid robots play table tennis, do laundry in China">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=QuVVkg4cfdQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=f-csVpmT13I" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QuVVkg4cfdQ&title=Humanoid+robots+dance%2C+play+table+tennis+and+do+laundry+at+WAIC+2026&lang=en&timestamp=1784597755&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=80">
-          <img src="https://ytcards.demolab.com/?id=QuVVkg4cfdQ&title=Humanoid+robots+dance%2C+play+table+tennis+and+do+laundry+at+WAIC+2026&lang=en&timestamp=1784597755&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=80" alt="Humanoid robots dance, play table tennis and do laundry at WAIC 2026" title="Humanoid robots dance, play table tennis and do laundry at WAIC 2026">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=f-csVpmT13I&title=Disney%E2%80%99s+New+AI+Cartoon+is%E2%80%A6&lang=en&timestamp=1784575568&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=175">
+          <img src="https://ytcards.demolab.com/?id=f-csVpmT13I&title=Disney%E2%80%99s+New+AI+Cartoon+is%E2%80%A6&lang=en&timestamp=1784575568&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=175" alt="Disney’s New AI Cartoon is…" title="Disney’s New AI Cartoon is…">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=aS2hs2XVVaE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=dAKNiA1FH4k" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aS2hs2XVVaE&title=USA+AI+vs+China+AI.+Who+is+Winning%3F&lang=en&timestamp=1784558155&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=848">
-          <img src="https://ytcards.demolab.com/?id=aS2hs2XVVaE&title=USA+AI+vs+China+AI.+Who+is+Winning%3F&lang=en&timestamp=1784558155&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=848" alt="USA AI vs China AI. Who is Winning?" title="USA AI vs China AI. Who is Winning?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=dAKNiA1FH4k&title=There+is+still+%27PLENTY%27+to+worry+about+with+AI%2C+chief+investment+strategist+says&lang=en&timestamp=1784611568&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=266">
+          <img src="https://ytcards.demolab.com/?id=dAKNiA1FH4k&title=There+is+still+%27PLENTY%27+to+worry+about+with+AI%2C+chief+investment+strategist+says&lang=en&timestamp=1784611568&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=266" alt="There is still 'PLENTY' to worry about with AI, chief investment strategist says" title="There is still 'PLENTY' to worry about with AI, chief investment strategist says">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=o_FyR_E_EgM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=phHhqt2df6I" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=o_FyR_E_EgM&title=Raoul+Pal+%3A%22The+100x+Opportunity+EVEN+Bigger+Than+Bitcoin+%7C+2026+Prediction&lang=en&timestamp=1784568955&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1200">
-          <img src="https://ytcards.demolab.com/?id=o_FyR_E_EgM&title=Raoul+Pal+%3A%22The+100x+Opportunity+EVEN+Bigger+Than+Bitcoin+%7C+2026+Prediction&lang=en&timestamp=1784568955&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1200" alt="Raoul Pal :&quot;The 100x Opportunity EVEN Bigger Than Bitcoin | 2026 Prediction" title="Raoul Pal :&quot;The 100x Opportunity EVEN Bigger Than Bitcoin | 2026 Prediction">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=phHhqt2df6I&title=China%27s+New+Robotic+Bricklayer+Built+a+Wall+6x+Faster+Than+Humans%E2%80%94Construction+Unions+are+Stunned&lang=en&timestamp=1784575568&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1171">
+          <img src="https://ytcards.demolab.com/?id=phHhqt2df6I&title=China%27s+New+Robotic+Bricklayer+Built+a+Wall+6x+Faster+Than+Humans%E2%80%94Construction+Unions+are+Stunned&lang=en&timestamp=1784575568&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1171" alt="China's New Robotic Bricklayer Built a Wall 6x Faster Than Humans—Construction Unions are Stunned" title="China's New Robotic Bricklayer Built a Wall 6x Faster Than Humans—Construction Unions are Stunned">
         </picture>
       </a>
     </td>
