@@ -72,56 +72,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=4DUXr4zM9tg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4DUXr4zM9tg&title=OpenAI+chairman+Bret+Taylor+on+AI+tokenomics%2C+token+efficiency&lang=en&timestamp=1784557120&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=493">
-          <img src="https://ytcards.demolab.com/?id=4DUXr4zM9tg&title=OpenAI+chairman+Bret+Taylor+on+AI+tokenomics%2C+token+efficiency&lang=en&timestamp=1784557120&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=493" alt="OpenAI chairman Bret Taylor on AI tokenomics, token efficiency" title="OpenAI chairman Bret Taylor on AI tokenomics, token efficiency">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4DUXr4zM9tg&title=OpenAI+chairman+Bret+Taylor+on+AI+tokenomics%2C+token+efficiency&lang=en&timestamp=1784554555&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=493">
+          <img src="https://ytcards.demolab.com/?id=4DUXr4zM9tg&title=OpenAI+chairman+Bret+Taylor+on+AI+tokenomics%2C+token+efficiency&lang=en&timestamp=1784554555&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=493" alt="OpenAI chairman Bret Taylor on AI tokenomics, token efficiency" title="OpenAI chairman Bret Taylor on AI tokenomics, token efficiency">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=f-csVpmT13I" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=f-csVpmT13I&title=Disney%E2%80%99s+New+AI+Cartoon+is%E2%80%A6&lang=en&timestamp=1784575120&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=175">
-          <img src="https://ytcards.demolab.com/?id=f-csVpmT13I&title=Disney%E2%80%99s+New+AI+Cartoon+is%E2%80%A6&lang=en&timestamp=1784575120&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=175" alt="Disney’s New AI Cartoon is…" title="Disney’s New AI Cartoon is…">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=f-csVpmT13I&title=Disney%E2%80%99s+New+AI+Cartoon+is%E2%80%A6&lang=en&timestamp=1784576155&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=175">
+          <img src="https://ytcards.demolab.com/?id=f-csVpmT13I&title=Disney%E2%80%99s+New+AI+Cartoon+is%E2%80%A6&lang=en&timestamp=1784576155&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=175" alt="Disney’s New AI Cartoon is…" title="Disney’s New AI Cartoon is…">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=HIV3_UUzZtY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=HIV3_UUzZtY&title=AI+and+the+next+decade+of+human+progress+%7C+Ray+Kurzweil&lang=en&timestamp=1784557120&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1836">
-          <img src="https://ytcards.demolab.com/?id=HIV3_UUzZtY&title=AI+and+the+next+decade+of+human+progress+%7C+Ray+Kurzweil&lang=en&timestamp=1784557120&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1836" alt="AI and the next decade of human progress | Ray Kurzweil" title="AI and the next decade of human progress | Ray Kurzweil">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=HIV3_UUzZtY&title=AI+and+the+next+decade+of+human+progress+%7C+Ray+Kurzweil&lang=en&timestamp=1784558155&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1836">
+          <img src="https://ytcards.demolab.com/?id=HIV3_UUzZtY&title=AI+and+the+next+decade+of+human+progress+%7C+Ray+Kurzweil&lang=en&timestamp=1784558155&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1836" alt="AI and the next decade of human progress | Ray Kurzweil" title="AI and the next decade of human progress | Ray Kurzweil">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
+      <a href="https://www.youtube.com/watch?v=QuVVkg4cfdQ" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QuVVkg4cfdQ&title=Humanoid+robots+dance%2C+play+table+tennis+and+do+laundry+at+WAIC+2026&lang=en&timestamp=1784597755&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=80">
+          <img src="https://ytcards.demolab.com/?id=QuVVkg4cfdQ&title=Humanoid+robots+dance%2C+play+table+tennis+and+do+laundry+at+WAIC+2026&lang=en&timestamp=1784597755&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=80" alt="Humanoid robots dance, play table tennis and do laundry at WAIC 2026" title="Humanoid robots dance, play table tennis and do laundry at WAIC 2026">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
       <a href="https://www.youtube.com/watch?v=aS2hs2XVVaE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aS2hs2XVVaE&title=USA+AI+vs+China+AI.+Who+is+Winning%3F&lang=en&timestamp=1784557120&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=848">
-          <img src="https://ytcards.demolab.com/?id=aS2hs2XVVaE&title=USA+AI+vs+China+AI.+Who+is+Winning%3F&lang=en&timestamp=1784557120&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=848" alt="USA AI vs China AI. Who is Winning?" title="USA AI vs China AI. Who is Winning?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aS2hs2XVVaE&title=USA+AI+vs+China+AI.+Who+is+Winning%3F&lang=en&timestamp=1784558155&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=848">
+          <img src="https://ytcards.demolab.com/?id=aS2hs2XVVaE&title=USA+AI+vs+China+AI.+Who+is+Winning%3F&lang=en&timestamp=1784558155&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=848" alt="USA AI vs China AI. Who is Winning?" title="USA AI vs China AI. Who is Winning?">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=9nUmVktlwvA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=o_FyR_E_EgM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9nUmVktlwvA&title=The+AI+Industry+Just+Got+What+It+Deserved&lang=en&timestamp=1784564320&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1459">
-          <img src="https://ytcards.demolab.com/?id=9nUmVktlwvA&title=The+AI+Industry+Just+Got+What+It+Deserved&lang=en&timestamp=1784564320&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1459" alt="The AI Industry Just Got What It Deserved" title="The AI Industry Just Got What It Deserved">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=kx_YpRTxTzY" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=kx_YpRTxTzY&title=Artificial+Intelligence+Vlog+1&lang=en&timestamp=1784605780&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=595">
-          <img src="https://ytcards.demolab.com/?id=kx_YpRTxTzY&title=Artificial+Intelligence+Vlog+1&lang=en&timestamp=1784605780&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=595" alt="Artificial Intelligence Vlog 1" title="Artificial Intelligence Vlog 1">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=o_FyR_E_EgM&title=Raoul+Pal+%3A%22The+100x+Opportunity+EVEN+Bigger+Than+Bitcoin+%7C+2026+Prediction&lang=en&timestamp=1784568955&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1200">
+          <img src="https://ytcards.demolab.com/?id=o_FyR_E_EgM&title=Raoul+Pal+%3A%22The+100x+Opportunity+EVEN+Bigger+Than+Bitcoin+%7C+2026+Prediction&lang=en&timestamp=1784568955&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1200" alt="Raoul Pal :&quot;The 100x Opportunity EVEN Bigger Than Bitcoin | 2026 Prediction" title="Raoul Pal :&quot;The 100x Opportunity EVEN Bigger Than Bitcoin | 2026 Prediction">
         </picture>
       </a>
     </td>
