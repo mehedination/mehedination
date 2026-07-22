@@ -86,56 +86,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=xBS2Sn7AL6o" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xBS2Sn7AL6o&title=Chinese+open+source+AI+model+threatens+to+disrupt+tech+market+boom%3A+Verrender+%7C+ABC+NEWS&lang=en&timestamp=1784657566&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=298">
-          <img src="https://ytcards.demolab.com/?id=xBS2Sn7AL6o&title=Chinese+open+source+AI+model+threatens+to+disrupt+tech+market+boom%3A+Verrender+%7C+ABC+NEWS&lang=en&timestamp=1784657566&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=298" alt="Chinese open source AI model threatens to disrupt tech market boom: Verrender | ABC NEWS" title="Chinese open source AI model threatens to disrupt tech market boom: Verrender | ABC NEWS">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xBS2Sn7AL6o&title=Chinese+open+source+AI+model+threatens+to+disrupt+tech+market+boom%3A+Verrender+%7C+ABC+NEWS&lang=en&timestamp=1784664915&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=298">
+          <img src="https://ytcards.demolab.com/?id=xBS2Sn7AL6o&title=Chinese+open+source+AI+model+threatens+to+disrupt+tech+market+boom%3A+Verrender+%7C+ABC+NEWS&lang=en&timestamp=1784664915&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=298" alt="Chinese open source AI model threatens to disrupt tech market boom: Verrender | ABC NEWS" title="Chinese open source AI model threatens to disrupt tech market boom: Verrender | ABC NEWS">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=mSTbJifirZg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=npcb1ROWw1A" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mSTbJifirZg&title=Sen.+Warner+%27not+surprised%27+by+reports+Pentagon+underplayed+U.S.+injuries+in+Iran+war&lang=en&timestamp=1784657566&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=400">
-          <img src="https://ytcards.demolab.com/?id=mSTbJifirZg&title=Sen.+Warner+%27not+surprised%27+by+reports+Pentagon+underplayed+U.S.+injuries+in+Iran+war&lang=en&timestamp=1784657566&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=400" alt="Sen. Warner 'not surprised' by reports Pentagon underplayed U.S. injuries in Iran war" title="Sen. Warner 'not surprised' by reports Pentagon underplayed U.S. injuries in Iran war">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=npcb1ROWw1A&title=Nebius+vs.IREN%3A+Which+AI+Stock+Is+the+Better+Buy+Right+Now%3F&lang=en&timestamp=1784664915&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3312">
+          <img src="https://ytcards.demolab.com/?id=npcb1ROWw1A&title=Nebius+vs.IREN%3A+Which+AI+Stock+Is+the+Better+Buy+Right+Now%3F&lang=en&timestamp=1784664915&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3312" alt="Nebius vs.IREN: Which AI Stock Is the Better Buy Right Now?" title="Nebius vs.IREN: Which AI Stock Is the Better Buy Right Now?">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=GYoLVXqZ1S0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=-JyLALrqaZ0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=GYoLVXqZ1S0&title=An+Artificial+Intelligence+Miracle+for+a+Blind+Father+and+a+Deaf+Son+%7C+Extreme+Makeover+Home+Edition&lang=en&timestamp=1784657566&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3835">
-          <img src="https://ytcards.demolab.com/?id=GYoLVXqZ1S0&title=An+Artificial+Intelligence+Miracle+for+a+Blind+Father+and+a+Deaf+Son+%7C+Extreme+Makeover+Home+Edition&lang=en&timestamp=1784657566&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3835" alt="An Artificial Intelligence Miracle for a Blind Father and a Deaf Son | Extreme Makeover Home Edition" title="An Artificial Intelligence Miracle for a Blind Father and a Deaf Son | Extreme Makeover Home Edition">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-JyLALrqaZ0&title=The+AI+Arms+Race%3A+How+Artificial+Intelligence+is+Reshaping+Intelligence%2C+Warfare+and+Global+Power&lang=en&timestamp=1784747715&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1610">
+          <img src="https://ytcards.demolab.com/?id=-JyLALrqaZ0&title=The+AI+Arms+Race%3A+How+Artificial+Intelligence+is+Reshaping+Intelligence%2C+Warfare+and+Global+Power&lang=en&timestamp=1784747715&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1610" alt="The AI Arms Race: How Artificial Intelligence is Reshaping Intelligence, Warfare and Global Power" title="The AI Arms Race: How Artificial Intelligence is Reshaping Intelligence, Warfare and Global Power">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=EV7sYWGKAVU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=wzY2fV4Mp3U" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EV7sYWGKAVU&title=The+AI+Race+Is+Finally+Over&lang=en&timestamp=1784657566&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1084">
-          <img src="https://ytcards.demolab.com/?id=EV7sYWGKAVU&title=The+AI+Race+Is+Finally+Over&lang=en&timestamp=1784657566&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1084" alt="The AI Race Is Finally Over" title="The AI Race Is Finally Over">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wzY2fV4Mp3U&title=GPT-6+Goes+Rogue%3F+The+HuggingFace+Incident%2C+Sans+Hype&lang=en&timestamp=1784740515&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=876">
+          <img src="https://ytcards.demolab.com/?id=wzY2fV4Mp3U&title=GPT-6+Goes+Rogue%3F+The+HuggingFace+Incident%2C+Sans+Hype&lang=en&timestamp=1784740515&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=876" alt="GPT-6 Goes Rogue? The HuggingFace Incident, Sans Hype" title="GPT-6 Goes Rogue? The HuggingFace Incident, Sans Hype">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=8PkyddN0x_c" target="_blank">
+      <a href="https://www.youtube.com/watch?v=6BtIQIGqGJc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8PkyddN0x_c&title=AI+%26+Cancers+%7C+Artificial+Intelligence+In+Pathology%3A+opportunities+and+obstacles&lang=en&timestamp=1784725966&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4162">
-          <img src="https://ytcards.demolab.com/?id=8PkyddN0x_c&title=AI+%26+Cancers+%7C+Artificial+Intelligence+In+Pathology%3A+opportunities+and+obstacles&lang=en&timestamp=1784725966&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4162" alt="AI & Cancers | Artificial Intelligence In Pathology: opportunities and obstacles" title="AI & Cancers | Artificial Intelligence In Pathology: opportunities and obstacles">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6BtIQIGqGJc&title=The+Most+Important+Conversation+in+AI+Right+Now&lang=en&timestamp=1784664915&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1633">
+          <img src="https://ytcards.demolab.com/?id=6BtIQIGqGJc&title=The+Most+Important+Conversation+in+AI+Right+Now&lang=en&timestamp=1784664915&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1633" alt="The Most Important Conversation in AI Right Now" title="The Most Important Conversation in AI Right Now">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ycxteXx6858" target="_blank">
+      <a href="https://www.youtube.com/watch?v=c4lycXzTS9Y" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ycxteXx6858&title=Shin+Jin-seo+beats+KataGo+in+human-vs-AI+Go+match&lang=en&timestamp=1784693566&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=159">
-          <img src="https://ytcards.demolab.com/?id=ycxteXx6858&title=Shin+Jin-seo+beats+KataGo+in+human-vs-AI+Go+match&lang=en&timestamp=1784693566&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=159" alt="Shin Jin-seo beats KataGo in human-vs-AI Go match" title="Shin Jin-seo beats KataGo in human-vs-AI Go match">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=c4lycXzTS9Y&title=Artificial+Intelligence+CAUGHT+Performing+CYBER+ATTACK&lang=en&timestamp=1784748615&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=390">
+          <img src="https://ytcards.demolab.com/?id=c4lycXzTS9Y&title=Artificial+Intelligence+CAUGHT+Performing+CYBER+ATTACK&lang=en&timestamp=1784748615&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=390" alt="Artificial Intelligence CAUGHT Performing CYBER ATTACK" title="Artificial Intelligence CAUGHT Performing CYBER ATTACK">
         </picture>
       </a>
     </td>
