@@ -79,56 +79,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=HIV3_UUzZtY" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=HIV3_UUzZtY&title=AI+and+the+next+decade+of+human+progress+%7C+Ray+Kurzweil&lang=en&timestamp=1784588537&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1836">
-          <img src="https://ytcards.demolab.com/?id=HIV3_UUzZtY&title=AI+and+the+next+decade+of+human+progress+%7C+Ray+Kurzweil&lang=en&timestamp=1784588537&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1836" alt="AI and the next decade of human progress | Ray Kurzweil" title="AI and the next decade of human progress | Ray Kurzweil">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
       <a href="https://www.youtube.com/watch?v=xBS2Sn7AL6o" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xBS2Sn7AL6o&title=Chinese+open+source+AI+model+threatens+to+disrupt+tech+market+boom%3A+Verrender+%7C+ABC+NEWS&lang=en&timestamp=1784628137&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=298">
-          <img src="https://ytcards.demolab.com/?id=xBS2Sn7AL6o&title=Chinese+open+source+AI+model+threatens+to+disrupt+tech+market+boom%3A+Verrender+%7C+ABC+NEWS&lang=en&timestamp=1784628137&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=298" alt="Chinese open source AI model threatens to disrupt tech market boom: Verrender | ABC NEWS" title="Chinese open source AI model threatens to disrupt tech market boom: Verrender | ABC NEWS">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xBS2Sn7AL6o&title=Chinese+open+source+AI+model+threatens+to+disrupt+tech+market+boom%3A+Verrender+%7C+ABC+NEWS&lang=en&timestamp=1784625573&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=298">
+          <img src="https://ytcards.demolab.com/?id=xBS2Sn7AL6o&title=Chinese+open+source+AI+model+threatens+to+disrupt+tech+market+boom%3A+Verrender+%7C+ABC+NEWS&lang=en&timestamp=1784625573&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=298" alt="Chinese open source AI model threatens to disrupt tech market boom: Verrender | ABC NEWS" title="Chinese open source AI model threatens to disrupt tech market boom: Verrender | ABC NEWS">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=9nUmVktlwvA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=STeOraiFJII" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9nUmVktlwvA&title=The+AI+Industry+Just+Got+What+It+Deserved&lang=en&timestamp=1784588537&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1459">
-          <img src="https://ytcards.demolab.com/?id=9nUmVktlwvA&title=The+AI+Industry+Just+Got+What+It+Deserved&lang=en&timestamp=1784588537&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1459" alt="The AI Industry Just Got What It Deserved" title="The AI Industry Just Got What It Deserved">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=STeOraiFJII&title=Artificial+Intelligence+Full+Course+2026+%7C+AI+Tutorial+For+Beginners+%7C+AI+Full+Course+%7C+Simplilearn&lang=en&timestamp=1784675973&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=18171">
+          <img src="https://ytcards.demolab.com/?id=STeOraiFJII&title=Artificial+Intelligence+Full+Course+2026+%7C+AI+Tutorial+For+Beginners+%7C+AI+Full+Course+%7C+Simplilearn&lang=en&timestamp=1784675973&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=18171" alt="Artificial Intelligence Full Course 2026 | AI Tutorial For Beginners | AI Full Course | Simplilearn" title="Artificial Intelligence Full Course 2026 | AI Tutorial For Beginners | AI Full Course | Simplilearn">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=OuJ09lnmMDs" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=OuJ09lnmMDs&title=Brown+University+Economist%27s+Experience+Sparks+Debate+on+AI+%26+Education+%7C+Vantage+on+Firstpost+%7C+4K&lang=en&timestamp=1784661573&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=411">
+          <img src="https://ytcards.demolab.com/?id=OuJ09lnmMDs&title=Brown+University+Economist%27s+Experience+Sparks+Debate+on+AI+%26+Education+%7C+Vantage+on+Firstpost+%7C+4K&lang=en&timestamp=1784661573&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=411" alt="Brown University Economist's Experience Sparks Debate on AI & Education | Vantage on Firstpost | 4K" title="Brown University Economist's Experience Sparks Debate on AI & Education | Vantage on Firstpost | 4K">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
+      <a href="https://www.youtube.com/watch?v=mSTbJifirZg" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mSTbJifirZg&title=Sen.+Warner+%27not+surprised%27+by+reports+Pentagon+underplayed+U.S.+injuries+in+Iran+war&lang=en&timestamp=1784643573&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=400">
+          <img src="https://ytcards.demolab.com/?id=mSTbJifirZg&title=Sen.+Warner+%27not+surprised%27+by+reports+Pentagon+underplayed+U.S.+injuries+in+Iran+war&lang=en&timestamp=1784643573&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=400" alt="Sen. Warner 'not surprised' by reports Pentagon underplayed U.S. injuries in Iran war" title="Sen. Warner 'not surprised' by reports Pentagon underplayed U.S. injuries in Iran war">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=AajAsUQ_lsw" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=AajAsUQ_lsw&title=6+AI+Stocks+Set+to+Dominate+the+Rest+of+2026&lang=en&timestamp=1784643573&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=935">
+          <img src="https://ytcards.demolab.com/?id=AajAsUQ_lsw&title=6+AI+Stocks+Set+to+Dominate+the+Rest+of+2026&lang=en&timestamp=1784643573&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=935" alt="6 AI Stocks Set to Dominate the Rest of 2026" title="6 AI Stocks Set to Dominate the Rest of 2026">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
       <a href="https://www.youtube.com/watch?v=bQ1GPvXgurY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=bQ1GPvXgurY&title=Artificial+Intelligence+Full+Course+2026+%7C+AI+Tutorial+For+Beginners+%7C+AI+Full+Course+%7C+Simplilearn&lang=en&timestamp=1784673017&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=18179">
-          <img src="https://ytcards.demolab.com/?id=bQ1GPvXgurY&title=Artificial+Intelligence+Full+Course+2026+%7C+AI+Tutorial+For+Beginners+%7C+AI+Full+Course+%7C+Simplilearn&lang=en&timestamp=1784673017&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=18179" alt="Artificial Intelligence Full Course 2026 | AI Tutorial For Beginners | AI Full Course | Simplilearn" title="Artificial Intelligence Full Course 2026 | AI Tutorial For Beginners | AI Full Course | Simplilearn">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=vXDetI2TUWw" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vXDetI2TUWw&title=NVIDIA+Keynote+Live+at+SIGGRAPH+2026&lang=en&timestamp=1784592137&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3595">
-          <img src="https://ytcards.demolab.com/?id=vXDetI2TUWw&title=NVIDIA+Keynote+Live+at+SIGGRAPH+2026&lang=en&timestamp=1784592137&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3595" alt="NVIDIA Keynote Live at SIGGRAPH 2026" title="NVIDIA Keynote Live at SIGGRAPH 2026">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=dAKNiA1FH4k" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=dAKNiA1FH4k&title=There+is+still+%27PLENTY%27+to+worry+about+with+AI%2C+chief+investment+strategist+says&lang=en&timestamp=1784610137&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=266">
-          <img src="https://ytcards.demolab.com/?id=dAKNiA1FH4k&title=There+is+still+%27PLENTY%27+to+worry+about+with+AI%2C+chief+investment+strategist+says&lang=en&timestamp=1784610137&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=266" alt="There is still 'PLENTY' to worry about with AI, chief investment strategist says" title="There is still 'PLENTY' to worry about with AI, chief investment strategist says">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=bQ1GPvXgurY&title=Artificial+Intelligence+Full+Course+2026+%7C+AI+Tutorial+For+Beginners+%7C+AI+Full+Course+%7C+Simplilearn&lang=en&timestamp=1784675973&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=18179">
+          <img src="https://ytcards.demolab.com/?id=bQ1GPvXgurY&title=Artificial+Intelligence+Full+Course+2026+%7C+AI+Tutorial+For+Beginners+%7C+AI+Full+Course+%7C+Simplilearn&lang=en&timestamp=1784675973&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=18179" alt="Artificial Intelligence Full Course 2026 | AI Tutorial For Beginners | AI Full Course | Simplilearn" title="Artificial Intelligence Full Course 2026 | AI Tutorial For Beginners | AI Full Course | Simplilearn">
         </picture>
       </a>
     </td>
