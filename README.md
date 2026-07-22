@@ -81,56 +81,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=GYoLVXqZ1S0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=xBS2Sn7AL6o" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=GYoLVXqZ1S0&title=An+Artificial+Intelligence+Miracle+for+a+Blind+Father+and+a+Deaf+Son+%7C+Extreme+Makeover+Home+Edition&lang=en&timestamp=1784655295&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3835">
-          <img src="https://ytcards.demolab.com/?id=GYoLVXqZ1S0&title=An+Artificial+Intelligence+Miracle+for+a+Blind+Father+and+a+Deaf+Son+%7C+Extreme+Makeover+Home+Edition&lang=en&timestamp=1784655295&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3835" alt="An Artificial Intelligence Miracle for a Blind Father and a Deaf Son | Extreme Makeover Home Edition" title="An Artificial Intelligence Miracle for a Blind Father and a Deaf Son | Extreme Makeover Home Edition">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xBS2Sn7AL6o&title=Chinese+open+source+AI+model+threatens+to+disrupt+tech+market+boom%3A+Verrender+%7C+ABC+NEWS&lang=en&timestamp=1784626256&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=298">
+          <img src="https://ytcards.demolab.com/?id=xBS2Sn7AL6o&title=Chinese+open+source+AI+model+threatens+to+disrupt+tech+market+boom%3A+Verrender+%7C+ABC+NEWS&lang=en&timestamp=1784626256&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=298" alt="Chinese open source AI model threatens to disrupt tech market boom: Verrender | ABC NEWS" title="Chinese open source AI model threatens to disrupt tech market boom: Verrender | ABC NEWS">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=mSTbJifirZg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=U_Nug6fsa-w" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mSTbJifirZg&title=Sen.+Warner+%27not+surprised%27+by+reports+Pentagon+underplayed+U.S.+injuries+in+Iran+war&lang=en&timestamp=1784644495&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=400">
-          <img src="https://ytcards.demolab.com/?id=mSTbJifirZg&title=Sen.+Warner+%27not+surprised%27+by+reports+Pentagon+underplayed+U.S.+injuries+in+Iran+war&lang=en&timestamp=1784644495&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=400" alt="Sen. Warner 'not surprised' by reports Pentagon underplayed U.S. injuries in Iran war" title="Sen. Warner 'not surprised' by reports Pentagon underplayed U.S. injuries in Iran war">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=U_Nug6fsa-w&title=Congress+Must+Move+%27Quickly%27+on+Artificial+Intelligence%3A+Sen.+Mark+Warner&lang=en&timestamp=1784709056&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=558">
+          <img src="https://ytcards.demolab.com/?id=U_Nug6fsa-w&title=Congress+Must+Move+%27Quickly%27+on+Artificial+Intelligence%3A+Sen.+Mark+Warner&lang=en&timestamp=1784709056&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=558" alt="Congress Must Move 'Quickly' on Artificial Intelligence: Sen. Mark Warner" title="Congress Must Move 'Quickly' on Artificial Intelligence: Sen. Mark Warner">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=bQ1GPvXgurY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=pSKYsa3debE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=bQ1GPvXgurY&title=Artificial+Intelligence+Full+Course+2026+%7C+AI+Tutorial+For+Beginners+%7C+AI+Full+Course+%7C+Simplilearn&lang=en&timestamp=1784673295&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=18179">
-          <img src="https://ytcards.demolab.com/?id=bQ1GPvXgurY&title=Artificial+Intelligence+Full+Course+2026+%7C+AI+Tutorial+For+Beginners+%7C+AI+Full+Course+%7C+Simplilearn&lang=en&timestamp=1784673295&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=18179" alt="Artificial Intelligence Full Course 2026 | AI Tutorial For Beginners | AI Full Course | Simplilearn" title="Artificial Intelligence Full Course 2026 | AI Tutorial For Beginners | AI Full Course | Simplilearn">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=pSKYsa3debE&title=How+to+Learn+Artificial+Intelligence+from+Scratch+%7C+Complete+Beginner+to+Advanced+Guide&lang=en&timestamp=1784701856&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=522">
+          <img src="https://ytcards.demolab.com/?id=pSKYsa3debE&title=How+to+Learn+Artificial+Intelligence+from+Scratch+%7C+Complete+Beginner+to+Advanced+Guide&lang=en&timestamp=1784701856&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=522" alt="How to Learn Artificial Intelligence from Scratch | Complete Beginner to Advanced Guide" title="How to Learn Artificial Intelligence from Scratch | Complete Beginner to Advanced Guide">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=STeOraiFJII" target="_blank">
+      <a href="https://www.youtube.com/watch?v=FQAwbD2UAsA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=STeOraiFJII&title=Artificial+Intelligence+Full+Course+2026+%7C+AI+Tutorial+For+Beginners+%7C+AI+Full+Course+%7C+Simplilearn&lang=en&timestamp=1784673295&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=18171">
-          <img src="https://ytcards.demolab.com/?id=STeOraiFJII&title=Artificial+Intelligence+Full+Course+2026+%7C+AI+Tutorial+For+Beginners+%7C+AI+Full+Course+%7C+Simplilearn&lang=en&timestamp=1784673295&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=18171" alt="Artificial Intelligence Full Course 2026 | AI Tutorial For Beginners | AI Full Course | Simplilearn" title="Artificial Intelligence Full Course 2026 | AI Tutorial For Beginners | AI Full Course | Simplilearn">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=FQAwbD2UAsA&title=Alvin+and+the+Chipmunks+AI+DEBUNKED%21&lang=en&timestamp=1784662256&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=151">
+          <img src="https://ytcards.demolab.com/?id=FQAwbD2UAsA&title=Alvin+and+the+Chipmunks+AI+DEBUNKED%21&lang=en&timestamp=1784662256&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=151" alt="Alvin and the Chipmunks AI DEBUNKED!" title="Alvin and the Chipmunks AI DEBUNKED!">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=dNPRu6PhiSk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=mSTbJifirZg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=dNPRu6PhiSk&title=Secure+the+age+of+AI%3A+Redefining+trust%2C+data+and+access&lang=en&timestamp=1784651695&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=803">
-          <img src="https://ytcards.demolab.com/?id=dNPRu6PhiSk&title=Secure+the+age+of+AI%3A+Redefining+trust%2C+data+and+access&lang=en&timestamp=1784651695&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=803" alt="Secure the age of AI: Redefining trust, data and access" title="Secure the age of AI: Redefining trust, data and access">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mSTbJifirZg&title=Sen.+Warner+%27not+surprised%27+by+reports+Pentagon+underplayed+U.S.+injuries+in+Iran+war&lang=en&timestamp=1784644256&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=400">
+          <img src="https://ytcards.demolab.com/?id=mSTbJifirZg&title=Sen.+Warner+%27not+surprised%27+by+reports+Pentagon+underplayed+U.S.+injuries+in+Iran+war&lang=en&timestamp=1784644256&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=400" alt="Sen. Warner 'not surprised' by reports Pentagon underplayed U.S. injuries in Iran war" title="Sen. Warner 'not surprised' by reports Pentagon underplayed U.S. injuries in Iran war">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=-CQFER1YCxQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=5f_pE6wpP10" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-CQFER1YCxQ&title=Get+Certified+SQL%2BAI+%28DP-800%29%3A+Secure%2C+Optimize%2C+and+Ship+SQL+Solutions+with+Confidence+%28EMEA+%2F+US%29&lang=en&timestamp=1784651695&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3638">
-          <img src="https://ytcards.demolab.com/?id=-CQFER1YCxQ&title=Get+Certified+SQL%2BAI+%28DP-800%29%3A+Secure%2C+Optimize%2C+and+Ship+SQL+Solutions+with+Confidence+%28EMEA+%2F+US%29&lang=en&timestamp=1784651695&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3638" alt="Get Certified SQL+AI (DP-800): Secure, Optimize, and Ship SQL Solutions with Confidence (EMEA / US)" title="Get Certified SQL+AI (DP-800): Secure, Optimize, and Ship SQL Solutions with Confidence (EMEA / US)">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5f_pE6wpP10&title=%E2%80%98REINDUSTRIALIZING+THE+US%E2%80%99%3A+AI+arms+race+with+China+HEATS+UP&lang=en&timestamp=1784651456&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=509">
+          <img src="https://ytcards.demolab.com/?id=5f_pE6wpP10&title=%E2%80%98REINDUSTRIALIZING+THE+US%E2%80%99%3A+AI+arms+race+with+China+HEATS+UP&lang=en&timestamp=1784651456&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=509" alt="‘REINDUSTRIALIZING THE US’: AI arms race with China HEATS UP" title="‘REINDUSTRIALIZING THE US’: AI arms race with China HEATS UP">
         </picture>
       </a>
     </td>
