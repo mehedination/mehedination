@@ -84,56 +84,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=xBS2Sn7AL6o" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xBS2Sn7AL6o&title=Chinese+open+source+AI+model+threatens+to+disrupt+tech+market+boom%3A+Verrender+%7C+ABC+NEWS&lang=en&timestamp=1784642956&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=298">
-          <img src="https://ytcards.demolab.com/?id=xBS2Sn7AL6o&title=Chinese+open+source+AI+model+threatens+to+disrupt+tech+market+boom%3A+Verrender+%7C+ABC+NEWS&lang=en&timestamp=1784642956&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=298" alt="Chinese open source AI model threatens to disrupt tech market boom: Verrender | ABC NEWS" title="Chinese open source AI model threatens to disrupt tech market boom: Verrender | ABC NEWS">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xBS2Sn7AL6o&title=Chinese+open+source+AI+model+threatens+to+disrupt+tech+market+boom%3A+Verrender+%7C+ABC+NEWS&lang=en&timestamp=1784651047&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=298">
+          <img src="https://ytcards.demolab.com/?id=xBS2Sn7AL6o&title=Chinese+open+source+AI+model+threatens+to+disrupt+tech+market+boom%3A+Verrender+%7C+ABC+NEWS&lang=en&timestamp=1784651047&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=298" alt="Chinese open source AI model threatens to disrupt tech market boom: Verrender | ABC NEWS" title="Chinese open source AI model threatens to disrupt tech market boom: Verrender | ABC NEWS">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=U_Nug6fsa-w" target="_blank">
+      <a href="https://www.youtube.com/watch?v=4sAmpcSOVEw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=U_Nug6fsa-w&title=Congress+Must+Move+%27Quickly%27+on+Artificial+Intelligence%3A+Sen.+Mark+Warner&lang=en&timestamp=1784711356&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=558">
-          <img src="https://ytcards.demolab.com/?id=U_Nug6fsa-w&title=Congress+Must+Move+%27Quickly%27+on+Artificial+Intelligence%3A+Sen.+Mark+Warner&lang=en&timestamp=1784711356&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=558" alt="Congress Must Move 'Quickly' on Artificial Intelligence: Sen. Mark Warner" title="Congress Must Move 'Quickly' on Artificial Intelligence: Sen. Mark Warner">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4sAmpcSOVEw&title=Hermes+Agent+-+Ultimate+Crash+Course+for+Beginners+%28AI+Agent%29&lang=en&timestamp=1784651047&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1339">
+          <img src="https://ytcards.demolab.com/?id=4sAmpcSOVEw&title=Hermes+Agent+-+Ultimate+Crash+Course+for+Beginners+%28AI+Agent%29&lang=en&timestamp=1784651047&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1339" alt="Hermes Agent - Ultimate Crash Course for Beginners (AI Agent)" title="Hermes Agent - Ultimate Crash Course for Beginners (AI Agent)">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=6BtIQIGqGJc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=K5qAD-FcVsc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6BtIQIGqGJc&title=The+Most+Important+Conversation+in+AI+Right+Now&lang=en&timestamp=1784664556&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1633">
-          <img src="https://ytcards.demolab.com/?id=6BtIQIGqGJc&title=The+Most+Important+Conversation+in+AI+Right+Now&lang=en&timestamp=1784664556&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1633" alt="The Most Important Conversation in AI Right Now" title="The Most Important Conversation in AI Right Now">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=K5qAD-FcVsc&title=AI+Will+Change+Your+Future+Forever+%7C+The+Truth+About+Artificial+Intelligence&lang=en&timestamp=1784651047&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=138">
+          <img src="https://ytcards.demolab.com/?id=K5qAD-FcVsc&title=AI+Will+Change+Your+Future+Forever+%7C+The+Truth+About+Artificial+Intelligence&lang=en&timestamp=1784651047&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=138" alt="AI Will Change Your Future Forever | The Truth About Artificial Intelligence" title="AI Will Change Your Future Forever | The Truth About Artificial Intelligence">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=XT5oJIGGhfc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=U_Nug6fsa-w" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XT5oJIGGhfc&title=AI+Just+Decoded+The+Voynich+Manuscript+%E2%80%94+The+First+Message+Shocked+Scientists&lang=en&timestamp=1784657356&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=678">
-          <img src="https://ytcards.demolab.com/?id=XT5oJIGGhfc&title=AI+Just+Decoded+The+Voynich+Manuscript+%E2%80%94+The+First+Message+Shocked+Scientists&lang=en&timestamp=1784657356&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=678" alt="AI Just Decoded The Voynich Manuscript — The First Message Shocked Scientists" title="AI Just Decoded The Voynich Manuscript — The First Message Shocked Scientists">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=U_Nug6fsa-w&title=Congress+Must+Move+%27Quickly%27+on+Artificial+Intelligence%3A+Sen.+Mark+Warner&lang=en&timestamp=1784708647&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=558">
+          <img src="https://ytcards.demolab.com/?id=U_Nug6fsa-w&title=Congress+Must+Move+%27Quickly%27+on+Artificial+Intelligence%3A+Sen.+Mark+Warner&lang=en&timestamp=1784708647&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=558" alt="Congress Must Move 'Quickly' on Artificial Intelligence: Sen. Mark Warner" title="Congress Must Move 'Quickly' on Artificial Intelligence: Sen. Mark Warner">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=pSKYsa3debE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=QMfm9OtevGA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=pSKYsa3debE&title=How+to+Learn+Artificial+Intelligence+from+Scratch+%7C+Complete+Beginner+to+Advanced+Guide&lang=en&timestamp=1784700556&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=522">
-          <img src="https://ytcards.demolab.com/?id=pSKYsa3debE&title=How+to+Learn+Artificial+Intelligence+from+Scratch+%7C+Complete+Beginner+to+Advanced+Guide&lang=en&timestamp=1784700556&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=522" alt="How to Learn Artificial Intelligence from Scratch | Complete Beginner to Advanced Guide" title="How to Learn Artificial Intelligence from Scratch | Complete Beginner to Advanced Guide">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QMfm9OtevGA&title=Special+URGENT+Message+About+Artificial+Intelligence+%7C+Sirian+Council+of+Elders+Message+to+Humanity+&lang=en&timestamp=1784736007&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=745">
+          <img src="https://ytcards.demolab.com/?id=QMfm9OtevGA&title=Special+URGENT+Message+About+Artificial+Intelligence+%7C+Sirian+Council+of+Elders+Message+to+Humanity+&lang=en&timestamp=1784736007&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=745" alt="Special URGENT Message About Artificial Intelligence | Sirian Council of Elders Message to Humanity " title="Special URGENT Message About Artificial Intelligence | Sirian Council of Elders Message to Humanity ">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=mSTbJifirZg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=STeOraiFJII" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mSTbJifirZg&title=Sen.+Warner+%27not+surprised%27+by+reports+Pentagon+underplayed+U.S.+injuries+in+Iran+war&lang=en&timestamp=1784646556&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=400">
-          <img src="https://ytcards.demolab.com/?id=mSTbJifirZg&title=Sen.+Warner+%27not+surprised%27+by+reports+Pentagon+underplayed+U.S.+injuries+in+Iran+war&lang=en&timestamp=1784646556&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=400" alt="Sen. Warner 'not surprised' by reports Pentagon underplayed U.S. injuries in Iran war" title="Sen. Warner 'not surprised' by reports Pentagon underplayed U.S. injuries in Iran war">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=STeOraiFJII&title=Artificial+Intelligence+Full+Course+2026+%7C+AI+Tutorial+For+Beginners+%7C+AI+Full+Course+%7C+Simplilearn&lang=en&timestamp=1784676247&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=18171">
+          <img src="https://ytcards.demolab.com/?id=STeOraiFJII&title=Artificial+Intelligence+Full+Course+2026+%7C+AI+Tutorial+For+Beginners+%7C+AI+Full+Course+%7C+Simplilearn&lang=en&timestamp=1784676247&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=18171" alt="Artificial Intelligence Full Course 2026 | AI Tutorial For Beginners | AI Full Course | Simplilearn" title="Artificial Intelligence Full Course 2026 | AI Tutorial For Beginners | AI Full Course | Simplilearn">
         </picture>
       </a>
     </td>
