@@ -87,30 +87,31 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=xBS2Sn7AL6o" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ORu-Z8xNIoE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xBS2Sn7AL6o&title=Chinese+open+source+AI+model+threatens+to+disrupt+tech+market+boom%3A+Verrender+%7C+ABC+NEWS&lang=en&timestamp=1784664915&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=298">
-          <img src="https://ytcards.demolab.com/?id=xBS2Sn7AL6o&title=Chinese+open+source+AI+model+threatens+to+disrupt+tech+market+boom%3A+Verrender+%7C+ABC+NEWS&lang=en&timestamp=1784664915&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=298" alt="Chinese open source AI model threatens to disrupt tech market boom: Verrender | ABC NEWS" title="Chinese open source AI model threatens to disrupt tech market boom: Verrender | ABC NEWS">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=npcb1ROWw1A" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=npcb1ROWw1A&title=Nebius+vs.IREN%3A+Which+AI+Stock+Is+the+Better+Buy+Right+Now%3F&lang=en&timestamp=1784664915&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3312">
-          <img src="https://ytcards.demolab.com/?id=npcb1ROWw1A&title=Nebius+vs.IREN%3A+Which+AI+Stock+Is+the+Better+Buy+Right+Now%3F&lang=en&timestamp=1784664915&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3312" alt="Nebius vs.IREN: Which AI Stock Is the Better Buy Right Now?" title="Nebius vs.IREN: Which AI Stock Is the Better Buy Right Now?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ORu-Z8xNIoE&title=A+real+AI+plan+that+actually+meets+the+moment&lang=en&timestamp=1784732713&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=588">
+          <img src="https://ytcards.demolab.com/?id=ORu-Z8xNIoE&title=A+real+AI+plan+that+actually+meets+the+moment&lang=en&timestamp=1784732713&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=588" alt="A real AI plan that actually meets the moment" title="A real AI plan that actually meets the moment">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=-JyLALrqaZ0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-JyLALrqaZ0&title=The+AI+Arms+Race%3A+How+Artificial+Intelligence+is+Reshaping+Intelligence%2C+Warfare+and+Global+Power&lang=en&timestamp=1784747715&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1610">
-          <img src="https://ytcards.demolab.com/?id=-JyLALrqaZ0&title=The+AI+Arms+Race%3A+How+Artificial+Intelligence+is+Reshaping+Intelligence%2C+Warfare+and+Global+Power&lang=en&timestamp=1784747715&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1610" alt="The AI Arms Race: How Artificial Intelligence is Reshaping Intelligence, Warfare and Global Power" title="The AI Arms Race: How Artificial Intelligence is Reshaping Intelligence, Warfare and Global Power">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-JyLALrqaZ0&title=The+AI+Arms+Race%3A+How+Artificial+Intelligence+is+Reshaping+Intelligence%2C+Warfare+and+Global+Power&lang=en&timestamp=1784750713&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1610">
+          <img src="https://ytcards.demolab.com/?id=-JyLALrqaZ0&title=The+AI+Arms+Race%3A+How+Artificial+Intelligence+is+Reshaping+Intelligence%2C+Warfare+and+Global+Power&lang=en&timestamp=1784750713&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1610" alt="The AI Arms Race: How Artificial Intelligence is Reshaping Intelligence, Warfare and Global Power" title="The AI Arms Race: How Artificial Intelligence is Reshaping Intelligence, Warfare and Global Power">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=c4lycXzTS9Y" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=c4lycXzTS9Y&title=Artificial+Intelligence+CAUGHT+Performing+CYBER+ATTACK&lang=en&timestamp=1784750713&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=390">
+          <img src="https://ytcards.demolab.com/?id=c4lycXzTS9Y&title=Artificial+Intelligence+CAUGHT+Performing+CYBER+ATTACK&lang=en&timestamp=1784750713&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=390" alt="Artificial Intelligence CAUGHT Performing CYBER ATTACK" title="Artificial Intelligence CAUGHT Performing CYBER ATTACK">
         </picture>
       </a>
     </td>
@@ -119,24 +120,24 @@
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=wzY2fV4Mp3U" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wzY2fV4Mp3U&title=GPT-6+Goes+Rogue%3F+The+HuggingFace+Incident%2C+Sans+Hype&lang=en&timestamp=1784740515&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=876">
-          <img src="https://ytcards.demolab.com/?id=wzY2fV4Mp3U&title=GPT-6+Goes+Rogue%3F+The+HuggingFace+Incident%2C+Sans+Hype&lang=en&timestamp=1784740515&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=876" alt="GPT-6 Goes Rogue? The HuggingFace Incident, Sans Hype" title="GPT-6 Goes Rogue? The HuggingFace Incident, Sans Hype">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wzY2fV4Mp3U&title=GPT-6+was+asked+a+question%2C+and+went+on+a+hacking+spree+to+get+the+answer&lang=en&timestamp=1784739913&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=876">
+          <img src="https://ytcards.demolab.com/?id=wzY2fV4Mp3U&title=GPT-6+was+asked+a+question%2C+and+went+on+a+hacking+spree+to+get+the+answer&lang=en&timestamp=1784739913&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=876" alt="GPT-6 was asked a question, and went on a hacking spree to get the answer" title="GPT-6 was asked a question, and went on a hacking spree to get the answer">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=6BtIQIGqGJc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=34mXNv9zQB4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6BtIQIGqGJc&title=The+Most+Important+Conversation+in+AI+Right+Now&lang=en&timestamp=1784664915&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1633">
-          <img src="https://ytcards.demolab.com/?id=6BtIQIGqGJc&title=The+Most+Important+Conversation+in+AI+Right+Now&lang=en&timestamp=1784664915&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1633" alt="The Most Important Conversation in AI Right Now" title="The Most Important Conversation in AI Right Now">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=34mXNv9zQB4&title=Sen.+Warner+proposes+legislation+to+regulate+artificial+intelligence&lang=en&timestamp=1784754313&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=35">
+          <img src="https://ytcards.demolab.com/?id=34mXNv9zQB4&title=Sen.+Warner+proposes+legislation+to+regulate+artificial+intelligence&lang=en&timestamp=1784754313&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=35" alt="Sen. Warner proposes legislation to regulate artificial intelligence" title="Sen. Warner proposes legislation to regulate artificial intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=c4lycXzTS9Y" target="_blank">
+      <a href="https://www.youtube.com/watch?v=0rydsLtq9Y0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=c4lycXzTS9Y&title=Artificial+Intelligence+CAUGHT+Performing+CYBER+ATTACK&lang=en&timestamp=1784748615&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=390">
-          <img src="https://ytcards.demolab.com/?id=c4lycXzTS9Y&title=Artificial+Intelligence+CAUGHT+Performing+CYBER+ATTACK&lang=en&timestamp=1784748615&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=390" alt="Artificial Intelligence CAUGHT Performing CYBER ATTACK" title="Artificial Intelligence CAUGHT Performing CYBER ATTACK">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=0rydsLtq9Y0&title=OpenAI+Admits+Rogue+Agent+Hacked+Another+AI+Company+%7C+10+News&lang=en&timestamp=1784721913&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=101">
+          <img src="https://ytcards.demolab.com/?id=0rydsLtq9Y0&title=OpenAI+Admits+Rogue+Agent+Hacked+Another+AI+Company+%7C+10+News&lang=en&timestamp=1784721913&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=101" alt="OpenAI Admits Rogue Agent Hacked Another AI Company | 10 News" title="OpenAI Admits Rogue Agent Hacked Another AI Company | 10 News">
         </picture>
       </a>
     </td>
