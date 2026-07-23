@@ -89,56 +89,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=M8UhTyoQWqk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ohmmQax8AHg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=M8UhTyoQWqk&title=Google+EXPANDS+Gemini+AI+model+lineup%3A+%E2%80%98As+good+as+it+gets%E2%80%99&lang=en&timestamp=1784755166&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=280">
-          <img src="https://ytcards.demolab.com/?id=M8UhTyoQWqk&title=Google+EXPANDS+Gemini+AI+model+lineup%3A+%E2%80%98As+good+as+it+gets%E2%80%99&lang=en&timestamp=1784755166&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=280" alt="Google EXPANDS Gemini AI model lineup: ‘As good as it gets’" title="Google EXPANDS Gemini AI model lineup: ‘As good as it gets’">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ohmmQax8AHg&title=OpenAI+says+its+AI+models+went+rogue+and+hacked+another+tech+company+during+test&lang=en&timestamp=1784759810&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=290">
+          <img src="https://ytcards.demolab.com/?id=ohmmQax8AHg&title=OpenAI+says+its+AI+models+went+rogue+and+hacked+another+tech+company+during+test&lang=en&timestamp=1784759810&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=290" alt="OpenAI says its AI models went rogue and hacked another tech company during test" title="OpenAI says its AI models went rogue and hacked another tech company during test">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=lUCtUA9lrQw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lUCtUA9lrQw&title=OpenAI%27s+artificial+intelligence+goes+rogue+and+hacks+company+%7C+7NEWS&lang=en&timestamp=1784776766&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=96">
-          <img src="https://ytcards.demolab.com/?id=lUCtUA9lrQw&title=OpenAI%27s+artificial+intelligence+goes+rogue+and+hacks+company+%7C+7NEWS&lang=en&timestamp=1784776766&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=96" alt="OpenAI's artificial intelligence goes rogue and hacks company | 7NEWS" title="OpenAI's artificial intelligence goes rogue and hacks company | 7NEWS">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lUCtUA9lrQw&title=OpenAI%27s+artificial+intelligence+goes+rogue+and+hacks+company+%7C+7NEWS&lang=en&timestamp=1784777810&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=96">
+          <img src="https://ytcards.demolab.com/?id=lUCtUA9lrQw&title=OpenAI%27s+artificial+intelligence+goes+rogue+and+hacks+company+%7C+7NEWS&lang=en&timestamp=1784777810&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=96" alt="OpenAI's artificial intelligence goes rogue and hacks company | 7NEWS" title="OpenAI's artificial intelligence goes rogue and hacks company | 7NEWS">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=fsFaXMoWEGU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=r4H7rx5nn1A" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=fsFaXMoWEGU&title=Sorry+USA...+the+AI+race+is+OVER%21&lang=en&timestamp=1784744366&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=750">
-          <img src="https://ytcards.demolab.com/?id=fsFaXMoWEGU&title=Sorry+USA...+the+AI+race+is+OVER%21&lang=en&timestamp=1784744366&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=750" alt="Sorry USA... the AI race is OVER!" title="Sorry USA... the AI race is OVER!">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=r4H7rx5nn1A&title=It+Begins%3A+An+AI+Tried+to+Escape+the+Lab&lang=en&timestamp=1784745410&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=643">
+          <img src="https://ytcards.demolab.com/?id=r4H7rx5nn1A&title=It+Begins%3A+An+AI+Tried+to+Escape+the+Lab&lang=en&timestamp=1784745410&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=643" alt="It Begins: An AI Tried to Escape the Lab" title="It Begins: An AI Tried to Escape the Lab">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=3LBQTbkpCSY" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3LBQTbkpCSY&title=Dario+Amodei+%26+Demis+Hassabis%3A+We%27re+12+Months+Away+From+AI+Replacing+Everyone&lang=en&timestamp=1784737166&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=999">
-          <img src="https://ytcards.demolab.com/?id=3LBQTbkpCSY&title=Dario+Amodei+%26+Demis+Hassabis%3A+We%27re+12+Months+Away+From+AI+Replacing+Everyone&lang=en&timestamp=1784737166&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=999" alt="Dario Amodei & Demis Hassabis: We're 12 Months Away From AI Replacing Everyone" title="Dario Amodei & Demis Hassabis: We're 12 Months Away From AI Replacing Everyone">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
       <a href="https://www.youtube.com/watch?v=wzY2fV4Mp3U" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wzY2fV4Mp3U&title=GPT-6+was+asked+a+question%2C+and+went+on+a+hacking+spree+to+get+the+answer&lang=en&timestamp=1784740766&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=876">
-          <img src="https://ytcards.demolab.com/?id=wzY2fV4Mp3U&title=GPT-6+was+asked+a+question%2C+and+went+on+a+hacking+spree+to+get+the+answer&lang=en&timestamp=1784740766&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=876" alt="GPT-6 was asked a question, and went on a hacking spree to get the answer" title="GPT-6 was asked a question, and went on a hacking spree to get the answer">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wzY2fV4Mp3U&title=GPT-6+was+asked+a+question%2C+and+went+on+a+hacking+spree+to+get+the+answer&lang=en&timestamp=1784741810&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=876">
+          <img src="https://ytcards.demolab.com/?id=wzY2fV4Mp3U&title=GPT-6+was+asked+a+question%2C+and+went+on+a+hacking+spree+to+get+the+answer&lang=en&timestamp=1784741810&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=876" alt="GPT-6 was asked a question, and went on a hacking spree to get the answer" title="GPT-6 was asked a question, and went on a hacking spree to get the answer">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ikKAR7jlVFg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=fsFaXMoWEGU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ikKAR7jlVFg&title=OpenAI+claims+rogue+AI+model+hacked+website&lang=en&timestamp=1784758766&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=120">
-          <img src="https://ytcards.demolab.com/?id=ikKAR7jlVFg&title=OpenAI+claims+rogue+AI+model+hacked+website&lang=en&timestamp=1784758766&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=120" alt="OpenAI claims rogue AI model hacked website" title="OpenAI claims rogue AI model hacked website">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=fsFaXMoWEGU&title=Sorry+USA...+the+AI+race+is+OVER%21&lang=en&timestamp=1784745410&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=750">
+          <img src="https://ytcards.demolab.com/?id=fsFaXMoWEGU&title=Sorry+USA...+the+AI+race+is+OVER%21&lang=en&timestamp=1784745410&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=750" alt="Sorry USA... the AI race is OVER!" title="Sorry USA... the AI race is OVER!">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=bH9ADw9GLcg" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=bH9ADw9GLcg&title=Machine+learning+professor+breaks+down+OpenAI+model%27s+hack+of+another+AI+company&lang=en&timestamp=1784763410&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=381">
+          <img src="https://ytcards.demolab.com/?id=bH9ADw9GLcg&title=Machine+learning+professor+breaks+down+OpenAI+model%27s+hack+of+another+AI+company&lang=en&timestamp=1784763410&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=381" alt="Machine learning professor breaks down OpenAI model's hack of another AI company" title="Machine learning professor breaks down OpenAI model's hack of another AI company">
         </picture>
       </a>
     </td>
