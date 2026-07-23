@@ -93,56 +93,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=r4H7rx5nn1A" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=r4H7rx5nn1A&title=It+Begins%3A+An+AI+Tried+to+Escape+the+Lab&lang=en&timestamp=1784744067&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=643">
-          <img src="https://ytcards.demolab.com/?id=r4H7rx5nn1A&title=It+Begins%3A+An+AI+Tried+to+Escape+the+Lab&lang=en&timestamp=1784744067&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=643" alt="It Begins: An AI Tried to Escape the Lab" title="It Begins: An AI Tried to Escape the Lab">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=r4H7rx5nn1A&title=It+Begins%3A+An+AI+Tried+to+Escape+the+Lab&lang=en&timestamp=1784748425&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=643">
+          <img src="https://ytcards.demolab.com/?id=r4H7rx5nn1A&title=It+Begins%3A+An+AI+Tried+to+Escape+the+Lab&lang=en&timestamp=1784748425&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=643" alt="It Begins: An AI Tried to Escape the Lab" title="It Begins: An AI Tried to Escape the Lab">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=ohmmQax8AHg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ohmmQax8AHg&title=OpenAI+says+its+AI+models+went+rogue+and+hacked+another+tech+company+during+test&lang=en&timestamp=1784758467&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=290">
-          <img src="https://ytcards.demolab.com/?id=ohmmQax8AHg&title=OpenAI+says+its+AI+models+went+rogue+and+hacked+another+tech+company+during+test&lang=en&timestamp=1784758467&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=290" alt="OpenAI says its AI models went rogue and hacked another tech company during test" title="OpenAI says its AI models went rogue and hacked another tech company during test">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ohmmQax8AHg&title=OpenAI+says+its+AI+models+went+rogue+and+hacked+another+tech+company+during+test&lang=en&timestamp=1784759225&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=290">
+          <img src="https://ytcards.demolab.com/?id=ohmmQax8AHg&title=OpenAI+says+its+AI+models+went+rogue+and+hacked+another+tech+company+during+test&lang=en&timestamp=1784759225&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=290" alt="OpenAI says its AI models went rogue and hacked another tech company during test" title="OpenAI says its AI models went rogue and hacked another tech company during test">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=lUCtUA9lrQw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lUCtUA9lrQw&title=OpenAI%27s+artificial+intelligence+goes+rogue+and+hacks+company+%7C+7NEWS&lang=en&timestamp=1784776467&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=96">
-          <img src="https://ytcards.demolab.com/?id=lUCtUA9lrQw&title=OpenAI%27s+artificial+intelligence+goes+rogue+and+hacks+company+%7C+7NEWS&lang=en&timestamp=1784776467&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=96" alt="OpenAI's artificial intelligence goes rogue and hacks company | 7NEWS" title="OpenAI's artificial intelligence goes rogue and hacks company | 7NEWS">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lUCtUA9lrQw&title=OpenAI%27s+artificial+intelligence+goes+rogue+and+hacks+company+%7C+7NEWS&lang=en&timestamp=1784777225&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=96">
+          <img src="https://ytcards.demolab.com/?id=lUCtUA9lrQw&title=OpenAI%27s+artificial+intelligence+goes+rogue+and+hacks+company+%7C+7NEWS&lang=en&timestamp=1784777225&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=96" alt="OpenAI's artificial intelligence goes rogue and hacks company | 7NEWS" title="OpenAI's artificial intelligence goes rogue and hacks company | 7NEWS">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=bPrWvdqhdUo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=xKuDvRRE7Bc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=bPrWvdqhdUo&title=US+Just+Issued+China+An+Unthinkable+AI+Threat&lang=en&timestamp=1784733267&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=945">
-          <img src="https://ytcards.demolab.com/?id=bPrWvdqhdUo&title=US+Just+Issued+China+An+Unthinkable+AI+Threat&lang=en&timestamp=1784733267&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=945" alt="US Just Issued China An Unthinkable AI Threat" title="US Just Issued China An Unthinkable AI Threat">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xKuDvRRE7Bc&title=AI+Is+About+to+Crash.+Here%E2%80%99s+Why.&lang=en&timestamp=1784809625&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=761">
+          <img src="https://ytcards.demolab.com/?id=xKuDvRRE7Bc&title=AI+Is+About+to+Crash.+Here%E2%80%99s+Why.&lang=en&timestamp=1784809625&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=761" alt="AI Is About to Crash. Here’s Why." title="AI Is About to Crash. Here’s Why.">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=pIlYSW6pB4w" target="_blank">
+      <a href="https://www.youtube.com/watch?v=bPrWvdqhdUo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=pIlYSW6pB4w&title=Where+Artificial+Intelligence+Is+Really+Headed+Next&lang=en&timestamp=1784808867&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1136">
-          <img src="https://ytcards.demolab.com/?id=pIlYSW6pB4w&title=Where+Artificial+Intelligence+Is+Really+Headed+Next&lang=en&timestamp=1784808867&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1136" alt="Where Artificial Intelligence Is Really Headed Next" title="Where Artificial Intelligence Is Really Headed Next">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=bPrWvdqhdUo&title=US+Just+Issued+China+An+Unthinkable+AI+Threat&lang=en&timestamp=1784748425&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=945">
+          <img src="https://ytcards.demolab.com/?id=bPrWvdqhdUo&title=US+Just+Issued+China+An+Unthinkable+AI+Threat&lang=en&timestamp=1784748425&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=945" alt="US Just Issued China An Unthinkable AI Threat" title="US Just Issued China An Unthinkable AI Threat">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=wzY2fV4Mp3U" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wzY2fV4Mp3U&title=GPT-6+was+asked+a+question%2C+and+went+on+a+hacking+spree+to+get+the+answer&lang=en&timestamp=1784740467&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=876">
-          <img src="https://ytcards.demolab.com/?id=wzY2fV4Mp3U&title=GPT-6+was+asked+a+question%2C+and+went+on+a+hacking+spree+to+get+the+answer&lang=en&timestamp=1784740467&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=876" alt="GPT-6 was asked a question, and went on a hacking spree to get the answer" title="GPT-6 was asked a question, and went on a hacking spree to get the answer">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wzY2fV4Mp3U&title=GPT-6+Goes+Rogue%3F+The+HuggingFace+Incident%2C+Sans+Hype&lang=en&timestamp=1784748425&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=876">
+          <img src="https://ytcards.demolab.com/?id=wzY2fV4Mp3U&title=GPT-6+Goes+Rogue%3F+The+HuggingFace+Incident%2C+Sans+Hype&lang=en&timestamp=1784748425&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=876" alt="GPT-6 Goes Rogue? The HuggingFace Incident, Sans Hype" title="GPT-6 Goes Rogue? The HuggingFace Incident, Sans Hype">
         </picture>
       </a>
     </td>
