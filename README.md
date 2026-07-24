@@ -95,56 +95,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ohmmQax8AHg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=GEYxNDh1Zj8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ohmmQax8AHg&title=OpenAI+says+its+AI+models+went+rogue+and+hacked+another+tech+company+during+test&lang=en&timestamp=1784758263&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=290">
-          <img src="https://ytcards.demolab.com/?id=ohmmQax8AHg&title=OpenAI+says+its+AI+models+went+rogue+and+hacked+another+tech+company+during+test&lang=en&timestamp=1784758263&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=290" alt="OpenAI says its AI models went rogue and hacked another tech company during test" title="OpenAI says its AI models went rogue and hacked another tech company during test">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=GEYxNDh1Zj8&title=Has+AI+Become+Too+Powerful+to+Control%3F+%7C+Hot+Take+with+Jesse+Weber&lang=en&timestamp=1784851046&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1734">
+          <img src="https://ytcards.demolab.com/?id=GEYxNDh1Zj8&title=Has+AI+Become+Too+Powerful+to+Control%3F+%7C+Hot+Take+with+Jesse+Weber&lang=en&timestamp=1784851046&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1734" alt="Has AI Become Too Powerful to Control? | Hot Take with Jesse Weber" title="Has AI Become Too Powerful to Control? | Hot Take with Jesse Weber">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=r4H7rx5nn1A" target="_blank">
+      <a href="https://www.youtube.com/watch?v=hLf84IJpoEk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=r4H7rx5nn1A&title=OpenAI+just+Admitted%3A+GPT-6+Escaped&lang=en&timestamp=1784754663&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=643">
-          <img src="https://ytcards.demolab.com/?id=r4H7rx5nn1A&title=OpenAI+just+Admitted%3A+GPT-6+Escaped&lang=en&timestamp=1784754663&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=643" alt="OpenAI just Admitted: GPT-6 Escaped" title="OpenAI just Admitted: GPT-6 Escaped">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hLf84IJpoEk&title=The+World+After+Artificial+Intelligence+Takes+Over+with+Isaac+Arthur&lang=en&timestamp=1784840246&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5701">
+          <img src="https://ytcards.demolab.com/?id=hLf84IJpoEk&title=The+World+After+Artificial+Intelligence+Takes+Over+with+Isaac+Arthur&lang=en&timestamp=1784840246&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5701" alt="The World After Artificial Intelligence Takes Over with Isaac Arthur" title="The World After Artificial Intelligence Takes Over with Isaac Arthur">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=lUCtUA9lrQw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Lzk4o3fPZZE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lUCtUA9lrQw&title=OpenAI%27s+artificial+intelligence+goes+rogue+and+hacks+company+%7C+7NEWS&lang=en&timestamp=1784776263&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=96">
-          <img src="https://ytcards.demolab.com/?id=lUCtUA9lrQw&title=OpenAI%27s+artificial+intelligence+goes+rogue+and+hacks+company+%7C+7NEWS&lang=en&timestamp=1784776263&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=96" alt="OpenAI's artificial intelligence goes rogue and hacks company | 7NEWS" title="OpenAI's artificial intelligence goes rogue and hacks company | 7NEWS">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Lzk4o3fPZZE&title=Will+AI+ever+come+alive%2C+and+what+happens+if+it+does%3F+%7C+BBC+News&lang=en&timestamp=1784843846&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1575">
+          <img src="https://ytcards.demolab.com/?id=Lzk4o3fPZZE&title=Will+AI+ever+come+alive%2C+and+what+happens+if+it+does%3F+%7C+BBC+News&lang=en&timestamp=1784843846&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1575" alt="Will AI ever come alive, and what happens if it does? | BBC News" title="Will AI ever come alive, and what happens if it does? | BBC News">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
+      <a href="https://www.youtube.com/watch?v=hTBCkbuK-hw" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hTBCkbuK-hw&title=FULL+REMARKS%3A+AI+data+centers+-+Trump+unveils+plan+for+how+to+keep+your+electric+bills+from+soaring&lang=en&timestamp=1784854646&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1873">
+          <img src="https://ytcards.demolab.com/?id=hTBCkbuK-hw&title=FULL+REMARKS%3A+AI+data+centers+-+Trump+unveils+plan+for+how+to+keep+your+electric+bills+from+soaring&lang=en&timestamp=1784854646&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1873" alt="FULL REMARKS: AI data centers - Trump unveils plan for how to keep your electric bills from soaring" title="FULL REMARKS: AI data centers - Trump unveils plan for how to keep your electric bills from soaring">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=XFIy-wUGQ4k" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XFIy-wUGQ4k&title=AI+must+benefit+humanity%2C+not+hurt+us.&lang=en&timestamp=1784829446&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1136">
+          <img src="https://ytcards.demolab.com/?id=XFIy-wUGQ4k&title=AI+must+benefit+humanity%2C+not+hurt+us.&lang=en&timestamp=1784829446&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1136" alt="AI must benefit humanity, not hurt us." title="AI must benefit humanity, not hurt us.">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
       <a href="https://www.youtube.com/watch?v=xKuDvRRE7Bc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xKuDvRRE7Bc&title=AI+Is+About+to+Crash.+Here%E2%80%99s+Why.&lang=en&timestamp=1784812263&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=761">
-          <img src="https://ytcards.demolab.com/?id=xKuDvRRE7Bc&title=AI+Is+About+to+Crash.+Here%E2%80%99s+Why.&lang=en&timestamp=1784812263&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=761" alt="AI Is About to Crash. Here’s Why." title="AI Is About to Crash. Here’s Why.">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=bPrWvdqhdUo" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=bPrWvdqhdUo&title=US+Just+Issued+China+An+Unthinkable+AI+Threat&lang=en&timestamp=1784754663&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=945">
-          <img src="https://ytcards.demolab.com/?id=bPrWvdqhdUo&title=US+Just+Issued+China+An+Unthinkable+AI+Threat&lang=en&timestamp=1784754663&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=945" alt="US Just Issued China An Unthinkable AI Threat" title="US Just Issued China An Unthinkable AI Threat">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=wzY2fV4Mp3U" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wzY2fV4Mp3U&title=OpenAI%27s+Internal+Model+Breaks+Loose&lang=en&timestamp=1784754663&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=876">
-          <img src="https://ytcards.demolab.com/?id=wzY2fV4Mp3U&title=OpenAI%27s+Internal+Model+Breaks+Loose&lang=en&timestamp=1784754663&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=876" alt="OpenAI's Internal Model Breaks Loose" title="OpenAI's Internal Model Breaks Loose">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xKuDvRRE7Bc&title=AI+Is+About+to+Crash.+Here%E2%80%99s+Why.&lang=en&timestamp=1784815046&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=761">
+          <img src="https://ytcards.demolab.com/?id=xKuDvRRE7Bc&title=AI+Is+About+to+Crash.+Here%E2%80%99s+Why.&lang=en&timestamp=1784815046&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=761" alt="AI Is About to Crash. Here’s Why." title="AI Is About to Crash. Here’s Why.">
         </picture>
       </a>
     </td>
