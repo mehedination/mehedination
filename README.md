@@ -98,56 +98,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=GEYxNDh1Zj8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=GEYxNDh1Zj8&title=Has+AI+Become+Too+Powerful+to+Control%3F+%7C+Hot+Take+with+Jesse+Weber&lang=en&timestamp=1784850180&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1734">
-          <img src="https://ytcards.demolab.com/?id=GEYxNDh1Zj8&title=Has+AI+Become+Too+Powerful+to+Control%3F+%7C+Hot+Take+with+Jesse+Weber&lang=en&timestamp=1784850180&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1734" alt="Has AI Become Too Powerful to Control? | Hot Take with Jesse Weber" title="Has AI Become Too Powerful to Control? | Hot Take with Jesse Weber">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=GEYxNDh1Zj8&title=Has+AI+Become+Too+Powerful+to+Control%3F+%7C+Hot+Take+with+Jesse+Weber&lang=en&timestamp=1784851864&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1734">
+          <img src="https://ytcards.demolab.com/?id=GEYxNDh1Zj8&title=Has+AI+Become+Too+Powerful+to+Control%3F+%7C+Hot+Take+with+Jesse+Weber&lang=en&timestamp=1784851864&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1734" alt="Has AI Become Too Powerful to Control? | Hot Take with Jesse Weber" title="Has AI Become Too Powerful to Control? | Hot Take with Jesse Weber">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=hLf84IJpoEk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hLf84IJpoEk&title=The+World+After+Artificial+Intelligence+Takes+Over+with+Isaac+Arthur&lang=en&timestamp=1784839380&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5701">
-          <img src="https://ytcards.demolab.com/?id=hLf84IJpoEk&title=The+World+After+Artificial+Intelligence+Takes+Over+with+Isaac+Arthur&lang=en&timestamp=1784839380&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5701" alt="The World After Artificial Intelligence Takes Over with Isaac Arthur" title="The World After Artificial Intelligence Takes Over with Isaac Arthur">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hLf84IJpoEk&title=The+World+After+Artificial+Intelligence+Takes+Over+with+Isaac+Arthur&lang=en&timestamp=1784841064&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5701">
+          <img src="https://ytcards.demolab.com/?id=hLf84IJpoEk&title=The+World+After+Artificial+Intelligence+Takes+Over+with+Isaac+Arthur&lang=en&timestamp=1784841064&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5701" alt="The World After Artificial Intelligence Takes Over with Isaac Arthur" title="The World After Artificial Intelligence Takes Over with Isaac Arthur">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=Lzk4o3fPZZE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Lzk4o3fPZZE&title=Cory+Doctorow%3A+Will+AI+ever+come+alive%2C+and+what+happens+if+it+does%3F+%7C+BBC+News&lang=en&timestamp=1784842980&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1575">
-          <img src="https://ytcards.demolab.com/?id=Lzk4o3fPZZE&title=Cory+Doctorow%3A+Will+AI+ever+come+alive%2C+and+what+happens+if+it+does%3F+%7C+BBC+News&lang=en&timestamp=1784842980&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1575" alt="Cory Doctorow: Will AI ever come alive, and what happens if it does? | BBC News" title="Cory Doctorow: Will AI ever come alive, and what happens if it does? | BBC News">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Lzk4o3fPZZE&title=Will+AI+ever+come+alive%2C+and+what+happens+if+it+does%3F+%7C+BBC+News&lang=en&timestamp=1784844664&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1575">
+          <img src="https://ytcards.demolab.com/?id=Lzk4o3fPZZE&title=Will+AI+ever+come+alive%2C+and+what+happens+if+it+does%3F+%7C+BBC+News&lang=en&timestamp=1784844664&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1575" alt="Will AI ever come alive, and what happens if it does? | BBC News" title="Will AI ever come alive, and what happens if it does? | BBC News">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=xKuDvRRE7Bc" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xKuDvRRE7Bc&title=AI+Is+About+to+Crash.+Here%E2%80%99s+Why.&lang=en&timestamp=1784828580&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=761">
-          <img src="https://ytcards.demolab.com/?id=xKuDvRRE7Bc&title=AI+Is+About+to+Crash.+Here%E2%80%99s+Why.&lang=en&timestamp=1784828580&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=761" alt="AI Is About to Crash. Here’s Why." title="AI Is About to Crash. Here’s Why.">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=1X-rr1DKSbY" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1X-rr1DKSbY&title=Elon+Musk+on+AI%3A+humans+will+no+longer+be+in+control+in+ten+years++%7C+The+Economist&lang=en&timestamp=1784828580&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=636">
-          <img src="https://ytcards.demolab.com/?id=1X-rr1DKSbY&title=Elon+Musk+on+AI%3A+humans+will+no+longer+be+in+control+in+ten+years++%7C+The+Economist&lang=en&timestamp=1784828580&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=636" alt="Elon Musk on AI: humans will no longer be in control in ten years  | The Economist" title="Elon Musk on AI: humans will no longer be in control in ten years  | The Economist">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
       <a href="https://www.youtube.com/watch?v=hTBCkbuK-hw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hTBCkbuK-hw&title=FULL+REMARKS%3A+AI+data+centers+-+Trump+unveils+plan+for+how+to+keep+your+electric+bills+from+soaring&lang=en&timestamp=1784853780&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1873">
-          <img src="https://ytcards.demolab.com/?id=hTBCkbuK-hw&title=FULL+REMARKS%3A+AI+data+centers+-+Trump+unveils+plan+for+how+to+keep+your+electric+bills+from+soaring&lang=en&timestamp=1784853780&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1873" alt="FULL REMARKS: AI data centers - Trump unveils plan for how to keep your electric bills from soaring" title="FULL REMARKS: AI data centers - Trump unveils plan for how to keep your electric bills from soaring">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hTBCkbuK-hw&title=FULL+REMARKS%3A+AI+data+centers+-+Trump+unveils+plan+for+how+to+keep+your+electric+bills+from+soaring&lang=en&timestamp=1784855464&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1873">
+          <img src="https://ytcards.demolab.com/?id=hTBCkbuK-hw&title=FULL+REMARKS%3A+AI+data+centers+-+Trump+unveils+plan+for+how+to+keep+your+electric+bills+from+soaring&lang=en&timestamp=1784855464&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1873" alt="FULL REMARKS: AI data centers - Trump unveils plan for how to keep your electric bills from soaring" title="FULL REMARKS: AI data centers - Trump unveils plan for how to keep your electric bills from soaring">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=Okpa4jhzwxc" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Okpa4jhzwxc&title=How+The+Anti-Christ+Will+Use+Artificial+Intelligence+%E2%80%9CAI%E2%80%9D+&lang=en&timestamp=1784925064&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=738">
+          <img src="https://ytcards.demolab.com/?id=Okpa4jhzwxc&title=How+The+Anti-Christ+Will+Use+Artificial+Intelligence+%E2%80%9CAI%E2%80%9D+&lang=en&timestamp=1784925064&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=738" alt="How The Anti-Christ Will Use Artificial Intelligence “AI” " title="How The Anti-Christ Will Use Artificial Intelligence “AI” ">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=e3sOd8sDnk4" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=e3sOd8sDnk4&title=AI+Just+Decoded+The+Voynich+Manuscript+%E2%80%94+The+First+Message+Shocked+Scientists&lang=en&timestamp=1784844664&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1358">
+          <img src="https://ytcards.demolab.com/?id=e3sOd8sDnk4&title=AI+Just+Decoded+The+Voynich+Manuscript+%E2%80%94+The+First+Message+Shocked+Scientists&lang=en&timestamp=1784844664&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1358" alt="AI Just Decoded The Voynich Manuscript — The First Message Shocked Scientists" title="AI Just Decoded The Voynich Manuscript — The First Message Shocked Scientists">
         </picture>
       </a>
     </td>
