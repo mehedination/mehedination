@@ -100,56 +100,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=GEYxNDh1Zj8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=H20c4Zw8D9I" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=GEYxNDh1Zj8&title=Has+AI+Become+Too+Powerful+to+Control%3F+%7C+Hot+Take+with+Jesse+Weber&lang=en&timestamp=1784851599&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1734">
-          <img src="https://ytcards.demolab.com/?id=GEYxNDh1Zj8&title=Has+AI+Become+Too+Powerful+to+Control%3F+%7C+Hot+Take+with+Jesse+Weber&lang=en&timestamp=1784851599&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1734" alt="Has AI Become Too Powerful to Control? | Hot Take with Jesse Weber" title="Has AI Become Too Powerful to Control? | Hot Take with Jesse Weber">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=hLf84IJpoEk" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hLf84IJpoEk&title=The+World+After+Artificial+Intelligence+Takes+Over+with+Isaac+Arthur&lang=en&timestamp=1784847999&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5701">
-          <img src="https://ytcards.demolab.com/?id=hLf84IJpoEk&title=The+World+After+Artificial+Intelligence+Takes+Over+with+Isaac+Arthur&lang=en&timestamp=1784847999&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5701" alt="The World After Artificial Intelligence Takes Over with Isaac Arthur" title="The World After Artificial Intelligence Takes Over with Isaac Arthur">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Lzk4o3fPZZE" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Lzk4o3fPZZE&title=Cory+Doctorow%3A+Will+AI+ever+come+alive%2C+and+what+happens+if+it+does%3F+%7C+BBC+News&lang=en&timestamp=1784847999&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1575">
-          <img src="https://ytcards.demolab.com/?id=Lzk4o3fPZZE&title=Cory+Doctorow%3A+Will+AI+ever+come+alive%2C+and+what+happens+if+it+does%3F+%7C+BBC+News&lang=en&timestamp=1784847999&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1575" alt="Cory Doctorow: Will AI ever come alive, and what happens if it does? | BBC News" title="Cory Doctorow: Will AI ever come alive, and what happens if it does? | BBC News">
-        </picture>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=1X-rr1DKSbY" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1X-rr1DKSbY&title=Elon+Musk+on+AI%3A+humans+will+no+longer+be+in+control+in+ten+years++%7C+The+Economist&lang=en&timestamp=1784847999&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=636">
-          <img src="https://ytcards.demolab.com/?id=1X-rr1DKSbY&title=Elon+Musk+on+AI%3A+humans+will+no+longer+be+in+control+in+ten+years++%7C+The+Economist&lang=en&timestamp=1784847999&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=636" alt="Elon Musk on AI: humans will no longer be in control in ten years  | The Economist" title="Elon Musk on AI: humans will no longer be in control in ten years  | The Economist">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=hTBCkbuK-hw" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hTBCkbuK-hw&title=FULL+REMARKS%3A+AI+data+centers+-+Trump+unveils+plan+for+how+to+keep+your+electric+bills+from+soaring&lang=en&timestamp=1784855199&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1873">
-          <img src="https://ytcards.demolab.com/?id=hTBCkbuK-hw&title=FULL+REMARKS%3A+AI+data+centers+-+Trump+unveils+plan+for+how+to+keep+your+electric+bills+from+soaring&lang=en&timestamp=1784855199&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1873" alt="FULL REMARKS: AI data centers - Trump unveils plan for how to keep your electric bills from soaring" title="FULL REMARKS: AI data centers - Trump unveils plan for how to keep your electric bills from soaring">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=H20c4Zw8D9I&title=The+state+of+artificial+intelligence&lang=en&timestamp=1784920742&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1468">
+          <img src="https://ytcards.demolab.com/?id=H20c4Zw8D9I&title=The+state+of+artificial+intelligence&lang=en&timestamp=1784920742&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1468" alt="The state of artificial intelligence" title="The state of artificial intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=Okpa4jhzwxc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Okpa4jhzwxc&title=How+The+Anti-Christ+Will+Use+Artificial+Intelligence+%E2%80%9CAI%E2%80%9D+&lang=en&timestamp=1784927199&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=738">
-          <img src="https://ytcards.demolab.com/?id=Okpa4jhzwxc&title=How+The+Anti-Christ+Will+Use+Artificial+Intelligence+%E2%80%9CAI%E2%80%9D+&lang=en&timestamp=1784927199&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=738" alt="How The Anti-Christ Will Use Artificial Intelligence “AI” " title="How The Anti-Christ Will Use Artificial Intelligence “AI” ">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Okpa4jhzwxc&title=How+The+Anti-Christ+Will+Use+Artificial+Intelligence+%E2%80%9CAI%E2%80%9D+&lang=en&timestamp=1784927942&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=738">
+          <img src="https://ytcards.demolab.com/?id=Okpa4jhzwxc&title=How+The+Anti-Christ+Will+Use+Artificial+Intelligence+%E2%80%9CAI%E2%80%9D+&lang=en&timestamp=1784927942&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=738" alt="How The Anti-Christ Will Use Artificial Intelligence “AI” " title="How The Anti-Christ Will Use Artificial Intelligence “AI” ">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=o8uAVqMX_Ig" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=o8uAVqMX_Ig&title=Answers+To+Your+Biggest+AI+Questions&lang=en&timestamp=1784909942&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7352">
+          <img src="https://ytcards.demolab.com/?id=o8uAVqMX_Ig&title=Answers+To+Your+Biggest+AI+Questions&lang=en&timestamp=1784909942&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7352" alt="Answers To Your Biggest AI Questions" title="Answers To Your Biggest AI Questions">
+        </picture>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=wDQ1Ec6cbc4" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wDQ1Ec6cbc4&title=AI+%26+Power%3A+How+Artificial+Intelligence+Is+Changing+the+World&lang=en&timestamp=1784917142&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=314">
+          <img src="https://ytcards.demolab.com/?id=wDQ1Ec6cbc4&title=AI+%26+Power%3A+How+Artificial+Intelligence+Is+Changing+the+World&lang=en&timestamp=1784917142&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=314" alt="AI & Power: How Artificial Intelligence Is Changing the World" title="AI & Power: How Artificial Intelligence Is Changing the World">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=TP3PQuLUH9o" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=TP3PQuLUH9o&title=Katy+ISD+limits+student+use+of+artificial+intelligence+in+classrooms&lang=en&timestamp=1784931542&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=26">
+          <img src="https://ytcards.demolab.com/?id=TP3PQuLUH9o&title=Katy+ISD+limits+student+use+of+artificial+intelligence+in+classrooms&lang=en&timestamp=1784931542&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=26" alt="Katy ISD limits student use of artificial intelligence in classrooms" title="Katy ISD limits student use of artificial intelligence in classrooms">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=Ynif3M8XxS8" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Ynif3M8XxS8&title=%22Johnny+Depp+and+Artificial+Intelligence%3A+The+Future+of+Acting%22&lang=en&timestamp=1784924342&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=140">
+          <img src="https://ytcards.demolab.com/?id=Ynif3M8XxS8&title=%22Johnny+Depp+and+Artificial+Intelligence%3A+The+Future+of+Acting%22&lang=en&timestamp=1784924342&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=140" alt="&quot;Johnny Depp and Artificial Intelligence: The Future of Acting&quot;" title="&quot;Johnny Depp and Artificial Intelligence: The Future of Acting&quot;">
         </picture>
       </a>
     </td>
