@@ -102,56 +102,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=lZhofisZogM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=c5_jdpDMb8g" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lZhofisZogM&title=China+Positions+Itself+As+Leader+Of+New+Global+AI+Order+%7C+Gravitas+%7C+WION&lang=en&timestamp=1784917387&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=181">
-          <img src="https://ytcards.demolab.com/?id=lZhofisZogM&title=China+Positions+Itself+As+Leader+Of+New+Global+AI+Order+%7C+Gravitas+%7C+WION&lang=en&timestamp=1784917387&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=181" alt="China Positions Itself As Leader Of New Global AI Order | Gravitas | WION" title="China Positions Itself As Leader Of New Global AI Order | Gravitas | WION">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=H20c4Zw8D9I" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=H20c4Zw8D9I&title=The+state+of+artificial+intelligence&lang=en&timestamp=1784920987&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1468">
-          <img src="https://ytcards.demolab.com/?id=H20c4Zw8D9I&title=The+state+of+artificial+intelligence&lang=en&timestamp=1784920987&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1468" alt="The state of artificial intelligence" title="The state of artificial intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=c5_jdpDMb8g&title=AI+Goes+Rogue%2C+America+Hits+the+Panic+Button%3A+Lawmakers+Now+Want+an+AI+Kill+Switch+%7C+GRAVITAS&lang=en&timestamp=1784919826&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=247">
+          <img src="https://ytcards.demolab.com/?id=c5_jdpDMb8g&title=AI+Goes+Rogue%2C+America+Hits+the+Panic+Button%3A+Lawmakers+Now+Want+an+AI+Kill+Switch+%7C+GRAVITAS&lang=en&timestamp=1784919826&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=247" alt="AI Goes Rogue, America Hits the Panic Button: Lawmakers Now Want an AI Kill Switch | GRAVITAS" title="AI Goes Rogue, America Hits the Panic Button: Lawmakers Now Want an AI Kill Switch | GRAVITAS">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=Okpa4jhzwxc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Okpa4jhzwxc&title=How+The+Anti-Christ+Will+Use+Artificial+Intelligence+%E2%80%9CAI%E2%80%9D+&lang=en&timestamp=1784928187&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=738">
-          <img src="https://ytcards.demolab.com/?id=Okpa4jhzwxc&title=How+The+Anti-Christ+Will+Use+Artificial+Intelligence+%E2%80%9CAI%E2%80%9D+&lang=en&timestamp=1784928187&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=738" alt="How The Anti-Christ Will Use Artificial Intelligence “AI” " title="How The Anti-Christ Will Use Artificial Intelligence “AI” ">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Okpa4jhzwxc&title=How+The+Anti-Christ+Will+Use+Artificial+Intelligence+%E2%80%9CAI%E2%80%9D+&lang=en&timestamp=1784927026&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=738">
+          <img src="https://ytcards.demolab.com/?id=Okpa4jhzwxc&title=How+The+Anti-Christ+Will+Use+Artificial+Intelligence+%E2%80%9CAI%E2%80%9D+&lang=en&timestamp=1784927026&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=738" alt="How The Anti-Christ Will Use Artificial Intelligence “AI” " title="How The Anti-Christ Will Use Artificial Intelligence “AI” ">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=lZhofisZogM" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lZhofisZogM&title=China+Positions+Itself+As+Leader+Of+New+Global+AI+Order+%7C+Gravitas+%7C+WION&lang=en&timestamp=1784916226&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=181">
+          <img src="https://ytcards.demolab.com/?id=lZhofisZogM&title=China+Positions+Itself+As+Leader+Of+New+Global+AI+Order+%7C+Gravitas+%7C+WION&lang=en&timestamp=1784916226&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=181" alt="China Positions Itself As Leader Of New Global AI Order | Gravitas | WION" title="China Positions Itself As Leader Of New Global AI Order | Gravitas | WION">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=o8uAVqMX_Ig" target="_blank">
+      <a href="https://www.youtube.com/watch?v=-U-OLazb3eU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=o8uAVqMX_Ig&title=Answers+To+Your+Biggest+AI+Questions&lang=en&timestamp=1784910187&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7352">
-          <img src="https://ytcards.demolab.com/?id=o8uAVqMX_Ig&title=Answers+To+Your+Biggest+AI+Questions&lang=en&timestamp=1784910187&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7352" alt="Answers To Your Biggest AI Questions" title="Answers To Your Biggest AI Questions">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-U-OLazb3eU&title=Exploring+the+Deep+Mysteries+of+Physics+%7C+World+Science+Festival&lang=en&timestamp=1784934226&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6495">
+          <img src="https://ytcards.demolab.com/?id=-U-OLazb3eU&title=Exploring+the+Deep+Mysteries+of+Physics+%7C+World+Science+Festival&lang=en&timestamp=1784934226&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6495" alt="Exploring the Deep Mysteries of Physics | World Science Festival" title="Exploring the Deep Mysteries of Physics | World Science Festival">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=19BFzXREvPA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=tHQ34j8_toI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=19BFzXREvPA&title=U.S.+AI+Kill+Switch+Bill+Explained+%7C+Can+the+Trump+Government+Shut+Down+AI%3F&lang=en&timestamp=1784910187&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=137">
-          <img src="https://ytcards.demolab.com/?id=19BFzXREvPA&title=U.S.+AI+Kill+Switch+Bill+Explained+%7C+Can+the+Trump+Government+Shut+Down+AI%3F&lang=en&timestamp=1784910187&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=137" alt="U.S. AI Kill Switch Bill Explained | Can the Trump Government Shut Down AI?" title="U.S. AI Kill Switch Bill Explained | Can the Trump Government Shut Down AI?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tHQ34j8_toI&title=What+did+Anthropic+do%3F%21+%28Opus+5%29&lang=en&timestamp=1784930626&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=755">
+          <img src="https://ytcards.demolab.com/?id=tHQ34j8_toI&title=What+did+Anthropic+do%3F%21+%28Opus+5%29&lang=en&timestamp=1784930626&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=755" alt="What did Anthropic do?! (Opus 5)" title="What did Anthropic do?! (Opus 5)">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=-WrpttWybc0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=o0bqXmVPhWY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-WrpttWybc0&title=Bernie+Sanders+Goes+All+Out+Against+Tech+Billionaires+In+Fiery+Senate+Speech+%7C+AI+%7C+US+News&lang=en&timestamp=1784913787&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=605">
-          <img src="https://ytcards.demolab.com/?id=-WrpttWybc0&title=Bernie+Sanders+Goes+All+Out+Against+Tech+Billionaires+In+Fiery+Senate+Speech+%7C+AI+%7C+US+News&lang=en&timestamp=1784913787&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=605" alt="Bernie Sanders Goes All Out Against Tech Billionaires In Fiery Senate Speech | AI | US News" title="Bernie Sanders Goes All Out Against Tech Billionaires In Fiery Senate Speech | AI | US News">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=o0bqXmVPhWY&title=AI+Will+Replace+Google+Sooner+Than+You+Think&lang=en&timestamp=1784909026&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=897">
+          <img src="https://ytcards.demolab.com/?id=o0bqXmVPhWY&title=AI+Will+Replace+Google+Sooner+Than+You+Think&lang=en&timestamp=1784909026&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=897" alt="AI Will Replace Google Sooner Than You Think" title="AI Will Replace Google Sooner Than You Think">
         </picture>
       </a>
     </td>
