@@ -101,56 +101,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
+      <a href="https://www.youtube.com/watch?v=lZhofisZogM" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lZhofisZogM&title=China+Positions+Itself+As+Leader+Of+New+Global+AI+Order+%7C+Gravitas+%7C+WION&lang=en&timestamp=1784917387&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=181">
+          <img src="https://ytcards.demolab.com/?id=lZhofisZogM&title=China+Positions+Itself+As+Leader+Of+New+Global+AI+Order+%7C+Gravitas+%7C+WION&lang=en&timestamp=1784917387&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=181" alt="China Positions Itself As Leader Of New Global AI Order | Gravitas | WION" title="China Positions Itself As Leader Of New Global AI Order | Gravitas | WION">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
       <a href="https://www.youtube.com/watch?v=H20c4Zw8D9I" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=H20c4Zw8D9I&title=The+state+of+artificial+intelligence&lang=en&timestamp=1784920742&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1468">
-          <img src="https://ytcards.demolab.com/?id=H20c4Zw8D9I&title=The+state+of+artificial+intelligence&lang=en&timestamp=1784920742&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1468" alt="The state of artificial intelligence" title="The state of artificial intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=H20c4Zw8D9I&title=The+state+of+artificial+intelligence&lang=en&timestamp=1784920987&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1468">
+          <img src="https://ytcards.demolab.com/?id=H20c4Zw8D9I&title=The+state+of+artificial+intelligence&lang=en&timestamp=1784920987&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1468" alt="The state of artificial intelligence" title="The state of artificial intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=Okpa4jhzwxc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Okpa4jhzwxc&title=How+The+Anti-Christ+Will+Use+Artificial+Intelligence+%E2%80%9CAI%E2%80%9D+&lang=en&timestamp=1784927942&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=738">
-          <img src="https://ytcards.demolab.com/?id=Okpa4jhzwxc&title=How+The+Anti-Christ+Will+Use+Artificial+Intelligence+%E2%80%9CAI%E2%80%9D+&lang=en&timestamp=1784927942&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=738" alt="How The Anti-Christ Will Use Artificial Intelligence “AI” " title="How The Anti-Christ Will Use Artificial Intelligence “AI” ">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=o8uAVqMX_Ig" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=o8uAVqMX_Ig&title=Answers+To+Your+Biggest+AI+Questions&lang=en&timestamp=1784909942&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7352">
-          <img src="https://ytcards.demolab.com/?id=o8uAVqMX_Ig&title=Answers+To+Your+Biggest+AI+Questions&lang=en&timestamp=1784909942&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7352" alt="Answers To Your Biggest AI Questions" title="Answers To Your Biggest AI Questions">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Okpa4jhzwxc&title=How+The+Anti-Christ+Will+Use+Artificial+Intelligence+%E2%80%9CAI%E2%80%9D+&lang=en&timestamp=1784928187&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=738">
+          <img src="https://ytcards.demolab.com/?id=Okpa4jhzwxc&title=How+The+Anti-Christ+Will+Use+Artificial+Intelligence+%E2%80%9CAI%E2%80%9D+&lang=en&timestamp=1784928187&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=738" alt="How The Anti-Christ Will Use Artificial Intelligence “AI” " title="How The Anti-Christ Will Use Artificial Intelligence “AI” ">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=wDQ1Ec6cbc4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=o8uAVqMX_Ig" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wDQ1Ec6cbc4&title=AI+%26+Power%3A+How+Artificial+Intelligence+Is+Changing+the+World&lang=en&timestamp=1784917142&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=314">
-          <img src="https://ytcards.demolab.com/?id=wDQ1Ec6cbc4&title=AI+%26+Power%3A+How+Artificial+Intelligence+Is+Changing+the+World&lang=en&timestamp=1784917142&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=314" alt="AI & Power: How Artificial Intelligence Is Changing the World" title="AI & Power: How Artificial Intelligence Is Changing the World">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=o8uAVqMX_Ig&title=Answers+To+Your+Biggest+AI+Questions&lang=en&timestamp=1784910187&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7352">
+          <img src="https://ytcards.demolab.com/?id=o8uAVqMX_Ig&title=Answers+To+Your+Biggest+AI+Questions&lang=en&timestamp=1784910187&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7352" alt="Answers To Your Biggest AI Questions" title="Answers To Your Biggest AI Questions">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=TP3PQuLUH9o" target="_blank">
+      <a href="https://www.youtube.com/watch?v=19BFzXREvPA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=TP3PQuLUH9o&title=Katy+ISD+limits+student+use+of+artificial+intelligence+in+classrooms&lang=en&timestamp=1784931542&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=26">
-          <img src="https://ytcards.demolab.com/?id=TP3PQuLUH9o&title=Katy+ISD+limits+student+use+of+artificial+intelligence+in+classrooms&lang=en&timestamp=1784931542&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=26" alt="Katy ISD limits student use of artificial intelligence in classrooms" title="Katy ISD limits student use of artificial intelligence in classrooms">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=19BFzXREvPA&title=U.S.+AI+Kill+Switch+Bill+Explained+%7C+Can+the+Trump+Government+Shut+Down+AI%3F&lang=en&timestamp=1784910187&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=137">
+          <img src="https://ytcards.demolab.com/?id=19BFzXREvPA&title=U.S.+AI+Kill+Switch+Bill+Explained+%7C+Can+the+Trump+Government+Shut+Down+AI%3F&lang=en&timestamp=1784910187&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=137" alt="U.S. AI Kill Switch Bill Explained | Can the Trump Government Shut Down AI?" title="U.S. AI Kill Switch Bill Explained | Can the Trump Government Shut Down AI?">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Ynif3M8XxS8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=-WrpttWybc0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Ynif3M8XxS8&title=%22Johnny+Depp+and+Artificial+Intelligence%3A+The+Future+of+Acting%22&lang=en&timestamp=1784924342&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=140">
-          <img src="https://ytcards.demolab.com/?id=Ynif3M8XxS8&title=%22Johnny+Depp+and+Artificial+Intelligence%3A+The+Future+of+Acting%22&lang=en&timestamp=1784924342&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=140" alt="&quot;Johnny Depp and Artificial Intelligence: The Future of Acting&quot;" title="&quot;Johnny Depp and Artificial Intelligence: The Future of Acting&quot;">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-WrpttWybc0&title=Bernie+Sanders+Goes+All+Out+Against+Tech+Billionaires+In+Fiery+Senate+Speech+%7C+AI+%7C+US+News&lang=en&timestamp=1784913787&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=605">
+          <img src="https://ytcards.demolab.com/?id=-WrpttWybc0&title=Bernie+Sanders+Goes+All+Out+Against+Tech+Billionaires+In+Fiery+Senate+Speech+%7C+AI+%7C+US+News&lang=en&timestamp=1784913787&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=605" alt="Bernie Sanders Goes All Out Against Tech Billionaires In Fiery Senate Speech | AI | US News" title="Bernie Sanders Goes All Out Against Tech Billionaires In Fiery Senate Speech | AI | US News">
         </picture>
       </a>
     </td>
