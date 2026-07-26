@@ -109,56 +109,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=f5duVDUalLk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=TyYqZyaIV0g" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=f5duVDUalLk&title=Using+A.I.+%28Artificial+Intelligence%29+to+fix+a+Ford+Model+A.+Who+wins%3F+AI+or+the+human+experts%3F&lang=en&timestamp=1784981029&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=930">
-          <img src="https://ytcards.demolab.com/?id=f5duVDUalLk&title=Using+A.I.+%28Artificial+Intelligence%29+to+fix+a+Ford+Model+A.+Who+wins%3F+AI+or+the+human+experts%3F&lang=en&timestamp=1784981029&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=930" alt="Using A.I. (Artificial Intelligence) to fix a Ford Model A. Who wins? AI or the human experts?" title="Using A.I. (Artificial Intelligence) to fix a Ford Model A. Who wins? AI or the human experts?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=TyYqZyaIV0g&title=This+is+the+price+of+artificial+intelligence&lang=en&timestamp=1785020703&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=330">
+          <img src="https://ytcards.demolab.com/?id=TyYqZyaIV0g&title=This+is+the+price+of+artificial+intelligence&lang=en&timestamp=1785020703&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=330" alt="This is the price of artificial intelligence" title="This is the price of artificial intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=oI-CYv6NE94" target="_blank">
+      <a href="https://www.youtube.com/watch?v=nucCR_l3C30" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=oI-CYv6NE94&title=AUTONOMOUS+WEAPONS%3A+The+BATTLEFIELD+moves+into+a+brand+new+world&lang=en&timestamp=1784930629&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1009">
-          <img src="https://ytcards.demolab.com/?id=oI-CYv6NE94&title=AUTONOMOUS+WEAPONS%3A+The+BATTLEFIELD+moves+into+a+brand+new+world&lang=en&timestamp=1784930629&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1009" alt="AUTONOMOUS WEAPONS: The BATTLEFIELD moves into a brand new world" title="AUTONOMOUS WEAPONS: The BATTLEFIELD moves into a brand new world">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nucCR_l3C30&title=Rattner+Says+AI+Boom+Faces+Questions+Over+Debt%2C+China+and+Higher+Rates&lang=en&timestamp=1784981103&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=642">
+          <img src="https://ytcards.demolab.com/?id=nucCR_l3C30&title=Rattner+Says+AI+Boom+Faces+Questions+Over+Debt%2C+China+and+Higher+Rates&lang=en&timestamp=1784981103&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=642" alt="Rattner Says AI Boom Faces Questions Over Debt, China and Higher Rates" title="Rattner Says AI Boom Faces Questions Over Debt, China and Higher Rates">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=lYk_UQnG54U" target="_blank">
+      <a href="https://www.youtube.com/watch?v=8IvJXWdb-Mk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lYk_UQnG54U&title=US+Debates+AI+Kill+Switch+%7C+Lawmakers+Fear+Artificial+Intelligence+Could+Escape+Human+Control&lang=en&timestamp=1784966629&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=243">
-          <img src="https://ytcards.demolab.com/?id=lYk_UQnG54U&title=US+Debates+AI+Kill+Switch+%7C+Lawmakers+Fear+Artificial+Intelligence+Could+Escape+Human+Control&lang=en&timestamp=1784966629&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=243" alt="US Debates AI Kill Switch | Lawmakers Fear Artificial Intelligence Could Escape Human Control" title="US Debates AI Kill Switch | Lawmakers Fear Artificial Intelligence Could Escape Human Control">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8IvJXWdb-Mk&title=Why+We+Cannot+Stop+The+2030+Intelligence+Explosion&lang=en&timestamp=1784991903&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1028">
+          <img src="https://ytcards.demolab.com/?id=8IvJXWdb-Mk&title=Why+We+Cannot+Stop+The+2030+Intelligence+Explosion&lang=en&timestamp=1784991903&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1028" alt="Why We Cannot Stop The 2030 Intelligence Explosion" title="Why We Cannot Stop The 2030 Intelligence Explosion">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=8Kd-nPHVxT0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=eSFS0DRT0UE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8Kd-nPHVxT0&title=Succeeding+in+the+AI+Era&lang=en&timestamp=1784844229&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3000">
-          <img src="https://ytcards.demolab.com/?id=8Kd-nPHVxT0&title=Succeeding+in+the+AI+Era&lang=en&timestamp=1784844229&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3000" alt="Succeeding in the AI Era" title="Succeeding in the AI Era">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=eSFS0DRT0UE&title=Cathie+Wood+makes+BOLD+PREDICTION+on+Musk%27s+SpaceX+%7C+AI%3A+The+Intelligence+Revolution.&lang=en&timestamp=1785002703&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4215">
+          <img src="https://ytcards.demolab.com/?id=eSFS0DRT0UE&title=Cathie+Wood+makes+BOLD+PREDICTION+on+Musk%27s+SpaceX+%7C+AI%3A+The+Intelligence+Revolution.&lang=en&timestamp=1785002703&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4215" alt="Cathie Wood makes BOLD PREDICTION on Musk's SpaceX | AI: The Intelligence Revolution." title="Cathie Wood makes BOLD PREDICTION on Musk's SpaceX | AI: The Intelligence Revolution.">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=H20c4Zw8D9I" target="_blank">
+      <a href="https://www.youtube.com/watch?v=f5duVDUalLk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=H20c4Zw8D9I&title=The+state+of+artificial+intelligence&lang=en&timestamp=1784930629&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1468">
-          <img src="https://ytcards.demolab.com/?id=H20c4Zw8D9I&title=The+state+of+artificial+intelligence&lang=en&timestamp=1784930629&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1468" alt="The state of artificial intelligence" title="The state of artificial intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=f5duVDUalLk&title=Using+A.I.+%28Artificial+Intelligence%29+to+fix+a+Ford+Model+A.+Who+wins%3F+AI+or+the+human+experts%3F&lang=en&timestamp=1784981103&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=930">
+          <img src="https://ytcards.demolab.com/?id=f5duVDUalLk&title=Using+A.I.+%28Artificial+Intelligence%29+to+fix+a+Ford+Model+A.+Who+wins%3F+AI+or+the+human+experts%3F&lang=en&timestamp=1784981103&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=930" alt="Using A.I. (Artificial Intelligence) to fix a Ford Model A. Who wins? AI or the human experts?" title="Using A.I. (Artificial Intelligence) to fix a Ford Model A. Who wins? AI or the human experts?">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Ww3EYbuHSfo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=uHDKn5lml0A" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Ww3EYbuHSfo&title=AI+News%3A+This+New+Model+Has+Big+AI+Labs+Panicking%21&lang=en&timestamp=1784930629&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1818">
-          <img src="https://ytcards.demolab.com/?id=Ww3EYbuHSfo&title=AI+News%3A+This+New+Model+Has+Big+AI+Labs+Panicking%21&lang=en&timestamp=1784930629&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1818" alt="AI News: This New Model Has Big AI Labs Panicking!" title="AI News: This New Model Has Big AI Labs Panicking!">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=uHDKn5lml0A&title=Trump+Proposal+on+AI+Industry+Oversight+%7C+New+Artificial+Intelligence+Rules+%7C+Breaking+U.S.+News&lang=en&timestamp=1785009903&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=399">
+          <img src="https://ytcards.demolab.com/?id=uHDKn5lml0A&title=Trump+Proposal+on+AI+Industry+Oversight+%7C+New+Artificial+Intelligence+Rules+%7C+Breaking+U.S.+News&lang=en&timestamp=1785009903&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=399" alt="Trump Proposal on AI Industry Oversight | New Artificial Intelligence Rules | Breaking U.S. News" title="Trump Proposal on AI Industry Oversight | New Artificial Intelligence Rules | Breaking U.S. News">
         </picture>
       </a>
     </td>
