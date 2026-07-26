@@ -112,56 +112,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=eSFS0DRT0UE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=TyYqZyaIV0g" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=eSFS0DRT0UE&title=Cathie+Wood+makes+BOLD+PREDICTION+on+Musk%27s+SpaceX+%7C+AI%3A+The+Intelligence+Revolution.&lang=en&timestamp=1785002753&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4215">
-          <img src="https://ytcards.demolab.com/?id=eSFS0DRT0UE&title=Cathie+Wood+makes+BOLD+PREDICTION+on+Musk%27s+SpaceX+%7C+AI%3A+The+Intelligence+Revolution.&lang=en&timestamp=1785002753&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4215" alt="Cathie Wood makes BOLD PREDICTION on Musk's SpaceX | AI: The Intelligence Revolution." title="Cathie Wood makes BOLD PREDICTION on Musk's SpaceX | AI: The Intelligence Revolution.">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=TyYqZyaIV0g&title=This+is+the+price+of+artificial+intelligence&lang=en&timestamp=1785020771&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=330">
+          <img src="https://ytcards.demolab.com/?id=TyYqZyaIV0g&title=This+is+the+price+of+artificial+intelligence&lang=en&timestamp=1785020771&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=330" alt="This is the price of artificial intelligence" title="This is the price of artificial intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=TyYqZyaIV0g" target="_blank">
+      <a href="https://www.youtube.com/watch?v=eSFS0DRT0UE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=TyYqZyaIV0g&title=This+is+the+price+of+artificial+intelligence&lang=en&timestamp=1785020753&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=330">
-          <img src="https://ytcards.demolab.com/?id=TyYqZyaIV0g&title=This+is+the+price+of+artificial+intelligence&lang=en&timestamp=1785020753&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=330" alt="This is the price of artificial intelligence" title="This is the price of artificial intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=eSFS0DRT0UE&title=Cathie+Wood+makes+BOLD+PREDICTION+on+Musk%27s+SpaceX+%7C+AI%3A+The+Intelligence+Revolution.&lang=en&timestamp=1785002771&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4215">
+          <img src="https://ytcards.demolab.com/?id=eSFS0DRT0UE&title=Cathie+Wood+makes+BOLD+PREDICTION+on+Musk%27s+SpaceX+%7C+AI%3A+The+Intelligence+Revolution.&lang=en&timestamp=1785002771&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4215" alt="Cathie Wood makes BOLD PREDICTION on Musk's SpaceX | AI: The Intelligence Revolution." title="Cathie Wood makes BOLD PREDICTION on Musk's SpaceX | AI: The Intelligence Revolution.">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=8IvJXWdb-Mk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8IvJXWdb-Mk&title=Why+2030+is+the+Final+AI+Deadline+%28Mathematics+of+Doom%29&lang=en&timestamp=1784991953&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1028">
-          <img src="https://ytcards.demolab.com/?id=8IvJXWdb-Mk&title=Why+2030+is+the+Final+AI+Deadline+%28Mathematics+of+Doom%29&lang=en&timestamp=1784991953&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1028" alt="Why 2030 is the Final AI Deadline (Mathematics of Doom)" title="Why 2030 is the Final AI Deadline (Mathematics of Doom)">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8IvJXWdb-Mk&title=Why+2030+is+the+Final+AI+Deadline+%28Mathematics+of+Doom%29&lang=en&timestamp=1784995571&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1028">
+          <img src="https://ytcards.demolab.com/?id=8IvJXWdb-Mk&title=Why+2030+is+the+Final+AI+Deadline+%28Mathematics+of+Doom%29&lang=en&timestamp=1784995571&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1028" alt="Why 2030 is the Final AI Deadline (Mathematics of Doom)" title="Why 2030 is the Final AI Deadline (Mathematics of Doom)">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=RlSIqJdbQhM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=x8awWAj5fUI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=RlSIqJdbQhM&title=The+Future+That+No+Longer+Needed+Us+%7C+SciFi+Documentary&lang=en&timestamp=1784995553&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1833">
-          <img src="https://ytcards.demolab.com/?id=RlSIqJdbQhM&title=The+Future+That+No+Longer+Needed+Us+%7C+SciFi+Documentary&lang=en&timestamp=1784995553&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1833" alt="The Future That No Longer Needed Us | SciFi Documentary" title="The Future That No Longer Needed Us | SciFi Documentary">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=x8awWAj5fUI&title=Something%E2%80%99s+Not+Right+With+Artificial+Intelligence&lang=en&timestamp=1785081611&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1621">
+          <img src="https://ytcards.demolab.com/?id=x8awWAj5fUI&title=Something%E2%80%99s+Not+Right+With+Artificial+Intelligence&lang=en&timestamp=1785081611&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1621" alt="Something’s Not Right With Artificial Intelligence" title="Something’s Not Right With Artificial Intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=f5duVDUalLk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=f5duVDUalLk&title=Using+A.I.+%28Artificial+Intelligence%29+to+fix+a+Ford+Model+A.+Who+wins%3F+AI+or+the+human+experts%3F&lang=en&timestamp=1784981153&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=930">
-          <img src="https://ytcards.demolab.com/?id=f5duVDUalLk&title=Using+A.I.+%28Artificial+Intelligence%29+to+fix+a+Ford+Model+A.+Who+wins%3F+AI+or+the+human+experts%3F&lang=en&timestamp=1784981153&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=930" alt="Using A.I. (Artificial Intelligence) to fix a Ford Model A. Who wins? AI or the human experts?" title="Using A.I. (Artificial Intelligence) to fix a Ford Model A. Who wins? AI or the human experts?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=f5duVDUalLk&title=Using+A.I.+%28Artificial+Intelligence%29+to+fix+a+Ford+Model+A.+Who+wins%3F+AI+or+the+human+experts%3F&lang=en&timestamp=1784995571&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=930">
+          <img src="https://ytcards.demolab.com/?id=f5duVDUalLk&title=Using+A.I.+%28Artificial+Intelligence%29+to+fix+a+Ford+Model+A.+Who+wins%3F+AI+or+the+human+experts%3F&lang=en&timestamp=1784995571&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=930" alt="Using A.I. (Artificial Intelligence) to fix a Ford Model A. Who wins? AI or the human experts?" title="Using A.I. (Artificial Intelligence) to fix a Ford Model A. Who wins? AI or the human experts?">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=X04JS6Ewvq8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=RlSIqJdbQhM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=X04JS6Ewvq8&title=OpenAI+Reacts+to+the+Quantum+Shock+That+Changed+Everything&lang=en&timestamp=1784988353&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1735">
-          <img src="https://ytcards.demolab.com/?id=X04JS6Ewvq8&title=OpenAI+Reacts+to+the+Quantum+Shock+That+Changed+Everything&lang=en&timestamp=1784988353&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1735" alt="OpenAI Reacts to the Quantum Shock That Changed Everything" title="OpenAI Reacts to the Quantum Shock That Changed Everything">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=RlSIqJdbQhM&title=The+Future+That+No+Longer+Needed+Us+%7C+SciFi+Documentary&lang=en&timestamp=1784995571&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1833">
+          <img src="https://ytcards.demolab.com/?id=RlSIqJdbQhM&title=The+Future+That+No+Longer+Needed+Us+%7C+SciFi+Documentary&lang=en&timestamp=1784995571&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1833" alt="The Future That No Longer Needed Us | SciFi Documentary" title="The Future That No Longer Needed Us | SciFi Documentary">
         </picture>
       </a>
     </td>
