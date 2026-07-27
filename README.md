@@ -117,56 +117,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=PaVJ_rTtriI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PaVJ_rTtriI&title=AI+Safety+Expert+WARNS%3A+Humanity+Probably+Won%27t+Survive+This&lang=en&timestamp=1785083800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=888">
-          <img src="https://ytcards.demolab.com/?id=PaVJ_rTtriI&title=AI+Safety+Expert+WARNS%3A+Humanity+Probably+Won%27t+Survive+This&lang=en&timestamp=1785083800&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=888" alt="AI Safety Expert WARNS: Humanity Probably Won't Survive This" title="AI Safety Expert WARNS: Humanity Probably Won't Survive This">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PaVJ_rTtriI&title=AI+Safety+Expert+WARNS%3A+Humanity+Probably+Won%27t+Survive+This&lang=en&timestamp=1785083447&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=888">
+          <img src="https://ytcards.demolab.com/?id=PaVJ_rTtriI&title=AI+Safety+Expert+WARNS%3A+Humanity+Probably+Won%27t+Survive+This&lang=en&timestamp=1785083447&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=888" alt="AI Safety Expert WARNS: Humanity Probably Won't Survive This" title="AI Safety Expert WARNS: Humanity Probably Won't Survive This">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=SNsIHRmTb44" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SNsIHRmTb44&title=Artificial+Intelligence+among+University+Professors&lang=en&timestamp=1785112600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=284">
-          <img src="https://ytcards.demolab.com/?id=SNsIHRmTb44&title=Artificial+Intelligence+among+University+Professors&lang=en&timestamp=1785112600&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=284" alt="Artificial Intelligence among University Professors" title="Artificial Intelligence among University Professors">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SNsIHRmTb44&title=Artificial+Intelligence+among+University+Professors&lang=en&timestamp=1785112247&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=284">
+          <img src="https://ytcards.demolab.com/?id=SNsIHRmTb44&title=Artificial+Intelligence+among+University+Professors&lang=en&timestamp=1785112247&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=284" alt="Artificial Intelligence among University Professors" title="Artificial Intelligence among University Professors">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=36OMMx1uHA8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=36OMMx1uHA8&title=AI+Will+Replace+Your+Smartphone+Sooner+Than+You+Think&lang=en&timestamp=1785069400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=592">
-          <img src="https://ytcards.demolab.com/?id=36OMMx1uHA8&title=AI+Will+Replace+Your+Smartphone+Sooner+Than+You+Think&lang=en&timestamp=1785069400&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=592" alt="AI Will Replace Your Smartphone Sooner Than You Think" title="AI Will Replace Your Smartphone Sooner Than You Think">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=36OMMx1uHA8&title=AI+Will+Replace+Your+Smartphone+Sooner+Than+You+Think&lang=en&timestamp=1785072647&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=592">
+          <img src="https://ytcards.demolab.com/?id=36OMMx1uHA8&title=AI+Will+Replace+Your+Smartphone+Sooner+Than+You+Think&lang=en&timestamp=1785072647&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=592" alt="AI Will Replace Your Smartphone Sooner Than You Think" title="AI Will Replace Your Smartphone Sooner Than You Think">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=7j9BDCdHmlA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Z7Hfp1iPf8o" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=7j9BDCdHmlA&title=OpenAI+is+Calling+China%E2%80%99s+Free+AI+a+%E2%80%9CDystopian+Hellscape%E2%80%9D&lang=en&timestamp=1785055000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=716">
-          <img src="https://ytcards.demolab.com/?id=7j9BDCdHmlA&title=OpenAI+is+Calling+China%E2%80%99s+Free+AI+a+%E2%80%9CDystopian+Hellscape%E2%80%9D&lang=en&timestamp=1785055000&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=716" alt="OpenAI is Calling China’s Free AI a “Dystopian Hellscape”" title="OpenAI is Calling China’s Free AI a “Dystopian Hellscape”">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Z7Hfp1iPf8o&title=Americans+REJECT+Trump%27s+Delusional+Plan&lang=en&timestamp=1785083447&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=355">
+          <img src="https://ytcards.demolab.com/?id=Z7Hfp1iPf8o&title=Americans+REJECT+Trump%27s+Delusional+Plan&lang=en&timestamp=1785083447&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=355" alt="Americans REJECT Trump's Delusional Plan" title="Americans REJECT Trump's Delusional Plan">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=XRuUxUY6Kq8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=_IKTL1P0qIU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XRuUxUY6Kq8&title=What%E2%80%99s+Next%3F+The+OpenAI+CEO+Announced+a+%22New+Era+for+Artificial+Intelligence%22&lang=en&timestamp=1785091000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=169">
-          <img src="https://ytcards.demolab.com/?id=XRuUxUY6Kq8&title=What%E2%80%99s+Next%3F+The+OpenAI+CEO+Announced+a+%22New+Era+for+Artificial+Intelligence%22&lang=en&timestamp=1785091000&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=169" alt="What’s Next? The OpenAI CEO Announced a &quot;New Era for Artificial Intelligence&quot;" title="What’s Next? The OpenAI CEO Announced a &quot;New Era for Artificial Intelligence&quot;">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_IKTL1P0qIU&title=Security+concerns+around+artificial+intelligence+mount&lang=en&timestamp=1785151847&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=117">
+          <img src="https://ytcards.demolab.com/?id=_IKTL1P0qIU&title=Security+concerns+around+artificial+intelligence+mount&lang=en&timestamp=1785151847&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=117" alt="Security concerns around artificial intelligence mount" title="Security concerns around artificial intelligence mount">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=x8awWAj5fUI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=x8awWAj5fUI&title=Something%E2%80%99s+Not+Right+With+Artificial+Intelligence&lang=en&timestamp=1785083800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1621">
-          <img src="https://ytcards.demolab.com/?id=x8awWAj5fUI&title=Something%E2%80%99s+Not+Right+With+Artificial+Intelligence&lang=en&timestamp=1785083800&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1621" alt="Something’s Not Right With Artificial Intelligence" title="Something’s Not Right With Artificial Intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=x8awWAj5fUI&title=Something%E2%80%99s+Not+Right+With+Artificial+Intelligence&lang=en&timestamp=1785083447&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1621">
+          <img src="https://ytcards.demolab.com/?id=x8awWAj5fUI&title=Something%E2%80%99s+Not+Right+With+Artificial+Intelligence&lang=en&timestamp=1785083447&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1621" alt="Something’s Not Right With Artificial Intelligence" title="Something’s Not Right With Artificial Intelligence">
         </picture>
       </a>
     </td>
