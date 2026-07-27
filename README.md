@@ -119,56 +119,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=PaVJ_rTtriI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PaVJ_rTtriI&title=AI+Safety+Expert+WARNS%3A+Humanity+Probably+Won%27t+Survive+This&lang=en&timestamp=1785084406&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=888">
-          <img src="https://ytcards.demolab.com/?id=PaVJ_rTtriI&title=AI+Safety+Expert+WARNS%3A+Humanity+Probably+Won%27t+Survive+This&lang=en&timestamp=1785084406&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=888" alt="AI Safety Expert WARNS: Humanity Probably Won't Survive This" title="AI Safety Expert WARNS: Humanity Probably Won't Survive This">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PaVJ_rTtriI&title=AI+Safety+Expert+WARNS%3A+Humanity+Probably+Won%27t+Survive+This&lang=en&timestamp=1785088044&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=888">
+          <img src="https://ytcards.demolab.com/?id=PaVJ_rTtriI&title=AI+Safety+Expert+WARNS%3A+Humanity+Probably+Won%27t+Survive+This&lang=en&timestamp=1785088044&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=888" alt="AI Safety Expert WARNS: Humanity Probably Won't Survive This" title="AI Safety Expert WARNS: Humanity Probably Won't Survive This">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=SNsIHRmTb44" target="_blank">
+      <a href="https://www.youtube.com/watch?v=XpmtyjgPTVo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SNsIHRmTb44&title=Artificial+Intelligence+among+University+Professors&lang=en&timestamp=1785109606&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=284">
-          <img src="https://ytcards.demolab.com/?id=SNsIHRmTb44&title=Artificial+Intelligence+among+University+Professors&lang=en&timestamp=1785109606&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=284" alt="Artificial Intelligence among University Professors" title="Artificial Intelligence among University Professors">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XpmtyjgPTVo&title=Artificial+Intelligence+%3A+What+a+common+man+should+know.&lang=en&timestamp=1785170844&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2971">
+          <img src="https://ytcards.demolab.com/?id=XpmtyjgPTVo&title=Artificial+Intelligence+%3A+What+a+common+man+should+know.&lang=en&timestamp=1785170844&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2971" alt="Artificial Intelligence : What a common man should know." title="Artificial Intelligence : What a common man should know.">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=36OMMx1uHA8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=36OMMx1uHA8&title=AI+Will+Replace+Your+Smartphone+Sooner+Than+You+Think&lang=en&timestamp=1785080806&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=592">
-          <img src="https://ytcards.demolab.com/?id=36OMMx1uHA8&title=AI+Will+Replace+Your+Smartphone+Sooner+Than+You+Think&lang=en&timestamp=1785080806&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=592" alt="AI Will Replace Your Smartphone Sooner Than You Think" title="AI Will Replace Your Smartphone Sooner Than You Think">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=36OMMx1uHA8&title=AI+Will+Replace+Your+Smartphone+Sooner+Than+You+Think&lang=en&timestamp=1785088044&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=592">
+          <img src="https://ytcards.demolab.com/?id=36OMMx1uHA8&title=AI+Will+Replace+Your+Smartphone+Sooner+Than+You+Think&lang=en&timestamp=1785088044&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=592" alt="AI Will Replace Your Smartphone Sooner Than You Think" title="AI Will Replace Your Smartphone Sooner Than You Think">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
+      <a href="https://www.youtube.com/watch?v=SNsIHRmTb44" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SNsIHRmTb44&title=Artificial+Intelligence+among+University+Professors&lang=en&timestamp=1785109644&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=284">
+          <img src="https://ytcards.demolab.com/?id=SNsIHRmTb44&title=Artificial+Intelligence+among+University+Professors&lang=en&timestamp=1785109644&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=284" alt="Artificial Intelligence among University Professors" title="Artificial Intelligence among University Professors">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=l-QPwk_f4eE" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=l-QPwk_f4eE&title=Why+AI+Makes+the+Humanities+More+Important+Than+Ever&lang=en&timestamp=1785088044&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=872">
+          <img src="https://ytcards.demolab.com/?id=l-QPwk_f4eE&title=Why+AI+Makes+the+Humanities+More+Important+Than+Ever&lang=en&timestamp=1785088044&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=872" alt="Why AI Makes the Humanities More Important Than Ever" title="Why AI Makes the Humanities More Important Than Ever">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
       <a href="https://www.youtube.com/watch?v=iyuhq66sgo4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=iyuhq66sgo4&title=Chinese+AI+Models+See+Rapid+Global+Adoption+%7C+WION+World+Business+Watch&lang=en&timestamp=1785134806&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=227">
-          <img src="https://ytcards.demolab.com/?id=iyuhq66sgo4&title=Chinese+AI+Models+See+Rapid+Global+Adoption+%7C+WION+World+Business+Watch&lang=en&timestamp=1785134806&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=227" alt="Chinese AI Models See Rapid Global Adoption | WION World Business Watch" title="Chinese AI Models See Rapid Global Adoption | WION World Business Watch">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=_IKTL1P0qIU" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_IKTL1P0qIU&title=Security+concerns+around+artificial+intelligence+mount&lang=en&timestamp=1785152806&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=117">
-          <img src="https://ytcards.demolab.com/?id=_IKTL1P0qIU&title=Security+concerns+around+artificial+intelligence+mount&lang=en&timestamp=1785152806&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=117" alt="Security concerns around artificial intelligence mount" title="Security concerns around artificial intelligence mount">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=e5kg59Oe-G4" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=e5kg59Oe-G4&title=Top+Artificial+Intelligence+Courses+In+India+2026+%7C+Best+AI+Courses+In+India+Get+Hired+%7C+Simplilearn&lang=en&timestamp=1785160006&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=263">
-          <img src="https://ytcards.demolab.com/?id=e5kg59Oe-G4&title=Top+Artificial+Intelligence+Courses+In+India+2026+%7C+Best+AI+Courses+In+India+Get+Hired+%7C+Simplilearn&lang=en&timestamp=1785160006&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=263" alt="Top Artificial Intelligence Courses In India 2026 | Best AI Courses In India Get Hired | Simplilearn" title="Top Artificial Intelligence Courses In India 2026 | Best AI Courses In India Get Hired | Simplilearn">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=iyuhq66sgo4&title=Chinese+AI+Models+See+Rapid+Global+Adoption+%7C+WION+World+Business+Watch&lang=en&timestamp=1785134844&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=227">
+          <img src="https://ytcards.demolab.com/?id=iyuhq66sgo4&title=Chinese+AI+Models+See+Rapid+Global+Adoption+%7C+WION+World+Business+Watch&lang=en&timestamp=1785134844&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=227" alt="Chinese AI Models See Rapid Global Adoption | WION World Business Watch" title="Chinese AI Models See Rapid Global Adoption | WION World Business Watch">
         </picture>
       </a>
     </td>
