@@ -123,56 +123,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
+      <a href="https://www.youtube.com/watch?v=vfSplCaxHzM" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vfSplCaxHzM&title=OpenAI+Shocks+The+World+With+GENIE...+Almost+Unlimited+AI+Power&lang=en&timestamp=1785198229&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=787">
+          <img src="https://ytcards.demolab.com/?id=vfSplCaxHzM&title=OpenAI+Shocks+The+World+With+GENIE...+Almost+Unlimited+AI+Power&lang=en&timestamp=1785198229&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=787" alt="OpenAI Shocks The World With GENIE... Almost Unlimited AI Power" title="OpenAI Shocks The World With GENIE... Almost Unlimited AI Power">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
       <a href="https://www.youtube.com/watch?v=jYHQRP28hGM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jYHQRP28hGM&title=AI+turning+point%3F+OpenAI+CEO+speaks+out&lang=en&timestamp=1785150573&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=104">
-          <img src="https://ytcards.demolab.com/?id=jYHQRP28hGM&title=AI+turning+point%3F+OpenAI+CEO+speaks+out&lang=en&timestamp=1785150573&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=104" alt="AI turning point? OpenAI CEO speaks out" title="AI turning point? OpenAI CEO speaks out">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jYHQRP28hGM&title=AI+turning+point%3F+OpenAI+CEO+speaks+out&lang=en&timestamp=1785151429&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=104">
+          <img src="https://ytcards.demolab.com/?id=jYHQRP28hGM&title=AI+turning+point%3F+OpenAI+CEO+speaks+out&lang=en&timestamp=1785151429&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=104" alt="AI turning point? OpenAI CEO speaks out" title="AI turning point? OpenAI CEO speaks out">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=PaVJ_rTtriI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=j3Wv-yo10tQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PaVJ_rTtriI&title=AI+Safety+Expert+WARNS%3A+Humanity+Probably+Won%27t+Survive+This&lang=en&timestamp=1785107373&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=888">
-          <img src="https://ytcards.demolab.com/?id=PaVJ_rTtriI&title=AI+Safety+Expert+WARNS%3A+Humanity+Probably+Won%27t+Survive+This&lang=en&timestamp=1785107373&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=888" alt="AI Safety Expert WARNS: Humanity Probably Won't Survive This" title="AI Safety Expert WARNS: Humanity Probably Won't Survive This">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=XpmtyjgPTVo" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XpmtyjgPTVo&title=Artificial+Intelligence+%3A+What+a+common+man+should+know.&lang=en&timestamp=1785172173&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2971">
-          <img src="https://ytcards.demolab.com/?id=XpmtyjgPTVo&title=Artificial+Intelligence+%3A+What+a+common+man+should+know.&lang=en&timestamp=1785172173&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2971" alt="Artificial Intelligence : What a common man should know." title="Artificial Intelligence : What a common man should know.">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=j3Wv-yo10tQ&title=Elon+Musk+News+%7C+Elon+Musk+Believes+Humans+Will+Lose+Control+To+Artificial+Intelligence+In+A+Decade&lang=en&timestamp=1785219829&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=92">
+          <img src="https://ytcards.demolab.com/?id=j3Wv-yo10tQ&title=Elon+Musk+News+%7C+Elon+Musk+Believes+Humans+Will+Lose+Control+To+Artificial+Intelligence+In+A+Decade&lang=en&timestamp=1785219829&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=92" alt="Elon Musk News | Elon Musk Believes Humans Will Lose Control To Artificial Intelligence In A Decade" title="Elon Musk News | Elon Musk Believes Humans Will Lose Control To Artificial Intelligence In A Decade">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=l-QPwk_f4eE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=mH4NmqSl2FE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=l-QPwk_f4eE&title=Why+AI+Makes+the+Humanities+More+Important+Than+Ever&lang=en&timestamp=1785107373&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=872">
-          <img src="https://ytcards.demolab.com/?id=l-QPwk_f4eE&title=Why+AI+Makes+the+Humanities+More+Important+Than+Ever&lang=en&timestamp=1785107373&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=872" alt="Why AI Makes the Humanities More Important Than Ever" title="Why AI Makes the Humanities More Important Than Ever">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mH4NmqSl2FE&title=10+Times+AI+Said+Things+That+Scientists+Still+Can%27t+Explain&lang=en&timestamp=1785183829&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=529">
+          <img src="https://ytcards.demolab.com/?id=mH4NmqSl2FE&title=10+Times+AI+Said+Things+That+Scientists+Still+Can%27t+Explain&lang=en&timestamp=1785183829&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=529" alt="10 Times AI Said Things That Scientists Still Can't Explain" title="10 Times AI Said Things That Scientists Still Can't Explain">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=SNsIHRmTb44" target="_blank">
+      <a href="https://www.youtube.com/watch?v=eNYKvabw-AM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SNsIHRmTb44&title=Artificial+Intelligence+among+University+Professors&lang=en&timestamp=1785110973&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=284">
-          <img src="https://ytcards.demolab.com/?id=SNsIHRmTb44&title=Artificial+Intelligence+among+University+Professors&lang=en&timestamp=1785110973&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=284" alt="Artificial Intelligence among University Professors" title="Artificial Intelligence among University Professors">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=eNYKvabw-AM&title=%F0%9F%9A%A8+Wars%2C+Mass+Surveillance+%26+Disclosure+Colliding%E2%80%94Why+Now%3F&lang=en&timestamp=1785205429&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7868">
+          <img src="https://ytcards.demolab.com/?id=eNYKvabw-AM&title=%F0%9F%9A%A8+Wars%2C+Mass+Surveillance+%26+Disclosure+Colliding%E2%80%94Why+Now%3F&lang=en&timestamp=1785205429&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7868" alt="🚨 Wars, Mass Surveillance & Disclosure Colliding—Why Now?" title="🚨 Wars, Mass Surveillance & Disclosure Colliding—Why Now?">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=e5kg59Oe-G4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=rv3ST4tl4Uw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=e5kg59Oe-G4&title=Top+Artificial+Intelligence+Courses+In+India+2026+%7C+Best+AI+Courses+In+India+Get+Hired+%7C+Simplilearn&lang=en&timestamp=1785161373&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=263">
-          <img src="https://ytcards.demolab.com/?id=e5kg59Oe-G4&title=Top+Artificial+Intelligence+Courses+In+India+2026+%7C+Best+AI+Courses+In+India+Get+Hired+%7C+Simplilearn&lang=en&timestamp=1785161373&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=263" alt="Top Artificial Intelligence Courses In India 2026 | Best AI Courses In India Get Hired | Simplilearn" title="Top Artificial Intelligence Courses In India 2026 | Best AI Courses In India Get Hired | Simplilearn">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=rv3ST4tl4Uw&title=Everyone+in+AI+Is+Turning+on+Anthropic+%28Even+Denny%E2%80%99s%29&lang=en&timestamp=1785165829&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1502">
+          <img src="https://ytcards.demolab.com/?id=rv3ST4tl4Uw&title=Everyone+in+AI+Is+Turning+on+Anthropic+%28Even+Denny%E2%80%99s%29&lang=en&timestamp=1785165829&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1502" alt="Everyone in AI Is Turning on Anthropic (Even Denny’s)" title="Everyone in AI Is Turning on Anthropic (Even Denny’s)">
         </picture>
       </a>
     </td>
