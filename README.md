@@ -131,56 +131,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ySRikTtqNVM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=K0jrkQalga0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ySRikTtqNVM&title=AI+Safety+Expert+WARNS%3A+99%25+Chance+We+Don%27t+Survive+What%27s+Coming&lang=en&timestamp=1785257085&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1407">
-          <img src="https://ytcards.demolab.com/?id=ySRikTtqNVM&title=AI+Safety+Expert+WARNS%3A+99%25+Chance+We+Don%27t+Survive+What%27s+Coming&lang=en&timestamp=1785257085&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1407" alt="AI Safety Expert WARNS: 99% Chance We Don't Survive What's Coming" title="AI Safety Expert WARNS: 99% Chance We Don't Survive What's Coming">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=K0jrkQalga0&title=Top+AI+employees+issue+%27extinction+risk%27+warning+about+artificial+intelligence+%7C+CUOMO&lang=en&timestamp=1785287085&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=307">
+          <img src="https://ytcards.demolab.com/?id=K0jrkQalga0&title=Top+AI+employees+issue+%27extinction+risk%27+warning+about+artificial+intelligence+%7C+CUOMO&lang=en&timestamp=1785287085&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=307" alt="Top AI employees issue 'extinction risk' warning about artificial intelligence | CUOMO" title="Top AI employees issue 'extinction risk' warning about artificial intelligence | CUOMO">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=K0jrkQalga0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Di0I3D60Msw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=K0jrkQalga0&title=Top+AI+employees+issue+%27extinction+risk%27+warning+about+artificial+intelligence+%7C+CUOMO&lang=en&timestamp=1785285885&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=307">
-          <img src="https://ytcards.demolab.com/?id=K0jrkQalga0&title=Top+AI+employees+issue+%27extinction+risk%27+warning+about+artificial+intelligence+%7C+CUOMO&lang=en&timestamp=1785285885&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=307" alt="Top AI employees issue 'extinction risk' warning about artificial intelligence | CUOMO" title="Top AI employees issue 'extinction risk' warning about artificial intelligence | CUOMO">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Di0I3D60Msw&title=Everyone+Hates+Anthropic+Now+%28Even+Denny%27s+Diner%29&lang=en&timestamp=1785323085&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2372">
+          <img src="https://ytcards.demolab.com/?id=Di0I3D60Msw&title=Everyone+Hates+Anthropic+Now+%28Even+Denny%27s+Diner%29&lang=en&timestamp=1785323085&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2372" alt="Everyone Hates Anthropic Now (Even Denny's Diner)" title="Everyone Hates Anthropic Now (Even Denny's Diner)">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=B9ctRO7LRP8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=B9ctRO7LRP8&title=Palantir+co-founder%3A+This+is+the+ONLY+WAY+to+unleash+AI+in+America&lang=en&timestamp=1785278685&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=379">
-          <img src="https://ytcards.demolab.com/?id=B9ctRO7LRP8&title=Palantir+co-founder%3A+This+is+the+ONLY+WAY+to+unleash+AI+in+America&lang=en&timestamp=1785278685&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=379" alt="Palantir co-founder: This is the ONLY WAY to unleash AI in America" title="Palantir co-founder: This is the ONLY WAY to unleash AI in America">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=B9ctRO7LRP8&title=Palantir+co-founder%3A+This+is+the+ONLY+WAY+to+unleash+AI+in+America&lang=en&timestamp=1785276285&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=379">
+          <img src="https://ytcards.demolab.com/?id=B9ctRO7LRP8&title=Palantir+co-founder%3A+This+is+the+ONLY+WAY+to+unleash+AI+in+America&lang=en&timestamp=1785276285&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=379" alt="Palantir co-founder: This is the ONLY WAY to unleash AI in America" title="Palantir co-founder: This is the ONLY WAY to unleash AI in America">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=IXOJwRjgKtM" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=IXOJwRjgKtM&title=Concerns+rising+as+artificial+intelligence+rapidly+evolves&lang=en&timestamp=1785253485&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=286">
-          <img src="https://ytcards.demolab.com/?id=IXOJwRjgKtM&title=Concerns+rising+as+artificial+intelligence+rapidly+evolves&lang=en&timestamp=1785253485&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=286" alt="Concerns rising as artificial intelligence rapidly evolves" title="Concerns rising as artificial intelligence rapidly evolves">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
       <a href="https://www.youtube.com/watch?v=zDnuxj0IMs0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zDnuxj0IMs0&title=Why+AI+Inventors+Are+Terrified+of+Their+Own+Creation&lang=en&timestamp=1785275085&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3021">
-          <img src="https://ytcards.demolab.com/?id=zDnuxj0IMs0&title=Why+AI+Inventors+Are+Terrified+of+Their+Own+Creation&lang=en&timestamp=1785275085&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3021" alt="Why AI Inventors Are Terrified of Their Own Creation" title="Why AI Inventors Are Terrified of Their Own Creation">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zDnuxj0IMs0&title=Why+AI+Inventors+Are+Terrified+of+Their+Own+Creation&lang=en&timestamp=1785272685&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3021">
+          <img src="https://ytcards.demolab.com/?id=zDnuxj0IMs0&title=Why+AI+Inventors+Are+Terrified+of+Their+Own+Creation&lang=en&timestamp=1785272685&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3021" alt="Why AI Inventors Are Terrified of Their Own Creation" title="Why AI Inventors Are Terrified of Their Own Creation">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=rPSjGiWmTus" target="_blank">
+      <a href="https://www.youtube.com/watch?v=XDB5beon4DY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=rPSjGiWmTus&title=5+Celebrities+Against+AI+vs.+5+Who+Support+It&lang=en&timestamp=1785253485&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=738">
-          <img src="https://ytcards.demolab.com/?id=rPSjGiWmTus&title=5+Celebrities+Against+AI+vs.+5+Who+Support+It&lang=en&timestamp=1785253485&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=738" alt="5 Celebrities Against AI vs. 5 Who Support It" title="5 Celebrities Against AI vs. 5 Who Support It">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XDB5beon4DY&title=Sam+Altman+on+AGI%2C+Compute%2C+and+Human+Agency&lang=en&timestamp=1785243885&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3348">
+          <img src="https://ytcards.demolab.com/?id=XDB5beon4DY&title=Sam+Altman+on+AGI%2C+Compute%2C+and+Human+Agency&lang=en&timestamp=1785243885&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3348" alt="Sam Altman on AGI, Compute, and Human Agency" title="Sam Altman on AGI, Compute, and Human Agency">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=IXOJwRjgKtM" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=IXOJwRjgKtM&title=Concerns+rising+as+artificial+intelligence+rapidly+evolves&lang=en&timestamp=1785254685&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=286">
+          <img src="https://ytcards.demolab.com/?id=IXOJwRjgKtM&title=Concerns+rising+as+artificial+intelligence+rapidly+evolves&lang=en&timestamp=1785254685&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=286" alt="Concerns rising as artificial intelligence rapidly evolves" title="Concerns rising as artificial intelligence rapidly evolves">
         </picture>
       </a>
     </td>
