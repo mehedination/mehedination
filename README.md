@@ -136,30 +136,31 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=t3YMNLFYPCs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=t3YMNLFYPCs&title=AI+workers+at+major+companies+call+for+slowdown+of+the+technology%27s+development&lang=en&timestamp=1785332936&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=242">
-          <img src="https://ytcards.demolab.com/?id=t3YMNLFYPCs&title=AI+workers+at+major+companies+call+for+slowdown+of+the+technology%27s+development&lang=en&timestamp=1785332936&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=242" alt="AI workers at major companies call for slowdown of the technology's development" title="AI workers at major companies call for slowdown of the technology's development">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=t3YMNLFYPCs&title=AI+workers+at+major+companies+call+for+slowdown+of+the+technology%27s+development&lang=en&timestamp=1785332859&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=242">
+          <img src="https://ytcards.demolab.com/?id=t3YMNLFYPCs&title=AI+workers+at+major+companies+call+for+slowdown+of+the+technology%27s+development&lang=en&timestamp=1785332859&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=242" alt="AI workers at major companies call for slowdown of the technology's development" title="AI workers at major companies call for slowdown of the technology's development">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=hzp-5JeqNkE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hzp-5JeqNkE&title=Why+Is+So+Much+AI+Tech+Useless%3F&lang=en&timestamp=1785329336&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3658">
-          <img src="https://ytcards.demolab.com/?id=hzp-5JeqNkE&title=Why+Is+So+Much+AI+Tech+Useless%3F&lang=en&timestamp=1785329336&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3658" alt="Why Is So Much AI Tech Useless?" title="Why Is So Much AI Tech Useless?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hzp-5JeqNkE&title=Why+Is+So+Much+AI+Tech+Useless%3F&lang=en&timestamp=1785329259&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3658">
+          <img src="https://ytcards.demolab.com/?id=hzp-5JeqNkE&title=Why+Is+So+Much+AI+Tech+Useless%3F&lang=en&timestamp=1785329259&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3658" alt="Why Is So Much AI Tech Useless?" title="Why Is So Much AI Tech Useless?">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=L3YmssZj4Wk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=L3YmssZj4Wk&title=Musk%2C+Zuckerberg+and+Altman+clash+over+AI%27s+future&lang=en&timestamp=1785358136&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=655">
-          <img src="https://ytcards.demolab.com/?id=L3YmssZj4Wk&title=Musk%2C+Zuckerberg+and+Altman+clash+over+AI%27s+future&lang=en&timestamp=1785358136&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=655" alt="Musk, Zuckerberg and Altman clash over AI's future" title="Musk, Zuckerberg and Altman clash over AI's future">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=L3YmssZj4Wk&title=Musk%2C+Zuckerberg+and+Altman+clash+over+AI%27s+future&lang=en&timestamp=1785358059&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=655">
+          <img src="https://ytcards.demolab.com/?id=L3YmssZj4Wk&title=Musk%2C+Zuckerberg+and+Altman+clash+over+AI%27s+future&lang=en&timestamp=1785358059&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=655" alt="Musk, Zuckerberg and Altman clash over AI's future" title="Musk, Zuckerberg and Altman clash over AI's future">
         </picture>
       </a>
     </td>
@@ -168,24 +169,24 @@
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=Di0I3D60Msw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Di0I3D60Msw&title=The+AI+War+Just+Went+Nuclear&lang=en&timestamp=1785322136&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2372">
-          <img src="https://ytcards.demolab.com/?id=Di0I3D60Msw&title=The+AI+War+Just+Went+Nuclear&lang=en&timestamp=1785322136&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2372" alt="The AI War Just Went Nuclear" title="The AI War Just Went Nuclear">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Di0I3D60Msw&title=The+AI+War+Just+Went+Nuclear&lang=en&timestamp=1785322059&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2372">
+          <img src="https://ytcards.demolab.com/?id=Di0I3D60Msw&title=The+AI+War+Just+Went+Nuclear&lang=en&timestamp=1785322059&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2372" alt="The AI War Just Went Nuclear" title="The AI War Just Went Nuclear">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=m_hoIAwSe3g" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=m_hoIAwSe3g&title=Francesco+Fabozzi+on+how+LLMs+are+transforming+discretionary+and+quantitative+investment+strategies&lang=en&timestamp=1785343736&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3517">
-          <img src="https://ytcards.demolab.com/?id=m_hoIAwSe3g&title=Francesco+Fabozzi+on+how+LLMs+are+transforming+discretionary+and+quantitative+investment+strategies&lang=en&timestamp=1785343736&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3517" alt="Francesco Fabozzi on how LLMs are transforming discretionary and quantitative investment strategies" title="Francesco Fabozzi on how LLMs are transforming discretionary and quantitative investment strategies">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=m_hoIAwSe3g&title=Francesco+Fabozzi+on+how+LLMs+are+transforming+discretionary+and+quantitative+investment+strategies&lang=en&timestamp=1785343659&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3517">
+          <img src="https://ytcards.demolab.com/?id=m_hoIAwSe3g&title=Francesco+Fabozzi+on+how+LLMs+are+transforming+discretionary+and+quantitative+investment+strategies&lang=en&timestamp=1785343659&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3517" alt="Francesco Fabozzi on how LLMs are transforming discretionary and quantitative investment strategies" title="Francesco Fabozzi on how LLMs are transforming discretionary and quantitative investment strategies">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=5BINL4oJz8I" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5BINL4oJz8I&title=Tech+workers+sound+the+alarm+on+the+risks+of+rapid+AI+development&lang=en&timestamp=1785332936&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=177">
-          <img src="https://ytcards.demolab.com/?id=5BINL4oJz8I&title=Tech+workers+sound+the+alarm+on+the+risks+of+rapid+AI+development&lang=en&timestamp=1785332936&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=177" alt="Tech workers sound the alarm on the risks of rapid AI development" title="Tech workers sound the alarm on the risks of rapid AI development">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5BINL4oJz8I&title=Tech+workers+sound+the+alarm+on+the+risks+of+rapid+AI+development&lang=en&timestamp=1785332859&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=177">
+          <img src="https://ytcards.demolab.com/?id=5BINL4oJz8I&title=Tech+workers+sound+the+alarm+on+the+risks+of+rapid+AI+development&lang=en&timestamp=1785332859&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=177" alt="Tech workers sound the alarm on the risks of rapid AI development" title="Tech workers sound the alarm on the risks of rapid AI development">
         </picture>
       </a>
     </td>
