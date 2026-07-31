@@ -151,56 +151,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=4CTtlpi7Lic" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4CTtlpi7Lic&title=AI+Goes+Rogue%3A+OpenAI+Agent+Hacks+Other+Firms+as+Growing+Coalition+Demands+Safeguards&lang=en&timestamp=1785442970&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1277">
-          <img src="https://ytcards.demolab.com/?id=4CTtlpi7Lic&title=AI+Goes+Rogue%3A+OpenAI+Agent+Hacks+Other+Firms+as+Growing+Coalition+Demands+Safeguards&lang=en&timestamp=1785442970&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1277" alt="AI Goes Rogue: OpenAI Agent Hacks Other Firms as Growing Coalition Demands Safeguards" title="AI Goes Rogue: OpenAI Agent Hacks Other Firms as Growing Coalition Demands Safeguards">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4CTtlpi7Lic&title=AI+Goes+Rogue%3A+OpenAI+Agent+Hacks+Other+Firms+as+Growing+Coalition+Demands+Safeguards&lang=en&timestamp=1785449385&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1277">
+          <img src="https://ytcards.demolab.com/?id=4CTtlpi7Lic&title=AI+Goes+Rogue%3A+OpenAI+Agent+Hacks+Other+Firms+as+Growing+Coalition+Demands+Safeguards&lang=en&timestamp=1785449385&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1277" alt="AI Goes Rogue: OpenAI Agent Hacks Other Firms as Growing Coalition Demands Safeguards" title="AI Goes Rogue: OpenAI Agent Hacks Other Firms as Growing Coalition Demands Safeguards">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=CZezvsT2i_I" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=CZezvsT2i_I&title=Navigating+artificial+intelligence+in+the+workplace&lang=en&timestamp=1785521385&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=360">
+          <img src="https://ytcards.demolab.com/?id=CZezvsT2i_I&title=Navigating+artificial+intelligence+in+the+workplace&lang=en&timestamp=1785521385&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=360" alt="Navigating artificial intelligence in the workplace" title="Navigating artificial intelligence in the workplace">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=eL0ZXagxXBA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=eL0ZXagxXBA&title=China%2C+U.S.+in+artificial+intelligence+race+amid+growing+security+concerns+surrounding+technology&lang=en&timestamp=1785514970&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=268">
-          <img src="https://ytcards.demolab.com/?id=eL0ZXagxXBA&title=China%2C+U.S.+in+artificial+intelligence+race+amid+growing+security+concerns+surrounding+technology&lang=en&timestamp=1785514970&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=268" alt="China, U.S. in artificial intelligence race amid growing security concerns surrounding technology" title="China, U.S. in artificial intelligence race amid growing security concerns surrounding technology">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=92s-ttZA20U" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=92s-ttZA20U&title=Trump+Asked%3A+Are+You+Considering+Stronger+Controls+On+AI+As+Cyberattack+Risks+Escalate%3F&lang=en&timestamp=1785442970&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=42">
-          <img src="https://ytcards.demolab.com/?id=92s-ttZA20U&title=Trump+Asked%3A+Are+You+Considering+Stronger+Controls+On+AI+As+Cyberattack+Risks+Escalate%3F&lang=en&timestamp=1785442970&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=42" alt="Trump Asked: Are You Considering Stronger Controls On AI As Cyberattack Risks Escalate?" title="Trump Asked: Are You Considering Stronger Controls On AI As Cyberattack Risks Escalate?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=eL0ZXagxXBA&title=China%2C+U.S.+in+artificial+intelligence+race+amid+growing+security+concerns+surrounding+technology&lang=en&timestamp=1785514185&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=268">
+          <img src="https://ytcards.demolab.com/?id=eL0ZXagxXBA&title=China%2C+U.S.+in+artificial+intelligence+race+amid+growing+security+concerns+surrounding+technology&lang=en&timestamp=1785514185&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=268" alt="China, U.S. in artificial intelligence race amid growing security concerns surrounding technology" title="China, U.S. in artificial intelligence race amid growing security concerns surrounding technology">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=I1xiNf-tzYw" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=I1xiNf-tzYw&title=AI+keeps+US+economy+growing+even+as+overall+GDP+growth+slows&lang=en&timestamp=1785450170&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=82">
-          <img src="https://ytcards.demolab.com/?id=I1xiNf-tzYw&title=AI+keeps+US+economy+growing+even+as+overall+GDP+growth+slows&lang=en&timestamp=1785450170&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=82" alt="AI keeps US economy growing even as overall GDP growth slows" title="AI keeps US economy growing even as overall GDP growth slows">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=4rZQKRpGBf0" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4rZQKRpGBf0&title=AI+Weekly%3A+Trump+mulls+AI+controls%2C+semiconductor+stocks+slump&lang=en&timestamp=1785442970&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=150">
-          <img src="https://ytcards.demolab.com/?id=4rZQKRpGBf0&title=AI+Weekly%3A+Trump+mulls+AI+controls%2C+semiconductor+stocks+slump&lang=en&timestamp=1785442970&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=150" alt="AI Weekly: Trump mulls AI controls, semiconductor stocks slump" title="AI Weekly: Trump mulls AI controls, semiconductor stocks slump">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
       <a href="https://www.youtube.com/watch?v=VBMLb6dZrMA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=VBMLb6dZrMA&title=Artificial+intelligence+finds+a+growing+role+in+healthcare&lang=en&timestamp=1785457370&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=141">
-          <img src="https://ytcards.demolab.com/?id=VBMLb6dZrMA&title=Artificial+intelligence+finds+a+growing+role+in+healthcare&lang=en&timestamp=1785457370&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=141" alt="Artificial intelligence finds a growing role in healthcare" title="Artificial intelligence finds a growing role in healthcare">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=VBMLb6dZrMA&title=Artificial+intelligence+finds+a+growing+role+in+healthcare&lang=en&timestamp=1785456585&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=141">
+          <img src="https://ytcards.demolab.com/?id=VBMLb6dZrMA&title=Artificial+intelligence+finds+a+growing+role+in+healthcare&lang=en&timestamp=1785456585&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=141" alt="Artificial intelligence finds a growing role in healthcare" title="Artificial intelligence finds a growing role in healthcare">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=-9cDVT871rM" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-9cDVT871rM&title=Top+25+Artificial+Intelligence+Interview+Questions+And+Answers+%7C+AI+Interview+Guide+2026&lang=en&timestamp=1785449385&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1102">
+          <img src="https://ytcards.demolab.com/?id=-9cDVT871rM&title=Top+25+Artificial+Intelligence+Interview+Questions+And+Answers+%7C+AI+Interview+Guide+2026&lang=en&timestamp=1785449385&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1102" alt="Top 25 Artificial Intelligence Interview Questions And Answers | AI Interview Guide 2026" title="Top 25 Artificial Intelligence Interview Questions And Answers | AI Interview Guide 2026">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=o9D8P31K7Z0" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=o9D8P31K7Z0&title=I+Tested+AI+Life+Hacks+%28Part+3%29&lang=en&timestamp=1785452985&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1750">
+          <img src="https://ytcards.demolab.com/?id=o9D8P31K7Z0&title=I+Tested+AI+Life+Hacks+%28Part+3%29&lang=en&timestamp=1785452985&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1750" alt="I Tested AI Life Hacks (Part 3)" title="I Tested AI Life Hacks (Part 3)">
         </picture>
       </a>
     </td>
