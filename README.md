@@ -144,56 +144,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=VBMLb6dZrMA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=VBMLb6dZrMA&title=Artificial+intelligence+finds+a+growing+role+in+healthcare&lang=en&timestamp=1785454031&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=141">
-          <img src="https://ytcards.demolab.com/?id=VBMLb6dZrMA&title=Artificial+intelligence+finds+a+growing+role+in+healthcare&lang=en&timestamp=1785454031&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=141" alt="Artificial intelligence finds a growing role in healthcare" title="Artificial intelligence finds a growing role in healthcare">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=VBMLb6dZrMA&title=Artificial+intelligence+finds+a+growing+role+in+healthcare&lang=en&timestamp=1785454039&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=141">
+          <img src="https://ytcards.demolab.com/?id=VBMLb6dZrMA&title=Artificial+intelligence+finds+a+growing+role+in+healthcare&lang=en&timestamp=1785454039&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=141" alt="Artificial intelligence finds a growing role in healthcare" title="Artificial intelligence finds a growing role in healthcare">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=4CTtlpi7Lic" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4CTtlpi7Lic&title=AI+Goes+Rogue%3A+OpenAI+Agent+Hacks+Other+Firms+as+Growing+Coalition+Demands+Safeguards&lang=en&timestamp=1785424091&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1277">
-          <img src="https://ytcards.demolab.com/?id=4CTtlpi7Lic&title=AI+Goes+Rogue%3A+OpenAI+Agent+Hacks+Other+Firms+as+Growing+Coalition+Demands+Safeguards&lang=en&timestamp=1785424091&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1277" alt="AI Goes Rogue: OpenAI Agent Hacks Other Firms as Growing Coalition Demands Safeguards" title="AI Goes Rogue: OpenAI Agent Hacks Other Firms as Growing Coalition Demands Safeguards">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4CTtlpi7Lic&title=%22Less+Regulated+Than+Sandwiches%22%3A+MIT+Prof.+Calls+for+Oversight+as+OpenAI+Agent+Hacks+Other+Firms&lang=en&timestamp=1785425239&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1277">
+          <img src="https://ytcards.demolab.com/?id=4CTtlpi7Lic&title=%22Less+Regulated+Than+Sandwiches%22%3A+MIT+Prof.+Calls+for+Oversight+as+OpenAI+Agent+Hacks+Other+Firms&lang=en&timestamp=1785425239&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1277" alt="&quot;Less Regulated Than Sandwiches&quot;: MIT Prof. Calls for Oversight as OpenAI Agent Hacks Other Firms" title="&quot;Less Regulated Than Sandwiches&quot;: MIT Prof. Calls for Oversight as OpenAI Agent Hacks Other Firms">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=rb4eOv5etkA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=4rZQKRpGBf0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=rb4eOv5etkA&title=Interview%3A+The+Future+of+AI+and+Us+%7C+Particles+of+Thought&lang=en&timestamp=1785406091&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4130">
-          <img src="https://ytcards.demolab.com/?id=rb4eOv5etkA&title=Interview%3A+The+Future+of+AI+and+Us+%7C+Particles+of+Thought&lang=en&timestamp=1785406091&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4130" alt="Interview: The Future of AI and Us | Particles of Thought" title="Interview: The Future of AI and Us | Particles of Thought">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4rZQKRpGBf0&title=AI+Weekly%3A+Trump+mulls+AI+controls%2C+semiconductor+stocks+slump&lang=en&timestamp=1785418039&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=150">
+          <img src="https://ytcards.demolab.com/?id=4rZQKRpGBf0&title=AI+Weekly%3A+Trump+mulls+AI+controls%2C+semiconductor+stocks+slump&lang=en&timestamp=1785418039&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=150" alt="AI Weekly: Trump mulls AI controls, semiconductor stocks slump" title="AI Weekly: Trump mulls AI controls, semiconductor stocks slump">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=YFaHjv1PNMc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=rb4eOv5etkA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=YFaHjv1PNMc&title=AI+Companies+Are+Destroying+Rare+Physical+Books+To+Feed+Their+Chatbots+%7C+Vantage+on+Firstpost+%7C+4K&lang=en&timestamp=1785438491&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=411">
-          <img src="https://ytcards.demolab.com/?id=YFaHjv1PNMc&title=AI+Companies+Are+Destroying+Rare+Physical+Books+To+Feed+Their+Chatbots+%7C+Vantage+on+Firstpost+%7C+4K&lang=en&timestamp=1785438491&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=411" alt="AI Companies Are Destroying Rare Physical Books To Feed Their Chatbots | Vantage on Firstpost | 4K" title="AI Companies Are Destroying Rare Physical Books To Feed Their Chatbots | Vantage on Firstpost | 4K">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=OGTyDwBEvRY" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=OGTyDwBEvRY&title=The+Truth+About+AI%27s+Massive+Data+Centers&lang=en&timestamp=1785424091&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1009">
-          <img src="https://ytcards.demolab.com/?id=OGTyDwBEvRY&title=The+Truth+About+AI%27s+Massive+Data+Centers&lang=en&timestamp=1785424091&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1009" alt="The Truth About AI's Massive Data Centers" title="The Truth About AI's Massive Data Centers">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=rb4eOv5etkA&title=Interview%3A+The+Future+of+AI+and+Us+%7C+Particles+of+Thought&lang=en&timestamp=1785407239&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4130">
+          <img src="https://ytcards.demolab.com/?id=rb4eOv5etkA&title=Interview%3A+The+Future+of+AI+and+Us+%7C+Particles+of+Thought&lang=en&timestamp=1785407239&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4130" alt="Interview: The Future of AI and Us | Particles of Thought" title="Interview: The Future of AI and Us | Particles of Thought">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=Vgp5_-xeY_s" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Vgp5_-xeY_s&title=Reimagining+AI%3A+Beyond+Fear+and+Moral+Panic.+%7C+Dr+Agnieszka+Piotrowska+%7C+TEDxHeaton&lang=en&timestamp=1785427691&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=639">
-          <img src="https://ytcards.demolab.com/?id=Vgp5_-xeY_s&title=Reimagining+AI%3A+Beyond+Fear+and+Moral+Panic.+%7C+Dr+Agnieszka+Piotrowska+%7C+TEDxHeaton&lang=en&timestamp=1785427691&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=639" alt="Reimagining AI: Beyond Fear and Moral Panic. | Dr Agnieszka Piotrowska | TEDxHeaton" title="Reimagining AI: Beyond Fear and Moral Panic. | Dr Agnieszka Piotrowska | TEDxHeaton">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Vgp5_-xeY_s&title=Reimagining+AI%3A+Beyond+Fear+and+Moral+Panic.+%7C+Dr+Agnieszka+Piotrowska+%7C+TEDxHeaton&lang=en&timestamp=1785428839&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=639">
+          <img src="https://ytcards.demolab.com/?id=Vgp5_-xeY_s&title=Reimagining+AI%3A+Beyond+Fear+and+Moral+Panic.+%7C+Dr+Agnieszka+Piotrowska+%7C+TEDxHeaton&lang=en&timestamp=1785428839&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=639" alt="Reimagining AI: Beyond Fear and Moral Panic. | Dr Agnieszka Piotrowska | TEDxHeaton" title="Reimagining AI: Beyond Fear and Moral Panic. | Dr Agnieszka Piotrowska | TEDxHeaton">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=OGTyDwBEvRY" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=OGTyDwBEvRY&title=The+Truth+About+AI%27s+Massive+Data+Centers&lang=en&timestamp=1785425239&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1009">
+          <img src="https://ytcards.demolab.com/?id=OGTyDwBEvRY&title=The+Truth+About+AI%27s+Massive+Data+Centers&lang=en&timestamp=1785425239&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1009" alt="The Truth About AI's Massive Data Centers" title="The Truth About AI's Massive Data Centers">
         </picture>
       </a>
     </td>
