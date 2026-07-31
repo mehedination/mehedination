@@ -147,56 +147,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=4CTtlpi7Lic" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4CTtlpi7Lic&title=AI+Goes+Rogue%3A+OpenAI+Agent+Hacks+Other+Firms+as+Growing+Coalition+Demands+Safeguards&lang=en&timestamp=1785422726&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1277">
-          <img src="https://ytcards.demolab.com/?id=4CTtlpi7Lic&title=AI+Goes+Rogue%3A+OpenAI+Agent+Hacks+Other+Firms+as+Growing+Coalition+Demands+Safeguards&lang=en&timestamp=1785422726&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1277" alt="AI Goes Rogue: OpenAI Agent Hacks Other Firms as Growing Coalition Demands Safeguards" title="AI Goes Rogue: OpenAI Agent Hacks Other Firms as Growing Coalition Demands Safeguards">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4CTtlpi7Lic&title=AI+Goes+Rogue%3A+OpenAI+Agent+Hacks+Other+Firms+as+Growing+Coalition+Demands+Safeguards&lang=en&timestamp=1785423622&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1277">
+          <img src="https://ytcards.demolab.com/?id=4CTtlpi7Lic&title=AI+Goes+Rogue%3A+OpenAI+Agent+Hacks+Other+Firms+as+Growing+Coalition+Demands+Safeguards&lang=en&timestamp=1785423622&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1277" alt="AI Goes Rogue: OpenAI Agent Hacks Other Firms as Growing Coalition Demands Safeguards" title="AI Goes Rogue: OpenAI Agent Hacks Other Firms as Growing Coalition Demands Safeguards">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=VBMLb6dZrMA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=tJMqVauWsjk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=VBMLb6dZrMA&title=Artificial+intelligence+finds+a+growing+role+in+healthcare&lang=en&timestamp=1785455126&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=141">
-          <img src="https://ytcards.demolab.com/?id=VBMLb6dZrMA&title=Artificial+intelligence+finds+a+growing+role+in+healthcare&lang=en&timestamp=1785455126&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=141" alt="Artificial intelligence finds a growing role in healthcare" title="Artificial intelligence finds a growing role in healthcare">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tJMqVauWsjk&title=ITS%2C+Eliza+%26+MiT%27s+AI+Lab+-+Computerphile&lang=en&timestamp=1785427222&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=675">
+          <img src="https://ytcards.demolab.com/?id=tJMqVauWsjk&title=ITS%2C+Eliza+%26+MiT%27s+AI+Lab+-+Computerphile&lang=en&timestamp=1785427222&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=675" alt="ITS, Eliza & MiT's AI Lab - Computerphile" title="ITS, Eliza & MiT's AI Lab - Computerphile">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=rb4eOv5etkA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=92s-ttZA20U" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=rb4eOv5etkA&title=Interview%3A+The+Future+of+AI+and+Us+%7C+Particles+of+Thought&lang=en&timestamp=1785408326&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4130">
-          <img src="https://ytcards.demolab.com/?id=rb4eOv5etkA&title=Interview%3A+The+Future+of+AI+and+Us+%7C+Particles+of+Thought&lang=en&timestamp=1785408326&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4130" alt="Interview: The Future of AI and Us | Particles of Thought" title="Interview: The Future of AI and Us | Particles of Thought">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=92s-ttZA20U&title=Trump+Asked%3A+Are+You+Considering+Stronger+Controls+On+AI+As+Cyberattack+Risks+Escalate%3F&lang=en&timestamp=1785423622&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=42">
+          <img src="https://ytcards.demolab.com/?id=92s-ttZA20U&title=Trump+Asked%3A+Are+You+Considering+Stronger+Controls+On+AI+As+Cyberattack+Risks+Escalate%3F&lang=en&timestamp=1785423622&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=42" alt="Trump Asked: Are You Considering Stronger Controls On AI As Cyberattack Risks Escalate?" title="Trump Asked: Are You Considering Stronger Controls On AI As Cyberattack Risks Escalate?">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
+      <a href="https://www.youtube.com/watch?v=VBMLb6dZrMA" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=VBMLb6dZrMA&title=Artificial+intelligence+finds+a+growing+role+in+healthcare&lang=en&timestamp=1785456022&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=141">
+          <img src="https://ytcards.demolab.com/?id=VBMLb6dZrMA&title=Artificial+intelligence+finds+a+growing+role+in+healthcare&lang=en&timestamp=1785456022&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=141" alt="Artificial intelligence finds a growing role in healthcare" title="Artificial intelligence finds a growing role in healthcare">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
       <a href="https://www.youtube.com/watch?v=4rZQKRpGBf0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4rZQKRpGBf0&title=AI+Weekly%3A+Trump+mulls+AI+controls%2C+semiconductor+stocks+slump&lang=en&timestamp=1785415526&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=150">
-          <img src="https://ytcards.demolab.com/?id=4rZQKRpGBf0&title=AI+Weekly%3A+Trump+mulls+AI+controls%2C+semiconductor+stocks+slump&lang=en&timestamp=1785415526&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=150" alt="AI Weekly: Trump mulls AI controls, semiconductor stocks slump" title="AI Weekly: Trump mulls AI controls, semiconductor stocks slump">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4rZQKRpGBf0&title=AI+Weekly%3A+Trump+mulls+AI+controls%2C+semiconductor+stocks+slump&lang=en&timestamp=1785416422&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=150">
+          <img src="https://ytcards.demolab.com/?id=4rZQKRpGBf0&title=AI+Weekly%3A+Trump+mulls+AI+controls%2C+semiconductor+stocks+slump&lang=en&timestamp=1785416422&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=150" alt="AI Weekly: Trump mulls AI controls, semiconductor stocks slump" title="AI Weekly: Trump mulls AI controls, semiconductor stocks slump">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Hx5dCAxzFRQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=6H9pmK8ZWN4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Hx5dCAxzFRQ&title=How+to+Become+Irreplaceable+in+the+AI+Era+%7C+Podcast&lang=en&timestamp=1785415526&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5878">
-          <img src="https://ytcards.demolab.com/?id=Hx5dCAxzFRQ&title=How+to+Become+Irreplaceable+in+the+AI+Era+%7C+Podcast&lang=en&timestamp=1785415526&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5878" alt="How to Become Irreplaceable in the AI Era | Podcast" title="How to Become Irreplaceable in the AI Era | Podcast">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=XRZjy6qd8rs" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XRZjy6qd8rs&title=How+To+Build+A+No-Code+AI+Agent+From+Scratch+%7C+No-Code+AI+Agent+Tutorial+For+Beginners+%7C+Simplilearn&lang=en&timestamp=1785429926&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=14569">
-          <img src="https://ytcards.demolab.com/?id=XRZjy6qd8rs&title=How+To+Build+A+No-Code+AI+Agent+From+Scratch+%7C+No-Code+AI+Agent+Tutorial+For+Beginners+%7C+Simplilearn&lang=en&timestamp=1785429926&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=14569" alt="How To Build A No-Code AI Agent From Scratch | No-Code AI Agent Tutorial For Beginners | Simplilearn" title="How To Build A No-Code AI Agent From Scratch | No-Code AI Agent Tutorial For Beginners | Simplilearn">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6H9pmK8ZWN4&title=Nashville+teacher+fired+over+AI+student+videos&lang=en&timestamp=1785452422&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=187">
+          <img src="https://ytcards.demolab.com/?id=6H9pmK8ZWN4&title=Nashville+teacher+fired+over+AI+student+videos&lang=en&timestamp=1785452422&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=187" alt="Nashville teacher fired over AI student videos" title="Nashville teacher fired over AI student videos">
         </picture>
       </a>
     </td>
