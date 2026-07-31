@@ -148,56 +148,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=4CTtlpi7Lic" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4CTtlpi7Lic&title=AI+Goes+Rogue%3A+OpenAI+Agent+Hacks+Other+Firms+as+Growing+Coalition+Demands+Safeguards&lang=en&timestamp=1785423622&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1277">
-          <img src="https://ytcards.demolab.com/?id=4CTtlpi7Lic&title=AI+Goes+Rogue%3A+OpenAI+Agent+Hacks+Other+Firms+as+Growing+Coalition+Demands+Safeguards&lang=en&timestamp=1785423622&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1277" alt="AI Goes Rogue: OpenAI Agent Hacks Other Firms as Growing Coalition Demands Safeguards" title="AI Goes Rogue: OpenAI Agent Hacks Other Firms as Growing Coalition Demands Safeguards">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4CTtlpi7Lic&title=AI+Goes+Rogue%3A+OpenAI+Agent+Hacks+Other+Firms+as+Growing+Coalition+Demands+Safeguards&lang=en&timestamp=1785427405&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1277">
+          <img src="https://ytcards.demolab.com/?id=4CTtlpi7Lic&title=AI+Goes+Rogue%3A+OpenAI+Agent+Hacks+Other+Firms+as+Growing+Coalition+Demands+Safeguards&lang=en&timestamp=1785427405&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1277" alt="AI Goes Rogue: OpenAI Agent Hacks Other Firms as Growing Coalition Demands Safeguards" title="AI Goes Rogue: OpenAI Agent Hacks Other Firms as Growing Coalition Demands Safeguards">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=tJMqVauWsjk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=YFaHjv1PNMc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tJMqVauWsjk&title=ITS%2C+Eliza+%26+MiT%27s+AI+Lab+-+Computerphile&lang=en&timestamp=1785427222&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=675">
-          <img src="https://ytcards.demolab.com/?id=tJMqVauWsjk&title=ITS%2C+Eliza+%26+MiT%27s+AI+Lab+-+Computerphile&lang=en&timestamp=1785427222&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=675" alt="ITS, Eliza & MiT's AI Lab - Computerphile" title="ITS, Eliza & MiT's AI Lab - Computerphile">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=YFaHjv1PNMc&title=AI+Companies+Are+Destroying+Rare+Physical+Books+To+Feed+Their+Chatbots+%7C+Vantage+on+Firstpost+%7C+4K&lang=en&timestamp=1785438205&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=411">
+          <img src="https://ytcards.demolab.com/?id=YFaHjv1PNMc&title=AI+Companies+Are+Destroying+Rare+Physical+Books+To+Feed+Their+Chatbots+%7C+Vantage+on+Firstpost+%7C+4K&lang=en&timestamp=1785438205&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=411" alt="AI Companies Are Destroying Rare Physical Books To Feed Their Chatbots | Vantage on Firstpost | 4K" title="AI Companies Are Destroying Rare Physical Books To Feed Their Chatbots | Vantage on Firstpost | 4K">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=92s-ttZA20U" target="_blank">
+      <a href="https://www.youtube.com/watch?v=weCuq-NLqmc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=92s-ttZA20U&title=Trump+Asked%3A+Are+You+Considering+Stronger+Controls+On+AI+As+Cyberattack+Risks+Escalate%3F&lang=en&timestamp=1785423622&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=42">
-          <img src="https://ytcards.demolab.com/?id=92s-ttZA20U&title=Trump+Asked%3A+Are+You+Considering+Stronger+Controls+On+AI+As+Cyberattack+Risks+Escalate%3F&lang=en&timestamp=1785423622&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=42" alt="Trump Asked: Are You Considering Stronger Controls On AI As Cyberattack Risks Escalate?" title="Trump Asked: Are You Considering Stronger Controls On AI As Cyberattack Risks Escalate?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=weCuq-NLqmc&title=Ex-OpenAI+researcher%3A+%E2%80%9CWe+are+in+the+process+of+building+a+new+type+of+species%E2%80%9D&lang=en&timestamp=1785431005&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=951">
+          <img src="https://ytcards.demolab.com/?id=weCuq-NLqmc&title=Ex-OpenAI+researcher%3A+%E2%80%9CWe+are+in+the+process+of+building+a+new+type+of+species%E2%80%9D&lang=en&timestamp=1785431005&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=951" alt="Ex-OpenAI researcher: “We are in the process of building a new type of species”" title="Ex-OpenAI researcher: “We are in the process of building a new type of species”">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=VBMLb6dZrMA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=GdaGySJiwIA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=VBMLb6dZrMA&title=Artificial+intelligence+finds+a+growing+role+in+healthcare&lang=en&timestamp=1785456022&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=141">
-          <img src="https://ytcards.demolab.com/?id=VBMLb6dZrMA&title=Artificial+intelligence+finds+a+growing+role+in+healthcare&lang=en&timestamp=1785456022&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=141" alt="Artificial intelligence finds a growing role in healthcare" title="Artificial intelligence finds a growing role in healthcare">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=GdaGySJiwIA&title=AI+Expert+Reveals+The+TRUTH+About+OpenAI&lang=en&timestamp=1785427405&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3096">
+          <img src="https://ytcards.demolab.com/?id=GdaGySJiwIA&title=AI+Expert+Reveals+The+TRUTH+About+OpenAI&lang=en&timestamp=1785427405&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3096" alt="AI Expert Reveals The TRUTH About OpenAI" title="AI Expert Reveals The TRUTH About OpenAI">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=4rZQKRpGBf0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=g6uG6nAaQhE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4rZQKRpGBf0&title=AI+Weekly%3A+Trump+mulls+AI+controls%2C+semiconductor+stocks+slump&lang=en&timestamp=1785416422&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=150">
-          <img src="https://ytcards.demolab.com/?id=4rZQKRpGBf0&title=AI+Weekly%3A+Trump+mulls+AI+controls%2C+semiconductor+stocks+slump&lang=en&timestamp=1785416422&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=150" alt="AI Weekly: Trump mulls AI controls, semiconductor stocks slump" title="AI Weekly: Trump mulls AI controls, semiconductor stocks slump">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=g6uG6nAaQhE&title=Inside+a+Dystopian+Future%3A+How+AI+Will+Change+Us+All&lang=en&timestamp=1785427405&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3228">
+          <img src="https://ytcards.demolab.com/?id=g6uG6nAaQhE&title=Inside+a+Dystopian+Future%3A+How+AI+Will+Change+Us+All&lang=en&timestamp=1785427405&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3228" alt="Inside a Dystopian Future: How AI Will Change Us All" title="Inside a Dystopian Future: How AI Will Change Us All">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=6H9pmK8ZWN4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=eL0ZXagxXBA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6H9pmK8ZWN4&title=Nashville+teacher+fired+over+AI+student+videos&lang=en&timestamp=1785452422&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=187">
-          <img src="https://ytcards.demolab.com/?id=6H9pmK8ZWN4&title=Nashville+teacher+fired+over+AI+student+videos&lang=en&timestamp=1785452422&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=187" alt="Nashville teacher fired over AI student videos" title="Nashville teacher fired over AI student videos">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=eL0ZXagxXBA&title=China%2C+U.S.+in+artificial+intelligence+race+amid+growing+security+concerns+surrounding+technology&lang=en&timestamp=1785513385&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=268">
+          <img src="https://ytcards.demolab.com/?id=eL0ZXagxXBA&title=China%2C+U.S.+in+artificial+intelligence+race+amid+growing+security+concerns+surrounding+technology&lang=en&timestamp=1785513385&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=268" alt="China, U.S. in artificial intelligence race amid growing security concerns surrounding technology" title="China, U.S. in artificial intelligence race amid growing security concerns surrounding technology">
         </picture>
       </a>
     </td>
