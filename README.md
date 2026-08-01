@@ -156,56 +156,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
+      <a href="https://www.youtube.com/watch?v=uK22YsCI1hg" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=uK22YsCI1hg&title=AI+has+long-term+value%2C+but+it+could+still+be+a+bubble%3A+expert+%7C+ABC+NEWS&lang=en&timestamp=1785557092&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=362">
+          <img src="https://ytcards.demolab.com/?id=uK22YsCI1hg&title=AI+has+long-term+value%2C+but+it+could+still+be+a+bubble%3A+expert+%7C+ABC+NEWS&lang=en&timestamp=1785557092&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=362" alt="AI has long-term value, but it could still be a bubble: expert | ABC NEWS" title="AI has long-term value, but it could still be a bubble: expert | ABC NEWS">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=tvZimMnCwyE" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tvZimMnCwyE&title=AI%27s+Control+Problem%3A+Agents%2C+Costs+And+Robots&lang=en&timestamp=1785517492&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2820">
+          <img src="https://ytcards.demolab.com/?id=tvZimMnCwyE&title=AI%27s+Control+Problem%3A+Agents%2C+Costs+And+Robots&lang=en&timestamp=1785517492&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2820" alt="AI's Control Problem: Agents, Costs And Robots" title="AI's Control Problem: Agents, Costs And Robots">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
       <a href="https://www.youtube.com/watch?v=5h8KuAwoOcQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5h8KuAwoOcQ&title=10+Times+AI+Said+Things+That+Scientists+Still+Can%27t+Explain+++Part+2&lang=en&timestamp=1785541019&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=822">
-          <img src="https://ytcards.demolab.com/?id=5h8KuAwoOcQ&title=10+Times+AI+Said+Things+That+Scientists+Still+Can%27t+Explain+++Part+2&lang=en&timestamp=1785541019&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=822" alt="10 Times AI Said Things That Scientists Still Can't Explain   Part 2" title="10 Times AI Said Things That Scientists Still Can't Explain   Part 2">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=CZezvsT2i_I" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=CZezvsT2i_I&title=Navigating+artificial+intelligence+in+the+workplace&lang=en&timestamp=1785523019&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=360">
-          <img src="https://ytcards.demolab.com/?id=CZezvsT2i_I&title=Navigating+artificial+intelligence+in+the+workplace&lang=en&timestamp=1785523019&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=360" alt="Navigating artificial intelligence in the workplace" title="Navigating artificial intelligence in the workplace">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=WFVCBHsapa0" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WFVCBHsapa0&title=AI+%E0%AE%89%E0%AE%B2%E0%AE%95%E0%AE%BF%E0%AE%B2%E0%AF%8D+%E0%AE%87%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%AF%E0%AE%BE+%E0%AE%AE%E0%AE%BE%E0%AE%B8%E0%AF%8D...+2%E0%AE%B5%E0%AE%A4%E0%AF%81+%E0%AE%87%E0%AE%9F%E0%AE%AE%E0%AF%8D+%7C+Artificial+intelligence+%7C+India&lang=en&timestamp=1785584219&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=70">
-          <img src="https://ytcards.demolab.com/?id=WFVCBHsapa0&title=AI+%E0%AE%89%E0%AE%B2%E0%AE%95%E0%AE%BF%E0%AE%B2%E0%AF%8D+%E0%AE%87%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%AF%E0%AE%BE+%E0%AE%AE%E0%AE%BE%E0%AE%B8%E0%AF%8D...+2%E0%AE%B5%E0%AE%A4%E0%AF%81+%E0%AE%87%E0%AE%9F%E0%AE%AE%E0%AF%8D+%7C+Artificial+intelligence+%7C+India&lang=en&timestamp=1785584219&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=70" alt="AI உலகில் இந்தியா மாஸ்... 2வது இடம் | Artificial intelligence | India" title="AI உலகில் இந்தியா மாஸ்... 2வது இடம் | Artificial intelligence | India">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5h8KuAwoOcQ&title=10+Times+AI+Said+Things+That+Scientists+Still+Can%27t+Explain+++Part+2&lang=en&timestamp=1785539092&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=822">
+          <img src="https://ytcards.demolab.com/?id=5h8KuAwoOcQ&title=10+Times+AI+Said+Things+That+Scientists+Still+Can%27t+Explain+++Part+2&lang=en&timestamp=1785539092&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=822" alt="10 Times AI Said Things That Scientists Still Can't Explain   Part 2" title="10 Times AI Said Things That Scientists Still Can't Explain   Part 2">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=jyc8yyJ4ZFQ" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jyc8yyJ4ZFQ&title=esea+Talks%3A+Cultivating+A.I.+Beyond+Artificial+Intelligence&lang=en&timestamp=1785593159&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2129">
-          <img src="https://ytcards.demolab.com/?id=jyc8yyJ4ZFQ&title=esea+Talks%3A+Cultivating+A.I.+Beyond+Artificial+Intelligence&lang=en&timestamp=1785593159&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2129" alt="esea Talks: Cultivating A.I. Beyond Artificial Intelligence" title="esea Talks: Cultivating A.I. Beyond Artificial Intelligence">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=JPMo10kefQ0" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JPMo10kefQ0&title=AI+isn%27t+Technically+Intelligent&lang=en&timestamp=1785515819&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=494">
-          <img src="https://ytcards.demolab.com/?id=JPMo10kefQ0&title=AI+isn%27t+Technically+Intelligent&lang=en&timestamp=1785515819&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=494" alt="AI isn't Technically Intelligent" title="AI isn't Technically Intelligent">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
       <a href="https://www.youtube.com/watch?v=bXo58u5s-qs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=bXo58u5s-qs&title=AI+SEO+in+2026%3A+Show+Up+in+ChatGPT+and+AI+Answers&lang=en&timestamp=1785526619&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6097">
-          <img src="https://ytcards.demolab.com/?id=bXo58u5s-qs&title=AI+SEO+in+2026%3A+Show+Up+in+ChatGPT+and+AI+Answers&lang=en&timestamp=1785526619&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6097" alt="AI SEO in 2026: Show Up in ChatGPT and AI Answers" title="AI SEO in 2026: Show Up in ChatGPT and AI Answers">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=bXo58u5s-qs&title=AI+SEO+in+2026%3A+Show+Up+in+ChatGPT+and+AI+Answers&lang=en&timestamp=1785528292&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6097">
+          <img src="https://ytcards.demolab.com/?id=bXo58u5s-qs&title=AI+SEO+in+2026%3A+Show+Up+in+ChatGPT+and+AI+Answers&lang=en&timestamp=1785528292&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6097" alt="AI SEO in 2026: Show Up in ChatGPT and AI Answers" title="AI SEO in 2026: Show Up in ChatGPT and AI Answers">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=_PpeVFqGVNk" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_PpeVFqGVNk&title=Anthropic+claims+its+AI+models+went+rogue%2C+hacked+3+companies&lang=en&timestamp=1785535492&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=339">
+          <img src="https://ytcards.demolab.com/?id=_PpeVFqGVNk&title=Anthropic+claims+its+AI+models+went+rogue%2C+hacked+3+companies&lang=en&timestamp=1785535492&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=339" alt="Anthropic claims its AI models went rogue, hacked 3 companies" title="Anthropic claims its AI models went rogue, hacked 3 companies">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=ZZMFWlcPdu8" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ZZMFWlcPdu8&title=What+Would+George+Carlin+Say+About+Artificial+Intelligence%3F&lang=en&timestamp=1785539092&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=350">
+          <img src="https://ytcards.demolab.com/?id=ZZMFWlcPdu8&title=What+Would+George+Carlin+Say+About+Artificial+Intelligence%3F&lang=en&timestamp=1785539092&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=350" alt="What Would George Carlin Say About Artificial Intelligence?" title="What Would George Carlin Say About Artificial Intelligence?">
         </picture>
       </a>
     </td>
