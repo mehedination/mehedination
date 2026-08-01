@@ -155,56 +155,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
+      <a href="https://www.youtube.com/watch?v=5h8KuAwoOcQ" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5h8KuAwoOcQ&title=10+Times+AI+Said+Things+That+Scientists+Still+Can%27t+Explain+++Part+2&lang=en&timestamp=1785541019&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=822">
+          <img src="https://ytcards.demolab.com/?id=5h8KuAwoOcQ&title=10+Times+AI+Said+Things+That+Scientists+Still+Can%27t+Explain+++Part+2&lang=en&timestamp=1785541019&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=822" alt="10 Times AI Said Things That Scientists Still Can't Explain   Part 2" title="10 Times AI Said Things That Scientists Still Can't Explain   Part 2">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
       <a href="https://www.youtube.com/watch?v=CZezvsT2i_I" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=CZezvsT2i_I&title=Navigating+artificial+intelligence+in+the+workplace&lang=en&timestamp=1785522653&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=360">
-          <img src="https://ytcards.demolab.com/?id=CZezvsT2i_I&title=Navigating+artificial+intelligence+in+the+workplace&lang=en&timestamp=1785522653&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=360" alt="Navigating artificial intelligence in the workplace" title="Navigating artificial intelligence in the workplace">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=CZezvsT2i_I&title=Navigating+artificial+intelligence+in+the+workplace&lang=en&timestamp=1785523019&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=360">
+          <img src="https://ytcards.demolab.com/?id=CZezvsT2i_I&title=Navigating+artificial+intelligence+in+the+workplace&lang=en&timestamp=1785523019&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=360" alt="Navigating artificial intelligence in the workplace" title="Navigating artificial intelligence in the workplace">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ZZMFWlcPdu8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=WFVCBHsapa0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ZZMFWlcPdu8&title=What+Would+George+Carlin+Say+About+Artificial+Intelligence%3F&lang=en&timestamp=1785540653&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=350">
-          <img src="https://ytcards.demolab.com/?id=ZZMFWlcPdu8&title=What+Would+George+Carlin+Say+About+Artificial+Intelligence%3F&lang=en&timestamp=1785540653&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=350" alt="What Would George Carlin Say About Artificial Intelligence?" title="What Would George Carlin Say About Artificial Intelligence?">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=JrGeAk4MdBE" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JrGeAk4MdBE&title=AI+Finally+Decoded+Whale+Language%E2%80%94The+First+Message+Left+Scientists+Speechless%21&lang=en&timestamp=1785515453&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1443">
-          <img src="https://ytcards.demolab.com/?id=JrGeAk4MdBE&title=AI+Finally+Decoded+Whale+Language%E2%80%94The+First+Message+Left+Scientists+Speechless%21&lang=en&timestamp=1785515453&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1443" alt="AI Finally Decoded Whale Language—The First Message Left Scientists Speechless!" title="AI Finally Decoded Whale Language—The First Message Left Scientists Speechless!">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WFVCBHsapa0&title=AI+%E0%AE%89%E0%AE%B2%E0%AE%95%E0%AE%BF%E0%AE%B2%E0%AF%8D+%E0%AE%87%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%AF%E0%AE%BE+%E0%AE%AE%E0%AE%BE%E0%AE%B8%E0%AF%8D...+2%E0%AE%B5%E0%AE%A4%E0%AF%81+%E0%AE%87%E0%AE%9F%E0%AE%AE%E0%AF%8D+%7C+Artificial+intelligence+%7C+India&lang=en&timestamp=1785584219&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=70">
+          <img src="https://ytcards.demolab.com/?id=WFVCBHsapa0&title=AI+%E0%AE%89%E0%AE%B2%E0%AE%95%E0%AE%BF%E0%AE%B2%E0%AF%8D+%E0%AE%87%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%AF%E0%AE%BE+%E0%AE%AE%E0%AE%BE%E0%AE%B8%E0%AF%8D...+2%E0%AE%B5%E0%AE%A4%E0%AF%81+%E0%AE%87%E0%AE%9F%E0%AE%AE%E0%AF%8D+%7C+Artificial+intelligence+%7C+India&lang=en&timestamp=1785584219&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=70" alt="AI உலகில் இந்தியா மாஸ்... 2வது இடம் | Artificial intelligence | India" title="AI உலகில் இந்தியா மாஸ்... 2வது இடம் | Artificial intelligence | India">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
+      <a href="https://www.youtube.com/watch?v=jyc8yyJ4ZFQ" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jyc8yyJ4ZFQ&title=esea+Talks%3A+Cultivating+A.I.+Beyond+Artificial+Intelligence&lang=en&timestamp=1785593159&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2129">
+          <img src="https://ytcards.demolab.com/?id=jyc8yyJ4ZFQ&title=esea+Talks%3A+Cultivating+A.I.+Beyond+Artificial+Intelligence&lang=en&timestamp=1785593159&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2129" alt="esea Talks: Cultivating A.I. Beyond Artificial Intelligence" title="esea Talks: Cultivating A.I. Beyond Artificial Intelligence">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=JPMo10kefQ0" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JPMo10kefQ0&title=AI+isn%27t+Technically+Intelligent&lang=en&timestamp=1785515819&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=494">
+          <img src="https://ytcards.demolab.com/?id=JPMo10kefQ0&title=AI+isn%27t+Technically+Intelligent&lang=en&timestamp=1785515819&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=494" alt="AI isn't Technically Intelligent" title="AI isn't Technically Intelligent">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
       <a href="https://www.youtube.com/watch?v=bXo58u5s-qs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=bXo58u5s-qs&title=AI+SEO+in+2026%3A+Show+Up+in+ChatGPT+and+AI+Answers&lang=en&timestamp=1785529853&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6097">
-          <img src="https://ytcards.demolab.com/?id=bXo58u5s-qs&title=AI+SEO+in+2026%3A+Show+Up+in+ChatGPT+and+AI+Answers&lang=en&timestamp=1785529853&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6097" alt="AI SEO in 2026: Show Up in ChatGPT and AI Answers" title="AI SEO in 2026: Show Up in ChatGPT and AI Answers">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=RSeamYzaH64" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=RSeamYzaH64&title=YouTuber+Claims+My+Videos+Are+AI+GENERATED&lang=en&timestamp=1785519053&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=830">
-          <img src="https://ytcards.demolab.com/?id=RSeamYzaH64&title=YouTuber+Claims+My+Videos+Are+AI+GENERATED&lang=en&timestamp=1785519053&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=830" alt="YouTuber Claims My Videos Are AI GENERATED" title="YouTuber Claims My Videos Are AI GENERATED">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=eZGNzXR6SM8" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=eZGNzXR6SM8&title=AI+is+the+new+book+burning&lang=en&timestamp=1785526253&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1008">
-          <img src="https://ytcards.demolab.com/?id=eZGNzXR6SM8&title=AI+is+the+new+book+burning&lang=en&timestamp=1785526253&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1008" alt="AI is the new book burning" title="AI is the new book burning">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=bXo58u5s-qs&title=AI+SEO+in+2026%3A+Show+Up+in+ChatGPT+and+AI+Answers&lang=en&timestamp=1785526619&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6097">
+          <img src="https://ytcards.demolab.com/?id=bXo58u5s-qs&title=AI+SEO+in+2026%3A+Show+Up+in+ChatGPT+and+AI+Answers&lang=en&timestamp=1785526619&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6097" alt="AI SEO in 2026: Show Up in ChatGPT and AI Answers" title="AI SEO in 2026: Show Up in ChatGPT and AI Answers">
         </picture>
       </a>
     </td>
