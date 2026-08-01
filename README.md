@@ -152,56 +152,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=4CTtlpi7Lic" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ZZMFWlcPdu8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4CTtlpi7Lic&title=AI+Goes+Rogue%3A+OpenAI+Agent+Hacks+Other+Firms+as+Growing+Coalition+Demands+Safeguards&lang=en&timestamp=1785449385&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1277">
-          <img src="https://ytcards.demolab.com/?id=4CTtlpi7Lic&title=AI+Goes+Rogue%3A+OpenAI+Agent+Hacks+Other+Firms+as+Growing+Coalition+Demands+Safeguards&lang=en&timestamp=1785449385&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1277" alt="AI Goes Rogue: OpenAI Agent Hacks Other Firms as Growing Coalition Demands Safeguards" title="AI Goes Rogue: OpenAI Agent Hacks Other Firms as Growing Coalition Demands Safeguards">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ZZMFWlcPdu8&title=What+Would+George+Carlin+Say+About+Artificial+Intelligence%3F&lang=en&timestamp=1785539089&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=350">
+          <img src="https://ytcards.demolab.com/?id=ZZMFWlcPdu8&title=What+Would+George+Carlin+Say+About+Artificial+Intelligence%3F&lang=en&timestamp=1785539089&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=350" alt="What Would George Carlin Say About Artificial Intelligence?" title="What Would George Carlin Say About Artificial Intelligence?">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=CZezvsT2i_I" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=CZezvsT2i_I&title=Navigating+artificial+intelligence+in+the+workplace&lang=en&timestamp=1785521385&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=360">
-          <img src="https://ytcards.demolab.com/?id=CZezvsT2i_I&title=Navigating+artificial+intelligence+in+the+workplace&lang=en&timestamp=1785521385&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=360" alt="Navigating artificial intelligence in the workplace" title="Navigating artificial intelligence in the workplace">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=CZezvsT2i_I&title=Navigating+artificial+intelligence+in+the+workplace&lang=en&timestamp=1785524689&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=360">
+          <img src="https://ytcards.demolab.com/?id=CZezvsT2i_I&title=Navigating+artificial+intelligence+in+the+workplace&lang=en&timestamp=1785524689&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=360" alt="Navigating artificial intelligence in the workplace" title="Navigating artificial intelligence in the workplace">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=eL0ZXagxXBA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=JrGeAk4MdBE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=eL0ZXagxXBA&title=China%2C+U.S.+in+artificial+intelligence+race+amid+growing+security+concerns+surrounding+technology&lang=en&timestamp=1785514185&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=268">
-          <img src="https://ytcards.demolab.com/?id=eL0ZXagxXBA&title=China%2C+U.S.+in+artificial+intelligence+race+amid+growing+security+concerns+surrounding+technology&lang=en&timestamp=1785514185&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=268" alt="China, U.S. in artificial intelligence race amid growing security concerns surrounding technology" title="China, U.S. in artificial intelligence race amid growing security concerns surrounding technology">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JrGeAk4MdBE&title=AI+Finally+Decoded+Whale+Language%E2%80%94The+First+Message+Left+Scientists+Speechless%21&lang=en&timestamp=1785517489&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1443">
+          <img src="https://ytcards.demolab.com/?id=JrGeAk4MdBE&title=AI+Finally+Decoded+Whale+Language%E2%80%94The+First+Message+Left+Scientists+Speechless%21&lang=en&timestamp=1785517489&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1443" alt="AI Finally Decoded Whale Language—The First Message Left Scientists Speechless!" title="AI Finally Decoded Whale Language—The First Message Left Scientists Speechless!">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=VBMLb6dZrMA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=RmdFYpcAL3U" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=VBMLb6dZrMA&title=Artificial+intelligence+finds+a+growing+role+in+healthcare&lang=en&timestamp=1785456585&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=141">
-          <img src="https://ytcards.demolab.com/?id=VBMLb6dZrMA&title=Artificial+intelligence+finds+a+growing+role+in+healthcare&lang=en&timestamp=1785456585&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=141" alt="Artificial intelligence finds a growing role in healthcare" title="Artificial intelligence finds a growing role in healthcare">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=RmdFYpcAL3U&title=AI+to+Challenge+CCP%27s+Grip+Over+China%3F+%7C+Wion+News&lang=en&timestamp=1785521089&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=263">
+          <img src="https://ytcards.demolab.com/?id=RmdFYpcAL3U&title=AI+to+Challenge+CCP%27s+Grip+Over+China%3F+%7C+Wion+News&lang=en&timestamp=1785521089&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=263" alt="AI to Challenge CCP's Grip Over China? | Wion News" title="AI to Challenge CCP's Grip Over China? | Wion News">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=-9cDVT871rM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=RSeamYzaH64" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-9cDVT871rM&title=Top+25+Artificial+Intelligence+Interview+Questions+And+Answers+%7C+AI+Interview+Guide+2026&lang=en&timestamp=1785449385&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1102">
-          <img src="https://ytcards.demolab.com/?id=-9cDVT871rM&title=Top+25+Artificial+Intelligence+Interview+Questions+And+Answers+%7C+AI+Interview+Guide+2026&lang=en&timestamp=1785449385&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1102" alt="Top 25 Artificial Intelligence Interview Questions And Answers | AI Interview Guide 2026" title="Top 25 Artificial Intelligence Interview Questions And Answers | AI Interview Guide 2026">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=RSeamYzaH64&title=YouTuber+Claims+My+Videos+Are+AI+GENERATED&lang=en&timestamp=1785517489&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=830">
+          <img src="https://ytcards.demolab.com/?id=RSeamYzaH64&title=YouTuber+Claims+My+Videos+Are+AI+GENERATED&lang=en&timestamp=1785517489&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=830" alt="YouTuber Claims My Videos Are AI GENERATED" title="YouTuber Claims My Videos Are AI GENERATED">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=o9D8P31K7Z0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=8NSMJHUY5IY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=o9D8P31K7Z0&title=I+Tested+AI+Life+Hacks+%28Part+3%29&lang=en&timestamp=1785452985&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1750">
-          <img src="https://ytcards.demolab.com/?id=o9D8P31K7Z0&title=I+Tested+AI+Life+Hacks+%28Part+3%29&lang=en&timestamp=1785452985&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1750" alt="I Tested AI Life Hacks (Part 3)" title="I Tested AI Life Hacks (Part 3)">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8NSMJHUY5IY&title=Anthropic+disclosed+%27unauthorized%27+cybersecurity+incident+in+the+wake+of+OpenAI+hack&lang=en&timestamp=1785513889&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=271">
+          <img src="https://ytcards.demolab.com/?id=8NSMJHUY5IY&title=Anthropic+disclosed+%27unauthorized%27+cybersecurity+incident+in+the+wake+of+OpenAI+hack&lang=en&timestamp=1785513889&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=271" alt="Anthropic disclosed 'unauthorized' cybersecurity incident in the wake of OpenAI hack" title="Anthropic disclosed 'unauthorized' cybersecurity incident in the wake of OpenAI hack">
         </picture>
       </a>
     </td>
