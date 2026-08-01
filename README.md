@@ -157,56 +157,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=uK22YsCI1hg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=qPIk-mhv-rA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=uK22YsCI1hg&title=AI+has+long-term+value%2C+but+it+could+still+be+a+bubble%3A+expert+%7C+ABC+NEWS&lang=en&timestamp=1785557092&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=362">
-          <img src="https://ytcards.demolab.com/?id=uK22YsCI1hg&title=AI+has+long-term+value%2C+but+it+could+still+be+a+bubble%3A+expert+%7C+ABC+NEWS&lang=en&timestamp=1785557092&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=362" alt="AI has long-term value, but it could still be a bubble: expert | ABC NEWS" title="AI has long-term value, but it could still be a bubble: expert | ABC NEWS">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qPIk-mhv-rA&title=Assembly+Summer+2026+-+AI+Coding+-+Artificial+Intelligence+Never+Sleeps+by+ZtotheZ&lang=en&timestamp=1785524583&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=123">
+          <img src="https://ytcards.demolab.com/?id=qPIk-mhv-rA&title=Assembly+Summer+2026+-+AI+Coding+-+Artificial+Intelligence+Never+Sleeps+by+ZtotheZ&lang=en&timestamp=1785524583&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=123" alt="Assembly Summer 2026 - AI Coding - Artificial Intelligence Never Sleeps by ZtotheZ" title="Assembly Summer 2026 - AI Coding - Artificial Intelligence Never Sleeps by ZtotheZ">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=tvZimMnCwyE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=QNGf1i6vHEM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tvZimMnCwyE&title=AI%27s+Control+Problem%3A+Agents%2C+Costs+And+Robots&lang=en&timestamp=1785517492&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2820">
-          <img src="https://ytcards.demolab.com/?id=tvZimMnCwyE&title=AI%27s+Control+Problem%3A+Agents%2C+Costs+And+Robots&lang=en&timestamp=1785517492&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2820" alt="AI's Control Problem: Agents, Costs And Robots" title="AI's Control Problem: Agents, Costs And Robots">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QNGf1i6vHEM&title=Say+goodbye+to+the+internet+as+you+know+it&lang=en&timestamp=1785520983&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=492">
+          <img src="https://ytcards.demolab.com/?id=QNGf1i6vHEM&title=Say+goodbye+to+the+internet+as+you+know+it&lang=en&timestamp=1785520983&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=492" alt="Say goodbye to the internet as you know it" title="Say goodbye to the internet as you know it">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=5h8KuAwoOcQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=QMprOpP8zVY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5h8KuAwoOcQ&title=10+Times+AI+Said+Things+That+Scientists+Still+Can%27t+Explain+++Part+2&lang=en&timestamp=1785539092&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=822">
-          <img src="https://ytcards.demolab.com/?id=5h8KuAwoOcQ&title=10+Times+AI+Said+Things+That+Scientists+Still+Can%27t+Explain+++Part+2&lang=en&timestamp=1785539092&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=822" alt="10 Times AI Said Things That Scientists Still Can't Explain   Part 2" title="10 Times AI Said Things That Scientists Still Can't Explain   Part 2">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QMprOpP8zVY&title=INSIDE+POWER+w%2F+Leigh+Felton+%7C+Humanity+vs+AI%3A+Who%27s+Really+in+Control%3F&lang=en&timestamp=1785520983&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1927">
+          <img src="https://ytcards.demolab.com/?id=QMprOpP8zVY&title=INSIDE+POWER+w%2F+Leigh+Felton+%7C+Humanity+vs+AI%3A+Who%27s+Really+in+Control%3F&lang=en&timestamp=1785520983&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1927" alt="INSIDE POWER w/ Leigh Felton | Humanity vs AI: Who's Really in Control?" title="INSIDE POWER w/ Leigh Felton | Humanity vs AI: Who's Really in Control?">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=bXo58u5s-qs" target="_blank">
+      <a href="https://www.youtube.com/watch?v=D7xQ1qyQZ9Y" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=bXo58u5s-qs&title=AI+SEO+in+2026%3A+Show+Up+in+ChatGPT+and+AI+Answers&lang=en&timestamp=1785528292&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6097">
-          <img src="https://ytcards.demolab.com/?id=bXo58u5s-qs&title=AI+SEO+in+2026%3A+Show+Up+in+ChatGPT+and+AI+Answers&lang=en&timestamp=1785528292&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6097" alt="AI SEO in 2026: Show Up in ChatGPT and AI Answers" title="AI SEO in 2026: Show Up in ChatGPT and AI Answers">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=D7xQ1qyQZ9Y&title=AI+data+centers%3A+How+memory+and+storage+power+intelligence+%7C+Micron+Technology&lang=en&timestamp=1785520983&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=30">
+          <img src="https://ytcards.demolab.com/?id=D7xQ1qyQZ9Y&title=AI+data+centers%3A+How+memory+and+storage+power+intelligence+%7C+Micron+Technology&lang=en&timestamp=1785520983&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=30" alt="AI data centers: How memory and storage power intelligence | Micron Technology" title="AI data centers: How memory and storage power intelligence | Micron Technology">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=_PpeVFqGVNk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=F62F5M0mJHA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_PpeVFqGVNk&title=Anthropic+claims+its+AI+models+went+rogue%2C+hacked+3+companies&lang=en&timestamp=1785535492&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=339">
-          <img src="https://ytcards.demolab.com/?id=_PpeVFqGVNk&title=Anthropic+claims+its+AI+models+went+rogue%2C+hacked+3+companies&lang=en&timestamp=1785535492&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=339" alt="Anthropic claims its AI models went rogue, hacked 3 companies" title="Anthropic claims its AI models went rogue, hacked 3 companies">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=F62F5M0mJHA&title=A+COVER-UP%3F&lang=en&timestamp=1785578583&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=60">
+          <img src="https://ytcards.demolab.com/?id=F62F5M0mJHA&title=A+COVER-UP%3F&lang=en&timestamp=1785578583&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=60" alt="A COVER-UP?" title="A COVER-UP?">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ZZMFWlcPdu8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=IkjQ7DPEWy0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ZZMFWlcPdu8&title=What+Would+George+Carlin+Say+About+Artificial+Intelligence%3F&lang=en&timestamp=1785539092&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=350">
-          <img src="https://ytcards.demolab.com/?id=ZZMFWlcPdu8&title=What+Would+George+Carlin+Say+About+Artificial+Intelligence%3F&lang=en&timestamp=1785539092&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=350" alt="What Would George Carlin Say About Artificial Intelligence?" title="What Would George Carlin Say About Artificial Intelligence?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=IkjQ7DPEWy0&title=%F0%9F%94%A5+The+Evolution+of+AI%3A+From+Simple+Machines+to+Super+Intelligence&lang=en&timestamp=1785585783&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=300">
+          <img src="https://ytcards.demolab.com/?id=IkjQ7DPEWy0&title=%F0%9F%94%A5+The+Evolution+of+AI%3A+From+Simple+Machines+to+Super+Intelligence&lang=en&timestamp=1785585783&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=300" alt="🔥 The Evolution of AI: From Simple Machines to Super Intelligence" title="🔥 The Evolution of AI: From Simple Machines to Super Intelligence">
         </picture>
       </a>
     </td>
