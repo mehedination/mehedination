@@ -225,12 +225,12 @@
  <summary><h3>📝 Latest Google News</h3></summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Rogue AI Hacks Herald New Era of Cyber Chaos - wsj.com](https://news.google.com/rss/articles/CBMieEFVX3lxTE11RTQycXZiS0RsdnI2LTd3cWZuS2xkYnJPNzNiRnlPSHE4ajlNWG5CWFVHdFg2eVdneUlNMmpSZmpuR20tSmV5Y1h3MnFYTUNRMnUyaDlUS0JMQjZvbVN3aF9qbHhzR1lDQnNqYloyMG4tNTZpRENWWA?oc=5)
 - [The case for AI people really trust - University of Waterloo](https://news.google.com/rss/articles/CBMic0FVX3lxTFBfUncxaU9zb0R0amU0ZzZKZTZkbGQxNjdqVUJHTXlxM1pfZk5WUW9LQ0ZoUk51ZVZvV1RDVjlLYzNkaVRsZ2JkRDJVNUloVEtvdWpPMTJsN044ZXE5MGlGUk9aUUM0cHplYUswWUFld3JmSTA?oc=5)
-- [Google Earth removes artificial intelligence image generation feature - The Jerusalem Post](https://news.google.com/rss/articles/CBMiX0FVX3lxTE11QURXX2stVklORmd3LXVyMFpXSl9iR0M1cXotcXpVME1NT0pWYmJTWGlIOG9PcUNLam9iRlktd09sOVkwdldLQUdSVDRTRy10M1V6LWJmTVpwc1BGeHJN?oc=5)
-- [Like a shark, OpenAI must move forward or die - The Observer](https://news.google.com/rss/articles/CBMikwFBVV95cUxNdkhUWkZrSFhOSkFZRHR4dGY5V2ZGR24tLWcxMVh1M2xSR0ZLc2c4dEN6SEdwS2pvamxwSGUtbl9OYlNGckh6dWhJMld1bktJekZVRHEyM0JOQ2REUXJ2WEdldWdsdk0yZlo3aHZQdU5iR0plZURXaGJ1OFJBWDlzMWhSNTF3a01UWko0eG1HRTBzLU0?oc=5)
 - [Nearly 1 in 3 Workers Admit Sabotaging Their Company’s AI—Here’s Why - inc.com](https://news.google.com/rss/articles/CBMirAFBVV95cUxPdE5tY3Z4dmVEWWpiVThMTGtPbDBqekJoRkRNSlRpTkl6OEo1Rmczcy0zWmY3WVhPalRGYmwwM1hzSVlXZWhyajRUQzEzdVR2bVM4RmRhMGpVVnk0WWloby1Pb2FsREdhTnl1SlBpNUx1dGpHMUFSSTB4WWtwaEMzY3owM2lPMV8tQ2RGZm44SzlSVnRaRzBiWFMxcUZnNkI2UHk3NUFOdGszVU90?oc=5)
-- [As AI hits software sector, defense-tech flourishes - The Jerusalem Post](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBRajA5SzJCclZOOXI5dUtJZUNyMnhPRmR2b19PRnFXeDhKMXE5NWlDV05mcVNFX25DSnVaZWZaallmam9iSFNHdGhtUV9qLW9pcndKSDBOVDlLbE9Zc2NyZnY2MA?oc=5)
-- [EU opens race to build next generation AI Gigafactories - qazinform.com](https://news.google.com/rss/articles/CBMikwFBVV95cUxPd2xXTHJwV0FEd0xydGhPREIxMlNZc09VQ2drUHljWk1kaUk2WmFtb1lKaVdVUG9scEtOV2FpcGp6SXpFa2FST0hzSVlMVVFaT3ltd2hCN1hrR0ZkV2g0QThoenAwLXZ6T2ozVHVfMVYtVFJBbE1sN2FUc2RTd1VoWkI1QktHMXJRdVVQUlNvb19FcFXSAZMBQVVfeXFMT0tUR0NvbTJWaHo5TjV2VV9XeGtPOWYwNXRNVk1OVklTN3RjRHVRQmJKRURXT2ZDdURGWHFWLXBRcS1xdWQ0NENjR0p1d2ZKZ21qdkZla3J1eDhycDkyOEJsSjZPWldJWkpydzR3SUo3V3M1TUNTbG9WS0k1RTY3U1NjRUZhaVVLMVowa2pQVXpHYjE0?oc=5)
+- [Google Earth removes artificial intelligence image generation feature - jpost.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE11QURXX2stVklORmd3LXVyMFpXSl9iR0M1cXotcXpVME1NT0pWYmJTWGlIOG9PcUNLam9iRlktd09sOVkwdldLQUdSVDRTRy10M1V6LWJmTVpwc1BGeHJN?oc=5)
+- [EY Deploys On-Site Quantum Computing For Enterprise Transformation - Quantum Zeitgeist](https://news.google.com/rss/articles/CBMifkFVX3lxTE5XR0IyelhEbUo5MXhRaHRDX3Rfal9lOUk0bWh0YnlBaUcyeEZFQkdOd3dpXy1hOXgzck9xd2FUQ1BhZURocDAyZGRVRUttUy1CcTJ3TjBRa21VekM3RmxaT3J3bDhzS3NoSDJpQzM3Y2hCcWJmWWk2dHNnUEF4UQ?oc=5)
+- [Like a shark, OpenAI must move forward or die - The Observer](https://news.google.com/rss/articles/CBMikwFBVV95cUxNdkhUWkZrSFhOSkFZRHR4dGY5V2ZGR24tLWcxMVh1M2xSR0ZLc2c4dEN6SEdwS2pvamxwSGUtbl9OYlNGckh6dWhJMld1bktJekZVRHEyM0JOQ2REUXJ2WEdldWdsdk0yZlo3aHZQdU5iR0plZURXaGJ1OFJBWDlzMWhSNTF3a01UWko0eG1HRTBzLU0?oc=5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
