@@ -154,56 +154,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ZZMFWlcPdu8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=CZezvsT2i_I" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ZZMFWlcPdu8&title=What+Would+George+Carlin+Say+About+Artificial+Intelligence%3F&lang=en&timestamp=1785540236&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=350">
-          <img src="https://ytcards.demolab.com/?id=ZZMFWlcPdu8&title=What+Would+George+Carlin+Say+About+Artificial+Intelligence%3F&lang=en&timestamp=1785540236&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=350" alt="What Would George Carlin Say About Artificial Intelligence?" title="What Would George Carlin Say About Artificial Intelligence?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=CZezvsT2i_I&title=Navigating+artificial+intelligence+in+the+workplace&lang=en&timestamp=1785522653&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=360">
+          <img src="https://ytcards.demolab.com/?id=CZezvsT2i_I&title=Navigating+artificial+intelligence+in+the+workplace&lang=en&timestamp=1785522653&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=360" alt="Navigating artificial intelligence in the workplace" title="Navigating artificial intelligence in the workplace">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=CZezvsT2i_I" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ZZMFWlcPdu8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=CZezvsT2i_I&title=Navigating+artificial+intelligence+in+the+workplace&lang=en&timestamp=1785522236&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=360">
-          <img src="https://ytcards.demolab.com/?id=CZezvsT2i_I&title=Navigating+artificial+intelligence+in+the+workplace&lang=en&timestamp=1785522236&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=360" alt="Navigating artificial intelligence in the workplace" title="Navigating artificial intelligence in the workplace">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ZZMFWlcPdu8&title=What+Would+George+Carlin+Say+About+Artificial+Intelligence%3F&lang=en&timestamp=1785540653&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=350">
+          <img src="https://ytcards.demolab.com/?id=ZZMFWlcPdu8&title=What+Would+George+Carlin+Say+About+Artificial+Intelligence%3F&lang=en&timestamp=1785540653&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=350" alt="What Would George Carlin Say About Artificial Intelligence?" title="What Would George Carlin Say About Artificial Intelligence?">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=JrGeAk4MdBE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JrGeAk4MdBE&title=AI+Finally+Decoded+Whale+Language%E2%80%94The+First+Message+Left+Scientists+Speechless%21&lang=en&timestamp=1785515036&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1443">
-          <img src="https://ytcards.demolab.com/?id=JrGeAk4MdBE&title=AI+Finally+Decoded+Whale+Language%E2%80%94The+First+Message+Left+Scientists+Speechless%21&lang=en&timestamp=1785515036&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1443" alt="AI Finally Decoded Whale Language—The First Message Left Scientists Speechless!" title="AI Finally Decoded Whale Language—The First Message Left Scientists Speechless!">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JrGeAk4MdBE&title=AI+Finally+Decoded+Whale+Language%E2%80%94The+First+Message+Left+Scientists+Speechless%21&lang=en&timestamp=1785515453&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1443">
+          <img src="https://ytcards.demolab.com/?id=JrGeAk4MdBE&title=AI+Finally+Decoded+Whale+Language%E2%80%94The+First+Message+Left+Scientists+Speechless%21&lang=en&timestamp=1785515453&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1443" alt="AI Finally Decoded Whale Language—The First Message Left Scientists Speechless!" title="AI Finally Decoded Whale Language—The First Message Left Scientists Speechless!">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=_PpeVFqGVNk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=bXo58u5s-qs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_PpeVFqGVNk&title=Anthropic+claims+its+AI+models+went+rogue%2C+hacked+3+companies&lang=en&timestamp=1785536636&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=339">
-          <img src="https://ytcards.demolab.com/?id=_PpeVFqGVNk&title=Anthropic+claims+its+AI+models+went+rogue%2C+hacked+3+companies&lang=en&timestamp=1785536636&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=339" alt="Anthropic claims its AI models went rogue, hacked 3 companies" title="Anthropic claims its AI models went rogue, hacked 3 companies">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=bXo58u5s-qs&title=AI+SEO+in+2026%3A+Show+Up+in+ChatGPT+and+AI+Answers&lang=en&timestamp=1785529853&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6097">
+          <img src="https://ytcards.demolab.com/?id=bXo58u5s-qs&title=AI+SEO+in+2026%3A+Show+Up+in+ChatGPT+and+AI+Answers&lang=en&timestamp=1785529853&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6097" alt="AI SEO in 2026: Show Up in ChatGPT and AI Answers" title="AI SEO in 2026: Show Up in ChatGPT and AI Answers">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=RSeamYzaH64" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=RSeamYzaH64&title=YouTuber+Claims+My+Videos+Are+AI+GENERATED&lang=en&timestamp=1785518636&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=830">
-          <img src="https://ytcards.demolab.com/?id=RSeamYzaH64&title=YouTuber+Claims+My+Videos+Are+AI+GENERATED&lang=en&timestamp=1785518636&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=830" alt="YouTuber Claims My Videos Are AI GENERATED" title="YouTuber Claims My Videos Are AI GENERATED">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=RSeamYzaH64&title=YouTuber+Claims+My+Videos+Are+AI+GENERATED&lang=en&timestamp=1785519053&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=830">
+          <img src="https://ytcards.demolab.com/?id=RSeamYzaH64&title=YouTuber+Claims+My+Videos+Are+AI+GENERATED&lang=en&timestamp=1785519053&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=830" alt="YouTuber Claims My Videos Are AI GENERATED" title="YouTuber Claims My Videos Are AI GENERATED">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=eZGNzXR6SM8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=eZGNzXR6SM8&title=AI+is+the+new+book+burning&lang=en&timestamp=1785525836&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1008">
-          <img src="https://ytcards.demolab.com/?id=eZGNzXR6SM8&title=AI+is+the+new+book+burning&lang=en&timestamp=1785525836&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1008" alt="AI is the new book burning" title="AI is the new book burning">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=eZGNzXR6SM8&title=AI+is+the+new+book+burning&lang=en&timestamp=1785526253&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1008">
+          <img src="https://ytcards.demolab.com/?id=eZGNzXR6SM8&title=AI+is+the+new+book+burning&lang=en&timestamp=1785526253&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1008" alt="AI is the new book burning" title="AI is the new book burning">
         </picture>
       </a>
     </td>
