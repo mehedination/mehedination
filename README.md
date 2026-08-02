@@ -168,56 +168,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=BpTw9z5RIM8" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BpTw9z5RIM8&title=ChatGPT+is+literally+just+malware+now...&lang=en&timestamp=1785625203&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=706">
-          <img src="https://ytcards.demolab.com/?id=BpTw9z5RIM8&title=ChatGPT+is+literally+just+malware+now...&lang=en&timestamp=1785625203&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=706" alt="ChatGPT is literally just malware now..." title="ChatGPT is literally just malware now...">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
       <a href="https://www.youtube.com/watch?v=0Xtd8vhytuo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=0Xtd8vhytuo&title=How+You%27ll+Know+When+It%27s+AI&lang=en&timestamp=1785657603&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=65">
-          <img src="https://ytcards.demolab.com/?id=0Xtd8vhytuo&title=How+You%27ll+Know+When+It%27s+AI&lang=en&timestamp=1785657603&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=65" alt="How You'll Know When It's AI" title="How You'll Know When It's AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=0Xtd8vhytuo&title=How+You%27ll+Know+When+It%27s+AI&lang=en&timestamp=1785654297&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=65">
+          <img src="https://ytcards.demolab.com/?id=0Xtd8vhytuo&title=How+You%27ll+Know+When+It%27s+AI&lang=en&timestamp=1785654297&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=65" alt="How You'll Know When It's AI" title="How You'll Know When It's AI">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=CUhhpKFlfZM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=RyHpcxmW66g" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=CUhhpKFlfZM&title=Is+There+Any+Real+Hope+Left+for+Regulating+Artificial+Intelligence%3F&lang=en&timestamp=1785704463&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=647">
-          <img src="https://ytcards.demolab.com/?id=CUhhpKFlfZM&title=Is+There+Any+Real+Hope+Left+for+Regulating+Artificial+Intelligence%3F&lang=en&timestamp=1785704463&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=647" alt="Is There Any Real Hope Left for Regulating Artificial Intelligence?" title="Is There Any Real Hope Left for Regulating Artificial Intelligence?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=RyHpcxmW66g&title=Sam+Altman+Confirms+We+Are+In+The+Singularity&lang=en&timestamp=1785647097&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1079">
+          <img src="https://ytcards.demolab.com/?id=RyHpcxmW66g&title=Sam+Altman+Confirms+We+Are+In+The+Singularity&lang=en&timestamp=1785647097&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1079" alt="Sam Altman Confirms We Are In The Singularity" title="Sam Altman Confirms We Are In The Singularity">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=sLQx6jGaGDo" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sLQx6jGaGDo&title=Why+isn%27t+AI+working+for+your+company%3F+%7C+BBC+News&lang=en&timestamp=1785625497&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1558">
+          <img src="https://ytcards.demolab.com/?id=sLQx6jGaGDo&title=Why+isn%27t+AI+working+for+your+company%3F+%7C+BBC+News&lang=en&timestamp=1785625497&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1558" alt="Why isn't AI working for your company? | BBC News" title="Why isn't AI working for your company? | BBC News">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=bs_saUnWjpQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=BpTw9z5RIM8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=bs_saUnWjpQ&title=Resistance+grows+nationwide+against+AI+data+center+boom&lang=en&timestamp=1785682803&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=356">
-          <img src="https://ytcards.demolab.com/?id=bs_saUnWjpQ&title=Resistance+grows+nationwide+against+AI+data+center+boom&lang=en&timestamp=1785682803&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=356" alt="Resistance grows nationwide against AI data center boom" title="Resistance grows nationwide against AI data center boom">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BpTw9z5RIM8&title=AI+Companies+Keep+Pretending+Their+Models+Are+%22Going+Rogue%22&lang=en&timestamp=1785625497&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=706">
+          <img src="https://ytcards.demolab.com/?id=BpTw9z5RIM8&title=AI+Companies+Keep+Pretending+Their+Models+Are+%22Going+Rogue%22&lang=en&timestamp=1785625497&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=706" alt="AI Companies Keep Pretending Their Models Are &quot;Going Rogue&quot;" title="AI Companies Keep Pretending Their Models Are &quot;Going Rogue&quot;">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=yvS__pMmbyc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=yvS__pMmbyc&title=The+Experiment+That+Woke+Up+Artificial+Intelligence.+Is+This+The+End%3F+%7C+Full+Sci-Fi+Movie&lang=en&timestamp=1785672003&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6942">
-          <img src="https://ytcards.demolab.com/?id=yvS__pMmbyc&title=The+Experiment+That+Woke+Up+Artificial+Intelligence.+Is+This+The+End%3F+%7C+Full+Sci-Fi+Movie&lang=en&timestamp=1785672003&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6942" alt="The Experiment That Woke Up Artificial Intelligence. Is This The End? | Full Sci-Fi Movie" title="The Experiment That Woke Up Artificial Intelligence. Is This The End? | Full Sci-Fi Movie">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=yvS__pMmbyc&title=The+Experiment+That+Woke+Up+Artificial+Intelligence.+Is+This+The+End%3F+%7C+Full+Sci-Fi+Movie&lang=en&timestamp=1785668697&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6942">
+          <img src="https://ytcards.demolab.com/?id=yvS__pMmbyc&title=The+Experiment+That+Woke+Up+Artificial+Intelligence.+Is+This+The+End%3F+%7C+Full+Sci-Fi+Movie&lang=en&timestamp=1785668697&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6942" alt="The Experiment That Woke Up Artificial Intelligence. Is This The End? | Full Sci-Fi Movie" title="The Experiment That Woke Up Artificial Intelligence. Is This The End? | Full Sci-Fi Movie">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=OrcBSpADCGk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=bs_saUnWjpQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=OrcBSpADCGk&title=New+Deepseek%2C+Seedance+2.5%2C+Minimax+H3%2C+Gemini+Robotics%2C+AMD+models%3A+AI+NEWS&lang=en&timestamp=1785643203&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1690">
-          <img src="https://ytcards.demolab.com/?id=OrcBSpADCGk&title=New+Deepseek%2C+Seedance+2.5%2C+Minimax+H3%2C+Gemini+Robotics%2C+AMD+models%3A+AI+NEWS&lang=en&timestamp=1785643203&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1690" alt="New Deepseek, Seedance 2.5, Minimax H3, Gemini Robotics, AMD models: AI NEWS" title="New Deepseek, Seedance 2.5, Minimax H3, Gemini Robotics, AMD models: AI NEWS">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=bs_saUnWjpQ&title=Resistance+grows+nationwide+against+AI+data+center+boom&lang=en&timestamp=1785683097&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=356">
+          <img src="https://ytcards.demolab.com/?id=bs_saUnWjpQ&title=Resistance+grows+nationwide+against+AI+data+center+boom&lang=en&timestamp=1785683097&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=356" alt="Resistance grows nationwide against AI data center boom" title="Resistance grows nationwide against AI data center boom">
         </picture>
       </a>
     </td>
