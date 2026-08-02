@@ -166,56 +166,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ZOo3h4IJWuE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=0Xtd8vhytuo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ZOo3h4IJWuE&title=AI+Learning+Begins+Here+%7C+What+Is+AI+%26+How+It+Changes+Jobs+%28LIVE%29&lang=en&timestamp=1785654193&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1671">
-          <img src="https://ytcards.demolab.com/?id=ZOo3h4IJWuE&title=AI+Learning+Begins+Here+%7C+What+Is+AI+%26+How+It+Changes+Jobs+%28LIVE%29&lang=en&timestamp=1785654193&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1671" alt="AI Learning Begins Here | What Is AI & How It Changes Jobs (LIVE)" title="AI Learning Begins Here | What Is AI & How It Changes Jobs (LIVE)">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=0Xtd8vhytuo&title=How+You%27ll+Know+When+It%27s+AI&lang=en&timestamp=1785654788&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=65">
+          <img src="https://ytcards.demolab.com/?id=0Xtd8vhytuo&title=How+You%27ll+Know+When+It%27s+AI&lang=en&timestamp=1785654788&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=65" alt="How You'll Know When It's AI" title="How You'll Know When It's AI">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=yvS__pMmbyc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=yvS__pMmbyc&title=The+Experiment+That+Woke+Up+Artificial+Intelligence.+Is+This+The+End%3F+%7C+Full+Sci-Fi+Movie&lang=en&timestamp=1785668593&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6942">
-          <img src="https://ytcards.demolab.com/?id=yvS__pMmbyc&title=The+Experiment+That+Woke+Up+Artificial+Intelligence.+Is+This+The+End%3F+%7C+Full+Sci-Fi+Movie&lang=en&timestamp=1785668593&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6942" alt="The Experiment That Woke Up Artificial Intelligence. Is This The End? | Full Sci-Fi Movie" title="The Experiment That Woke Up Artificial Intelligence. Is This The End? | Full Sci-Fi Movie">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=yvS__pMmbyc&title=The+Experiment+That+Woke+Up+Artificial+Intelligence.+Is+This+The+End%3F+%7C+Full+Sci-Fi+Movie&lang=en&timestamp=1785669188&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6942">
+          <img src="https://ytcards.demolab.com/?id=yvS__pMmbyc&title=The+Experiment+That+Woke+Up+Artificial+Intelligence.+Is+This+The+End%3F+%7C+Full+Sci-Fi+Movie&lang=en&timestamp=1785669188&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6942" alt="The Experiment That Woke Up Artificial Intelligence. Is This The End? | Full Sci-Fi Movie" title="The Experiment That Woke Up Artificial Intelligence. Is This The End? | Full Sci-Fi Movie">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=qEUXagHtQRo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=bs_saUnWjpQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qEUXagHtQRo&title=Fareed+reacts+to+a+second+AI+model+going+rogue&lang=en&timestamp=1785610993&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=690">
-          <img src="https://ytcards.demolab.com/?id=qEUXagHtQRo&title=Fareed+reacts+to+a+second+AI+model+going+rogue&lang=en&timestamp=1785610993&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=690" alt="Fareed reacts to a second AI model going rogue" title="Fareed reacts to a second AI model going rogue">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=bs_saUnWjpQ&title=Resistance+grows+nationwide+against+AI+data+center+boom&lang=en&timestamp=1785683588&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=356">
+          <img src="https://ytcards.demolab.com/?id=bs_saUnWjpQ&title=Resistance+grows+nationwide+against+AI+data+center+boom&lang=en&timestamp=1785683588&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=356" alt="Resistance grows nationwide against AI data center boom" title="Resistance grows nationwide against AI data center boom">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=EkUxW0sJiUU" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EkUxW0sJiUU&title=AI+safety+concerns+grow+as+models+go+rogue+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1785607393&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=101">
-          <img src="https://ytcards.demolab.com/?id=EkUxW0sJiUU&title=AI+safety+concerns+grow+as+models+go+rogue+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1785607393&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=101" alt="AI safety concerns grow as models go rogue • FRANCE 24 English" title="AI safety concerns grow as models go rogue • FRANCE 24 English">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=N2lUu1Mg5B8" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=N2lUu1Mg5B8&title=Zitron%3A+%22Everyone+Has+Been+Sold+a+Lie%22+on+AI&lang=en&timestamp=1785607393&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=528">
-          <img src="https://ytcards.demolab.com/?id=N2lUu1Mg5B8&title=Zitron%3A+%22Everyone+Has+Been+Sold+a+Lie%22+on+AI&lang=en&timestamp=1785607393&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=528" alt="Zitron: &quot;Everyone Has Been Sold a Lie&quot; on AI" title="Zitron: &quot;Everyone Has Been Sold a Lie&quot; on AI">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
       <a href="https://www.youtube.com/watch?v=BpTw9z5RIM8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BpTw9z5RIM8&title=AI+Companies+Keep+Pretending+Their+Models+Are+%22Going+Rogue%22&lang=en&timestamp=1785625393&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=706">
-          <img src="https://ytcards.demolab.com/?id=BpTw9z5RIM8&title=AI+Companies+Keep+Pretending+Their+Models+Are+%22Going+Rogue%22&lang=en&timestamp=1785625393&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=706" alt="AI Companies Keep Pretending Their Models Are &quot;Going Rogue&quot;" title="AI Companies Keep Pretending Their Models Are &quot;Going Rogue&quot;">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BpTw9z5RIM8&title=AI+Companies+Keep+Pretending+Their+Models+Are+%22Going+Rogue%22&lang=en&timestamp=1785625988&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=706">
+          <img src="https://ytcards.demolab.com/?id=BpTw9z5RIM8&title=AI+Companies+Keep+Pretending+Their+Models+Are+%22Going+Rogue%22&lang=en&timestamp=1785625988&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=706" alt="AI Companies Keep Pretending Their Models Are &quot;Going Rogue&quot;" title="AI Companies Keep Pretending Their Models Are &quot;Going Rogue&quot;">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=OrcBSpADCGk" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=OrcBSpADCGk&title=New+Deepseek%2C+Seedance+2.5%2C+Minimax+H3%2C+Gemini+Robotics%2C+AMD+models%3A+AI+NEWS&lang=en&timestamp=1785643988&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1690">
+          <img src="https://ytcards.demolab.com/?id=OrcBSpADCGk&title=New+Deepseek%2C+Seedance+2.5%2C+Minimax+H3%2C+Gemini+Robotics%2C+AMD+models%3A+AI+NEWS&lang=en&timestamp=1785643988&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1690" alt="New Deepseek, Seedance 2.5, Minimax H3, Gemini Robotics, AMD models: AI NEWS" title="New Deepseek, Seedance 2.5, Minimax H3, Gemini Robotics, AMD models: AI NEWS">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=EkUxW0sJiUU" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EkUxW0sJiUU&title=AI+safety+concerns+grow+as+models+go+rogue+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1785615188&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=101">
+          <img src="https://ytcards.demolab.com/?id=EkUxW0sJiUU&title=AI+safety+concerns+grow+as+models+go+rogue+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1785615188&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=101" alt="AI safety concerns grow as models go rogue • FRANCE 24 English" title="AI safety concerns grow as models go rogue • FRANCE 24 English">
         </picture>
       </a>
     </td>
