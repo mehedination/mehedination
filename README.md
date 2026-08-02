@@ -161,56 +161,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=sLQx6jGaGDo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ZOo3h4IJWuE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sLQx6jGaGDo&title=Why+isn%27t+AI+working+for+your+company%3F+%7C+BBC+News&lang=en&timestamp=1785607306&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1558">
-          <img src="https://ytcards.demolab.com/?id=sLQx6jGaGDo&title=Why+isn%27t+AI+working+for+your+company%3F+%7C+BBC+News&lang=en&timestamp=1785607306&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1558" alt="Why isn't AI working for your company? | BBC News" title="Why isn't AI working for your company? | BBC News">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ZOo3h4IJWuE&title=AI+Learning+Begins+Here+%7C+What+Is+AI+%26+How+It+Changes+Jobs+%28LIVE%29&lang=en&timestamp=1785654149&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1671">
+          <img src="https://ytcards.demolab.com/?id=ZOo3h4IJWuE&title=AI+Learning+Begins+Here+%7C+What+Is+AI+%26+How+It+Changes+Jobs+%28LIVE%29&lang=en&timestamp=1785654149&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1671" alt="AI Learning Begins Here | What Is AI & How It Changes Jobs (LIVE)" title="AI Learning Begins Here | What Is AI & How It Changes Jobs (LIVE)">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=jeP4Cq4hXmg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=N2lUu1Mg5B8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jeP4Cq4hXmg&title=When+IT+Become+Smarter+Than+Us%2C+What+Happens+Next%3F+%7C+Gladiator+Summit+II&lang=en&timestamp=1785607306&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1843">
-          <img src="https://ytcards.demolab.com/?id=jeP4Cq4hXmg&title=When+IT+Become+Smarter+Than+Us%2C+What+Happens+Next%3F+%7C+Gladiator+Summit+II&lang=en&timestamp=1785607306&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1843" alt="When IT Become Smarter Than Us, What Happens Next? | Gladiator Summit II" title="When IT Become Smarter Than Us, What Happens Next? | Gladiator Summit II">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=N2lUu1Mg5B8&title=Zitron%3A+%22Everyone+Has+Been+Sold+a+Lie%22+on+AI&lang=en&timestamp=1785592949&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=528">
+          <img src="https://ytcards.demolab.com/?id=N2lUu1Mg5B8&title=Zitron%3A+%22Everyone+Has+Been+Sold+a+Lie%22+on+AI&lang=en&timestamp=1785592949&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=528" alt="Zitron: &quot;Everyone Has Been Sold a Lie&quot; on AI" title="Zitron: &quot;Everyone Has Been Sold a Lie&quot; on AI">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=EkUxW0sJiUU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=qEUXagHtQRo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EkUxW0sJiUU&title=AI+safety+concerns+grow+as+models+go+rogue+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1785578506&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=101">
-          <img src="https://ytcards.demolab.com/?id=EkUxW0sJiUU&title=AI+safety+concerns+grow+as+models+go+rogue+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1785578506&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=101" alt="AI safety concerns grow as models go rogue • FRANCE 24 English" title="AI safety concerns grow as models go rogue • FRANCE 24 English">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qEUXagHtQRo&title=Fareed+reacts+to+a+second+AI+model+going+rogue&lang=en&timestamp=1785610949&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=690">
+          <img src="https://ytcards.demolab.com/?id=qEUXagHtQRo&title=Fareed+reacts+to+a+second+AI+model+going+rogue&lang=en&timestamp=1785610949&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=690" alt="Fareed reacts to a second AI model going rogue" title="Fareed reacts to a second AI model going rogue">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=eERZ6ttB_uc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=EkUxW0sJiUU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=eERZ6ttB_uc&title=Learn+Generative+AI+Full+Course+Free+%7C+Complete+Gen+AI+Course+2026+%7C+Intellipaat&lang=en&timestamp=1785596506&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=42247">
-          <img src="https://ytcards.demolab.com/?id=eERZ6ttB_uc&title=Learn+Generative+AI+Full+Course+Free+%7C+Complete+Gen+AI+Course+2026+%7C+Intellipaat&lang=en&timestamp=1785596506&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=42247" alt="Learn Generative AI Full Course Free | Complete Gen AI Course 2026 | Intellipaat" title="Learn Generative AI Full Course Free | Complete Gen AI Course 2026 | Intellipaat">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=79Z7QePPg9s" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=79Z7QePPg9s&title=Europe+%26+US+Weigh+Stronger+AI+Regulations+%7C+WION+News&lang=en&timestamp=1785578506&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=132">
-          <img src="https://ytcards.demolab.com/?id=79Z7QePPg9s&title=Europe+%26+US+Weigh+Stronger+AI+Regulations+%7C+WION+News&lang=en&timestamp=1785578506&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=132" alt="Europe & US Weigh Stronger AI Regulations | WION News" title="Europe & US Weigh Stronger AI Regulations | WION News">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EkUxW0sJiUU&title=AI+safety+concerns+grow+as+models+go+rogue+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1785578549&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=101">
+          <img src="https://ytcards.demolab.com/?id=EkUxW0sJiUU&title=AI+safety+concerns+grow+as+models+go+rogue+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1785578549&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=101" alt="AI safety concerns grow as models go rogue • FRANCE 24 English" title="AI safety concerns grow as models go rogue • FRANCE 24 English">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=nQlbSayFyw4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nQlbSayFyw4&title=Gen+AI+Engineering+Course+2026+%7C+Become+an+AI+Engineer+%7C+PW+Skills&lang=en&timestamp=1785592906&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1887">
-          <img src="https://ytcards.demolab.com/?id=nQlbSayFyw4&title=Gen+AI+Engineering+Course+2026+%7C+Become+an+AI+Engineer+%7C+PW+Skills&lang=en&timestamp=1785592906&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1887" alt="Gen AI Engineering Course 2026 | Become an AI Engineer | PW Skills" title="Gen AI Engineering Course 2026 | Become an AI Engineer | PW Skills">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nQlbSayFyw4&title=Gen+AI+Engineering+Course+2026+%7C+Become+an+AI+Engineer+%7C+PW+Skills&lang=en&timestamp=1785592949&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1887">
+          <img src="https://ytcards.demolab.com/?id=nQlbSayFyw4&title=Gen+AI+Engineering+Course+2026+%7C+Become+an+AI+Engineer+%7C+PW+Skills&lang=en&timestamp=1785592949&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1887" alt="Gen AI Engineering Course 2026 | Become an AI Engineer | PW Skills" title="Gen AI Engineering Course 2026 | Become an AI Engineer | PW Skills">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=eERZ6ttB_uc" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=eERZ6ttB_uc&title=Learn+Generative+AI+Full+Course+Free+%7C+Complete+Gen+AI+Course+2026+%7C+Intellipaat&lang=en&timestamp=1785596549&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=42247">
+          <img src="https://ytcards.demolab.com/?id=eERZ6ttB_uc&title=Learn+Generative+AI+Full+Course+Free+%7C+Complete+Gen+AI+Course+2026+%7C+Intellipaat&lang=en&timestamp=1785596549&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=42247" alt="Learn Generative AI Full Course Free | Complete Gen AI Course 2026 | Intellipaat" title="Learn Generative AI Full Course Free | Complete Gen AI Course 2026 | Intellipaat">
         </picture>
       </a>
     </td>
