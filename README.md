@@ -172,56 +172,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=P4e1yd0-AIE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=rejmFoqr_YA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=P4e1yd0-AIE&title=Could+AI+help+us+smile+more%3F+%7C+BBC+News&lang=en&timestamp=1785694363&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=294">
-          <img src="https://ytcards.demolab.com/?id=P4e1yd0-AIE&title=Could+AI+help+us+smile+more%3F+%7C+BBC+News&lang=en&timestamp=1785694363&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=294" alt="Could AI help us smile more? | BBC News" title="Could AI help us smile more? | BBC News">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=6htaEAl8OlM" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6htaEAl8OlM&title=Toner%3A+AI+leaders+%27don%27t+really+understand%27+technology%2C+%27have+trouble+controlling+it%27&lang=en&timestamp=1785694363&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=296">
-          <img src="https://ytcards.demolab.com/?id=6htaEAl8OlM&title=Toner%3A+AI+leaders+%27don%27t+really+understand%27+technology%2C+%27have+trouble+controlling+it%27&lang=en&timestamp=1785694363&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=296" alt="Toner: AI leaders 'don't really understand' technology, 'have trouble controlling it'" title="Toner: AI leaders 'don't really understand' technology, 'have trouble controlling it'">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=rejmFoqr_YA&title=Supermarkets+turn+to+AI+to+power+sales%2C+efficiency&lang=en&timestamp=1785743132&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=202">
+          <img src="https://ytcards.demolab.com/?id=rejmFoqr_YA&title=Supermarkets+turn+to+AI+to+power+sales%2C+efficiency&lang=en&timestamp=1785743132&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=202" alt="Supermarkets turn to AI to power sales, efficiency" title="Supermarkets turn to AI to power sales, efficiency">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=0Xtd8vhytuo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=0Xtd8vhytuo&title=How+You%27ll+Know+When+It%27s+AI&lang=en&timestamp=1785690763&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=65">
-          <img src="https://ytcards.demolab.com/?id=0Xtd8vhytuo&title=How+You%27ll+Know+When+It%27s+AI&lang=en&timestamp=1785690763&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=65" alt="How You'll Know When It's AI" title="How You'll Know When It's AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=0Xtd8vhytuo&title=How+You%27ll+Know+When+It%27s+AI&lang=en&timestamp=1785699932&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=65">
+          <img src="https://ytcards.demolab.com/?id=0Xtd8vhytuo&title=How+You%27ll+Know+When+It%27s+AI&lang=en&timestamp=1785699932&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=65" alt="How You'll Know When It's AI" title="How You'll Know When It's AI">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=4qaahndSmI0" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4qaahndSmI0&title=Scientists+Are+Teaching+Robots+to+Feel+Fear%3A+But+This+May+Backfire&lang=en&timestamp=1785721532&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=261">
+          <img src="https://ytcards.demolab.com/?id=4qaahndSmI0&title=Scientists+Are+Teaching+Robots+to+Feel+Fear%3A+But+This+May+Backfire&lang=en&timestamp=1785721532&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=261" alt="Scientists Are Teaching Robots to Feel Fear: But This May Backfire" title="Scientists Are Teaching Robots to Feel Fear: But This May Backfire">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=yvS__pMmbyc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=wAf8BozOtfA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=yvS__pMmbyc&title=The+Experiment+That+Woke+Up+Artificial+Intelligence.+Is+This+The+End%3F+%7C+Full+Sci-Fi+Movie&lang=en&timestamp=1785690763&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6942">
-          <img src="https://ytcards.demolab.com/?id=yvS__pMmbyc&title=The+Experiment+That+Woke+Up+Artificial+Intelligence.+Is+This+The+End%3F+%7C+Full+Sci-Fi+Movie&lang=en&timestamp=1785690763&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6942" alt="The Experiment That Woke Up Artificial Intelligence. Is This The End? | Full Sci-Fi Movie" title="The Experiment That Woke Up Artificial Intelligence. Is This The End? | Full Sci-Fi Movie">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wAf8BozOtfA&title=Israel+Embeds+ZIONIST+Content+In+Artificial+Intelligence%21+w%2F+Nick+Cruse&lang=en&timestamp=1785771932&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=846">
+          <img src="https://ytcards.demolab.com/?id=wAf8BozOtfA&title=Israel+Embeds+ZIONIST+Content+In+Artificial+Intelligence%21+w%2F+Nick+Cruse&lang=en&timestamp=1785771932&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=846" alt="Israel Embeds ZIONIST Content In Artificial Intelligence! w/ Nick Cruse" title="Israel Embeds ZIONIST Content In Artificial Intelligence! w/ Nick Cruse">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=65qup9OAXQE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=65qup9OAXQE&title=Why+AI+Is+Making+Your+Next+Smartphone+%26+Laptop+More+Expensive+%7C+Firstpost+Tech+%26+Trade&lang=en&timestamp=1785690763&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=542">
-          <img src="https://ytcards.demolab.com/?id=65qup9OAXQE&title=Why+AI+Is+Making+Your+Next+Smartphone+%26+Laptop+More+Expensive+%7C+Firstpost+Tech+%26+Trade&lang=en&timestamp=1785690763&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=542" alt="Why AI Is Making Your Next Smartphone & Laptop More Expensive | Firstpost Tech & Trade" title="Why AI Is Making Your Next Smartphone & Laptop More Expensive | Firstpost Tech & Trade">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=65qup9OAXQE&title=Why+AI+Is+Making+Your+Next+Smartphone+%26+Laptop+More+Expensive+%7C+Firstpost+Tech+%26+Trade&lang=en&timestamp=1785699932&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=542">
+          <img src="https://ytcards.demolab.com/?id=65qup9OAXQE&title=Why+AI+Is+Making+Your+Next+Smartphone+%26+Laptop+More+Expensive+%7C+Firstpost+Tech+%26+Trade&lang=en&timestamp=1785699932&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=542" alt="Why AI Is Making Your Next Smartphone & Laptop More Expensive | Firstpost Tech & Trade" title="Why AI Is Making Your Next Smartphone & Laptop More Expensive | Firstpost Tech & Trade">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=tfgMdoaNqm8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=bs_saUnWjpQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tfgMdoaNqm8&title=Can+Artificial+Intelligence+Really+Predict+Your+Future%3F+Truth+Explained+%7C+DNA+Podcast&lang=en&timestamp=1785774643&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=267">
-          <img src="https://ytcards.demolab.com/?id=tfgMdoaNqm8&title=Can+Artificial+Intelligence+Really+Predict+Your+Future%3F+Truth+Explained+%7C+DNA+Podcast&lang=en&timestamp=1785774643&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=267" alt="Can Artificial Intelligence Really Predict Your Future? Truth Explained | DNA Podcast" title="Can Artificial Intelligence Really Predict Your Future? Truth Explained | DNA Podcast">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=bs_saUnWjpQ&title=Resistance+grows+nationwide+against+AI+data+center+boom&lang=en&timestamp=1785699932&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=356">
+          <img src="https://ytcards.demolab.com/?id=bs_saUnWjpQ&title=Resistance+grows+nationwide+against+AI+data+center+boom&lang=en&timestamp=1785699932&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=356" alt="Resistance grows nationwide against AI data center boom" title="Resistance grows nationwide against AI data center boom">
         </picture>
       </a>
     </td>
