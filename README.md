@@ -174,56 +174,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=rejmFoqr_YA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=XoxQBqjvDKY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=rejmFoqr_YA&title=Supermarkets+turn+to+AI+to+power+sales%2C+efficiency&lang=en&timestamp=1785744631&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=202">
-          <img src="https://ytcards.demolab.com/?id=rejmFoqr_YA&title=Supermarkets+turn+to+AI+to+power+sales%2C+efficiency&lang=en&timestamp=1785744631&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=202" alt="Supermarkets turn to AI to power sales, efficiency" title="Supermarkets turn to AI to power sales, efficiency">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XoxQBqjvDKY&title=5+Things+Artificial+Intelligence+Still+Can%27t+Do+in+2026&lang=en&timestamp=1785814352&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=291">
+          <img src="https://ytcards.demolab.com/?id=XoxQBqjvDKY&title=5+Things+Artificial+Intelligence+Still+Can%27t+Do+in+2026&lang=en&timestamp=1785814352&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=291" alt="5 Things Artificial Intelligence Still Can't Do in 2026" title="5 Things Artificial Intelligence Still Can't Do in 2026">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=0Xtd8vhytuo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=I68aRrgRjC0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=0Xtd8vhytuo&title=How+You%27ll+Know+When+It%27s+AI&lang=en&timestamp=1785705031&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=65">
-          <img src="https://ytcards.demolab.com/?id=0Xtd8vhytuo&title=How+You%27ll+Know+When+It%27s+AI&lang=en&timestamp=1785705031&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=65" alt="How You'll Know When It's AI" title="How You'll Know When It's AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=I68aRrgRjC0&title=Broadcom+Explained+%7C+Is+This+the+Real+AI+Winner+After+NVIDIA%3F&lang=en&timestamp=1785763952&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=875">
+          <img src="https://ytcards.demolab.com/?id=I68aRrgRjC0&title=Broadcom+Explained+%7C+Is+This+the+Real+AI+Winner+After+NVIDIA%3F&lang=en&timestamp=1785763952&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=875" alt="Broadcom Explained | Is This the Real AI Winner After NVIDIA?" title="Broadcom Explained | Is This the Real AI Winner After NVIDIA?">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=IX98OnQqw3U" target="_blank">
+      <a href="https://www.youtube.com/watch?v=-BFKpd24vP0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=IX98OnQqw3U&title=This+AI+Creates+Hundreds+of+Listings+in+Seconds+%7C+AnywherePOD+Tutorial&lang=en&timestamp=1785777031&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4990">
-          <img src="https://ytcards.demolab.com/?id=IX98OnQqw3U&title=This+AI+Creates+Hundreds+of+Listings+in+Seconds+%7C+AnywherePOD+Tutorial&lang=en&timestamp=1785777031&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4990" alt="This AI Creates Hundreds of Listings in Seconds | AnywherePOD Tutorial" title="This AI Creates Hundreds of Listings in Seconds | AnywherePOD Tutorial">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-BFKpd24vP0&title=How+a+%2430B+Hedge+Fund+Implosion+Will+Effect+AI&lang=en&timestamp=1785763952&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1625">
+          <img src="https://ytcards.demolab.com/?id=-BFKpd24vP0&title=How+a+%2430B+Hedge+Fund+Implosion+Will+Effect+AI&lang=en&timestamp=1785763952&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1625" alt="How a $30B Hedge Fund Implosion Will Effect AI" title="How a $30B Hedge Fund Implosion Will Effect AI">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=yvS__pMmbyc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=tfgMdoaNqm8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=yvS__pMmbyc&title=The+Experiment+That+Woke+Up+Artificial+Intelligence.+Is+This+The+End%3F+%7C+Full+Sci-Fi+Movie&lang=en&timestamp=1785705031&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6942">
-          <img src="https://ytcards.demolab.com/?id=yvS__pMmbyc&title=The+Experiment+That+Woke+Up+Artificial+Intelligence.+Is+This+The+End%3F+%7C+Full+Sci-Fi+Movie&lang=en&timestamp=1785705031&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6942" alt="The Experiment That Woke Up Artificial Intelligence. Is This The End? | Full Sci-Fi Movie" title="The Experiment That Woke Up Artificial Intelligence. Is This The End? | Full Sci-Fi Movie">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tfgMdoaNqm8&title=Can+Artificial+Intelligence+Really+Predict+Your+Future%3F+Truth+Explained+%7C+DNA+Podcast&lang=en&timestamp=1785774752&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=267">
+          <img src="https://ytcards.demolab.com/?id=tfgMdoaNqm8&title=Can+Artificial+Intelligence+Really+Predict+Your+Future%3F+Truth+Explained+%7C+DNA+Podcast&lang=en&timestamp=1785774752&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=267" alt="Can Artificial Intelligence Really Predict Your Future? Truth Explained | DNA Podcast" title="Can Artificial Intelligence Really Predict Your Future? Truth Explained | DNA Podcast">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=65qup9OAXQE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=UdS3iisKhCk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=65qup9OAXQE&title=Why+AI+Is+Making+Your+Next+Smartphone+%26+Laptop+More+Expensive+%7C+Firstpost+Tech+%26+Trade&lang=en&timestamp=1785705031&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=542">
-          <img src="https://ytcards.demolab.com/?id=65qup9OAXQE&title=Why+AI+Is+Making+Your+Next+Smartphone+%26+Laptop+More+Expensive+%7C+Firstpost+Tech+%26+Trade&lang=en&timestamp=1785705031&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=542" alt="Why AI Is Making Your Next Smartphone & Laptop More Expensive | Firstpost Tech & Trade" title="Why AI Is Making Your Next Smartphone & Laptop More Expensive | Firstpost Tech & Trade">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=UdS3iisKhCk&title=Plenary+Stage+-+August+2nd+-+Morning+Session&lang=en&timestamp=1785738752&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7921">
+          <img src="https://ytcards.demolab.com/?id=UdS3iisKhCk&title=Plenary+Stage+-+August+2nd+-+Morning+Session&lang=en&timestamp=1785738752&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7921" alt="Plenary Stage - August 2nd - Morning Session" title="Plenary Stage - August 2nd - Morning Session">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=wAf8BozOtfA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=qvZq5o7YVhY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wAf8BozOtfA&title=Israel+Embeds+ZIONIST+Content+In+Artificial+Intelligence%21+w%2F+Nick+Cruse&lang=en&timestamp=1785769831&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=846">
-          <img src="https://ytcards.demolab.com/?id=wAf8BozOtfA&title=Israel+Embeds+ZIONIST+Content+In+Artificial+Intelligence%21+w%2F+Nick+Cruse&lang=en&timestamp=1785769831&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=846" alt="Israel Embeds ZIONIST Content In Artificial Intelligence! w/ Nick Cruse" title="Israel Embeds ZIONIST Content In Artificial Intelligence! w/ Nick Cruse">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qvZq5o7YVhY&title=How+artificial+intelligence+is+redefining+entry-level+I.T.+careers+%7C+Job+Alert+Ep.+13&lang=en&timestamp=1785778352&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1258">
+          <img src="https://ytcards.demolab.com/?id=qvZq5o7YVhY&title=How+artificial+intelligence+is+redefining+entry-level+I.T.+careers+%7C+Job+Alert+Ep.+13&lang=en&timestamp=1785778352&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1258" alt="How artificial intelligence is redefining entry-level I.T. careers | Job Alert Ep. 13" title="How artificial intelligence is redefining entry-level I.T. careers | Job Alert Ep. 13">
         </picture>
       </a>
     </td>
