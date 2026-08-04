@@ -175,56 +175,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=XoxQBqjvDKY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=wAxACbpulQE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XoxQBqjvDKY&title=5+Things+Artificial+Intelligence+Still+Can%27t+Do+in+2026&lang=en&timestamp=1785814352&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=291">
-          <img src="https://ytcards.demolab.com/?id=XoxQBqjvDKY&title=5+Things+Artificial+Intelligence+Still+Can%27t+Do+in+2026&lang=en&timestamp=1785814352&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=291" alt="5 Things Artificial Intelligence Still Can't Do in 2026" title="5 Things Artificial Intelligence Still Can't Do in 2026">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wAxACbpulQE&title=The+Entire+AI+Industry+Just+Turned+Against+Anthropic&lang=en&timestamp=1785824253&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=652">
+          <img src="https://ytcards.demolab.com/?id=wAxACbpulQE&title=The+Entire+AI+Industry+Just+Turned+Against+Anthropic&lang=en&timestamp=1785824253&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=652" alt="The Entire AI Industry Just Turned Against Anthropic" title="The Entire AI Industry Just Turned Against Anthropic">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=I68aRrgRjC0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=96TZN03s5eQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=I68aRrgRjC0&title=Broadcom+Explained+%7C+Is+This+the+Real+AI+Winner+After+NVIDIA%3F&lang=en&timestamp=1785763952&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=875">
-          <img src="https://ytcards.demolab.com/?id=I68aRrgRjC0&title=Broadcom+Explained+%7C+Is+This+the+Real+AI+Winner+After+NVIDIA%3F&lang=en&timestamp=1785763952&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=875" alt="Broadcom Explained | Is This the Real AI Winner After NVIDIA?" title="Broadcom Explained | Is This the Real AI Winner After NVIDIA?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=96TZN03s5eQ&title=Learn+Artificial+Intelligence+Full+Course+2026+%7C+AI+Course+From+Scratch+%7C+Intellipaat&lang=en&timestamp=1785853053&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=38193">
+          <img src="https://ytcards.demolab.com/?id=96TZN03s5eQ&title=Learn+Artificial+Intelligence+Full+Course+2026+%7C+AI+Course+From+Scratch+%7C+Intellipaat&lang=en&timestamp=1785853053&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=38193" alt="Learn Artificial Intelligence Full Course 2026 | AI Course From Scratch | Intellipaat" title="Learn Artificial Intelligence Full Course 2026 | AI Course From Scratch | Intellipaat">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=-BFKpd24vP0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=9KRQ1ulTrdo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-BFKpd24vP0&title=How+a+%2430B+Hedge+Fund+Implosion+Will+Effect+AI&lang=en&timestamp=1785763952&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1625">
-          <img src="https://ytcards.demolab.com/?id=-BFKpd24vP0&title=How+a+%2430B+Hedge+Fund+Implosion+Will+Effect+AI&lang=en&timestamp=1785763952&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1625" alt="How a $30B Hedge Fund Implosion Will Effect AI" title="How a $30B Hedge Fund Implosion Will Effect AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9KRQ1ulTrdo&title=Should+the+government+put+regulations+on+artificial+intelligence%3F&lang=en&timestamp=1785860253&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=627">
+          <img src="https://ytcards.demolab.com/?id=9KRQ1ulTrdo&title=Should+the+government+put+regulations+on+artificial+intelligence%3F&lang=en&timestamp=1785860253&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=627" alt="Should the government put regulations on artificial intelligence?" title="Should the government put regulations on artificial intelligence?">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=tfgMdoaNqm8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=rTJe6EEBaEs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tfgMdoaNqm8&title=Can+Artificial+Intelligence+Really+Predict+Your+Future%3F+Truth+Explained+%7C+DNA+Podcast&lang=en&timestamp=1785774752&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=267">
-          <img src="https://ytcards.demolab.com/?id=tfgMdoaNqm8&title=Can+Artificial+Intelligence+Really+Predict+Your+Future%3F+Truth+Explained+%7C+DNA+Podcast&lang=en&timestamp=1785774752&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=267" alt="Can Artificial Intelligence Really Predict Your Future? Truth Explained | DNA Podcast" title="Can Artificial Intelligence Really Predict Your Future? Truth Explained | DNA Podcast">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=rTJe6EEBaEs&title=A+History+of+Artificial+Intelligence+from+the+90%27s+%7C+Philippe+Tissot+%7C+TEDxSST+Corpus+Christi+Youth&lang=en&timestamp=1785863853&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=719">
+          <img src="https://ytcards.demolab.com/?id=rTJe6EEBaEs&title=A+History+of+Artificial+Intelligence+from+the+90%27s+%7C+Philippe+Tissot+%7C+TEDxSST+Corpus+Christi+Youth&lang=en&timestamp=1785863853&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=719" alt="A History of Artificial Intelligence from the 90's | Philippe Tissot | TEDxSST Corpus Christi Youth" title="A History of Artificial Intelligence from the 90's | Philippe Tissot | TEDxSST Corpus Christi Youth">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=UdS3iisKhCk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=B84SJ6oJvwI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=UdS3iisKhCk&title=Plenary+Stage+-+August+2nd+-+Morning+Session&lang=en&timestamp=1785738752&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7921">
-          <img src="https://ytcards.demolab.com/?id=UdS3iisKhCk&title=Plenary+Stage+-+August+2nd+-+Morning+Session&lang=en&timestamp=1785738752&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7921" alt="Plenary Stage - August 2nd - Morning Session" title="Plenary Stage - August 2nd - Morning Session">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=B84SJ6oJvwI&title=Artificial+Intelligence+Full+Course+%282026%29+%7C+AI+Full+Course+%7C+Intellipaat&lang=en&timestamp=1785867453&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=38270">
+          <img src="https://ytcards.demolab.com/?id=B84SJ6oJvwI&title=Artificial+Intelligence+Full+Course+%282026%29+%7C+AI+Full+Course+%7C+Intellipaat&lang=en&timestamp=1785867453&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=38270" alt="Artificial Intelligence Full Course (2026) | AI Full Course | Intellipaat" title="Artificial Intelligence Full Course (2026) | AI Full Course | Intellipaat">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=qvZq5o7YVhY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=S0oBkjWzBAg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qvZq5o7YVhY&title=How+artificial+intelligence+is+redefining+entry-level+I.T.+careers+%7C+Job+Alert+Ep.+13&lang=en&timestamp=1785778352&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1258">
-          <img src="https://ytcards.demolab.com/?id=qvZq5o7YVhY&title=How+artificial+intelligence+is+redefining+entry-level+I.T.+careers+%7C+Job+Alert+Ep.+13&lang=en&timestamp=1785778352&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1258" alt="How artificial intelligence is redefining entry-level I.T. careers | Job Alert Ep. 13" title="How artificial intelligence is redefining entry-level I.T. careers | Job Alert Ep. 13">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=S0oBkjWzBAg&title=Who+Invented+AI%3F+%F0%9F%A4%96+The+Real+Story+Behind+Artificial+Intelligence%21+%23usa+&lang=en&timestamp=1785795453&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=56">
+          <img src="https://ytcards.demolab.com/?id=S0oBkjWzBAg&title=Who+Invented+AI%3F+%F0%9F%A4%96+The+Real+Story+Behind+Artificial+Intelligence%21+%23usa+&lang=en&timestamp=1785795453&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=56" alt="Who Invented AI? 🤖 The Real Story Behind Artificial Intelligence! #usa " title="Who Invented AI? 🤖 The Real Story Behind Artificial Intelligence! #usa ">
         </picture>
       </a>
     </td>
