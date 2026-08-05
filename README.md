@@ -176,56 +176,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=wAxACbpulQE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ElmRyxLfOog" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wAxACbpulQE&title=The+Entire+AI+Industry+Just+Turned+Against+Anthropic&lang=en&timestamp=1785824253&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=652">
-          <img src="https://ytcards.demolab.com/?id=wAxACbpulQE&title=The+Entire+AI+Industry+Just+Turned+Against+Anthropic&lang=en&timestamp=1785824253&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=652" alt="The Entire AI Industry Just Turned Against Anthropic" title="The Entire AI Industry Just Turned Against Anthropic">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ElmRyxLfOog&title=Top+AI+company+executives+to+meet+with+White+House+officials%2C+according+to+reports&lang=en&timestamp=1785866188&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=297">
+          <img src="https://ytcards.demolab.com/?id=ElmRyxLfOog&title=Top+AI+company+executives+to+meet+with+White+House+officials%2C+according+to+reports&lang=en&timestamp=1785866188&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=297" alt="Top AI company executives to meet with White House officials, according to reports" title="Top AI company executives to meet with White House officials, according to reports">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=96TZN03s5eQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=7CwfBxcm29Q" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=96TZN03s5eQ&title=Learn+Artificial+Intelligence+Full+Course+2026+%7C+AI+Course+From+Scratch+%7C+Intellipaat&lang=en&timestamp=1785853053&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=38193">
-          <img src="https://ytcards.demolab.com/?id=96TZN03s5eQ&title=Learn+Artificial+Intelligence+Full+Course+2026+%7C+AI+Course+From+Scratch+%7C+Intellipaat&lang=en&timestamp=1785853053&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=38193" alt="Learn Artificial Intelligence Full Course 2026 | AI Course From Scratch | Intellipaat" title="Learn Artificial Intelligence Full Course 2026 | AI Course From Scratch | Intellipaat">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=7CwfBxcm29Q&title=Japan%E2%80%99s+AI+War+Plan%3F+Tokyo+Prepares+For+Threat+From+Beijing+%7C+AI+%26+Drone+Warfare+Take+Center+Stage&lang=en&timestamp=1785840988&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=504">
+          <img src="https://ytcards.demolab.com/?id=7CwfBxcm29Q&title=Japan%E2%80%99s+AI+War+Plan%3F+Tokyo+Prepares+For+Threat+From+Beijing+%7C+AI+%26+Drone+Warfare+Take+Center+Stage&lang=en&timestamp=1785840988&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=504" alt="Japan’s AI War Plan? Tokyo Prepares For Threat From Beijing | AI & Drone Warfare Take Center Stage" title="Japan’s AI War Plan? Tokyo Prepares For Threat From Beijing | AI & Drone Warfare Take Center Stage">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=9KRQ1ulTrdo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Iy5SMxQWdOI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9KRQ1ulTrdo&title=Should+the+government+put+regulations+on+artificial+intelligence%3F&lang=en&timestamp=1785860253&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=627">
-          <img src="https://ytcards.demolab.com/?id=9KRQ1ulTrdo&title=Should+the+government+put+regulations+on+artificial+intelligence%3F&lang=en&timestamp=1785860253&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=627" alt="Should the government put regulations on artificial intelligence?" title="Should the government put regulations on artificial intelligence?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Iy5SMxQWdOI&title=China+Just+Built+Exactly+What+Experts+Warned+About%21&lang=en&timestamp=1785840988&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=811">
+          <img src="https://ytcards.demolab.com/?id=Iy5SMxQWdOI&title=China+Just+Built+Exactly+What+Experts+Warned+About%21&lang=en&timestamp=1785840988&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=811" alt="China Just Built Exactly What Experts Warned About!" title="China Just Built Exactly What Experts Warned About!">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=rTJe6EEBaEs" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ZmFUr6OOETw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=rTJe6EEBaEs&title=A+History+of+Artificial+Intelligence+from+the+90%27s+%7C+Philippe+Tissot+%7C+TEDxSST+Corpus+Christi+Youth&lang=en&timestamp=1785863853&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=719">
-          <img src="https://ytcards.demolab.com/?id=rTJe6EEBaEs&title=A+History+of+Artificial+Intelligence+from+the+90%27s+%7C+Philippe+Tissot+%7C+TEDxSST+Corpus+Christi+Youth&lang=en&timestamp=1785863853&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=719" alt="A History of Artificial Intelligence from the 90's | Philippe Tissot | TEDxSST Corpus Christi Youth" title="A History of Artificial Intelligence from the 90's | Philippe Tissot | TEDxSST Corpus Christi Youth">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ZmFUr6OOETw&title=Iraq+crowd+surveillance%3A+AI+used+to+monitor+crowds+for+the+Arbaeen+pilgrimage&lang=en&timestamp=1785837388&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=119">
+          <img src="https://ytcards.demolab.com/?id=ZmFUr6OOETw&title=Iraq+crowd+surveillance%3A+AI+used+to+monitor+crowds+for+the+Arbaeen+pilgrimage&lang=en&timestamp=1785837388&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=119" alt="Iraq crowd surveillance: AI used to monitor crowds for the Arbaeen pilgrimage" title="Iraq crowd surveillance: AI used to monitor crowds for the Arbaeen pilgrimage">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=B84SJ6oJvwI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=WA8Z_sVYxMU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=B84SJ6oJvwI&title=Artificial+Intelligence+Full+Course+%282026%29+%7C+AI+Full+Course+%7C+Intellipaat&lang=en&timestamp=1785867453&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=38270">
-          <img src="https://ytcards.demolab.com/?id=B84SJ6oJvwI&title=Artificial+Intelligence+Full+Course+%282026%29+%7C+AI+Full+Course+%7C+Intellipaat&lang=en&timestamp=1785867453&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=38270" alt="Artificial Intelligence Full Course (2026) | AI Full Course | Intellipaat" title="Artificial Intelligence Full Course (2026) | AI Full Course | Intellipaat">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WA8Z_sVYxMU&title=Why+Recraft+AI+Is+Transforming+Graphic+Design+with+Artificial+Intelligence+explained+by+Professor&lang=en&timestamp=1785897628&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=381">
+          <img src="https://ytcards.demolab.com/?id=WA8Z_sVYxMU&title=Why+Recraft+AI+Is+Transforming+Graphic+Design+with+Artificial+Intelligence+explained+by+Professor&lang=en&timestamp=1785897628&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=381" alt="Why Recraft AI Is Transforming Graphic Design with Artificial Intelligence explained by Professor" title="Why Recraft AI Is Transforming Graphic Design with Artificial Intelligence explained by Professor">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=S0oBkjWzBAg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=96TZN03s5eQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=S0oBkjWzBAg&title=Who+Invented+AI%3F+%F0%9F%A4%96+The+Real+Story+Behind+Artificial+Intelligence%21+%23usa+&lang=en&timestamp=1785795453&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=56">
-          <img src="https://ytcards.demolab.com/?id=S0oBkjWzBAg&title=Who+Invented+AI%3F+%F0%9F%A4%96+The+Real+Story+Behind+Artificial+Intelligence%21+%23usa+&lang=en&timestamp=1785795453&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=56" alt="Who Invented AI? 🤖 The Real Story Behind Artificial Intelligence! #usa " title="Who Invented AI? 🤖 The Real Story Behind Artificial Intelligence! #usa ">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=96TZN03s5eQ&title=Learn+Artificial+Intelligence+Full+Course+2026+%7C+AI+Course+From+Scratch+%7C+Intellipaat&lang=en&timestamp=1785851788&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=38193">
+          <img src="https://ytcards.demolab.com/?id=96TZN03s5eQ&title=Learn+Artificial+Intelligence+Full+Course+2026+%7C+AI+Course+From+Scratch+%7C+Intellipaat&lang=en&timestamp=1785851788&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=38193" alt="Learn Artificial Intelligence Full Course 2026 | AI Course From Scratch | Intellipaat" title="Learn Artificial Intelligence Full Course 2026 | AI Course From Scratch | Intellipaat">
         </picture>
       </a>
     </td>
