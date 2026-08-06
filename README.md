@@ -182,56 +182,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=035USfeJtgw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=mRF99to28sA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=035USfeJtgw&title=%2299%25+Have+No+IDEA+What%27s+Coming+for+the+Markets+%28IT%27S+ABSOLUTELY+MASSIVE%29%22+%7C+Raoul+Pal&lang=en&timestamp=1785974389&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1032">
-          <img src="https://ytcards.demolab.com/?id=035USfeJtgw&title=%2299%25+Have+No+IDEA+What%27s+Coming+for+the+Markets+%28IT%27S+ABSOLUTELY+MASSIVE%29%22+%7C+Raoul+Pal&lang=en&timestamp=1785974389&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1032" alt="&quot;99% Have No IDEA What's Coming for the Markets (IT'S ABSOLUTELY MASSIVE)&quot; | Raoul Pal" title="&quot;99% Have No IDEA What's Coming for the Markets (IT'S ABSOLUTELY MASSIVE)&quot; | Raoul Pal">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mRF99to28sA&title=A+Software+Engineer%27s+Take+On+The+REAL+Threat+Of+AI...&lang=en&timestamp=1785954220&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1296">
+          <img src="https://ytcards.demolab.com/?id=mRF99to28sA&title=A+Software+Engineer%27s+Take+On+The+REAL+Threat+Of+AI...&lang=en&timestamp=1785954220&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1296" alt="A Software Engineer's Take On The REAL Threat Of AI..." title="A Software Engineer's Take On The REAL Threat Of AI...">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ANdc0hi5PV4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=MW8lGS8sj2I" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ANdc0hi5PV4&title=Humanity+Can+No+Longer+Keep+Up&lang=en&timestamp=1785945589&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=679">
-          <img src="https://ytcards.demolab.com/?id=ANdc0hi5PV4&title=Humanity+Can+No+Longer+Keep+Up&lang=en&timestamp=1785945589&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=679" alt="Humanity Can No Longer Keep Up" title="Humanity Can No Longer Keep Up">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=MW8lGS8sj2I&title=Elon+Musk+Says+Superintelligence+in+5+Years.+His+Track+Record+Says+Otherwise.&lang=en&timestamp=1785954220&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=693">
+          <img src="https://ytcards.demolab.com/?id=MW8lGS8sj2I&title=Elon+Musk+Says+Superintelligence+in+5+Years.+His+Track+Record+Says+Otherwise.&lang=en&timestamp=1785954220&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=693" alt="Elon Musk Says Superintelligence in 5 Years. His Track Record Says Otherwise." title="Elon Musk Says Superintelligence in 5 Years. His Track Record Says Otherwise.">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Tjmk7fmEUy4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=9ETxmOfw0JM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Tjmk7fmEUy4&title=Day1+room4+video6&lang=en&timestamp=1785934789&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3408">
-          <img src="https://ytcards.demolab.com/?id=Tjmk7fmEUy4&title=Day1+room4+video6&lang=en&timestamp=1785934789&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3408" alt="Day1 room4 video6" title="Day1 room4 video6">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9ETxmOfw0JM&title=%E2%80%9CAI+bubble+will+pop%E2%80%A6%E2%80%A6%E2%80%A6....any+day+now.%E2%80%9D&lang=en&timestamp=1785975820&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=93">
+          <img src="https://ytcards.demolab.com/?id=9ETxmOfw0JM&title=%E2%80%9CAI+bubble+will+pop%E2%80%A6%E2%80%A6%E2%80%A6....any+day+now.%E2%80%9D&lang=en&timestamp=1785975820&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=93" alt="“AI bubble will pop………....any day now.”" title="“AI bubble will pop………....any day now.”">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=znjjHHjmO9U" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ANdc0hi5PV4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=znjjHHjmO9U&title=No+AI+Detector+Was+Used.+He+Still+Lost+a+%242M+Book+Deal&lang=en&timestamp=1785970789&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1701">
-          <img src="https://ytcards.demolab.com/?id=znjjHHjmO9U&title=No+AI+Detector+Was+Used.+He+Still+Lost+a+%242M+Book+Deal&lang=en&timestamp=1785970789&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1701" alt="No AI Detector Was Used. He Still Lost a $2M Book Deal" title="No AI Detector Was Used. He Still Lost a $2M Book Deal">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ANdc0hi5PV4&title=The+Era+of+Human+Certainty+Is+Over&lang=en&timestamp=1785947020&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=679">
+          <img src="https://ytcards.demolab.com/?id=ANdc0hi5PV4&title=The+Era+of+Human+Certainty+Is+Over&lang=en&timestamp=1785947020&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=679" alt="The Era of Human Certainty Is Over" title="The Era of Human Certainty Is Over">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=tWL004cAug0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=acx2ct7Qd9w" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tWL004cAug0&title=Anthropic%27s+Mythos+AI+created+fake+profiles+to+trick+people+in+hack%2C+then+hid+evidence&lang=en&timestamp=1785967189&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=234">
-          <img src="https://ytcards.demolab.com/?id=tWL004cAug0&title=Anthropic%27s+Mythos+AI+created+fake+profiles+to+trick+people+in+hack%2C+then+hid+evidence&lang=en&timestamp=1785967189&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=234" alt="Anthropic's Mythos AI created fake profiles to trick people in hack, then hid evidence" title="Anthropic's Mythos AI created fake profiles to trick people in hack, then hid evidence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=acx2ct7Qd9w&title=Artificial+Intelligence+for+Diabetes&lang=en&timestamp=1786028440&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3640">
+          <img src="https://ytcards.demolab.com/?id=acx2ct7Qd9w&title=Artificial+Intelligence+for+Diabetes&lang=en&timestamp=1786028440&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3640" alt="Artificial Intelligence for Diabetes" title="Artificial Intelligence for Diabetes">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=j1Vk6Y-23CY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=n4dDTGls7iE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=j1Vk6Y-23CY&title=What+happens+when+you+talk+to+AI%3F&lang=en&timestamp=1785952789&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=288">
-          <img src="https://ytcards.demolab.com/?id=j1Vk6Y-23CY&title=What+happens+when+you+talk+to+AI%3F&lang=en&timestamp=1785952789&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=288" alt="What happens when you talk to AI?" title="What happens when you talk to AI?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=n4dDTGls7iE&title=Aurora+Public+Schools+superintendent+on+artificial+intelligence+in+the+classroom&lang=en&timestamp=1786026400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=131">
+          <img src="https://ytcards.demolab.com/?id=n4dDTGls7iE&title=Aurora+Public+Schools+superintendent+on+artificial+intelligence+in+the+classroom&lang=en&timestamp=1786026400&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=131" alt="Aurora Public Schools superintendent on artificial intelligence in the classroom" title="Aurora Public Schools superintendent on artificial intelligence in the classroom">
         </picture>
       </a>
     </td>
