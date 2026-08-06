@@ -181,56 +181,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=mRF99to28sA" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mRF99to28sA&title=The+Real+AI+Threat+ISN%27T+Sci-Fi+%28It%E2%80%99s+So+Much+Worse%29&lang=en&timestamp=1785955527&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1296">
-          <img src="https://ytcards.demolab.com/?id=mRF99to28sA&title=The+Real+AI+Threat+ISN%27T+Sci-Fi+%28It%E2%80%99s+So+Much+Worse%29&lang=en&timestamp=1785955527&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1296" alt="The Real AI Threat ISN'T Sci-Fi (It’s So Much Worse)" title="The Real AI Threat ISN'T Sci-Fi (It’s So Much Worse)">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=MW8lGS8sj2I" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=MW8lGS8sj2I&title=Elon+Musk%3A+5+Years+to+Superintelligence&lang=en&timestamp=1785955527&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=693">
-          <img src="https://ytcards.demolab.com/?id=MW8lGS8sj2I&title=Elon+Musk%3A+5+Years+to+Superintelligence&lang=en&timestamp=1785955527&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=693" alt="Elon Musk: 5 Years to Superintelligence" title="Elon Musk: 5 Years to Superintelligence">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
       <a href="https://www.youtube.com/watch?v=035USfeJtgw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=035USfeJtgw&title=%2299%25+Have+No+IDEA+What%27s+Coming+for+the+Markets+%28IT%27S+ABSOLUTELY+MASSIVE%29%22+%7C+Raoul+Pal&lang=en&timestamp=1785973527&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1032">
-          <img src="https://ytcards.demolab.com/?id=035USfeJtgw&title=%2299%25+Have+No+IDEA+What%27s+Coming+for+the+Markets+%28IT%27S+ABSOLUTELY+MASSIVE%29%22+%7C+Raoul+Pal&lang=en&timestamp=1785973527&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1032" alt="&quot;99% Have No IDEA What's Coming for the Markets (IT'S ABSOLUTELY MASSIVE)&quot; | Raoul Pal" title="&quot;99% Have No IDEA What's Coming for the Markets (IT'S ABSOLUTELY MASSIVE)&quot; | Raoul Pal">
-        </picture>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=k7TQdmtubFc" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=k7TQdmtubFc&title=Artificial+Intelligence+and+ART+-+AI+on+the+Spectrum&lang=en&timestamp=1785959127&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=890">
-          <img src="https://ytcards.demolab.com/?id=k7TQdmtubFc&title=Artificial+Intelligence+and+ART+-+AI+on+the+Spectrum&lang=en&timestamp=1785959127&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=890" alt="Artificial Intelligence and ART - AI on the Spectrum" title="Artificial Intelligence and ART - AI on the Spectrum">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=035USfeJtgw&title=%2299%25+Have+No+IDEA+What%27s+Coming+for+the+Markets+%28IT%27S+ABSOLUTELY+MASSIVE%29%22+%7C+Raoul+Pal&lang=en&timestamp=1785974389&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1032">
+          <img src="https://ytcards.demolab.com/?id=035USfeJtgw&title=%2299%25+Have+No+IDEA+What%27s+Coming+for+the+Markets+%28IT%27S+ABSOLUTELY+MASSIVE%29%22+%7C+Raoul+Pal&lang=en&timestamp=1785974389&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1032" alt="&quot;99% Have No IDEA What's Coming for the Markets (IT'S ABSOLUTELY MASSIVE)&quot; | Raoul Pal" title="&quot;99% Have No IDEA What's Coming for the Markets (IT'S ABSOLUTELY MASSIVE)&quot; | Raoul Pal">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=ANdc0hi5PV4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ANdc0hi5PV4&title=The+Era+of+Human+Certainty+Is+Over&lang=en&timestamp=1785944727&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=679">
-          <img src="https://ytcards.demolab.com/?id=ANdc0hi5PV4&title=The+Era+of+Human+Certainty+Is+Over&lang=en&timestamp=1785944727&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=679" alt="The Era of Human Certainty Is Over" title="The Era of Human Certainty Is Over">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ANdc0hi5PV4&title=Humanity+Can+No+Longer+Keep+Up&lang=en&timestamp=1785945589&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=679">
+          <img src="https://ytcards.demolab.com/?id=ANdc0hi5PV4&title=Humanity+Can+No+Longer+Keep+Up&lang=en&timestamp=1785945589&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=679" alt="Humanity Can No Longer Keep Up" title="Humanity Can No Longer Keep Up">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=y3HkSohTt2Q" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Tjmk7fmEUy4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=y3HkSohTt2Q&title=Michael+Grayston+Delves+into+Some+Concerns+and+Benefits+of+Artificial+Intelligence&lang=en&timestamp=1785969927&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=931">
-          <img src="https://ytcards.demolab.com/?id=y3HkSohTt2Q&title=Michael+Grayston+Delves+into+Some+Concerns+and+Benefits+of+Artificial+Intelligence&lang=en&timestamp=1785969927&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=931" alt="Michael Grayston Delves into Some Concerns and Benefits of Artificial Intelligence" title="Michael Grayston Delves into Some Concerns and Benefits of Artificial Intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Tjmk7fmEUy4&title=Day1+room4+video6&lang=en&timestamp=1785934789&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3408">
+          <img src="https://ytcards.demolab.com/?id=Tjmk7fmEUy4&title=Day1+room4+video6&lang=en&timestamp=1785934789&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3408" alt="Day1 room4 video6" title="Day1 room4 video6">
+        </picture>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=znjjHHjmO9U" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=znjjHHjmO9U&title=No+AI+Detector+Was+Used.+He+Still+Lost+a+%242M+Book+Deal&lang=en&timestamp=1785970789&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1701">
+          <img src="https://ytcards.demolab.com/?id=znjjHHjmO9U&title=No+AI+Detector+Was+Used.+He+Still+Lost+a+%242M+Book+Deal&lang=en&timestamp=1785970789&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1701" alt="No AI Detector Was Used. He Still Lost a $2M Book Deal" title="No AI Detector Was Used. He Still Lost a $2M Book Deal">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=tWL004cAug0" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tWL004cAug0&title=Anthropic%27s+Mythos+AI+created+fake+profiles+to+trick+people+in+hack%2C+then+hid+evidence&lang=en&timestamp=1785967189&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=234">
+          <img src="https://ytcards.demolab.com/?id=tWL004cAug0&title=Anthropic%27s+Mythos+AI+created+fake+profiles+to+trick+people+in+hack%2C+then+hid+evidence&lang=en&timestamp=1785967189&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=234" alt="Anthropic's Mythos AI created fake profiles to trick people in hack, then hid evidence" title="Anthropic's Mythos AI created fake profiles to trick people in hack, then hid evidence">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=j1Vk6Y-23CY" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=j1Vk6Y-23CY&title=What+happens+when+you+talk+to+AI%3F&lang=en&timestamp=1785952789&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=288">
+          <img src="https://ytcards.demolab.com/?id=j1Vk6Y-23CY&title=What+happens+when+you+talk+to+AI%3F&lang=en&timestamp=1785952789&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=288" alt="What happens when you talk to AI?" title="What happens when you talk to AI?">
         </picture>
       </a>
     </td>
