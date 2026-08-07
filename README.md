@@ -189,30 +189,31 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=6F8F1K4Eahs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6F8F1K4Eahs&title=Why+are+AI+agents+hacking+other+companies+and+have+they+gone+rogue%3F+%7C+BBC+Newscast&lang=en&timestamp=1786039083&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1630">
-          <img src="https://ytcards.demolab.com/?id=6F8F1K4Eahs&title=Why+are+AI+agents+hacking+other+companies+and+have+they+gone+rogue%3F+%7C+BBC+Newscast&lang=en&timestamp=1786039083&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1630" alt="Why are AI agents hacking other companies and have they gone rogue? | BBC Newscast" title="Why are AI agents hacking other companies and have they gone rogue? | BBC Newscast">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6F8F1K4Eahs&title=Why+are+AI+agents+hacking+other+companies+and+have+they+gone+rogue%3F+%7C+BBC+Newscast&lang=en&timestamp=1786042330&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1630">
+          <img src="https://ytcards.demolab.com/?id=6F8F1K4Eahs&title=Why+are+AI+agents+hacking+other+companies+and+have+they+gone+rogue%3F+%7C+BBC+Newscast&lang=en&timestamp=1786042330&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1630" alt="Why are AI agents hacking other companies and have they gone rogue? | BBC Newscast" title="Why are AI agents hacking other companies and have they gone rogue? | BBC Newscast">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=s-MgHZ_oGl0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=s-MgHZ_oGl0&title=The+Fermi+Paradox+Just+Got+Much+Worse&lang=en&timestamp=1786031883&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=473">
-          <img src="https://ytcards.demolab.com/?id=s-MgHZ_oGl0&title=The+Fermi+Paradox+Just+Got+Much+Worse&lang=en&timestamp=1786031883&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=473" alt="The Fermi Paradox Just Got Much Worse" title="The Fermi Paradox Just Got Much Worse">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=s-MgHZ_oGl0&title=The+Fermi+Paradox+Just+Got+Much+Worse&lang=en&timestamp=1786031530&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=473">
+          <img src="https://ytcards.demolab.com/?id=s-MgHZ_oGl0&title=The+Fermi+Paradox+Just+Got+Much+Worse&lang=en&timestamp=1786031530&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=473" alt="The Fermi Paradox Just Got Much Worse" title="The Fermi Paradox Just Got Much Worse">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ctDtDtkqKZA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=qD3cYZVm1Uc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ctDtDtkqKZA&title=%27Godfather+of+AI%27+Issues+Terrifying+Warning&lang=en&timestamp=1786049883&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=556">
-          <img src="https://ytcards.demolab.com/?id=ctDtDtkqKZA&title=%27Godfather+of+AI%27+Issues+Terrifying+Warning&lang=en&timestamp=1786049883&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=556" alt="'Godfather of AI' Issues Terrifying Warning" title="'Godfather of AI' Issues Terrifying Warning">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qD3cYZVm1Uc&title=AI+created+16+new+viruses%3A+Why+that%27s+a+good+thing&lang=en&timestamp=1786071130&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=592">
+          <img src="https://ytcards.demolab.com/?id=qD3cYZVm1Uc&title=AI+created+16+new+viruses%3A+Why+that%27s+a+good+thing&lang=en&timestamp=1786071130&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=592" alt="AI created 16 new viruses: Why that's a good thing" title="AI created 16 new viruses: Why that's a good thing">
         </picture>
       </a>
     </td>
@@ -221,24 +222,24 @@
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=zOSptyQ3j9A" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zOSptyQ3j9A&title=Don%27t+believe+anyone%27s+AGI+timeline+%7C+Toby+Ord%2C+Oxford+University&lang=en&timestamp=1786031883&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=9963">
-          <img src="https://ytcards.demolab.com/?id=zOSptyQ3j9A&title=Don%27t+believe+anyone%27s+AGI+timeline+%7C+Toby+Ord%2C+Oxford+University&lang=en&timestamp=1786031883&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=9963" alt="Don't believe anyone's AGI timeline | Toby Ord, Oxford University" title="Don't believe anyone's AGI timeline | Toby Ord, Oxford University">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zOSptyQ3j9A&title=Don%27t+believe+anyone%27s+AGI+timeline+%7C+Toby+Ord%2C+Oxford+University&lang=en&timestamp=1786031530&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=9963">
+          <img src="https://ytcards.demolab.com/?id=zOSptyQ3j9A&title=Don%27t+believe+anyone%27s+AGI+timeline+%7C+Toby+Ord%2C+Oxford+University&lang=en&timestamp=1786031530&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=9963" alt="Don't believe anyone's AGI timeline | Toby Ord, Oxford University" title="Don't believe anyone's AGI timeline | Toby Ord, Oxford University">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=tUZfFYhocwM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tUZfFYhocwM&title=South+Korea%27s+Kospi+swings+wildly+amid+AI+boom+and+government+intervention&lang=en&timestamp=1786078683&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=157">
-          <img src="https://ytcards.demolab.com/?id=tUZfFYhocwM&title=South+Korea%27s+Kospi+swings+wildly+amid+AI+boom+and+government+intervention&lang=en&timestamp=1786078683&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=157" alt="South Korea's Kospi swings wildly amid AI boom and government intervention" title="South Korea's Kospi swings wildly amid AI boom and government intervention">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tUZfFYhocwM&title=South+Korea%27s+Kospi+swings+wildly+amid+AI+boom+and+government+intervention&lang=en&timestamp=1786078330&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=157">
+          <img src="https://ytcards.demolab.com/?id=tUZfFYhocwM&title=South+Korea%27s+Kospi+swings+wildly+amid+AI+boom+and+government+intervention&lang=en&timestamp=1786078330&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=157" alt="South Korea's Kospi swings wildly amid AI boom and government intervention" title="South Korea's Kospi swings wildly amid AI boom and government intervention">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=RiaICb3RaWo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=XLlBumbX-dw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=RiaICb3RaWo&title=Terrifying+Things+AI+Has+Already+Done+%7CRobots+That+Got+Too+Human%21&lang=en&timestamp=1786064283&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2423">
-          <img src="https://ytcards.demolab.com/?id=RiaICb3RaWo&title=Terrifying+Things+AI+Has+Already+Done+%7CRobots+That+Got+Too+Human%21&lang=en&timestamp=1786064283&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2423" alt="Terrifying Things AI Has Already Done |Robots That Got Too Human!" title="Terrifying Things AI Has Already Done |Robots That Got Too Human!">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XLlBumbX-dw&title=The+Language+of+Control%3A+A+History+of+Technocratic+Sorcery&lang=en&timestamp=1786063930&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4819">
+          <img src="https://ytcards.demolab.com/?id=XLlBumbX-dw&title=The+Language+of+Control%3A+A+History+of+Technocratic+Sorcery&lang=en&timestamp=1786063930&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4819" alt="The Language of Control: A History of Technocratic Sorcery" title="The Language of Control: A History of Technocratic Sorcery">
         </picture>
       </a>
     </td>
