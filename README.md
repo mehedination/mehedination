@@ -184,56 +184,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=s-MgHZ_oGl0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=s-MgHZ_oGl0&title=The+Fermi+Paradox+Just+Got+Much+Worse&lang=en&timestamp=1786028864&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=473">
-          <img src="https://ytcards.demolab.com/?id=s-MgHZ_oGl0&title=The+Fermi+Paradox+Just+Got+Much+Worse&lang=en&timestamp=1786028864&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=473" alt="The Fermi Paradox Just Got Much Worse" title="The Fermi Paradox Just Got Much Worse">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=s-MgHZ_oGl0&title=The+Fermi+Paradox+Just+Got+Much+Worse&lang=en&timestamp=1786031602&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=473">
+          <img src="https://ytcards.demolab.com/?id=s-MgHZ_oGl0&title=The+Fermi+Paradox+Just+Got+Much+Worse&lang=en&timestamp=1786031602&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=473" alt="The Fermi Paradox Just Got Much Worse" title="The Fermi Paradox Just Got Much Worse">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=IxwJ-0Xv8MY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ctDtDtkqKZA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=IxwJ-0Xv8MY&title=Mr.+Freeman%2C+part+16&lang=en&timestamp=1786025264&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=252">
-          <img src="https://ytcards.demolab.com/?id=IxwJ-0Xv8MY&title=Mr.+Freeman%2C+part+16&lang=en&timestamp=1786025264&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=252" alt="Mr. Freeman, part 16" title="Mr. Freeman, part 16">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ctDtDtkqKZA&title=%27Godfather+of+AI%27+Issues+Terrifying+Warning&lang=en&timestamp=1786049602&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=556">
+          <img src="https://ytcards.demolab.com/?id=ctDtDtkqKZA&title=%27Godfather+of+AI%27+Issues+Terrifying+Warning&lang=en&timestamp=1786049602&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=556" alt="'Godfather of AI' Issues Terrifying Warning" title="'Godfather of AI' Issues Terrifying Warning">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=j9_3TcUEVj0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=e5rSGSYJCPA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=j9_3TcUEVj0&title=The+Quantum+Breakthrough+That+Could+Kill+AI+Data+Centers+%E2%80%94+Here%27s+What%27s+Next&lang=en&timestamp=1786025264&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1771">
-          <img src="https://ytcards.demolab.com/?id=j9_3TcUEVj0&title=The+Quantum+Breakthrough+That+Could+Kill+AI+Data+Centers+%E2%80%94+Here%27s+What%27s+Next&lang=en&timestamp=1786025264&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1771" alt="The Quantum Breakthrough That Could Kill AI Data Centers — Here's What's Next" title="The Quantum Breakthrough That Could Kill AI Data Centers — Here's What's Next">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=e5rSGSYJCPA&title=Artificial+intelligence+is+a+THIRSTY+BEAST%21&lang=en&timestamp=1786064002&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=680">
+          <img src="https://ytcards.demolab.com/?id=e5rSGSYJCPA&title=Artificial+intelligence+is+a+THIRSTY+BEAST%21&lang=en&timestamp=1786064002&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=680" alt="Artificial intelligence is a THIRSTY BEAST!" title="Artificial intelligence is a THIRSTY BEAST!">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=KjvPhvQcDA4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=j9_3TcUEVj0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KjvPhvQcDA4&title=I+Will+Find+a+Business+Losing+Money+and+Fix+It+Live+%28Full+AI+Build%29&lang=en&timestamp=1786043264&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7366">
-          <img src="https://ytcards.demolab.com/?id=KjvPhvQcDA4&title=I+Will+Find+a+Business+Losing+Money+and+Fix+It+Live+%28Full+AI+Build%29&lang=en&timestamp=1786043264&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7366" alt="I Will Find a Business Losing Money and Fix It Live (Full AI Build)" title="I Will Find a Business Losing Money and Fix It Live (Full AI Build)">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=j9_3TcUEVj0&title=The+Quantum+Breakthrough+That+Could+Kill+AI+Data+Centers+%E2%80%94+Here%27s+What%27s+Next&lang=en&timestamp=1786028002&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1771">
+          <img src="https://ytcards.demolab.com/?id=j9_3TcUEVj0&title=The+Quantum+Breakthrough+That+Could+Kill+AI+Data+Centers+%E2%80%94+Here%27s+What%27s+Next&lang=en&timestamp=1786028002&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1771" alt="The Quantum Breakthrough That Could Kill AI Data Centers — Here's What's Next" title="The Quantum Breakthrough That Could Kill AI Data Centers — Here's What's Next">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=JYgyvyCccHE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JYgyvyCccHE&title=Is+AI+Becoming+Another+Dot-Com+Bubble%3F+Nvidia+%26+The+Hidden+Risk+%7C+Money+Mind&lang=en&timestamp=1786025264&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=324">
-          <img src="https://ytcards.demolab.com/?id=JYgyvyCccHE&title=Is+AI+Becoming+Another+Dot-Com+Bubble%3F+Nvidia+%26+The+Hidden+Risk+%7C+Money+Mind&lang=en&timestamp=1786025264&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=324" alt="Is AI Becoming Another Dot-Com Bubble? Nvidia & The Hidden Risk | Money Mind" title="Is AI Becoming Another Dot-Com Bubble? Nvidia & The Hidden Risk | Money Mind">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JYgyvyCccHE&title=Is+AI+Becoming+Another+Dot-Com+Bubble%3F+Nvidia+%26+The+Hidden+Risk+%7C+Money+Mind&lang=en&timestamp=1786028002&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=324">
+          <img src="https://ytcards.demolab.com/?id=JYgyvyCccHE&title=Is+AI+Becoming+Another+Dot-Com+Bubble%3F+Nvidia+%26+The+Hidden+Risk+%7C+Money+Mind&lang=en&timestamp=1786028002&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=324" alt="Is AI Becoming Another Dot-Com Bubble? Nvidia & The Hidden Risk | Money Mind" title="Is AI Becoming Another Dot-Com Bubble? Nvidia & The Hidden Risk | Money Mind">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=F5CaQehoBLQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=KjvPhvQcDA4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=F5CaQehoBLQ&title=Lumentum+Explained+%7C+Why+AI+Needs+Lasers&lang=en&timestamp=1786021664&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=857">
-          <img src="https://ytcards.demolab.com/?id=F5CaQehoBLQ&title=Lumentum+Explained+%7C+Why+AI+Needs+Lasers&lang=en&timestamp=1786021664&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=857" alt="Lumentum Explained | Why AI Needs Lasers" title="Lumentum Explained | Why AI Needs Lasers">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KjvPhvQcDA4&title=I+Will+Find+a+Business+Losing+Money+and+Fix+It+Live+%28Full+AI+Build%29&lang=en&timestamp=1786046002&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7366">
+          <img src="https://ytcards.demolab.com/?id=KjvPhvQcDA4&title=I+Will+Find+a+Business+Losing+Money+and+Fix+It+Live+%28Full+AI+Build%29&lang=en&timestamp=1786046002&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7366" alt="I Will Find a Business Losing Money and Fix It Live (Full AI Build)" title="I Will Find a Business Losing Money and Fix It Live (Full AI Build)">
         </picture>
       </a>
     </td>
