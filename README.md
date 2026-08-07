@@ -183,56 +183,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=mRF99to28sA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=s-MgHZ_oGl0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mRF99to28sA&title=A+Software+Engineer%27s+Take+On+The+REAL+Threat+Of+AI...&lang=en&timestamp=1785954220&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1296">
-          <img src="https://ytcards.demolab.com/?id=mRF99to28sA&title=A+Software+Engineer%27s+Take+On+The+REAL+Threat+Of+AI...&lang=en&timestamp=1785954220&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1296" alt="A Software Engineer's Take On The REAL Threat Of AI..." title="A Software Engineer's Take On The REAL Threat Of AI...">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=s-MgHZ_oGl0&title=The+Fermi+Paradox+Just+Got+Much+Worse&lang=en&timestamp=1786028864&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=473">
+          <img src="https://ytcards.demolab.com/?id=s-MgHZ_oGl0&title=The+Fermi+Paradox+Just+Got+Much+Worse&lang=en&timestamp=1786028864&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=473" alt="The Fermi Paradox Just Got Much Worse" title="The Fermi Paradox Just Got Much Worse">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=MW8lGS8sj2I" target="_blank">
+      <a href="https://www.youtube.com/watch?v=IxwJ-0Xv8MY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=MW8lGS8sj2I&title=Elon+Musk+Says+Superintelligence+in+5+Years.+His+Track+Record+Says+Otherwise.&lang=en&timestamp=1785954220&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=693">
-          <img src="https://ytcards.demolab.com/?id=MW8lGS8sj2I&title=Elon+Musk+Says+Superintelligence+in+5+Years.+His+Track+Record+Says+Otherwise.&lang=en&timestamp=1785954220&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=693" alt="Elon Musk Says Superintelligence in 5 Years. His Track Record Says Otherwise." title="Elon Musk Says Superintelligence in 5 Years. His Track Record Says Otherwise.">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=IxwJ-0Xv8MY&title=Mr.+Freeman%2C+part+16&lang=en&timestamp=1786025264&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=252">
+          <img src="https://ytcards.demolab.com/?id=IxwJ-0Xv8MY&title=Mr.+Freeman%2C+part+16&lang=en&timestamp=1786025264&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=252" alt="Mr. Freeman, part 16" title="Mr. Freeman, part 16">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=9ETxmOfw0JM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=j9_3TcUEVj0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9ETxmOfw0JM&title=%E2%80%9CAI+bubble+will+pop%E2%80%A6%E2%80%A6%E2%80%A6....any+day+now.%E2%80%9D&lang=en&timestamp=1785975820&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=93">
-          <img src="https://ytcards.demolab.com/?id=9ETxmOfw0JM&title=%E2%80%9CAI+bubble+will+pop%E2%80%A6%E2%80%A6%E2%80%A6....any+day+now.%E2%80%9D&lang=en&timestamp=1785975820&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=93" alt="“AI bubble will pop………....any day now.”" title="“AI bubble will pop………....any day now.”">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=j9_3TcUEVj0&title=The+Quantum+Breakthrough+That+Could+Kill+AI+Data+Centers+%E2%80%94+Here%27s+What%27s+Next&lang=en&timestamp=1786025264&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1771">
+          <img src="https://ytcards.demolab.com/?id=j9_3TcUEVj0&title=The+Quantum+Breakthrough+That+Could+Kill+AI+Data+Centers+%E2%80%94+Here%27s+What%27s+Next&lang=en&timestamp=1786025264&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1771" alt="The Quantum Breakthrough That Could Kill AI Data Centers — Here's What's Next" title="The Quantum Breakthrough That Could Kill AI Data Centers — Here's What's Next">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ANdc0hi5PV4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=KjvPhvQcDA4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ANdc0hi5PV4&title=The+Era+of+Human+Certainty+Is+Over&lang=en&timestamp=1785947020&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=679">
-          <img src="https://ytcards.demolab.com/?id=ANdc0hi5PV4&title=The+Era+of+Human+Certainty+Is+Over&lang=en&timestamp=1785947020&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=679" alt="The Era of Human Certainty Is Over" title="The Era of Human Certainty Is Over">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KjvPhvQcDA4&title=I+Will+Find+a+Business+Losing+Money+and+Fix+It+Live+%28Full+AI+Build%29&lang=en&timestamp=1786043264&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7366">
+          <img src="https://ytcards.demolab.com/?id=KjvPhvQcDA4&title=I+Will+Find+a+Business+Losing+Money+and+Fix+It+Live+%28Full+AI+Build%29&lang=en&timestamp=1786043264&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7366" alt="I Will Find a Business Losing Money and Fix It Live (Full AI Build)" title="I Will Find a Business Losing Money and Fix It Live (Full AI Build)">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=acx2ct7Qd9w" target="_blank">
+      <a href="https://www.youtube.com/watch?v=JYgyvyCccHE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=acx2ct7Qd9w&title=Artificial+Intelligence+for+Diabetes&lang=en&timestamp=1786028440&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3640">
-          <img src="https://ytcards.demolab.com/?id=acx2ct7Qd9w&title=Artificial+Intelligence+for+Diabetes&lang=en&timestamp=1786028440&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3640" alt="Artificial Intelligence for Diabetes" title="Artificial Intelligence for Diabetes">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JYgyvyCccHE&title=Is+AI+Becoming+Another+Dot-Com+Bubble%3F+Nvidia+%26+The+Hidden+Risk+%7C+Money+Mind&lang=en&timestamp=1786025264&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=324">
+          <img src="https://ytcards.demolab.com/?id=JYgyvyCccHE&title=Is+AI+Becoming+Another+Dot-Com+Bubble%3F+Nvidia+%26+The+Hidden+Risk+%7C+Money+Mind&lang=en&timestamp=1786025264&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=324" alt="Is AI Becoming Another Dot-Com Bubble? Nvidia & The Hidden Risk | Money Mind" title="Is AI Becoming Another Dot-Com Bubble? Nvidia & The Hidden Risk | Money Mind">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=n4dDTGls7iE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=F5CaQehoBLQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=n4dDTGls7iE&title=Aurora+Public+Schools+superintendent+on+artificial+intelligence+in+the+classroom&lang=en&timestamp=1786026400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=131">
-          <img src="https://ytcards.demolab.com/?id=n4dDTGls7iE&title=Aurora+Public+Schools+superintendent+on+artificial+intelligence+in+the+classroom&lang=en&timestamp=1786026400&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=131" alt="Aurora Public Schools superintendent on artificial intelligence in the classroom" title="Aurora Public Schools superintendent on artificial intelligence in the classroom">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=F5CaQehoBLQ&title=Lumentum+Explained+%7C+Why+AI+Needs+Lasers&lang=en&timestamp=1786021664&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=857">
+          <img src="https://ytcards.demolab.com/?id=F5CaQehoBLQ&title=Lumentum+Explained+%7C+Why+AI+Needs+Lasers&lang=en&timestamp=1786021664&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=857" alt="Lumentum Explained | Why AI Needs Lasers" title="Lumentum Explained | Why AI Needs Lasers">
         </picture>
       </a>
     </td>
