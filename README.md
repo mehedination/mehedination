@@ -197,56 +197,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
+      <a href="https://www.youtube.com/watch?v=EdbSZMpJq8A" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EdbSZMpJq8A&title=Scientists+create+new+viruses+with+AI%2C+raising+alarms+about+the+future+of+biosecurity&lang=en&timestamp=1786124560&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=193">
+          <img src="https://ytcards.demolab.com/?id=EdbSZMpJq8A&title=Scientists+create+new+viruses+with+AI%2C+raising+alarms+about+the+future+of+biosecurity&lang=en&timestamp=1786124560&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=193" alt="Scientists create new viruses with AI, raising alarms about the future of biosecurity" title="Scientists create new viruses with AI, raising alarms about the future of biosecurity">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
       <a href="https://www.youtube.com/watch?v=6F8F1K4Eahs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6F8F1K4Eahs&title=Why+are+AI+agents+hacking+other+companies+and+have+they+gone+rogue%3F+%7C+BBC+Newscast&lang=en&timestamp=1786052696&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1630">
-          <img src="https://ytcards.demolab.com/?id=6F8F1K4Eahs&title=Why+are+AI+agents+hacking+other+companies+and+have+they+gone+rogue%3F+%7C+BBC+Newscast&lang=en&timestamp=1786052696&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1630" alt="Why are AI agents hacking other companies and have they gone rogue? | BBC Newscast" title="Why are AI agents hacking other companies and have they gone rogue? | BBC Newscast">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6F8F1K4Eahs&title=Why+are+AI+agents+hacking+other+companies+and+have+they+gone+rogue%3F+%7C+BBC+Newscast&lang=en&timestamp=1786056160&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1630">
+          <img src="https://ytcards.demolab.com/?id=6F8F1K4Eahs&title=Why+are+AI+agents+hacking+other+companies+and+have+they+gone+rogue%3F+%7C+BBC+Newscast&lang=en&timestamp=1786056160&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1630" alt="Why are AI agents hacking other companies and have they gone rogue? | BBC Newscast" title="Why are AI agents hacking other companies and have they gone rogue? | BBC Newscast">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=xlO-bU5UW4U" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xlO-bU5UW4U&title=AI+Expert+Urges+Governments+to+Bring+Development+to+%22Grinding+Halt%22+Amid+Fears+of+Rogue+Technology&lang=en&timestamp=1786052696&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1560">
-          <img src="https://ytcards.demolab.com/?id=xlO-bU5UW4U&title=AI+Expert+Urges+Governments+to+Bring+Development+to+%22Grinding+Halt%22+Amid+Fears+of+Rogue+Technology&lang=en&timestamp=1786052696&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1560" alt="AI Expert Urges Governments to Bring Development to &quot;Grinding Halt&quot; Amid Fears of Rogue Technology" title="AI Expert Urges Governments to Bring Development to &quot;Grinding Halt&quot; Amid Fears of Rogue Technology">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=qD3cYZVm1Uc" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qD3cYZVm1Uc&title=AI+created+16+new+viruses%3A+Why+that%27s+a+good+thing&lang=en&timestamp=1786070696&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=592">
-          <img src="https://ytcards.demolab.com/?id=qD3cYZVm1Uc&title=AI+created+16+new+viruses%3A+Why+that%27s+a+good+thing&lang=en&timestamp=1786070696&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=592" alt="AI created 16 new viruses: Why that's a good thing" title="AI created 16 new viruses: Why that's a good thing">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xlO-bU5UW4U&title=AI+Expert+Urges+Governments+to+Bring+Development+to+%22Grinding+Halt%22+Amid+Fears+of+Rogue+Technology&lang=en&timestamp=1786056160&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1560">
+          <img src="https://ytcards.demolab.com/?id=xlO-bU5UW4U&title=AI+Expert+Urges+Governments+to+Bring+Development+to+%22Grinding+Halt%22+Amid+Fears+of+Rogue+Technology&lang=en&timestamp=1786056160&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1560" alt="AI Expert Urges Governments to Bring Development to &quot;Grinding Halt&quot; Amid Fears of Rogue Technology" title="AI Expert Urges Governments to Bring Development to &quot;Grinding Halt&quot; Amid Fears of Rogue Technology">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=8vhLghV7cvo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=s-MgHZ_oGl0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8vhLghV7cvo&title=Church+Teaching+on+Artificial+Intelligence+-+Living+Divine+Mercy+%28EWTN%29+Ep.+256+w%2F+Fr.+Chris+Alar&lang=en&timestamp=1786074296&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1616">
-          <img src="https://ytcards.demolab.com/?id=8vhLghV7cvo&title=Church+Teaching+on+Artificial+Intelligence+-+Living+Divine+Mercy+%28EWTN%29+Ep.+256+w%2F+Fr.+Chris+Alar&lang=en&timestamp=1786074296&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1616" alt="Church Teaching on Artificial Intelligence - Living Divine Mercy (EWTN) Ep. 256 w/ Fr. Chris Alar" title="Church Teaching on Artificial Intelligence - Living Divine Mercy (EWTN) Ep. 256 w/ Fr. Chris Alar">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=s-MgHZ_oGl0&title=The+Fermi+Paradox+Just+Got+Much+Worse&lang=en&timestamp=1786056160&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=473">
+          <img src="https://ytcards.demolab.com/?id=s-MgHZ_oGl0&title=The+Fermi+Paradox+Just+Got+Much+Worse&lang=en&timestamp=1786056160&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=473" alt="The Fermi Paradox Just Got Much Worse" title="The Fermi Paradox Just Got Much Worse">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=x76YgPqDH7w" target="_blank">
+      <a href="https://www.youtube.com/watch?v=qD3cYZVm1Uc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=x76YgPqDH7w&title=House+Dems+propose+mass+employment+plan+funded+by+AI+tax&lang=en&timestamp=1786052696&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2845">
-          <img src="https://ytcards.demolab.com/?id=x76YgPqDH7w&title=House+Dems+propose+mass+employment+plan+funded+by+AI+tax&lang=en&timestamp=1786052696&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2845" alt="House Dems propose mass employment plan funded by AI tax" title="House Dems propose mass employment plan funded by AI tax">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qD3cYZVm1Uc&title=AI+created+16+new+viruses%3A+Why+that%27s+a+good+thing&lang=en&timestamp=1786070560&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=592">
+          <img src="https://ytcards.demolab.com/?id=qD3cYZVm1Uc&title=AI+created+16+new+viruses%3A+Why+that%27s+a+good+thing&lang=en&timestamp=1786070560&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=592" alt="AI created 16 new viruses: Why that's a good thing" title="AI created 16 new viruses: Why that's a good thing">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=QXWpMHkL46k" target="_blank">
+      <a href="https://www.youtube.com/watch?v=zOSptyQ3j9A" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QXWpMHkL46k&title=Role+of+Artificial+Intelligence+in+Healthcare+%F0%9F%A9%BA+Dr.+D+Nageshwar+Reddy+%7C+ICFAI+16th+Foundation+Day&lang=en&timestamp=1786117496&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6487">
-          <img src="https://ytcards.demolab.com/?id=QXWpMHkL46k&title=Role+of+Artificial+Intelligence+in+Healthcare+%F0%9F%A9%BA+Dr.+D+Nageshwar+Reddy+%7C+ICFAI+16th+Foundation+Day&lang=en&timestamp=1786117496&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6487" alt="Role of Artificial Intelligence in Healthcare 🩺 Dr. D Nageshwar Reddy | ICFAI 16th Foundation Day" title="Role of Artificial Intelligence in Healthcare 🩺 Dr. D Nageshwar Reddy | ICFAI 16th Foundation Day">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zOSptyQ3j9A&title=Where+AGI+timelines+go+wrong+%7C+Toby+Ord%2C+Oxford+University&lang=en&timestamp=1786056160&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=9963">
+          <img src="https://ytcards.demolab.com/?id=zOSptyQ3j9A&title=Where+AGI+timelines+go+wrong+%7C+Toby+Ord%2C+Oxford+University&lang=en&timestamp=1786056160&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=9963" alt="Where AGI timelines go wrong | Toby Ord, Oxford University" title="Where AGI timelines go wrong | Toby Ord, Oxford University">
         </picture>
       </a>
     </td>
