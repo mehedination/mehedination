@@ -190,56 +190,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=6F8F1K4Eahs" target="_blank">
+      <a href="https://www.youtube.com/watch?v=tUZfFYhocwM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6F8F1K4Eahs&title=Why+are+AI+agents+hacking+other+companies+and+have+they+gone+rogue%3F+%7C+BBC+Newscast&lang=en&timestamp=1786042330&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1630">
-          <img src="https://ytcards.demolab.com/?id=6F8F1K4Eahs&title=Why+are+AI+agents+hacking+other+companies+and+have+they+gone+rogue%3F+%7C+BBC+Newscast&lang=en&timestamp=1786042330&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1630" alt="Why are AI agents hacking other companies and have they gone rogue? | BBC Newscast" title="Why are AI agents hacking other companies and have they gone rogue? | BBC Newscast">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tUZfFYhocwM&title=South+Korea%27s+Kospi+swings+wildly+amid+AI+boom+and+government+intervention&lang=en&timestamp=1786076171&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=157">
+          <img src="https://ytcards.demolab.com/?id=tUZfFYhocwM&title=South+Korea%27s+Kospi+swings+wildly+amid+AI+boom+and+government+intervention&lang=en&timestamp=1786076171&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=157" alt="South Korea's Kospi swings wildly amid AI boom and government intervention" title="South Korea's Kospi swings wildly amid AI boom and government intervention">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=s-MgHZ_oGl0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=s-MgHZ_oGl0&title=The+Fermi+Paradox+Just+Got+Much+Worse&lang=en&timestamp=1786031530&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=473">
-          <img src="https://ytcards.demolab.com/?id=s-MgHZ_oGl0&title=The+Fermi+Paradox+Just+Got+Much+Worse&lang=en&timestamp=1786031530&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=473" alt="The Fermi Paradox Just Got Much Worse" title="The Fermi Paradox Just Got Much Worse">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=s-MgHZ_oGl0&title=The+Fermi+Paradox+Just+Got+Much+Worse&lang=en&timestamp=1786029371&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=473">
+          <img src="https://ytcards.demolab.com/?id=s-MgHZ_oGl0&title=The+Fermi+Paradox+Just+Got+Much+Worse&lang=en&timestamp=1786029371&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=473" alt="The Fermi Paradox Just Got Much Worse" title="The Fermi Paradox Just Got Much Worse">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=qD3cYZVm1Uc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=zOSptyQ3j9A" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qD3cYZVm1Uc&title=AI+created+16+new+viruses%3A+Why+that%27s+a+good+thing&lang=en&timestamp=1786071130&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=592">
-          <img src="https://ytcards.demolab.com/?id=qD3cYZVm1Uc&title=AI+created+16+new+viruses%3A+Why+that%27s+a+good+thing&lang=en&timestamp=1786071130&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=592" alt="AI created 16 new viruses: Why that's a good thing" title="AI created 16 new viruses: Why that's a good thing">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zOSptyQ3j9A&title=Where+AGI+timelines+go+wrong+%7C+Toby+Ord%2C+Oxford+University&lang=en&timestamp=1786032971&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=9963">
+          <img src="https://ytcards.demolab.com/?id=zOSptyQ3j9A&title=Where+AGI+timelines+go+wrong+%7C+Toby+Ord%2C+Oxford+University&lang=en&timestamp=1786032971&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=9963" alt="Where AGI timelines go wrong | Toby Ord, Oxford University" title="Where AGI timelines go wrong | Toby Ord, Oxford University">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=zOSptyQ3j9A" target="_blank">
+      <a href="https://www.youtube.com/watch?v=qD3cYZVm1Uc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zOSptyQ3j9A&title=Don%27t+believe+anyone%27s+AGI+timeline+%7C+Toby+Ord%2C+Oxford+University&lang=en&timestamp=1786031530&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=9963">
-          <img src="https://ytcards.demolab.com/?id=zOSptyQ3j9A&title=Don%27t+believe+anyone%27s+AGI+timeline+%7C+Toby+Ord%2C+Oxford+University&lang=en&timestamp=1786031530&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=9963" alt="Don't believe anyone's AGI timeline | Toby Ord, Oxford University" title="Don't believe anyone's AGI timeline | Toby Ord, Oxford University">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qD3cYZVm1Uc&title=AI+created+16+new+viruses%3A+Why+that%27s+a+good+thing&lang=en&timestamp=1786068971&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=592">
+          <img src="https://ytcards.demolab.com/?id=qD3cYZVm1Uc&title=AI+created+16+new+viruses%3A+Why+that%27s+a+good+thing&lang=en&timestamp=1786068971&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=592" alt="AI created 16 new viruses: Why that's a good thing" title="AI created 16 new viruses: Why that's a good thing">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=tUZfFYhocwM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=8vhLghV7cvo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tUZfFYhocwM&title=South+Korea%27s+Kospi+swings+wildly+amid+AI+boom+and+government+intervention&lang=en&timestamp=1786078330&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=157">
-          <img src="https://ytcards.demolab.com/?id=tUZfFYhocwM&title=South+Korea%27s+Kospi+swings+wildly+amid+AI+boom+and+government+intervention&lang=en&timestamp=1786078330&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=157" alt="South Korea's Kospi swings wildly amid AI boom and government intervention" title="South Korea's Kospi swings wildly amid AI boom and government intervention">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8vhLghV7cvo&title=Church+Teaching+on+Artificial+Intelligence+-+Living+Divine+Mercy+%28EWTN%29+Ep.+256+w%2F+Fr.+Chris+Alar&lang=en&timestamp=1786072571&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1616">
+          <img src="https://ytcards.demolab.com/?id=8vhLghV7cvo&title=Church+Teaching+on+Artificial+Intelligence+-+Living+Divine+Mercy+%28EWTN%29+Ep.+256+w%2F+Fr.+Chris+Alar&lang=en&timestamp=1786072571&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1616" alt="Church Teaching on Artificial Intelligence - Living Divine Mercy (EWTN) Ep. 256 w/ Fr. Chris Alar" title="Church Teaching on Artificial Intelligence - Living Divine Mercy (EWTN) Ep. 256 w/ Fr. Chris Alar">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=XLlBumbX-dw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=nWfP_a13C0g" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XLlBumbX-dw&title=The+Language+of+Control%3A+A+History+of+Technocratic+Sorcery&lang=en&timestamp=1786063930&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4819">
-          <img src="https://ytcards.demolab.com/?id=XLlBumbX-dw&title=The+Language+of+Control%3A+A+History+of+Technocratic+Sorcery&lang=en&timestamp=1786063930&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4819" alt="The Language of Control: A History of Technocratic Sorcery" title="The Language of Control: A History of Technocratic Sorcery">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nWfP_a13C0g&title=Ham+Radio+Meets+AI%21+%F0%9F%A4%96%F0%9F%93%BB+How+Artificial+Intelligence+is+Changing+Amateur+Radio+%7C+HamShackTV+LIVE&lang=en&timestamp=1786072571&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=9014">
+          <img src="https://ytcards.demolab.com/?id=nWfP_a13C0g&title=Ham+Radio+Meets+AI%21+%F0%9F%A4%96%F0%9F%93%BB+How+Artificial+Intelligence+is+Changing+Amateur+Radio+%7C+HamShackTV+LIVE&lang=en&timestamp=1786072571&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=9014" alt="Ham Radio Meets AI! 🤖📻 How Artificial Intelligence is Changing Amateur Radio | HamShackTV LIVE" title="Ham Radio Meets AI! 🤖📻 How Artificial Intelligence is Changing Amateur Radio | HamShackTV LIVE">
         </picture>
       </a>
     </td>
