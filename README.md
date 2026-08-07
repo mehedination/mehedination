@@ -186,56 +186,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=s-MgHZ_oGl0" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=s-MgHZ_oGl0&title=The+Fermi+Paradox+Just+Got+Much+Worse&lang=en&timestamp=1786031075&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=473">
-          <img src="https://ytcards.demolab.com/?id=s-MgHZ_oGl0&title=The+Fermi+Paradox+Just+Got+Much+Worse&lang=en&timestamp=1786031075&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=473" alt="The Fermi Paradox Just Got Much Worse" title="The Fermi Paradox Just Got Much Worse">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
       <a href="https://www.youtube.com/watch?v=ctDtDtkqKZA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ctDtDtkqKZA&title=%27Godfather+of+AI%27+Issues+Terrifying+Warning&lang=en&timestamp=1786049075&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=556">
-          <img src="https://ytcards.demolab.com/?id=ctDtDtkqKZA&title=%27Godfather+of+AI%27+Issues+Terrifying+Warning&lang=en&timestamp=1786049075&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=556" alt="'Godfather of AI' Issues Terrifying Warning" title="'Godfather of AI' Issues Terrifying Warning">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ctDtDtkqKZA&title=%27Godfather+of+AI%27+Issues+Terrifying+Warning&lang=en&timestamp=1786047904&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=556">
+          <img src="https://ytcards.demolab.com/?id=ctDtDtkqKZA&title=%27Godfather+of+AI%27+Issues+Terrifying+Warning&lang=en&timestamp=1786047904&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=556" alt="'Godfather of AI' Issues Terrifying Warning" title="'Godfather of AI' Issues Terrifying Warning">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=JYgyvyCccHE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=zOSptyQ3j9A" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JYgyvyCccHE&title=Is+AI+Becoming+Another+Dot-Com+Bubble%3F+Nvidia+%26+The+Hidden+Risk+%7C+Money+Mind&lang=en&timestamp=1786027475&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=324">
-          <img src="https://ytcards.demolab.com/?id=JYgyvyCccHE&title=Is+AI+Becoming+Another+Dot-Com+Bubble%3F+Nvidia+%26+The+Hidden+Risk+%7C+Money+Mind&lang=en&timestamp=1786027475&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=324" alt="Is AI Becoming Another Dot-Com Bubble? Nvidia & The Hidden Risk | Money Mind" title="Is AI Becoming Another Dot-Com Bubble? Nvidia & The Hidden Risk | Money Mind">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zOSptyQ3j9A&title=Where+AGI+timelines+go+wrong+%7C+Toby+Ord%2C+Oxford+University&lang=en&timestamp=1786033504&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=9963">
+          <img src="https://ytcards.demolab.com/?id=zOSptyQ3j9A&title=Where+AGI+timelines+go+wrong+%7C+Toby+Ord%2C+Oxford+University&lang=en&timestamp=1786033504&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=9963" alt="Where AGI timelines go wrong | Toby Ord, Oxford University" title="Where AGI timelines go wrong | Toby Ord, Oxford University">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=s-MgHZ_oGl0" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=s-MgHZ_oGl0&title=The+Fermi+Paradox+Just+Got+Much+Worse&lang=en&timestamp=1786029904&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=473">
+          <img src="https://ytcards.demolab.com/?id=s-MgHZ_oGl0&title=The+Fermi+Paradox+Just+Got+Much+Worse&lang=en&timestamp=1786029904&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=473" alt="The Fermi Paradox Just Got Much Worse" title="The Fermi Paradox Just Got Much Worse">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=IxwJ-0Xv8MY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=XLlBumbX-dw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=IxwJ-0Xv8MY&title=Mr.+Freeman%2C+part+16&lang=en&timestamp=1786027475&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=252">
-          <img src="https://ytcards.demolab.com/?id=IxwJ-0Xv8MY&title=Mr.+Freeman%2C+part+16&lang=en&timestamp=1786027475&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=252" alt="Mr. Freeman, part 16" title="Mr. Freeman, part 16">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XLlBumbX-dw&title=The+Language+of+Control%3A+A+History+of+Technocratic+Sorcery&lang=en&timestamp=1786065904&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4819">
+          <img src="https://ytcards.demolab.com/?id=XLlBumbX-dw&title=The+Language+of+Control%3A+A+History+of+Technocratic+Sorcery&lang=en&timestamp=1786065904&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4819" alt="The Language of Control: A History of Technocratic Sorcery" title="The Language of Control: A History of Technocratic Sorcery">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=j9_3TcUEVj0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=RiaICb3RaWo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=j9_3TcUEVj0&title=The+Quantum+Breakthrough+That+Could+Kill+AI+Data+Centers+%E2%80%94+Here%27s+What%27s+Next&lang=en&timestamp=1786027475&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1771">
-          <img src="https://ytcards.demolab.com/?id=j9_3TcUEVj0&title=The+Quantum+Breakthrough+That+Could+Kill+AI+Data+Centers+%E2%80%94+Here%27s+What%27s+Next&lang=en&timestamp=1786027475&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1771" alt="The Quantum Breakthrough That Could Kill AI Data Centers — Here's What's Next" title="The Quantum Breakthrough That Could Kill AI Data Centers — Here's What's Next">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=RiaICb3RaWo&title=Terrifying+Things+AI+Has+Already+Done+%7CRobots+That+Got+Too+Human%21&lang=en&timestamp=1786065904&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2423">
+          <img src="https://ytcards.demolab.com/?id=RiaICb3RaWo&title=Terrifying+Things+AI+Has+Already+Done+%7CRobots+That+Got+Too+Human%21&lang=en&timestamp=1786065904&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2423" alt="Terrifying Things AI Has Already Done |Robots That Got Too Human!" title="Terrifying Things AI Has Already Done |Robots That Got Too Human!">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=8vhLghV7cvo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Cy-BTiIZ7tA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8vhLghV7cvo&title=Church+Teaching+on+Artificial+Intelligence+-+Living+Divine+Mercy+%28EWTN%29+Ep.+256+w%2F+Fr.+Chris+Alar&lang=en&timestamp=1786074275&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1616">
-          <img src="https://ytcards.demolab.com/?id=8vhLghV7cvo&title=Church+Teaching+on+Artificial+Intelligence+-+Living+Divine+Mercy+%28EWTN%29+Ep.+256+w%2F+Fr.+Chris+Alar&lang=en&timestamp=1786074275&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1616" alt="Church Teaching on Artificial Intelligence - Living Divine Mercy (EWTN) Ep. 256 w/ Fr. Chris Alar" title="Church Teaching on Artificial Intelligence - Living Divine Mercy (EWTN) Ep. 256 w/ Fr. Chris Alar">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Cy-BTiIZ7tA&title=Use+of+Artificial+Intelligence+%28AI%29+in+the+Teaching+Learning+Process%3A+DepEd+Order+No.+003%2C+s.+2026&lang=en&timestamp=1786086904&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=11">
+          <img src="https://ytcards.demolab.com/?id=Cy-BTiIZ7tA&title=Use+of+Artificial+Intelligence+%28AI%29+in+the+Teaching+Learning+Process%3A+DepEd+Order+No.+003%2C+s.+2026&lang=en&timestamp=1786086904&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=11" alt="Use of Artificial Intelligence (AI) in the Teaching Learning Process: DepEd Order No. 003, s. 2026" title="Use of Artificial Intelligence (AI) in the Teaching Learning Process: DepEd Order No. 003, s. 2026">
         </picture>
       </a>
     </td>
