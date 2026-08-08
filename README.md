@@ -210,56 +210,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=iewm45atodE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=FIsKDWXKO00" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=iewm45atodE&title=8+Predictions+for+the+Era+of+Continual+Learning&lang=en&timestamp=1786124214&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=518">
-          <img src="https://ytcards.demolab.com/?id=iewm45atodE&title=8+Predictions+for+the+Era+of+Continual+Learning&lang=en&timestamp=1786124214&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=518" alt="8 Predictions for the Era of Continual Learning" title="8 Predictions for the Era of Continual Learning">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=FIsKDWXKO00&title=Growing+concerns+over+ability+to+control+AI&lang=en&timestamp=1786138805&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=205">
+          <img src="https://ytcards.demolab.com/?id=FIsKDWXKO00&title=Growing+concerns+over+ability+to+control+AI&lang=en&timestamp=1786138805&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=205" alt="Growing concerns over ability to control AI" title="Growing concerns over ability to control AI">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=MEw7TrAUEPQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=iewm45atodE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=MEw7TrAUEPQ&title=China+Just+Shocked+Everyone+With+a+10+Trillion+Parameter+AI+Model&lang=en&timestamp=1786149414&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=928">
-          <img src="https://ytcards.demolab.com/?id=MEw7TrAUEPQ&title=China+Just+Shocked+Everyone+With+a+10+Trillion+Parameter+AI+Model&lang=en&timestamp=1786149414&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=928" alt="China Just Shocked Everyone With a 10 Trillion Parameter AI Model" title="China Just Shocked Everyone With a 10 Trillion Parameter AI Model">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=iewm45atodE&title=8+Predictions+for+the+Era+of+Continual+Learning&lang=en&timestamp=1786124405&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=518">
+          <img src="https://ytcards.demolab.com/?id=iewm45atodE&title=8+Predictions+for+the+Era+of+Continual+Learning&lang=en&timestamp=1786124405&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=518" alt="8 Predictions for the Era of Continual Learning" title="8 Predictions for the Era of Continual Learning">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=muRIXCDw-k0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=muRIXCDw-k0&title=Google%E2%80%99s+AI+Brain+Drain%2C+SpaceX%27s+Huge+Quarter%2C+Airtable%E2%80%99s+90%25+Collapse%2C+US+Data+Fuels+China+AI&lang=en&timestamp=1786153014&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4518">
-          <img src="https://ytcards.demolab.com/?id=muRIXCDw-k0&title=Google%E2%80%99s+AI+Brain+Drain%2C+SpaceX%27s+Huge+Quarter%2C+Airtable%E2%80%99s+90%25+Collapse%2C+US+Data+Fuels+China+AI&lang=en&timestamp=1786153014&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4518" alt="Google’s AI Brain Drain, SpaceX's Huge Quarter, Airtable’s 90% Collapse, US Data Fuels China AI" title="Google’s AI Brain Drain, SpaceX's Huge Quarter, Airtable’s 90% Collapse, US Data Fuels China AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=muRIXCDw-k0&title=Google%E2%80%99s+AI+Brain+Drain%2C+SpaceX%27s+Huge+Quarter%2C+Airtable%E2%80%99s+90%25+Collapse%2C+US+Data+Fuels+China+AI&lang=en&timestamp=1786153205&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4518">
+          <img src="https://ytcards.demolab.com/?id=muRIXCDw-k0&title=Google%E2%80%99s+AI+Brain+Drain%2C+SpaceX%27s+Huge+Quarter%2C+Airtable%E2%80%99s+90%25+Collapse%2C+US+Data+Fuels+China+AI&lang=en&timestamp=1786153205&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4518" alt="Google’s AI Brain Drain, SpaceX's Huge Quarter, Airtable’s 90% Collapse, US Data Fuels China AI" title="Google’s AI Brain Drain, SpaceX's Huge Quarter, Airtable’s 90% Collapse, US Data Fuels China AI">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=BThiONABge4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=MEw7TrAUEPQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BThiONABge4&title=Is+Australia+falling+behind+in+the+AI+race%3F+%7C+Insiders+On+Background&lang=en&timestamp=1786163814&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2098">
-          <img src="https://ytcards.demolab.com/?id=BThiONABge4&title=Is+Australia+falling+behind+in+the+AI+race%3F+%7C+Insiders+On+Background&lang=en&timestamp=1786163814&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2098" alt="Is Australia falling behind in the AI race? | Insiders On Background" title="Is Australia falling behind in the AI race? | Insiders On Background">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=MEw7TrAUEPQ&title=China+Just+Shocked+Everyone+With+a+10+Trillion+Parameter+AI+Model&lang=en&timestamp=1786149605&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=928">
+          <img src="https://ytcards.demolab.com/?id=MEw7TrAUEPQ&title=China+Just+Shocked+Everyone+With+a+10+Trillion+Parameter+AI+Model&lang=en&timestamp=1786149605&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=928" alt="China Just Shocked Everyone With a 10 Trillion Parameter AI Model" title="China Just Shocked Everyone With a 10 Trillion Parameter AI Model">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=enaZkrusaV4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=W0wXevMkdMM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=enaZkrusaV4&title=The+AI+Browser+Is+Coming+%E2%80%94+And+It+Will+Change+the+Internet+Forever&lang=en&timestamp=1786113414&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=824">
-          <img src="https://ytcards.demolab.com/?id=enaZkrusaV4&title=The+AI+Browser+Is+Coming+%E2%80%94+And+It+Will+Change+the+Internet+Forever&lang=en&timestamp=1786113414&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=824" alt="The AI Browser Is Coming — And It Will Change the Internet Forever" title="The AI Browser Is Coming — And It Will Change the Internet Forever">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=W0wXevMkdMM&title=Anthropic%E2%80%99s+sandbox+breach%2C+EU%E2%80%99s+AI+transparency+push+and+DeepSeek%E2%80%99s+cost-cutting+model&lang=en&timestamp=1786120805&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2422">
+          <img src="https://ytcards.demolab.com/?id=W0wXevMkdMM&title=Anthropic%E2%80%99s+sandbox+breach%2C+EU%E2%80%99s+AI+transparency+push+and+DeepSeek%E2%80%99s+cost-cutting+model&lang=en&timestamp=1786120805&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2422" alt="Anthropic’s sandbox breach, EU’s AI transparency push and DeepSeek’s cost-cutting model" title="Anthropic’s sandbox breach, EU’s AI transparency push and DeepSeek’s cost-cutting model">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=TES0N3m6jkM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=2iN75PZGb6Y" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=TES0N3m6jkM&title=Here%27s+why+everyone+is+going+back+to+ChatGPT...&lang=en&timestamp=1786131414&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5557">
-          <img src="https://ytcards.demolab.com/?id=TES0N3m6jkM&title=Here%27s+why+everyone+is+going+back+to+ChatGPT...&lang=en&timestamp=1786131414&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5557" alt="Here's why everyone is going back to ChatGPT..." title="Here's why everyone is going back to ChatGPT...">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2iN75PZGb6Y&title=%E2%80%9CUsed+to+Manipulate+You%E2%80%9D+-+AI+Persuasion+Bots+Persuading+Voters+in+Election+Cycles&lang=en&timestamp=1786124405&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=924">
+          <img src="https://ytcards.demolab.com/?id=2iN75PZGb6Y&title=%E2%80%9CUsed+to+Manipulate+You%E2%80%9D+-+AI+Persuasion+Bots+Persuading+Voters+in+Election+Cycles&lang=en&timestamp=1786124405&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=924" alt="“Used to Manipulate You” - AI Persuasion Bots Persuading Voters in Election Cycles" title="“Used to Manipulate You” - AI Persuasion Bots Persuading Voters in Election Cycles">
         </picture>
       </a>
     </td>
