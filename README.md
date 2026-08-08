@@ -199,56 +199,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=6F8F1K4Eahs" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6F8F1K4Eahs&title=Why+are+AI+agents+hacking+other+companies+and+have+they+gone+rogue%3F+%7C+BBC+Newscast&lang=en&timestamp=1786059499&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1630">
-          <img src="https://ytcards.demolab.com/?id=6F8F1K4Eahs&title=Why+are+AI+agents+hacking+other+companies+and+have+they+gone+rogue%3F+%7C+BBC+Newscast&lang=en&timestamp=1786059499&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1630" alt="Why are AI agents hacking other companies and have they gone rogue? | BBC Newscast" title="Why are AI agents hacking other companies and have they gone rogue? | BBC Newscast">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
       <a href="https://www.youtube.com/watch?v=EdbSZMpJq8A" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EdbSZMpJq8A&title=Scientists+create+new+viruses+with+AI%2C+raising+alarms+about+the+future+of+biosecurity&lang=en&timestamp=1786124299&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=193">
-          <img src="https://ytcards.demolab.com/?id=EdbSZMpJq8A&title=Scientists+create+new+viruses+with+AI%2C+raising+alarms+about+the+future+of+biosecurity&lang=en&timestamp=1786124299&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=193" alt="Scientists create new viruses with AI, raising alarms about the future of biosecurity" title="Scientists create new viruses with AI, raising alarms about the future of biosecurity">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EdbSZMpJq8A&title=Scientists+create+new+viruses+with+AI%2C+raising+alarms+about+the+future+of+biosecurity&lang=en&timestamp=1786122012&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=193">
+          <img src="https://ytcards.demolab.com/?id=EdbSZMpJq8A&title=Scientists+create+new+viruses+with+AI%2C+raising+alarms+about+the+future+of+biosecurity&lang=en&timestamp=1786122012&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=193" alt="Scientists create new viruses with AI, raising alarms about the future of biosecurity" title="Scientists create new viruses with AI, raising alarms about the future of biosecurity">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=LVepOOCtjnQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=2iN75PZGb6Y" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=LVepOOCtjnQ&title=What+is+Google+even+doing%3F&lang=en&timestamp=1786066699&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=839">
-          <img src="https://ytcards.demolab.com/?id=LVepOOCtjnQ&title=What+is+Google+even+doing%3F&lang=en&timestamp=1786066699&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=839" alt="What is Google even doing?" title="What is Google even doing?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2iN75PZGb6Y&title=%E2%80%9CUsed+to+Manipulate+You%E2%80%9D+-+AI+Persuasion+Bots+Persuading+Voters+in+Election+Cycles&lang=en&timestamp=1786125612&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=924">
+          <img src="https://ytcards.demolab.com/?id=2iN75PZGb6Y&title=%E2%80%9CUsed+to+Manipulate+You%E2%80%9D+-+AI+Persuasion+Bots+Persuading+Voters+in+Election+Cycles&lang=en&timestamp=1786125612&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=924" alt="“Used to Manipulate You” - AI Persuasion Bots Persuading Voters in Election Cycles" title="“Used to Manipulate You” - AI Persuasion Bots Persuading Voters in Election Cycles">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=4MZ2SZOO-hw" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4MZ2SZOO-hw&title=Fears+As+Scientists+Use+AI+To+Create+New+Viruses+That+Don%E2%80%99t+Exist+In+Nature+%7C+10%E2%80%99s+Late+News&lang=en&timestamp=1786107612&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=85">
+          <img src="https://ytcards.demolab.com/?id=4MZ2SZOO-hw&title=Fears+As+Scientists+Use+AI+To+Create+New+Viruses+That+Don%E2%80%99t+Exist+In+Nature+%7C+10%E2%80%99s+Late+News&lang=en&timestamp=1786107612&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=85" alt="Fears As Scientists Use AI To Create New Viruses That Don’t Exist In Nature | 10’s Late News" title="Fears As Scientists Use AI To Create New Viruses That Don’t Exist In Nature | 10’s Late News">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=xlO-bU5UW4U" target="_blank">
+      <a href="https://www.youtube.com/watch?v=inH6kVBs7u0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xlO-bU5UW4U&title=AI+Expert+Urges+Governments+to+Bring+Development+to+%22Grinding+Halt%22+Amid+Fears+of+Rogue+Technology&lang=en&timestamp=1786059499&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1560">
-          <img src="https://ytcards.demolab.com/?id=xlO-bU5UW4U&title=AI+Expert+Urges+Governments+to+Bring+Development+to+%22Grinding+Halt%22+Amid+Fears+of+Rogue+Technology&lang=en&timestamp=1786059499&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1560" alt="AI Expert Urges Governments to Bring Development to &quot;Grinding Halt&quot; Amid Fears of Rogue Technology" title="AI Expert Urges Governments to Bring Development to &quot;Grinding Halt&quot; Amid Fears of Rogue Technology">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=inH6kVBs7u0&title=AI+just+created+viruses+that+never+existed+before%3A+Should+we+be+worried%3F+%7C+DW+News&lang=en&timestamp=1786107612&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1110">
+          <img src="https://ytcards.demolab.com/?id=inH6kVBs7u0&title=AI+just+created+viruses+that+never+existed+before%3A+Should+we+be+worried%3F+%7C+DW+News&lang=en&timestamp=1786107612&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1110" alt="AI just created viruses that never existed before: Should we be worried? | DW News" title="AI just created viruses that never existed before: Should we be worried? | DW News">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=s-MgHZ_oGl0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=MhWxu_RI_uw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=s-MgHZ_oGl0&title=The+Fermi+Paradox+Just+Got+Much+Worse&lang=en&timestamp=1786059499&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=473">
-          <img src="https://ytcards.demolab.com/?id=s-MgHZ_oGl0&title=The+Fermi+Paradox+Just+Got+Much+Worse&lang=en&timestamp=1786059499&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=473" alt="The Fermi Paradox Just Got Much Worse" title="The Fermi Paradox Just Got Much Worse">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=MhWxu_RI_uw&title=How+AI+could+be+taking+on+a+life+of+its+own&lang=en&timestamp=1786129212&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=578">
+          <img src="https://ytcards.demolab.com/?id=MhWxu_RI_uw&title=How+AI+could+be+taking+on+a+life+of+its+own&lang=en&timestamp=1786129212&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=578" alt="How AI could be taking on a life of its own" title="How AI could be taking on a life of its own">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=zOSptyQ3j9A" target="_blank">
+      <a href="https://www.youtube.com/watch?v=5koKl3oVUvk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zOSptyQ3j9A&title=Where+AGI+timelines+go+wrong+%7C+Toby+Ord%2C+Oxford+University&lang=en&timestamp=1786059499&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=9963">
-          <img src="https://ytcards.demolab.com/?id=zOSptyQ3j9A&title=Where+AGI+timelines+go+wrong+%7C+Toby+Ord%2C+Oxford+University&lang=en&timestamp=1786059499&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=9963" alt="Where AGI timelines go wrong | Toby Ord, Oxford University" title="Where AGI timelines go wrong | Toby Ord, Oxford University">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5koKl3oVUvk&title=Is+AI+in+the+Classroom+Actually+Helping+Students%3F+NYT+Reporter+Explains+%7C+Amanpour+and+Company&lang=en&timestamp=1786132812&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1061">
+          <img src="https://ytcards.demolab.com/?id=5koKl3oVUvk&title=Is+AI+in+the+Classroom+Actually+Helping+Students%3F+NYT+Reporter+Explains+%7C+Amanpour+and+Company&lang=en&timestamp=1786132812&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1061" alt="Is AI in the Classroom Actually Helping Students? NYT Reporter Explains | Amanpour and Company" title="Is AI in the Classroom Actually Helping Students? NYT Reporter Explains | Amanpour and Company">
         </picture>
       </a>
     </td>
