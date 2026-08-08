@@ -206,56 +206,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=FIsKDWXKO00" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=FIsKDWXKO00&title=Growing+concerns+over+ability+to+control+AI&lang=en&timestamp=1786138731&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=205">
-          <img src="https://ytcards.demolab.com/?id=FIsKDWXKO00&title=Growing+concerns+over+ability+to+control+AI&lang=en&timestamp=1786138731&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=205" alt="Growing concerns over ability to control AI" title="Growing concerns over ability to control AI">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
       <a href="https://www.youtube.com/watch?v=EdbSZMpJq8A" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EdbSZMpJq8A&title=Scientists+create+new+viruses+with+AI%2C+raising+alarms+about+the+future+of+biosecurity&lang=en&timestamp=1786124331&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=193">
-          <img src="https://ytcards.demolab.com/?id=EdbSZMpJq8A&title=Scientists+create+new+viruses+with+AI%2C+raising+alarms+about+the+future+of+biosecurity&lang=en&timestamp=1786124331&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=193" alt="Scientists create new viruses with AI, raising alarms about the future of biosecurity" title="Scientists create new viruses with AI, raising alarms about the future of biosecurity">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EdbSZMpJq8A&title=Scientists+create+new+viruses+with+AI%2C+raising+alarms+about+the+future+of+biosecurity&lang=en&timestamp=1786124030&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=193">
+          <img src="https://ytcards.demolab.com/?id=EdbSZMpJq8A&title=Scientists+create+new+viruses+with+AI%2C+raising+alarms+about+the+future+of+biosecurity&lang=en&timestamp=1786124030&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=193" alt="Scientists create new viruses with AI, raising alarms about the future of biosecurity" title="Scientists create new viruses with AI, raising alarms about the future of biosecurity">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=iewm45atodE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=iewm45atodE&title=Locking+in+AI+safety+regulation+now+is+a+mistake&lang=en&timestamp=1786124331&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=518">
-          <img src="https://ytcards.demolab.com/?id=iewm45atodE&title=Locking+in+AI+safety+regulation+now+is+a+mistake&lang=en&timestamp=1786124331&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=518" alt="Locking in AI safety regulation now is a mistake" title="Locking in AI safety regulation now is a mistake">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=iewm45atodE&title=8+Predictions+for+the+Era+of+Continual+Learning&lang=en&timestamp=1786124030&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=518">
+          <img src="https://ytcards.demolab.com/?id=iewm45atodE&title=8+Predictions+for+the+Era+of+Continual+Learning&lang=en&timestamp=1786124030&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=518" alt="8 Predictions for the Era of Continual Learning" title="8 Predictions for the Era of Continual Learning">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=MEw7TrAUEPQ" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=MEw7TrAUEPQ&title=China+Just+Shocked+Everyone+With+a+10+Trillion+Parameter+AI+Model&lang=en&timestamp=1786149230&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=928">
+          <img src="https://ytcards.demolab.com/?id=MEw7TrAUEPQ&title=China+Just+Shocked+Everyone+With+a+10+Trillion+Parameter+AI+Model&lang=en&timestamp=1786149230&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=928" alt="China Just Shocked Everyone With a 10 Trillion Parameter AI Model" title="China Just Shocked Everyone With a 10 Trillion Parameter AI Model">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=W0wXevMkdMM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=enaZkrusaV4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=W0wXevMkdMM&title=Anthropic%E2%80%99s+sandbox+breach%2C+EU%E2%80%99s+AI+transparency+push+and+DeepSeek%E2%80%99s+cost-cutting+model&lang=en&timestamp=1786099131&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2422">
-          <img src="https://ytcards.demolab.com/?id=W0wXevMkdMM&title=Anthropic%E2%80%99s+sandbox+breach%2C+EU%E2%80%99s+AI+transparency+push+and+DeepSeek%E2%80%99s+cost-cutting+model&lang=en&timestamp=1786099131&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2422" alt="Anthropic’s sandbox breach, EU’s AI transparency push and DeepSeek’s cost-cutting model" title="Anthropic’s sandbox breach, EU’s AI transparency push and DeepSeek’s cost-cutting model">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=enaZkrusaV4&title=The+AI+Browser+Is+Coming+%E2%80%94+And+It+Will+Change+the+Internet+Forever&lang=en&timestamp=1786106030&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=824">
+          <img src="https://ytcards.demolab.com/?id=enaZkrusaV4&title=The+AI+Browser+Is+Coming+%E2%80%94+And+It+Will+Change+the+Internet+Forever&lang=en&timestamp=1786106030&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=824" alt="The AI Browser Is Coming — And It Will Change the Internet Forever" title="The AI Browser Is Coming — And It Will Change the Internet Forever">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=inH6kVBs7u0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=4MZ2SZOO-hw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=inH6kVBs7u0&title=AI+just+created+viruses+that+never+existed+before%3A+Should+we+be+worried%3F+%7C+DW+News&lang=en&timestamp=1786109931&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1110">
-          <img src="https://ytcards.demolab.com/?id=inH6kVBs7u0&title=AI+just+created+viruses+that+never+existed+before%3A+Should+we+be+worried%3F+%7C+DW+News&lang=en&timestamp=1786109931&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1110" alt="AI just created viruses that never existed before: Should we be worried? | DW News" title="AI just created viruses that never existed before: Should we be worried? | DW News">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4MZ2SZOO-hw&title=Fears+As+Scientists+Use+AI+To+Create+New+Viruses+That+Don%E2%80%99t+Exist+In+Nature+%7C+10%E2%80%99s+Late+News&lang=en&timestamp=1786106030&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=85">
+          <img src="https://ytcards.demolab.com/?id=4MZ2SZOO-hw&title=Fears+As+Scientists+Use+AI+To+Create+New+Viruses+That+Don%E2%80%99t+Exist+In+Nature+%7C+10%E2%80%99s+Late+News&lang=en&timestamp=1786106030&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=85" alt="Fears As Scientists Use AI To Create New Viruses That Don’t Exist In Nature | 10’s Late News" title="Fears As Scientists Use AI To Create New Viruses That Don’t Exist In Nature | 10’s Late News">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=2iN75PZGb6Y" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2iN75PZGb6Y&title=%E2%80%9CUsed+to+Manipulate+You%E2%80%9D+-+AI+Persuasion+Bots+Persuading+Voters+in+Election+Cycles&lang=en&timestamp=1786124331&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=924">
-          <img src="https://ytcards.demolab.com/?id=2iN75PZGb6Y&title=%E2%80%9CUsed+to+Manipulate+You%E2%80%9D+-+AI+Persuasion+Bots+Persuading+Voters+in+Election+Cycles&lang=en&timestamp=1786124331&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=924" alt="“Used to Manipulate You” - AI Persuasion Bots Persuading Voters in Election Cycles" title="“Used to Manipulate You” - AI Persuasion Bots Persuading Voters in Election Cycles">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2iN75PZGb6Y&title=%E2%80%9CUsed+to+Manipulate+You%E2%80%9D+-+AI+Persuasion+Bots+Persuading+Voters+in+Election+Cycles&lang=en&timestamp=1786124030&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=924">
+          <img src="https://ytcards.demolab.com/?id=2iN75PZGb6Y&title=%E2%80%9CUsed+to+Manipulate+You%E2%80%9D+-+AI+Persuasion+Bots+Persuading+Voters+in+Election+Cycles&lang=en&timestamp=1786124030&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=924" alt="“Used to Manipulate You” - AI Persuasion Bots Persuading Voters in Election Cycles" title="“Used to Manipulate You” - AI Persuasion Bots Persuading Voters in Election Cycles">
         </picture>
       </a>
     </td>
