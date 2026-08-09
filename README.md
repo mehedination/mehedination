@@ -220,56 +220,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=-CUf34ZIk6s" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-CUf34ZIk6s&title=AI+data+centers+are+too+hot%E2%80%94how+can+we+fix+it%3F+%7C+Greg+Ryder+%7C+TEDxWollongong&lang=en&timestamp=1786197019&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=602">
-          <img src="https://ytcards.demolab.com/?id=-CUf34ZIk6s&title=AI+data+centers+are+too+hot%E2%80%94how+can+we+fix+it%3F+%7C+Greg+Ryder+%7C+TEDxWollongong&lang=en&timestamp=1786197019&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=602" alt="AI data centers are too hot—how can we fix it? | Greg Ryder | TEDxWollongong" title="AI data centers are too hot—how can we fix it? | Greg Ryder | TEDxWollongong">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-CUf34ZIk6s&title=AI+data+centers+are+too+hot%E2%80%94how+can+we+fix+it%3F+%7C+Greg+Ryder+%7C+TEDxWollongong&lang=en&timestamp=1786197884&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=602">
+          <img src="https://ytcards.demolab.com/?id=-CUf34ZIk6s&title=AI+data+centers+are+too+hot%E2%80%94how+can+we+fix+it%3F+%7C+Greg+Ryder+%7C+TEDxWollongong&lang=en&timestamp=1786197884&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=602" alt="AI data centers are too hot—how can we fix it? | Greg Ryder | TEDxWollongong" title="AI data centers are too hot—how can we fix it? | Greg Ryder | TEDxWollongong">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=aWsS_KbrcLw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aWsS_KbrcLw&title=This+is+%27EXTREMELY+DANGEROUS%27+and+we+need+to+get+ahead+of+it%3A+Rep+Beth+Van+Duyne&lang=en&timestamp=1786193419&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=198">
-          <img src="https://ytcards.demolab.com/?id=aWsS_KbrcLw&title=This+is+%27EXTREMELY+DANGEROUS%27+and+we+need+to+get+ahead+of+it%3A+Rep+Beth+Van+Duyne&lang=en&timestamp=1786193419&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=198" alt="This is 'EXTREMELY DANGEROUS' and we need to get ahead of it: Rep Beth Van Duyne" title="This is 'EXTREMELY DANGEROUS' and we need to get ahead of it: Rep Beth Van Duyne">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aWsS_KbrcLw&title=This+is+%27EXTREMELY+DANGEROUS%27+and+we+need+to+get+ahead+of+it%3A+Rep+Beth+Van+Duyne&lang=en&timestamp=1786194284&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=198">
+          <img src="https://ytcards.demolab.com/?id=aWsS_KbrcLw&title=This+is+%27EXTREMELY+DANGEROUS%27+and+we+need+to+get+ahead+of+it%3A+Rep+Beth+Van+Duyne&lang=en&timestamp=1786194284&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=198" alt="This is 'EXTREMELY DANGEROUS' and we need to get ahead of it: Rep Beth Van Duyne" title="This is 'EXTREMELY DANGEROUS' and we need to get ahead of it: Rep Beth Van Duyne">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=pIS80L6bb7g" target="_blank">
+      <a href="https://www.youtube.com/watch?v=9G-X4enTr5M" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=pIS80L6bb7g&title=China+Launches+World%27s+First+AI+Credit+Card%2C+Here%27s+How+It+Works+%7C+FP+Explains&lang=en&timestamp=1786182619&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=302">
-          <img src="https://ytcards.demolab.com/?id=pIS80L6bb7g&title=China+Launches+World%27s+First+AI+Credit+Card%2C+Here%27s+How+It+Works+%7C+FP+Explains&lang=en&timestamp=1786182619&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=302" alt="China Launches World's First AI Credit Card, Here's How It Works | FP Explains" title="China Launches World's First AI Credit Card, Here's How It Works | FP Explains">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9G-X4enTr5M&title=AI+Could+Predict+Your+Breakup+From+the+Start&lang=en&timestamp=1786176284&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=237">
+          <img src="https://ytcards.demolab.com/?id=9G-X4enTr5M&title=AI+Could+Predict+Your+Breakup+From+the+Start&lang=en&timestamp=1786176284&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=237" alt="AI Could Predict Your Breakup From the Start" title="AI Could Predict Your Breakup From the Start">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=9G-X4enTr5M" target="_blank">
+      <a href="https://www.youtube.com/watch?v=MakRIiLmCQc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9G-X4enTr5M&title=AI+Could+Predict+Your+Breakup+From+the+Start&lang=en&timestamp=1786175419&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=237">
-          <img src="https://ytcards.demolab.com/?id=9G-X4enTr5M&title=AI+Could+Predict+Your+Breakup+From+the+Start&lang=en&timestamp=1786175419&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=237" alt="AI Could Predict Your Breakup From the Start" title="AI Could Predict Your Breakup From the Start">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=MakRIiLmCQc&title=I+hate+that+AI+is+now+a+%27debate%27&lang=en&timestamp=1786194284&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1246">
+          <img src="https://ytcards.demolab.com/?id=MakRIiLmCQc&title=I+hate+that+AI+is+now+a+%27debate%27&lang=en&timestamp=1786194284&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1246" alt="I hate that AI is now a 'debate'" title="I hate that AI is now a 'debate'">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=5Rcm4sy1RZg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=pIS80L6bb7g" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5Rcm4sy1RZg&title=DARPA+Just+Put+Quantum+Against+the+AI+Bubble+%E2%80%94+NVIDIA+and+Microsoft+Are+Watching&lang=en&timestamp=1786218619&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2639">
-          <img src="https://ytcards.demolab.com/?id=5Rcm4sy1RZg&title=DARPA+Just+Put+Quantum+Against+the+AI+Bubble+%E2%80%94+NVIDIA+and+Microsoft+Are+Watching&lang=en&timestamp=1786218619&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2639" alt="DARPA Just Put Quantum Against the AI Bubble — NVIDIA and Microsoft Are Watching" title="DARPA Just Put Quantum Against the AI Bubble — NVIDIA and Microsoft Are Watching">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=pIS80L6bb7g&title=China+Launches+World%27s+First+AI+Credit+Card%2C+Here%27s+How+It+Works+%7C+FP+Explains&lang=en&timestamp=1786183484&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=302">
+          <img src="https://ytcards.demolab.com/?id=pIS80L6bb7g&title=China+Launches+World%27s+First+AI+Credit+Card%2C+Here%27s+How+It+Works+%7C+FP+Explains&lang=en&timestamp=1786183484&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=302" alt="China Launches World's First AI Credit Card, Here's How It Works | FP Explains" title="China Launches World's First AI Credit Card, Here's How It Works | FP Explains">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=yLDqlhk4bF4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=K9mM2kWljm8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=yLDqlhk4bF4&title=Year+3000%3A+Humanity+Had+to+Choose+Its+Future+%7C+Sci-Fi+Story&lang=en&timestamp=1786207819&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1481">
-          <img src="https://ytcards.demolab.com/?id=yLDqlhk4bF4&title=Year+3000%3A+Humanity+Had+to+Choose+Its+Future+%7C+Sci-Fi+Story&lang=en&timestamp=1786207819&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1481" alt="Year 3000: Humanity Had to Choose Its Future | Sci-Fi Story" title="Year 3000: Humanity Had to Choose Its Future | Sci-Fi Story">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=K9mM2kWljm8&title=How+Google%27s+AI+Leaders+Leaving+Could+Lead+to+Better+AI+Models+for+You&lang=en&timestamp=1786190684&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1763">
+          <img src="https://ytcards.demolab.com/?id=K9mM2kWljm8&title=How+Google%27s+AI+Leaders+Leaving+Could+Lead+to+Better+AI+Models+for+You&lang=en&timestamp=1786190684&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1763" alt="How Google's AI Leaders Leaving Could Lead to Better AI Models for You" title="How Google's AI Leaders Leaving Could Lead to Better AI Models for You">
         </picture>
       </a>
     </td>
