@@ -227,56 +227,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=nabO42ggopY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nabO42ggopY&title=Grok+AI+Unlocked+the+Rosetta+Stone+%E2%80%94+What+It+Found+Terrified+Researchers%21&lang=en&timestamp=1786250224&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1785">
-          <img src="https://ytcards.demolab.com/?id=nabO42ggopY&title=Grok+AI+Unlocked+the+Rosetta+Stone+%E2%80%94+What+It+Found+Terrified+Researchers%21&lang=en&timestamp=1786250224&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1785" alt="Grok AI Unlocked the Rosetta Stone — What It Found Terrified Researchers!" title="Grok AI Unlocked the Rosetta Stone — What It Found Terrified Researchers!">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nabO42ggopY&title=Grok+AI+Unlocked+the+Rosetta+Stone+%E2%80%94+What+It+Found+Terrified+Researchers%21&lang=en&timestamp=1786250511&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1785">
+          <img src="https://ytcards.demolab.com/?id=nabO42ggopY&title=Grok+AI+Unlocked+the+Rosetta+Stone+%E2%80%94+What+It+Found+Terrified+Researchers%21&lang=en&timestamp=1786250511&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1785" alt="Grok AI Unlocked the Rosetta Stone — What It Found Terrified Researchers!" title="Grok AI Unlocked the Rosetta Stone — What It Found Terrified Researchers!">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=LIvlOSGm2JA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=826Ps2ThCoU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=LIvlOSGm2JA&title=Why+Big+AI+Is+Obsessed+With+India%3F&lang=en&timestamp=1786203424&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1492">
-          <img src="https://ytcards.demolab.com/?id=LIvlOSGm2JA&title=Why+Big+AI+Is+Obsessed+With+India%3F&lang=en&timestamp=1786203424&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1492" alt="Why Big AI Is Obsessed With India?" title="Why Big AI Is Obsessed With India?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=826Ps2ThCoU&title=AI+Discovers+Hidden+Chambers+%28S18%29+%7C+Ancient+Aliens&lang=en&timestamp=1786207311&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=243">
+          <img src="https://ytcards.demolab.com/?id=826Ps2ThCoU&title=AI+Discovers+Hidden+Chambers+%28S18%29+%7C+Ancient+Aliens&lang=en&timestamp=1786207311&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=243" alt="AI Discovers Hidden Chambers (S18) | Ancient Aliens" title="AI Discovers Hidden Chambers (S18) | Ancient Aliens">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=hFkcEPK5V8k" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hFkcEPK5V8k&title=OpenAI%E2%80%99s+Controversial+AI+Device+Just+Leaked%E2%80%A6+And+It%E2%80%99s+Literally+a+Donut&lang=en&timestamp=1786235824&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=756">
-          <img src="https://ytcards.demolab.com/?id=hFkcEPK5V8k&title=OpenAI%E2%80%99s+Controversial+AI+Device+Just+Leaked%E2%80%A6+And+It%E2%80%99s+Literally+a+Donut&lang=en&timestamp=1786235824&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=756" alt="OpenAI’s Controversial AI Device Just Leaked… And It’s Literally a Donut" title="OpenAI’s Controversial AI Device Just Leaked… And It’s Literally a Donut">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hFkcEPK5V8k&title=OpenAI%E2%80%99s+Controversial+AI+Device+Just+Leaked%E2%80%A6+And+It%E2%80%99s+Literally+a+Donut&lang=en&timestamp=1786236111&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=756">
+          <img src="https://ytcards.demolab.com/?id=hFkcEPK5V8k&title=OpenAI%E2%80%99s+Controversial+AI+Device+Just+Leaked%E2%80%A6+And+It%E2%80%99s+Literally+a+Donut&lang=en&timestamp=1786236111&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=756" alt="OpenAI’s Controversial AI Device Just Leaked… And It’s Literally a Donut" title="OpenAI’s Controversial AI Device Just Leaked… And It’s Literally a Donut">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=826Ps2ThCoU" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=826Ps2ThCoU&title=AI+Discovers+Hidden+Chambers+%28S18%29+%7C+Ancient+Aliens&lang=en&timestamp=1786207024&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=243">
-          <img src="https://ytcards.demolab.com/?id=826Ps2ThCoU&title=AI+Discovers+Hidden+Chambers+%28S18%29+%7C+Ancient+Aliens&lang=en&timestamp=1786207024&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=243" alt="AI Discovers Hidden Chambers (S18) | Ancient Aliens" title="AI Discovers Hidden Chambers (S18) | Ancient Aliens">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
       <a href="https://www.youtube.com/watch?v=aWsS_KbrcLw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aWsS_KbrcLw&title=This+is+%27EXTREMELY+DANGEROUS%27+and+we+need+to+get+ahead+of+it%3A+Rep+Beth+Van+Duyne&lang=en&timestamp=1786203424&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=198">
-          <img src="https://ytcards.demolab.com/?id=aWsS_KbrcLw&title=This+is+%27EXTREMELY+DANGEROUS%27+and+we+need+to+get+ahead+of+it%3A+Rep+Beth+Van+Duyne&lang=en&timestamp=1786203424&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=198" alt="This is 'EXTREMELY DANGEROUS' and we need to get ahead of it: Rep Beth Van Duyne" title="This is 'EXTREMELY DANGEROUS' and we need to get ahead of it: Rep Beth Van Duyne">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aWsS_KbrcLw&title=This+is+%27EXTREMELY+DANGEROUS%27+and+we+need+to+get+ahead+of+it%3A+Rep+Beth+Van+Duyne&lang=en&timestamp=1786207311&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=198">
+          <img src="https://ytcards.demolab.com/?id=aWsS_KbrcLw&title=This+is+%27EXTREMELY+DANGEROUS%27+and+we+need+to+get+ahead+of+it%3A+Rep+Beth+Van+Duyne&lang=en&timestamp=1786207311&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=198" alt="This is 'EXTREMELY DANGEROUS' and we need to get ahead of it: Rep Beth Van Duyne" title="This is 'EXTREMELY DANGEROUS' and we need to get ahead of it: Rep Beth Van Duyne">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=pIS80L6bb7g" target="_blank">
+      <a href="https://www.youtube.com/watch?v=LIvlOSGm2JA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=pIS80L6bb7g&title=China+Launches+World%27s+First+AI+Credit+Card%2C+Here%27s+How+It+Works+%7C+FP+Explains&lang=en&timestamp=1786203424&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=302">
-          <img src="https://ytcards.demolab.com/?id=pIS80L6bb7g&title=China+Launches+World%27s+First+AI+Credit+Card%2C+Here%27s+How+It+Works+%7C+FP+Explains&lang=en&timestamp=1786203424&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=302" alt="China Launches World's First AI Credit Card, Here's How It Works | FP Explains" title="China Launches World's First AI Credit Card, Here's How It Works | FP Explains">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=LIvlOSGm2JA&title=India+needs+AI%2C+But+there+is+a+problem&lang=en&timestamp=1786207311&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1492">
+          <img src="https://ytcards.demolab.com/?id=LIvlOSGm2JA&title=India+needs+AI%2C+But+there+is+a+problem&lang=en&timestamp=1786207311&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1492" alt="India needs AI, But there is a problem" title="India needs AI, But there is a problem">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=4nKrDhnSN08" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4nKrDhnSN08&title=%E2%9D%93Economic+Royalism%2C+Royalists%2C+and+Supply+Side+vs+Artificial+Intelligence%3A+THE+PLAYLIST&lang=en&timestamp=1786268511&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=21691">
+          <img src="https://ytcards.demolab.com/?id=4nKrDhnSN08&title=%E2%9D%93Economic+Royalism%2C+Royalists%2C+and+Supply+Side+vs+Artificial+Intelligence%3A+THE+PLAYLIST&lang=en&timestamp=1786268511&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=21691" alt="❓Economic Royalism, Royalists, and Supply Side vs Artificial Intelligence: THE PLAYLIST" title="❓Economic Royalism, Royalists, and Supply Side vs Artificial Intelligence: THE PLAYLIST">
         </picture>
       </a>
     </td>
