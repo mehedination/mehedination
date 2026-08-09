@@ -217,56 +217,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=FIsKDWXKO00" target="_blank">
+      <a href="https://www.youtube.com/watch?v=aWsS_KbrcLw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=FIsKDWXKO00&title=Growing+concerns+over+ability+to+control+AI&lang=en&timestamp=1786142107&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=205">
-          <img src="https://ytcards.demolab.com/?id=FIsKDWXKO00&title=Growing+concerns+over+ability+to+control+AI&lang=en&timestamp=1786142107&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=205" alt="Growing concerns over ability to control AI" title="Growing concerns over ability to control AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aWsS_KbrcLw&title=This+is+%27EXTREMELY+DANGEROUS%27+and+we+need+to+get+ahead+of+it%3A+Rep+Beth+Van+Duyne&lang=en&timestamp=1786194480&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=198">
+          <img src="https://ytcards.demolab.com/?id=aWsS_KbrcLw&title=This+is+%27EXTREMELY+DANGEROUS%27+and+we+need+to+get+ahead+of+it%3A+Rep+Beth+Van+Duyne&lang=en&timestamp=1786194480&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=198" alt="This is 'EXTREMELY DANGEROUS' and we need to get ahead of it: Rep Beth Van Duyne" title="This is 'EXTREMELY DANGEROUS' and we need to get ahead of it: Rep Beth Van Duyne">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=EdbSZMpJq8A" target="_blank">
+      <a href="https://www.youtube.com/watch?v=9G-X4enTr5M" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EdbSZMpJq8A&title=Scientists+create+new+viruses+with+AI%2C+raising+alarms+about+the+future+of+biosecurity&lang=en&timestamp=1786142107&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=193">
-          <img src="https://ytcards.demolab.com/?id=EdbSZMpJq8A&title=Scientists+create+new+viruses+with+AI%2C+raising+alarms+about+the+future+of+biosecurity&lang=en&timestamp=1786142107&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=193" alt="Scientists create new viruses with AI, raising alarms about the future of biosecurity" title="Scientists create new viruses with AI, raising alarms about the future of biosecurity">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9G-X4enTr5M&title=AI+Could+Predict+Your+Breakup+From+the+Start&lang=en&timestamp=1786176480&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=237">
+          <img src="https://ytcards.demolab.com/?id=9G-X4enTr5M&title=AI+Could+Predict+Your+Breakup+From+the+Start&lang=en&timestamp=1786176480&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=237" alt="AI Could Predict Your Breakup From the Start" title="AI Could Predict Your Breakup From the Start">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=muRIXCDw-k0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=-CUf34ZIk6s" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=muRIXCDw-k0&title=Google%E2%80%99s+AI+Brain+Drain%2C+SpaceX%27s+Huge+Quarter%2C+Airtable%E2%80%99s+90%25+Collapse%2C+US+Data+Fuels+China+AI&lang=en&timestamp=1786152907&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4518">
-          <img src="https://ytcards.demolab.com/?id=muRIXCDw-k0&title=Google%E2%80%99s+AI+Brain+Drain%2C+SpaceX%27s+Huge+Quarter%2C+Airtable%E2%80%99s+90%25+Collapse%2C+US+Data+Fuels+China+AI&lang=en&timestamp=1786152907&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4518" alt="Google’s AI Brain Drain, SpaceX's Huge Quarter, Airtable’s 90% Collapse, US Data Fuels China AI" title="Google’s AI Brain Drain, SpaceX's Huge Quarter, Airtable’s 90% Collapse, US Data Fuels China AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-CUf34ZIk6s&title=AI+data+centers+are+too+hot%E2%80%94how+can+we+fix+it%3F+%7C+Greg+Ryder+%7C+TEDxWollongong&lang=en&timestamp=1786198080&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=602">
+          <img src="https://ytcards.demolab.com/?id=-CUf34ZIk6s&title=AI+data+centers+are+too+hot%E2%80%94how+can+we+fix+it%3F+%7C+Greg+Ryder+%7C+TEDxWollongong&lang=en&timestamp=1786198080&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=602" alt="AI data centers are too hot—how can we fix it? | Greg Ryder | TEDxWollongong" title="AI data centers are too hot—how can we fix it? | Greg Ryder | TEDxWollongong">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=iewm45atodE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=pIS80L6bb7g" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=iewm45atodE&title=8+Predictions+for+the+Era+of+Continual+Learning&lang=en&timestamp=1786142107&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=518">
-          <img src="https://ytcards.demolab.com/?id=iewm45atodE&title=8+Predictions+for+the+Era+of+Continual+Learning&lang=en&timestamp=1786142107&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=518" alt="8 Predictions for the Era of Continual Learning" title="8 Predictions for the Era of Continual Learning">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=pIS80L6bb7g&title=China+Launches+World%27s+First+AI+Credit+Card%2C+Here%27s+How+It+Works+%7C+FP+Explains&lang=en&timestamp=1786183680&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=302">
+          <img src="https://ytcards.demolab.com/?id=pIS80L6bb7g&title=China+Launches+World%27s+First+AI+Credit+Card%2C+Here%27s+How+It+Works+%7C+FP+Explains&lang=en&timestamp=1786183680&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=302" alt="China Launches World's First AI Credit Card, Here's How It Works | FP Explains" title="China Launches World's First AI Credit Card, Here's How It Works | FP Explains">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=W0wXevMkdMM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=BhMpTncwFBw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=W0wXevMkdMM&title=Anthropic%E2%80%99s+sandbox+breach%2C+EU%E2%80%99s+AI+transparency+push+and+DeepSeek%E2%80%99s+cost-cutting+model&lang=en&timestamp=1786142107&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2422">
-          <img src="https://ytcards.demolab.com/?id=W0wXevMkdMM&title=Anthropic%E2%80%99s+sandbox+breach%2C+EU%E2%80%99s+AI+transparency+push+and+DeepSeek%E2%80%99s+cost-cutting+model&lang=en&timestamp=1786142107&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2422" alt="Anthropic’s sandbox breach, EU’s AI transparency push and DeepSeek’s cost-cutting model" title="Anthropic’s sandbox breach, EU’s AI transparency push and DeepSeek’s cost-cutting model">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BhMpTncwFBw&title=OpenAIs+Astra+%28GPT-6%29+Will+Shock+The+World&lang=en&timestamp=1786194480&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=771">
+          <img src="https://ytcards.demolab.com/?id=BhMpTncwFBw&title=OpenAIs+Astra+%28GPT-6%29+Will+Shock+The+World&lang=en&timestamp=1786194480&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=771" alt="OpenAIs Astra (GPT-6) Will Shock The World" title="OpenAIs Astra (GPT-6) Will Shock The World">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=MEw7TrAUEPQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=5Rcm4sy1RZg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=MEw7TrAUEPQ&title=China+Just+Shocked+Everyone+With+a+10+Trillion+Parameter+AI+Model&lang=en&timestamp=1786149307&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=928">
-          <img src="https://ytcards.demolab.com/?id=MEw7TrAUEPQ&title=China+Just+Shocked+Everyone+With+a+10+Trillion+Parameter+AI+Model&lang=en&timestamp=1786149307&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=928" alt="China Just Shocked Everyone With a 10 Trillion Parameter AI Model" title="China Just Shocked Everyone With a 10 Trillion Parameter AI Model">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5Rcm4sy1RZg&title=DARPA+Just+Put+Quantum+Against+the+AI+Bubble+%E2%80%94+NVIDIA+and+Microsoft+Are+Watching&lang=en&timestamp=1786216080&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2639">
+          <img src="https://ytcards.demolab.com/?id=5Rcm4sy1RZg&title=DARPA+Just+Put+Quantum+Against+the+AI+Bubble+%E2%80%94+NVIDIA+and+Microsoft+Are+Watching&lang=en&timestamp=1786216080&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2639" alt="DARPA Just Put Quantum Against the AI Bubble — NVIDIA and Microsoft Are Watching" title="DARPA Just Put Quantum Against the AI Bubble — NVIDIA and Microsoft Are Watching">
         </picture>
       </a>
     </td>
