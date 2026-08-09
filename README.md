@@ -223,56 +223,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=nabO42ggopY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=6aNsqm2I1Ag" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nabO42ggopY&title=Grok+AI+Unlocked+the+Rosetta+Stone+%E2%80%94+What+It+Found+Terrified+Researchers%21&lang=en&timestamp=1786250419&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1785">
-          <img src="https://ytcards.demolab.com/?id=nabO42ggopY&title=Grok+AI+Unlocked+the+Rosetta+Stone+%E2%80%94+What+It+Found+Terrified+Researchers%21&lang=en&timestamp=1786250419&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1785" alt="Grok AI Unlocked the Rosetta Stone — What It Found Terrified Researchers!" title="Grok AI Unlocked the Rosetta Stone — What It Found Terrified Researchers!">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6aNsqm2I1Ag&title=Is+AI+putting+an+end+to+college%3F&lang=en&timestamp=1786228491&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=786">
+          <img src="https://ytcards.demolab.com/?id=6aNsqm2I1Ag&title=Is+AI+putting+an+end+to+college%3F&lang=en&timestamp=1786228491&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=786" alt="Is AI putting an end to college?" title="Is AI putting an end to college?">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=LIvlOSGm2JA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=-mharnyHJhY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=LIvlOSGm2JA&title=India+needs+AI%2C+But+there+is+a+problem&lang=en&timestamp=1786189219&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1492">
-          <img src="https://ytcards.demolab.com/?id=LIvlOSGm2JA&title=India+needs+AI%2C+But+there+is+a+problem&lang=en&timestamp=1786189219&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1492" alt="India needs AI, But there is a problem" title="India needs AI, But there is a problem">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-mharnyHJhY&title=How+to+ADAPT+to+the+NEW+WAVE+of+ARTIFICIAL+INTELLIGENCE+-+Carlos+Adams&lang=en&timestamp=1786210491&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=851">
+          <img src="https://ytcards.demolab.com/?id=-mharnyHJhY&title=How+to+ADAPT+to+the+NEW+WAVE+of+ARTIFICIAL+INTELLIGENCE+-+Carlos+Adams&lang=en&timestamp=1786210491&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=851" alt="How to ADAPT to the NEW WAVE of ARTIFICIAL INTELLIGENCE - Carlos Adams" title="How to ADAPT to the NEW WAVE of ARTIFICIAL INTELLIGENCE - Carlos Adams">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=hFkcEPK5V8k" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hFkcEPK5V8k&title=OpenAI%E2%80%99s+Controversial+AI+Device+Just+Leaked%E2%80%A6+And+It%E2%80%99s+Literally+a+Donut&lang=en&timestamp=1786236019&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=756">
-          <img src="https://ytcards.demolab.com/?id=hFkcEPK5V8k&title=OpenAI%E2%80%99s+Controversial+AI+Device+Just+Leaked%E2%80%A6+And+It%E2%80%99s+Literally+a+Donut&lang=en&timestamp=1786236019&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=756" alt="OpenAI’s Controversial AI Device Just Leaked… And It’s Literally a Donut" title="OpenAI’s Controversial AI Device Just Leaked… And It’s Literally a Donut">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hFkcEPK5V8k&title=OpenAI%E2%80%99s+Controversial+AI+Device+Just+Leaked%E2%80%A6+And+It%E2%80%99s+Literally+a+Donut&lang=en&timestamp=1786235691&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=756">
+          <img src="https://ytcards.demolab.com/?id=hFkcEPK5V8k&title=OpenAI%E2%80%99s+Controversial+AI+Device+Just+Leaked%E2%80%A6+And+It%E2%80%99s+Literally+a+Donut&lang=en&timestamp=1786235691&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=756" alt="OpenAI’s Controversial AI Device Just Leaked… And It’s Literally a Donut" title="OpenAI’s Controversial AI Device Just Leaked… And It’s Literally a Donut">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=aWsS_KbrcLw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ycTXjBZ36SQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aWsS_KbrcLw&title=This+is+%27EXTREMELY+DANGEROUS%27+and+we+need+to+get+ahead+of+it%3A+Rep+Beth+Van+Duyne&lang=en&timestamp=1786192819&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=198">
-          <img src="https://ytcards.demolab.com/?id=aWsS_KbrcLw&title=This+is+%27EXTREMELY+DANGEROUS%27+and+we+need+to+get+ahead+of+it%3A+Rep+Beth+Van+Duyne&lang=en&timestamp=1786192819&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=198" alt="This is 'EXTREMELY DANGEROUS' and we need to get ahead of it: Rep Beth Van Duyne" title="This is 'EXTREMELY DANGEROUS' and we need to get ahead of it: Rep Beth Van Duyne">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ycTXjBZ36SQ&title=Why+do+parts+of+the+Left+and+Peter+Thiel+want+the+same+thing+from+AI%3F&lang=en&timestamp=1786196091&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5586">
+          <img src="https://ytcards.demolab.com/?id=ycTXjBZ36SQ&title=Why+do+parts+of+the+Left+and+Peter+Thiel+want+the+same+thing+from+AI%3F&lang=en&timestamp=1786196091&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5586" alt="Why do parts of the Left and Peter Thiel want the same thing from AI?" title="Why do parts of the Left and Peter Thiel want the same thing from AI?">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=-CUf34ZIk6s" target="_blank">
+      <a href="https://www.youtube.com/watch?v=nabO42ggopY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-CUf34ZIk6s&title=AI+data+centers+are+too+hot%E2%80%94how+can+we+fix+it%3F+%7C+Greg+Ryder+%7C+TEDxWollongong&lang=en&timestamp=1786196419&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=602">
-          <img src="https://ytcards.demolab.com/?id=-CUf34ZIk6s&title=AI+data+centers+are+too+hot%E2%80%94how+can+we+fix+it%3F+%7C+Greg+Ryder+%7C+TEDxWollongong&lang=en&timestamp=1786196419&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=602" alt="AI data centers are too hot—how can we fix it? | Greg Ryder | TEDxWollongong" title="AI data centers are too hot—how can we fix it? | Greg Ryder | TEDxWollongong">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nabO42ggopY&title=Grok+AI+Unlocked+the+Rosetta+Stone+%E2%80%94+What+It+Found+Terrified+Researchers%21&lang=en&timestamp=1786250091&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1785">
+          <img src="https://ytcards.demolab.com/?id=nabO42ggopY&title=Grok+AI+Unlocked+the+Rosetta+Stone+%E2%80%94+What+It+Found+Terrified+Researchers%21&lang=en&timestamp=1786250091&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1785" alt="Grok AI Unlocked the Rosetta Stone — What It Found Terrified Researchers!" title="Grok AI Unlocked the Rosetta Stone — What It Found Terrified Researchers!">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=pIS80L6bb7g" target="_blank">
+      <a href="https://www.youtube.com/watch?v=UB7g8Oxd7NA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=pIS80L6bb7g&title=China+Launches+World%27s+First+AI+Credit+Card%2C+Here%27s+How+It+Works+%7C+FP+Explains&lang=en&timestamp=1786185619&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=302">
-          <img src="https://ytcards.demolab.com/?id=pIS80L6bb7g&title=China+Launches+World%27s+First+AI+Credit+Card%2C+Here%27s+How+It+Works+%7C+FP+Explains&lang=en&timestamp=1786185619&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=302" alt="China Launches World's First AI Credit Card, Here's How It Works | FP Explains" title="China Launches World's First AI Credit Card, Here's How It Works | FP Explains">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=UB7g8Oxd7NA&title=La+Inteligencia+Artificial+Analiz%C3%B3+el+N%C3%BAmero+666+en+el+Texto+Original+de+la+Biblia&lang=en&timestamp=1786217691&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2307">
+          <img src="https://ytcards.demolab.com/?id=UB7g8Oxd7NA&title=La+Inteligencia+Artificial+Analiz%C3%B3+el+N%C3%BAmero+666+en+el+Texto+Original+de+la+Biblia&lang=en&timestamp=1786217691&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2307" alt="La Inteligencia Artificial Analizó el Número 666 en el Texto Original de la Biblia" title="La Inteligencia Artificial Analizó el Número 666 en el Texto Original de la Biblia">
         </picture>
       </a>
     </td>
