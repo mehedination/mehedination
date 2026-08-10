@@ -242,56 +242,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=3JH_Zd2mNRs" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3JH_Zd2mNRs&title=an+AI+actually+went+rogue.&lang=en&timestamp=1786281678&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1060">
-          <img src="https://ytcards.demolab.com/?id=3JH_Zd2mNRs&title=an+AI+actually+went+rogue.&lang=en&timestamp=1786281678&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1060" alt="an AI actually went rogue." title="an AI actually went rogue.">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
       <a href="https://www.youtube.com/watch?v=WM9KDLtbXAE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WM9KDLtbXAE&title=SA+launches+royal+commission+into+artificial+intelligence+%7C+ABC+NEWS&lang=en&timestamp=1786346478&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=250">
-          <img src="https://ytcards.demolab.com/?id=WM9KDLtbXAE&title=SA+launches+royal+commission+into+artificial+intelligence+%7C+ABC+NEWS&lang=en&timestamp=1786346478&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=250" alt="SA launches royal commission into artificial intelligence | ABC NEWS" title="SA launches royal commission into artificial intelligence | ABC NEWS">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WM9KDLtbXAE&title=SA+launches+royal+commission+into+artificial+intelligence+%7C+ABC+NEWS&lang=en&timestamp=1786345474&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=250">
+          <img src="https://ytcards.demolab.com/?id=WM9KDLtbXAE&title=SA+launches+royal+commission+into+artificial+intelligence+%7C+ABC+NEWS&lang=en&timestamp=1786345474&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=250" alt="SA launches royal commission into artificial intelligence | ABC NEWS" title="SA launches royal commission into artificial intelligence | ABC NEWS">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=OOXj6z54SGg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=5LBjje0R6vU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=OOXj6z54SGg&title=South+Australia+To+Launch+Royal+Commission+Into+Artificial+Intelligence+%7C+10%E2%80%99s+Late+News&lang=en&timestamp=1786364658&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=99">
-          <img src="https://ytcards.demolab.com/?id=OOXj6z54SGg&title=South+Australia+To+Launch+Royal+Commission+Into+Artificial+Intelligence+%7C+10%E2%80%99s+Late+News&lang=en&timestamp=1786364658&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=99" alt="South Australia To Launch Royal Commission Into Artificial Intelligence | 10’s Late News" title="South Australia To Launch Royal Commission Into Artificial Intelligence | 10’s Late News">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5LBjje0R6vU&title=Top+5+AI+Coding+Tools+for+Beginners+in+2026&lang=en&timestamp=1786287874&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=452">
+          <img src="https://ytcards.demolab.com/?id=5LBjje0R6vU&title=Top+5+AI+Coding+Tools+for+Beginners+in+2026&lang=en&timestamp=1786287874&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=452" alt="Top 5 AI Coding Tools for Beginners in 2026" title="Top 5 AI Coding Tools for Beginners in 2026">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=qj3ziwGeXxM" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qj3ziwGeXxM&title=BHF+Heart+Matters+Live%3A+Can+AI+%28artificial+intelligence%29+prevent+heart+disease%3F&lang=en&timestamp=1786371874&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3550">
+          <img src="https://ytcards.demolab.com/?id=qj3ziwGeXxM&title=BHF+Heart+Matters+Live%3A+Can+AI+%28artificial+intelligence%29+prevent+heart+disease%3F&lang=en&timestamp=1786371874&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3550" alt="BHF Heart Matters Live: Can AI (artificial intelligence) prevent heart disease?" title="BHF Heart Matters Live: Can AI (artificial intelligence) prevent heart disease?">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=sTn3DRaJaeM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=EM6q0HBLAUY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sTn3DRaJaeM&title=South+Australia+launches+royal+commission+into+artificial+intelligence&lang=en&timestamp=1786342878&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=35">
-          <img src="https://ytcards.demolab.com/?id=sTn3DRaJaeM&title=South+Australia+launches+royal+commission+into+artificial+intelligence&lang=en&timestamp=1786342878&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=35" alt="South Australia launches royal commission into artificial intelligence" title="South Australia launches royal commission into artificial intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EM6q0HBLAUY&title=Dr.+Edmund+Lazzaria+joins+Larry+Chapp+to+discuss+artificial+intelligence&lang=en&timestamp=1786370794&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4573">
+          <img src="https://ytcards.demolab.com/?id=EM6q0HBLAUY&title=Dr.+Edmund+Lazzaria+joins+Larry+Chapp+to+discuss+artificial+intelligence&lang=en&timestamp=1786370794&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4573" alt="Dr. Edmund Lazzaria joins Larry Chapp to discuss artificial intelligence" title="Dr. Edmund Lazzaria joins Larry Chapp to discuss artificial intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=KTZiAxTvgFk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=u2khvYOUmeg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KTZiAxTvgFk&title=MAGA+Supporters+RAGE+At+Trump+Over+Nightmare+Tech+Takeover&lang=en&timestamp=1786314078&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=235">
-          <img src="https://ytcards.demolab.com/?id=KTZiAxTvgFk&title=MAGA+Supporters+RAGE+At+Trump+Over+Nightmare+Tech+Takeover&lang=en&timestamp=1786314078&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=235" alt="MAGA Supporters RAGE At Trump Over Nightmare Tech Takeover" title="MAGA Supporters RAGE At Trump Over Nightmare Tech Takeover">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=u2khvYOUmeg&title=A+Nightmare+Fast+Food+Experience&lang=en&timestamp=1786287874&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=469">
+          <img src="https://ytcards.demolab.com/?id=u2khvYOUmeg&title=A+Nightmare+Fast+Food+Experience&lang=en&timestamp=1786287874&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=469" alt="A Nightmare Fast Food Experience" title="A Nightmare Fast Food Experience">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=4nKrDhnSN08" target="_blank">
+      <a href="https://www.youtube.com/watch?v=OOXj6z54SGg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4nKrDhnSN08&title=%E2%9D%93Economic+Royalism%2C+Royalists%2C+and+Supply+Side+vs+Artificial+Intelligence%3A+THE+PLAYLIST&lang=en&timestamp=1786281678&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=21691">
-          <img src="https://ytcards.demolab.com/?id=4nKrDhnSN08&title=%E2%9D%93Economic+Royalism%2C+Royalists%2C+and+Supply+Side+vs+Artificial+Intelligence%3A+THE+PLAYLIST&lang=en&timestamp=1786281678&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=21691" alt="❓Economic Royalism, Royalists, and Supply Side vs Artificial Intelligence: THE PLAYLIST" title="❓Economic Royalism, Royalists, and Supply Side vs Artificial Intelligence: THE PLAYLIST">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=OOXj6z54SGg&title=South+Australia+To+Launch+Royal+Commission+Into+Artificial+Intelligence+%7C+10%E2%80%99s+Late+News&lang=en&timestamp=1786367074&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=99">
+          <img src="https://ytcards.demolab.com/?id=OOXj6z54SGg&title=South+Australia+To+Launch+Royal+Commission+Into+Artificial+Intelligence+%7C+10%E2%80%99s+Late+News&lang=en&timestamp=1786367074&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=99" alt="South Australia To Launch Royal Commission Into Artificial Intelligence | 10’s Late News" title="South Australia To Launch Royal Commission Into Artificial Intelligence | 10’s Late News">
         </picture>
       </a>
     </td>
