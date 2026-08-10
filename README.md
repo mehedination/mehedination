@@ -239,56 +239,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=3JH_Zd2mNRs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3JH_Zd2mNRs&title=an+AI+actually+went+rogue.&lang=en&timestamp=1786283015&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1060">
-          <img src="https://ytcards.demolab.com/?id=3JH_Zd2mNRs&title=an+AI+actually+went+rogue.&lang=en&timestamp=1786283015&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1060" alt="an AI actually went rogue." title="an AI actually went rogue.">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3JH_Zd2mNRs&title=an+AI+actually+went+rogue.&lang=en&timestamp=1786281760&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1060">
+          <img src="https://ytcards.demolab.com/?id=3JH_Zd2mNRs&title=an+AI+actually+went+rogue.&lang=en&timestamp=1786281760&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1060" alt="an AI actually went rogue." title="an AI actually went rogue.">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=WM9KDLtbXAE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WM9KDLtbXAE&title=SA+launches+royal+commission+into+artificial+intelligence+%7C+ABC+NEWS&lang=en&timestamp=1786347815&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=250">
-          <img src="https://ytcards.demolab.com/?id=WM9KDLtbXAE&title=SA+launches+royal+commission+into+artificial+intelligence+%7C+ABC+NEWS&lang=en&timestamp=1786347815&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=250" alt="SA launches royal commission into artificial intelligence | ABC NEWS" title="SA launches royal commission into artificial intelligence | ABC NEWS">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WM9KDLtbXAE&title=SA+launches+royal+commission+into+artificial+intelligence+%7C+ABC+NEWS&lang=en&timestamp=1786346560&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=250">
+          <img src="https://ytcards.demolab.com/?id=WM9KDLtbXAE&title=SA+launches+royal+commission+into+artificial+intelligence+%7C+ABC+NEWS&lang=en&timestamp=1786346560&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=250" alt="SA launches royal commission into artificial intelligence | ABC NEWS" title="SA launches royal commission into artificial intelligence | ABC NEWS">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=sTn3DRaJaeM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=e0mWS-E7G5U" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sTn3DRaJaeM&title=South+Australia+launches+royal+commission+into+artificial+intelligence&lang=en&timestamp=1786344215&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=35">
-          <img src="https://ytcards.demolab.com/?id=sTn3DRaJaeM&title=South+Australia+launches+royal+commission+into+artificial+intelligence&lang=en&timestamp=1786344215&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=35" alt="South Australia launches royal commission into artificial intelligence" title="South Australia launches royal commission into artificial intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=e0mWS-E7G5U&title=The+Mirror+of+the+Machine%3A+Why+the+AI+Crisis+is+actually+a+Human+Evolutionary+Imperative&lang=en&timestamp=1786285360&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=310">
+          <img src="https://ytcards.demolab.com/?id=e0mWS-E7G5U&title=The+Mirror+of+the+Machine%3A+Why+the+AI+Crisis+is+actually+a+Human+Evolutionary+Imperative&lang=en&timestamp=1786285360&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=310" alt="The Mirror of the Machine: Why the AI Crisis is actually a Human Evolutionary Imperative" title="The Mirror of the Machine: Why the AI Crisis is actually a Human Evolutionary Imperative">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=4nKrDhnSN08" target="_blank">
+      <a href="https://www.youtube.com/watch?v=KTZiAxTvgFk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4nKrDhnSN08&title=%E2%9D%93Economic+Royalism%2C+Royalists%2C+and+Supply+Side+vs+Artificial+Intelligence%3A+THE+PLAYLIST&lang=en&timestamp=1786268615&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=21691">
-          <img src="https://ytcards.demolab.com/?id=4nKrDhnSN08&title=%E2%9D%93Economic+Royalism%2C+Royalists%2C+and+Supply+Side+vs+Artificial+Intelligence%3A+THE+PLAYLIST&lang=en&timestamp=1786268615&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=21691" alt="❓Economic Royalism, Royalists, and Supply Side vs Artificial Intelligence: THE PLAYLIST" title="❓Economic Royalism, Royalists, and Supply Side vs Artificial Intelligence: THE PLAYLIST">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KTZiAxTvgFk&title=MAGA+Supporters+RAGE+At+Trump+Over+Nightmare+Tech+Takeover&lang=en&timestamp=1786314160&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=235">
+          <img src="https://ytcards.demolab.com/?id=KTZiAxTvgFk&title=MAGA+Supporters+RAGE+At+Trump+Over+Nightmare+Tech+Takeover&lang=en&timestamp=1786314160&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=235" alt="MAGA Supporters RAGE At Trump Over Nightmare Tech Takeover" title="MAGA Supporters RAGE At Trump Over Nightmare Tech Takeover">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=4OJWi2ZGXF4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=sTn3DRaJaeM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4OJWi2ZGXF4&title=We+Must+Switch+OFF+AI&lang=en&timestamp=1786275815&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=435">
-          <img src="https://ytcards.demolab.com/?id=4OJWi2ZGXF4&title=We+Must+Switch+OFF+AI&lang=en&timestamp=1786275815&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=435" alt="We Must Switch OFF AI" title="We Must Switch OFF AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sTn3DRaJaeM&title=South+Australia+launches+royal+commission+into+artificial+intelligence&lang=en&timestamp=1786342960&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=35">
+          <img src="https://ytcards.demolab.com/?id=sTn3DRaJaeM&title=South+Australia+launches+royal+commission+into+artificial+intelligence&lang=en&timestamp=1786342960&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=35" alt="South Australia launches royal commission into artificial intelligence" title="South Australia launches royal commission into artificial intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=RbQ1o1ld3Bw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=9qaviHB6cF8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=RbQ1o1ld3Bw&title=Dallas+mayor+says+there+isn%27t+%22a+revenue+problem%22%2C+AI+is+the+way+forward+for+efficiency+and+cost&lang=en&timestamp=1786279415&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=351">
-          <img src="https://ytcards.demolab.com/?id=RbQ1o1ld3Bw&title=Dallas+mayor+says+there+isn%27t+%22a+revenue+problem%22%2C+AI+is+the+way+forward+for+efficiency+and+cost&lang=en&timestamp=1786279415&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=351" alt="Dallas mayor says there isn't &quot;a revenue problem&quot;, AI is the way forward for efficiency and cost" title="Dallas mayor says there isn't &quot;a revenue problem&quot;, AI is the way forward for efficiency and cost">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9qaviHB6cF8&title=Why+AI+will+kill+us...and+we+can%27t+do+anything+about+it.+AI+2027&lang=en&timestamp=1786288960&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=557">
+          <img src="https://ytcards.demolab.com/?id=9qaviHB6cF8&title=Why+AI+will+kill+us...and+we+can%27t+do+anything+about+it.+AI+2027&lang=en&timestamp=1786288960&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=557" alt="Why AI will kill us...and we can't do anything about it. AI 2027" title="Why AI will kill us...and we can't do anything about it. AI 2027">
         </picture>
       </a>
     </td>
