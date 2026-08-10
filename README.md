@@ -237,56 +237,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=3JH_Zd2mNRs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3JH_Zd2mNRs&title=an+AI+actually+went+rogue.&lang=en&timestamp=1786282989&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1060">
-          <img src="https://ytcards.demolab.com/?id=3JH_Zd2mNRs&title=an+AI+actually+went+rogue.&lang=en&timestamp=1786282989&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1060" alt="an AI actually went rogue." title="an AI actually went rogue.">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3JH_Zd2mNRs&title=an+AI+actually+went+rogue.&lang=en&timestamp=1786281262&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1060">
+          <img src="https://ytcards.demolab.com/?id=3JH_Zd2mNRs&title=an+AI+actually+went+rogue.&lang=en&timestamp=1786281262&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1060" alt="an AI actually went rogue." title="an AI actually went rogue.">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=DC1M6ZicpAQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=sTn3DRaJaeM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=DC1M6ZicpAQ&title=Module+21+Artificial+Intelligence&lang=en&timestamp=1786335069&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=317">
-          <img src="https://ytcards.demolab.com/?id=DC1M6ZicpAQ&title=Module+21+Artificial+Intelligence&lang=en&timestamp=1786335069&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=317" alt="Module 21 Artificial Intelligence" title="Module 21 Artificial Intelligence">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=FfoR81pQIls" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=FfoR81pQIls&title=SenseTime+AI+Review+2026+%7C+Is+This+the+Future+of+Artificial+Intelligence%3F&lang=en&timestamp=1786333389&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=642">
-          <img src="https://ytcards.demolab.com/?id=FfoR81pQIls&title=SenseTime+AI+Review+2026+%7C+Is+This+the+Future+of+Artificial+Intelligence%3F&lang=en&timestamp=1786333389&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=642" alt="SenseTime AI Review 2026 | Is This the Future of Artificial Intelligence?" title="SenseTime AI Review 2026 | Is This the Future of Artificial Intelligence?">
-        </picture>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=QryAWTpMucw" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QryAWTpMucw&title=Beyond+Earth%3A+AI%2C+Space+Computing+and+Humanity%E2%80%99s+Next+Frontier&lang=en&timestamp=1786286589&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1899">
-          <img src="https://ytcards.demolab.com/?id=QryAWTpMucw&title=Beyond+Earth%3A+AI%2C+Space+Computing+and+Humanity%E2%80%99s+Next+Frontier&lang=en&timestamp=1786286589&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1899" alt="Beyond Earth: AI, Space Computing and Humanity’s Next Frontier" title="Beyond Earth: AI, Space Computing and Humanity’s Next Frontier">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sTn3DRaJaeM&title=South+Australia+launches+royal+commission+into+artificial+intelligence&lang=en&timestamp=1786342102&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=35">
+          <img src="https://ytcards.demolab.com/?id=sTn3DRaJaeM&title=South+Australia+launches+royal+commission+into+artificial+intelligence&lang=en&timestamp=1786342102&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=35" alt="South Australia launches royal commission into artificial intelligence" title="South Australia launches royal commission into artificial intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=KTZiAxTvgFk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KTZiAxTvgFk&title=MAGA+Supporters+RAGE+At+Trump+Over+Nightmare+Tech+Takeover&lang=en&timestamp=1786315389&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=235">
-          <img src="https://ytcards.demolab.com/?id=KTZiAxTvgFk&title=MAGA+Supporters+RAGE+At+Trump+Over+Nightmare+Tech+Takeover&lang=en&timestamp=1786315389&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=235" alt="MAGA Supporters RAGE At Trump Over Nightmare Tech Takeover" title="MAGA Supporters RAGE At Trump Over Nightmare Tech Takeover">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KTZiAxTvgFk&title=MAGA+Supporters+RAGE+At+Trump+Over+Nightmare+Tech+Takeover&lang=en&timestamp=1786313662&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=235">
+          <img src="https://ytcards.demolab.com/?id=KTZiAxTvgFk&title=MAGA+Supporters+RAGE+At+Trump+Over+Nightmare+Tech+Takeover&lang=en&timestamp=1786313662&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=235" alt="MAGA Supporters RAGE At Trump Over Nightmare Tech Takeover" title="MAGA Supporters RAGE At Trump Over Nightmare Tech Takeover">
+        </picture>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=4OJWi2ZGXF4" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4OJWi2ZGXF4&title=We+Must+Switch+OFF+AI&lang=en&timestamp=1786274062&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=435">
+          <img src="https://ytcards.demolab.com/?id=4OJWi2ZGXF4&title=We+Must+Switch+OFF+AI&lang=en&timestamp=1786274062&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=435" alt="We Must Switch OFF AI" title="We Must Switch OFF AI">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=e0mWS-E7G5U" target="_blank">
+      <a href="https://www.youtube.com/watch?v=u2khvYOUmeg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=e0mWS-E7G5U&title=The+Mirror+of+the+Machine%3A+Why+the+AI+Crisis+is+actually+a+Human+Evolutionary+Imperative&lang=en&timestamp=1786286589&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=310">
-          <img src="https://ytcards.demolab.com/?id=e0mWS-E7G5U&title=The+Mirror+of+the+Machine%3A+Why+the+AI+Crisis+is+actually+a+Human+Evolutionary+Imperative&lang=en&timestamp=1786286589&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=310" alt="The Mirror of the Machine: Why the AI Crisis is actually a Human Evolutionary Imperative" title="The Mirror of the Machine: Why the AI Crisis is actually a Human Evolutionary Imperative">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=u2khvYOUmeg&title=A+Nightmare+Fast+Food+Experience&lang=en&timestamp=1786281262&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=469">
+          <img src="https://ytcards.demolab.com/?id=u2khvYOUmeg&title=A+Nightmare+Fast+Food+Experience&lang=en&timestamp=1786281262&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=469" alt="A Nightmare Fast Food Experience" title="A Nightmare Fast Food Experience">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=QryAWTpMucw" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QryAWTpMucw&title=Beyond+Earth%3A+AI%2C+Space+Computing+and+Humanity%E2%80%99s+Next+Frontier&lang=en&timestamp=1786284862&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1899">
+          <img src="https://ytcards.demolab.com/?id=QryAWTpMucw&title=Beyond+Earth%3A+AI%2C+Space+Computing+and+Humanity%E2%80%99s+Next+Frontier&lang=en&timestamp=1786284862&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1899" alt="Beyond Earth: AI, Space Computing and Humanity’s Next Frontier" title="Beyond Earth: AI, Space Computing and Humanity’s Next Frontier">
         </picture>
       </a>
     </td>
