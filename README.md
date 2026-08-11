@@ -244,56 +244,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=N5AQFYtqx8Q" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=N5AQFYtqx8Q&title=Using+AI+to+Increase+Your+Intelligence+%26+Enrich+Humanity+%7C+Dr.+Fei-Fei+Li&lang=en&timestamp=1786366721&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7693">
-          <img src="https://ytcards.demolab.com/?id=N5AQFYtqx8Q&title=Using+AI+to+Increase+Your+Intelligence+%26+Enrich+Humanity+%7C+Dr.+Fei-Fei+Li&lang=en&timestamp=1786366721&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7693" alt="Using AI to Increase Your Intelligence & Enrich Humanity | Dr. Fei-Fei Li" title="Using AI to Increase Your Intelligence & Enrich Humanity | Dr. Fei-Fei Li">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=N5AQFYtqx8Q&title=Using+AI+to+Increase+Your+Intelligence+%26+Enrich+Humanity+%7C+Dr.+Fei-Fei+Li&lang=en&timestamp=1786363623&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7693">
+          <img src="https://ytcards.demolab.com/?id=N5AQFYtqx8Q&title=Using+AI+to+Increase+Your+Intelligence+%26+Enrich+Humanity+%7C+Dr.+Fei-Fei+Li&lang=en&timestamp=1786363623&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7693" alt="Using AI to Increase Your Intelligence & Enrich Humanity | Dr. Fei-Fei Li" title="Using AI to Increase Your Intelligence & Enrich Humanity | Dr. Fei-Fei Li">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=WM9KDLtbXAE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=vNV0v11Era4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WM9KDLtbXAE&title=SA+launches+royal+commission+into+artificial+intelligence+%7C+ABC+NEWS&lang=en&timestamp=1786345121&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=250">
-          <img src="https://ytcards.demolab.com/?id=WM9KDLtbXAE&title=SA+launches+royal+commission+into+artificial+intelligence+%7C+ABC+NEWS&lang=en&timestamp=1786345121&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=250" alt="SA launches royal commission into artificial intelligence | ABC NEWS" title="SA launches royal commission into artificial intelligence | ABC NEWS">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vNV0v11Era4&title=AI+goes+on+a+hacking+spree+%7C+The+Global+Story&lang=en&timestamp=1786396023&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1472">
+          <img src="https://ytcards.demolab.com/?id=vNV0v11Era4&title=AI+goes+on+a+hacking+spree+%7C+The+Global+Story&lang=en&timestamp=1786396023&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1472" alt="AI goes on a hacking spree | The Global Story" title="AI goes on a hacking spree | The Global Story">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=OOXj6z54SGg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=SWtcb-K63pI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=OOXj6z54SGg&title=South+Australia+To+Launch+Royal+Commission+Into+Artificial+Intelligence+%7C+10%E2%80%99s+Late+News&lang=en&timestamp=1786366721&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=99">
-          <img src="https://ytcards.demolab.com/?id=OOXj6z54SGg&title=South+Australia+To+Launch+Royal+Commission+Into+Artificial+Intelligence+%7C+10%E2%80%99s+Late+News&lang=en&timestamp=1786366721&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=99" alt="South Australia To Launch Royal Commission Into Artificial Intelligence | 10’s Late News" title="South Australia To Launch Royal Commission Into Artificial Intelligence | 10’s Late News">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SWtcb-K63pI&title=What+Meta%27s+new+open-source+AI+model+means+for+the+future+of+artificial+intelligence&lang=en&timestamp=1786403223&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=403">
+          <img src="https://ytcards.demolab.com/?id=SWtcb-K63pI&title=What+Meta%27s+new+open-source+AI+model+means+for+the+future+of+artificial+intelligence&lang=en&timestamp=1786403223&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=403" alt="What Meta's new open-source AI model means for the future of artificial intelligence" title="What Meta's new open-source AI model means for the future of artificial intelligence">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=5LBjje0R6vU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=8yTV4wS5bVQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5LBjje0R6vU&title=Top+5+AI+Coding+Tools+for+Beginners+in+2026&lang=en&timestamp=1786294721&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=452">
-          <img src="https://ytcards.demolab.com/?id=5LBjje0R6vU&title=Top+5+AI+Coding+Tools+for+Beginners+in+2026&lang=en&timestamp=1786294721&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=452" alt="Top 5 AI Coding Tools for Beginners in 2026" title="Top 5 AI Coding Tools for Beginners in 2026">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8yTV4wS5bVQ&title=Big+tech%E2%80%99s+AI+layoff+story+is+falling+apart&lang=en&timestamp=1786352823&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=523">
+          <img src="https://ytcards.demolab.com/?id=8yTV4wS5bVQ&title=Big+tech%E2%80%99s+AI+layoff+story+is+falling+apart&lang=en&timestamp=1786352823&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=523" alt="Big tech’s AI layoff story is falling apart" title="Big tech’s AI layoff story is falling apart">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=EjxxHZbePJQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=sTEZFwn7AoA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EjxxHZbePJQ&title=Certificate+Program+in+Artificial+Intelligence+and+Innovation+-+Trailer&lang=en&timestamp=1786359521&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=73">
-          <img src="https://ytcards.demolab.com/?id=EjxxHZbePJQ&title=Certificate+Program+in+Artificial+Intelligence+and+Innovation+-+Trailer&lang=en&timestamp=1786359521&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=73" alt="Certificate Program in Artificial Intelligence and Innovation - Trailer" title="Certificate Program in Artificial Intelligence and Innovation - Trailer">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sTEZFwn7AoA&title=AI+agent+outsmarts+gym+booking+system+in+Australia%27s+first+known+autonomous+hack+%7C+ABC+NEWS&lang=en&timestamp=1786352823&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=149">
+          <img src="https://ytcards.demolab.com/?id=sTEZFwn7AoA&title=AI+agent+outsmarts+gym+booking+system+in+Australia%27s+first+known+autonomous+hack+%7C+ABC+NEWS&lang=en&timestamp=1786352823&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=149" alt="AI agent outsmarts gym booking system in Australia's first known autonomous hack | ABC NEWS" title="AI agent outsmarts gym booking system in Australia's first known autonomous hack | ABC NEWS">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=4nKrDhnSN08" target="_blank">
+      <a href="https://www.youtube.com/watch?v=tLukFkijO5M" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4nKrDhnSN08&title=%E2%9D%93Economic+Royalism%2C+Royalists%2C+and+Supply+Side+vs+Artificial+Intelligence%3A+THE+PLAYLIST&lang=en&timestamp=1786294721&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=21691">
-          <img src="https://ytcards.demolab.com/?id=4nKrDhnSN08&title=%E2%9D%93Economic+Royalism%2C+Royalists%2C+and+Supply+Side+vs+Artificial+Intelligence%3A+THE+PLAYLIST&lang=en&timestamp=1786294721&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=21691" alt="❓Economic Royalism, Royalists, and Supply Side vs Artificial Intelligence: THE PLAYLIST" title="❓Economic Royalism, Royalists, and Supply Side vs Artificial Intelligence: THE PLAYLIST">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tLukFkijO5M&title=Iran+Security+Shake-up%3B+China+Attempts+to+Close+AI+Gap+with+US+%7C+The+Pulse+8%2F10%2F2026&lang=en&timestamp=1786360023&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2932">
+          <img src="https://ytcards.demolab.com/?id=tLukFkijO5M&title=Iran+Security+Shake-up%3B+China+Attempts+to+Close+AI+Gap+with+US+%7C+The+Pulse+8%2F10%2F2026&lang=en&timestamp=1786360023&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2932" alt="Iran Security Shake-up; China Attempts to Close AI Gap with US | The Pulse 8/10/2026" title="Iran Security Shake-up; China Attempts to Close AI Gap with US | The Pulse 8/10/2026">
         </picture>
       </a>
     </td>
