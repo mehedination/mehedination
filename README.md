@@ -245,30 +245,31 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=N5AQFYtqx8Q" target="_blank">
+      <a href="https://www.youtube.com/watch?v=vNV0v11Era4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=N5AQFYtqx8Q&title=Using+AI+to+Increase+Your+Intelligence+%26+Enrich+Humanity+%7C+Dr.+Fei-Fei+Li&lang=en&timestamp=1786363623&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7693">
-          <img src="https://ytcards.demolab.com/?id=N5AQFYtqx8Q&title=Using+AI+to+Increase+Your+Intelligence+%26+Enrich+Humanity+%7C+Dr.+Fei-Fei+Li&lang=en&timestamp=1786363623&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7693" alt="Using AI to Increase Your Intelligence & Enrich Humanity | Dr. Fei-Fei Li" title="Using AI to Increase Your Intelligence & Enrich Humanity | Dr. Fei-Fei Li">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vNV0v11Era4&title=AI+goes+on+a+hacking+spree+%7C+The+Global+Story&lang=en&timestamp=1786398973&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1472">
+          <img src="https://ytcards.demolab.com/?id=vNV0v11Era4&title=AI+goes+on+a+hacking+spree+%7C+The+Global+Story&lang=en&timestamp=1786398973&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1472" alt="AI goes on a hacking spree | The Global Story" title="AI goes on a hacking spree | The Global Story">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=vNV0v11Era4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=N5AQFYtqx8Q" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vNV0v11Era4&title=AI+goes+on+a+hacking+spree+%7C+The+Global+Story&lang=en&timestamp=1786396023&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1472">
-          <img src="https://ytcards.demolab.com/?id=vNV0v11Era4&title=AI+goes+on+a+hacking+spree+%7C+The+Global+Story&lang=en&timestamp=1786396023&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1472" alt="AI goes on a hacking spree | The Global Story" title="AI goes on a hacking spree | The Global Story">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=N5AQFYtqx8Q&title=Using+AI+to+Increase+Your+Intelligence+%26+Enrich+Humanity+%7C+Dr.+Fei-Fei+Li&lang=en&timestamp=1786366573&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7693">
+          <img src="https://ytcards.demolab.com/?id=N5AQFYtqx8Q&title=Using+AI+to+Increase+Your+Intelligence+%26+Enrich+Humanity+%7C+Dr.+Fei-Fei+Li&lang=en&timestamp=1786366573&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7693" alt="Using AI to Increase Your Intelligence & Enrich Humanity | Dr. Fei-Fei Li" title="Using AI to Increase Your Intelligence & Enrich Humanity | Dr. Fei-Fei Li">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=SWtcb-K63pI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SWtcb-K63pI&title=What+Meta%27s+new+open-source+AI+model+means+for+the+future+of+artificial+intelligence&lang=en&timestamp=1786403223&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=403">
-          <img src="https://ytcards.demolab.com/?id=SWtcb-K63pI&title=What+Meta%27s+new+open-source+AI+model+means+for+the+future+of+artificial+intelligence&lang=en&timestamp=1786403223&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=403" alt="What Meta's new open-source AI model means for the future of artificial intelligence" title="What Meta's new open-source AI model means for the future of artificial intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SWtcb-K63pI&title=What+Meta%27s+new+open-source+AI+model+means+for+the+future+of+artificial+intelligence&lang=en&timestamp=1786402573&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=403">
+          <img src="https://ytcards.demolab.com/?id=SWtcb-K63pI&title=What+Meta%27s+new+open-source+AI+model+means+for+the+future+of+artificial+intelligence&lang=en&timestamp=1786402573&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=403" alt="What Meta's new open-source AI model means for the future of artificial intelligence" title="What Meta's new open-source AI model means for the future of artificial intelligence">
         </picture>
       </a>
     </td>
@@ -277,24 +278,24 @@
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=8yTV4wS5bVQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8yTV4wS5bVQ&title=Big+tech%E2%80%99s+AI+layoff+story+is+falling+apart&lang=en&timestamp=1786352823&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=523">
-          <img src="https://ytcards.demolab.com/?id=8yTV4wS5bVQ&title=Big+tech%E2%80%99s+AI+layoff+story+is+falling+apart&lang=en&timestamp=1786352823&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=523" alt="Big tech’s AI layoff story is falling apart" title="Big tech’s AI layoff story is falling apart">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8yTV4wS5bVQ&title=Big+tech%E2%80%99s+AI+layoff+story+is+falling+apart&lang=en&timestamp=1786355773&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=523">
+          <img src="https://ytcards.demolab.com/?id=8yTV4wS5bVQ&title=Big+tech%E2%80%99s+AI+layoff+story+is+falling+apart&lang=en&timestamp=1786355773&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=523" alt="Big tech’s AI layoff story is falling apart" title="Big tech’s AI layoff story is falling apart">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=sTEZFwn7AoA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=3RLoI4BnsJk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sTEZFwn7AoA&title=AI+agent+outsmarts+gym+booking+system+in+Australia%27s+first+known+autonomous+hack+%7C+ABC+NEWS&lang=en&timestamp=1786352823&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=149">
-          <img src="https://ytcards.demolab.com/?id=sTEZFwn7AoA&title=AI+agent+outsmarts+gym+booking+system+in+Australia%27s+first+known+autonomous+hack+%7C+ABC+NEWS&lang=en&timestamp=1786352823&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=149" alt="AI agent outsmarts gym booking system in Australia's first known autonomous hack | ABC NEWS" title="AI agent outsmarts gym booking system in Australia's first known autonomous hack | ABC NEWS">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3RLoI4BnsJk&title=Gemini+3.7+Flash+Is+Coming%2C+GPT+Image+3+Is+Being+Tested+%26+MORE%21&lang=en&timestamp=1786402573&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=562">
+          <img src="https://ytcards.demolab.com/?id=3RLoI4BnsJk&title=Gemini+3.7+Flash+Is+Coming%2C+GPT+Image+3+Is+Being+Tested+%26+MORE%21&lang=en&timestamp=1786402573&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=562" alt="Gemini 3.7 Flash Is Coming, GPT Image 3 Is Being Tested & MORE!" title="Gemini 3.7 Flash Is Coming, GPT Image 3 Is Being Tested & MORE!">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=tLukFkijO5M" target="_blank">
+      <a href="https://www.youtube.com/watch?v=zvsLEsnfsrM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tLukFkijO5M&title=Iran+Security+Shake-up%3B+China+Attempts+to+Close+AI+Gap+with+US+%7C+The+Pulse+8%2F10%2F2026&lang=en&timestamp=1786360023&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2932">
-          <img src="https://ytcards.demolab.com/?id=tLukFkijO5M&title=Iran+Security+Shake-up%3B+China+Attempts+to+Close+AI+Gap+with+US+%7C+The+Pulse+8%2F10%2F2026&lang=en&timestamp=1786360023&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2932" alt="Iran Security Shake-up; China Attempts to Close AI Gap with US | The Pulse 8/10/2026" title="Iran Security Shake-up; China Attempts to Close AI Gap with US | The Pulse 8/10/2026">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zvsLEsnfsrM&title=This+AI+Trading+Bot+Made+More+Than+My+9-5+%28Day+Trading+AI+Agent+Tutorial%29&lang=en&timestamp=1786362973&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=505">
+          <img src="https://ytcards.demolab.com/?id=zvsLEsnfsrM&title=This+AI+Trading+Bot+Made+More+Than+My+9-5+%28Day+Trading+AI+Agent+Tutorial%29&lang=en&timestamp=1786362973&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=505" alt="This AI Trading Bot Made More Than My 9-5 (Day Trading AI Agent Tutorial)" title="This AI Trading Bot Made More Than My 9-5 (Day Trading AI Agent Tutorial)">
         </picture>
       </a>
     </td>
