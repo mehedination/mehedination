@@ -248,56 +248,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=SNH3Bp1F0ks" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SNH3Bp1F0ks&title=Mark+Zuckerberg+responds+to+fears+about+artificial+intelligence&lang=en&timestamp=1786429102&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=157">
-          <img src="https://ytcards.demolab.com/?id=SNH3Bp1F0ks&title=Mark+Zuckerberg+responds+to+fears+about+artificial+intelligence&lang=en&timestamp=1786429102&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=157" alt="Mark Zuckerberg responds to fears about artificial intelligence" title="Mark Zuckerberg responds to fears about artificial intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SNH3Bp1F0ks&title=Mark+Zuckerberg+responds+to+fears+about+artificial+intelligence&lang=en&timestamp=1786428161&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=157">
+          <img src="https://ytcards.demolab.com/?id=SNH3Bp1F0ks&title=Mark+Zuckerberg+responds+to+fears+about+artificial+intelligence&lang=en&timestamp=1786428161&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=157" alt="Mark Zuckerberg responds to fears about artificial intelligence" title="Mark Zuckerberg responds to fears about artificial intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=5GRvwQSVqAo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5GRvwQSVqAo&title=Booz+Allen+CEO+on+cyber+risks+and+the+AI+arms+race&lang=en&timestamp=1786378702&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=588">
-          <img src="https://ytcards.demolab.com/?id=5GRvwQSVqAo&title=Booz+Allen+CEO+on+cyber+risks+and+the+AI+arms+race&lang=en&timestamp=1786378702&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=588" alt="Booz Allen CEO on cyber risks and the AI arms race" title="Booz Allen CEO on cyber risks and the AI arms race">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5GRvwQSVqAo&title=Booz+Allen+CEO+on+cyber+risks+and+the+AI+arms+race&lang=en&timestamp=1786381361&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=588">
+          <img src="https://ytcards.demolab.com/?id=5GRvwQSVqAo&title=Booz+Allen+CEO+on+cyber+risks+and+the+AI+arms+race&lang=en&timestamp=1786381361&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=588" alt="Booz Allen CEO on cyber risks and the AI arms race" title="Booz Allen CEO on cyber risks and the AI arms race">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=N5AQFYtqx8Q" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=N5AQFYtqx8Q&title=Using+AI+to+Increase+Your+Intelligence+%26+Enrich+Humanity+%7C+Dr.+Fei-Fei+Li&lang=en&timestamp=1786367902&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7693">
-          <img src="https://ytcards.demolab.com/?id=N5AQFYtqx8Q&title=Using+AI+to+Increase+Your+Intelligence+%26+Enrich+Humanity+%7C+Dr.+Fei-Fei+Li&lang=en&timestamp=1786367902&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7693" alt="Using AI to Increase Your Intelligence & Enrich Humanity | Dr. Fei-Fei Li" title="Using AI to Increase Your Intelligence & Enrich Humanity | Dr. Fei-Fei Li">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=N5AQFYtqx8Q&title=Using+AI+to+Increase+Your+Intelligence+%26+Enrich+Humanity+%7C+Dr.+Fei-Fei+Li&lang=en&timestamp=1786381361&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7693">
+          <img src="https://ytcards.demolab.com/?id=N5AQFYtqx8Q&title=Using+AI+to+Increase+Your+Intelligence+%26+Enrich+Humanity+%7C+Dr.+Fei-Fei+Li&lang=en&timestamp=1786381361&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7693" alt="Using AI to Increase Your Intelligence & Enrich Humanity | Dr. Fei-Fei Li" title="Using AI to Increase Your Intelligence & Enrich Humanity | Dr. Fei-Fei Li">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
+      <a href="https://www.youtube.com/watch?v=SWtcb-K63pI" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SWtcb-K63pI&title=What+Meta%27s+new+open-source+AI+model+means+for+the+future+of+artificial+intelligence&lang=en&timestamp=1786402961&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=403">
+          <img src="https://ytcards.demolab.com/?id=SWtcb-K63pI&title=What+Meta%27s+new+open-source+AI+model+means+for+the+future+of+artificial+intelligence&lang=en&timestamp=1786402961&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=403" alt="What Meta's new open-source AI model means for the future of artificial intelligence" title="What Meta's new open-source AI model means for the future of artificial intelligence">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
       <a href="https://www.youtube.com/watch?v=tLukFkijO5M" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tLukFkijO5M&title=Iran+Security+Shake-up%3B+China+Attempts+to+Close+AI+Gap+with+US+%7C+The+Pulse+8%2F10%2F2026&lang=en&timestamp=1786367902&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2932">
-          <img src="https://ytcards.demolab.com/?id=tLukFkijO5M&title=Iran+Security+Shake-up%3B+China+Attempts+to+Close+AI+Gap+with+US+%7C+The+Pulse+8%2F10%2F2026&lang=en&timestamp=1786367902&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2932" alt="Iran Security Shake-up; China Attempts to Close AI Gap with US | The Pulse 8/10/2026" title="Iran Security Shake-up; China Attempts to Close AI Gap with US | The Pulse 8/10/2026">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tLukFkijO5M&title=Iran+Security+Shake-up%3B+China+Attempts+to+Close+AI+Gap+with+US+%7C+The+Pulse+8%2F10%2F2026&lang=en&timestamp=1786381361&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2932">
+          <img src="https://ytcards.demolab.com/?id=tLukFkijO5M&title=Iran+Security+Shake-up%3B+China+Attempts+to+Close+AI+Gap+with+US+%7C+The+Pulse+8%2F10%2F2026&lang=en&timestamp=1786381361&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2932" alt="Iran Security Shake-up; China Attempts to Close AI Gap with US | The Pulse 8/10/2026" title="Iran Security Shake-up; China Attempts to Close AI Gap with US | The Pulse 8/10/2026">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=SH16XEhxQaY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SH16XEhxQaY&title=Lt.+Col.+%28Ret.%29+Bob+Maginnis+on+Artificial+Intelligence+Concerns+Including+Its+Use+in+Virus+Creation&lang=en&timestamp=1786400302&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=931">
-          <img src="https://ytcards.demolab.com/?id=SH16XEhxQaY&title=Lt.+Col.+%28Ret.%29+Bob+Maginnis+on+Artificial+Intelligence+Concerns+Including+Its+Use+in+Virus+Creation&lang=en&timestamp=1786400302&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=931" alt="Lt. Col. (Ret.) Bob Maginnis on Artificial Intelligence Concerns Including Its Use in Virus Creation" title="Lt. Col. (Ret.) Bob Maginnis on Artificial Intelligence Concerns Including Its Use in Virus Creation">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=z6rzH1HdQc4" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=z6rzH1HdQc4&title=AI+Improves+Prostate+Biopsy+Accuracy%3A+New+Study+Explained&lang=en&timestamp=1786371502&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=355">
-          <img src="https://ytcards.demolab.com/?id=z6rzH1HdQc4&title=AI+Improves+Prostate+Biopsy+Accuracy%3A+New+Study+Explained&lang=en&timestamp=1786371502&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=355" alt="AI Improves Prostate Biopsy Accuracy: New Study Explained" title="AI Improves Prostate Biopsy Accuracy: New Study Explained">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SH16XEhxQaY&title=Lt.+Col.+%28Ret.%29+Bob+Maginnis+on+Artificial+Intelligence+Concerns+Including+Its+Use+in+Virus+Creation&lang=en&timestamp=1786402961&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=931">
+          <img src="https://ytcards.demolab.com/?id=SH16XEhxQaY&title=Lt.+Col.+%28Ret.%29+Bob+Maginnis+on+Artificial+Intelligence+Concerns+Including+Its+Use+in+Virus+Creation&lang=en&timestamp=1786402961&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=931" alt="Lt. Col. (Ret.) Bob Maginnis on Artificial Intelligence Concerns Including Its Use in Virus Creation" title="Lt. Col. (Ret.) Bob Maginnis on Artificial Intelligence Concerns Including Its Use in Virus Creation">
         </picture>
       </a>
     </td>
