@@ -260,56 +260,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=XaAMbu5ohVw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XaAMbu5ohVw&title=The+%28Overdue%29+Collapse+Of+Artificial+Intelligence&lang=en&timestamp=1786496913&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1231">
-          <img src="https://ytcards.demolab.com/?id=XaAMbu5ohVw&title=The+%28Overdue%29+Collapse+Of+Artificial+Intelligence&lang=en&timestamp=1786496913&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1231" alt="The (Overdue) Collapse Of Artificial Intelligence" title="The (Overdue) Collapse Of Artificial Intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XaAMbu5ohVw&title=The+%28Overdue%29+Collapse+Of+Artificial+Intelligence&lang=en&timestamp=1786495954&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1231">
+          <img src="https://ytcards.demolab.com/?id=XaAMbu5ohVw&title=The+%28Overdue%29+Collapse+Of+Artificial+Intelligence&lang=en&timestamp=1786495954&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1231" alt="The (Overdue) Collapse Of Artificial Intelligence" title="The (Overdue) Collapse Of Artificial Intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=u21bLT_nQgE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=u21bLT_nQgE&title=Behind+Zuckerberg%27s+essay+on+the+future+of+AI+and+what+he+calls+the+%22most+dangerous%22+scenario&lang=en&timestamp=1786475313&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=313">
-          <img src="https://ytcards.demolab.com/?id=u21bLT_nQgE&title=Behind+Zuckerberg%27s+essay+on+the+future+of+AI+and+what+he+calls+the+%22most+dangerous%22+scenario&lang=en&timestamp=1786475313&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=313" alt="Behind Zuckerberg's essay on the future of AI and what he calls the &quot;most dangerous&quot; scenario" title="Behind Zuckerberg's essay on the future of AI and what he calls the &quot;most dangerous&quot; scenario">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=EvPMIh4SxP0" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EvPMIh4SxP0&title=Entirely+Artificial+Intelligence%3A+Joshua+Bonehill-Paine+and+the+Crewkerne+Gazette&lang=en&timestamp=1786475313&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2287">
-          <img src="https://ytcards.demolab.com/?id=EvPMIh4SxP0&title=Entirely+Artificial+Intelligence%3A+Joshua+Bonehill-Paine+and+the+Crewkerne+Gazette&lang=en&timestamp=1786475313&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2287" alt="Entirely Artificial Intelligence: Joshua Bonehill-Paine and the Crewkerne Gazette" title="Entirely Artificial Intelligence: Joshua Bonehill-Paine and the Crewkerne Gazette">
-        </picture>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=psllRvOotwI" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=psllRvOotwI&title=911+calls+answered+by+AI+in+New+Orleans&lang=en&timestamp=1786475313&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=476">
-          <img src="https://ytcards.demolab.com/?id=psllRvOotwI&title=911+calls+answered+by+AI+in+New+Orleans&lang=en&timestamp=1786475313&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=476" alt="911 calls answered by AI in New Orleans" title="911 calls answered by AI in New Orleans">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=u21bLT_nQgE&title=Behind+Zuckerberg%27s+essay+on+the+future+of+AI+and+what+he+calls+the+%22most+dangerous%22+scenario&lang=en&timestamp=1786481554&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=313">
+          <img src="https://ytcards.demolab.com/?id=u21bLT_nQgE&title=Behind+Zuckerberg%27s+essay+on+the+future+of+AI+and+what+he+calls+the+%22most+dangerous%22+scenario&lang=en&timestamp=1786481554&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=313" alt="Behind Zuckerberg's essay on the future of AI and what he calls the &quot;most dangerous&quot; scenario" title="Behind Zuckerberg's essay on the future of AI and what he calls the &quot;most dangerous&quot; scenario">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=m9ZtDksxAXg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=m9ZtDksxAXg&title=AI+Will+Change+Money+Forever+-+Are+We+Ready%3F&lang=en&timestamp=1786475313&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3087">
-          <img src="https://ytcards.demolab.com/?id=m9ZtDksxAXg&title=AI+Will+Change+Money+Forever+-+Are+We+Ready%3F&lang=en&timestamp=1786475313&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3087" alt="AI Will Change Money Forever - Are We Ready?" title="AI Will Change Money Forever - Are We Ready?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=m9ZtDksxAXg&title=AI+Will+Change+Money+Forever+-+Are+We+Ready%3F&lang=en&timestamp=1786481554&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3087">
+          <img src="https://ytcards.demolab.com/?id=m9ZtDksxAXg&title=AI+Will+Change+Money+Forever+-+Are+We+Ready%3F&lang=en&timestamp=1786481554&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3087" alt="AI Will Change Money Forever - Are We Ready?" title="AI Will Change Money Forever - Are We Ready?">
+        </picture>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=EvPMIh4SxP0" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EvPMIh4SxP0&title=Entirely+Artificial+Intelligence%3A+Joshua+Bonehill-Paine+and+the+Crewkerne+Gazette&lang=en&timestamp=1786481554&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2287">
+          <img src="https://ytcards.demolab.com/?id=EvPMIh4SxP0&title=Entirely+Artificial+Intelligence%3A+Joshua+Bonehill-Paine+and+the+Crewkerne+Gazette&lang=en&timestamp=1786481554&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2287" alt="Entirely Artificial Intelligence: Joshua Bonehill-Paine and the Crewkerne Gazette" title="Entirely Artificial Intelligence: Joshua Bonehill-Paine and the Crewkerne Gazette">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=-RXD4bTuFTo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=psllRvOotwI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-RXD4bTuFTo&title=Ryan+Greenblatt+%E2%80%93+Can+we+keep+control+of+recursive+self-improvement%3F&lang=en&timestamp=1786475313&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7952">
-          <img src="https://ytcards.demolab.com/?id=-RXD4bTuFTo&title=Ryan+Greenblatt+%E2%80%93+Can+we+keep+control+of+recursive+self-improvement%3F&lang=en&timestamp=1786475313&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7952" alt="Ryan Greenblatt – Can we keep control of recursive self-improvement?" title="Ryan Greenblatt – Can we keep control of recursive self-improvement?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=psllRvOotwI&title=911+calls+answered+by+AI+in+New+Orleans&lang=en&timestamp=1786481554&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=476">
+          <img src="https://ytcards.demolab.com/?id=psllRvOotwI&title=911+calls+answered+by+AI+in+New+Orleans&lang=en&timestamp=1786481554&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=476" alt="911 calls answered by AI in New Orleans" title="911 calls answered by AI in New Orleans">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=Bqk5vqpzG_o" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Bqk5vqpzG_o&title=This+14-Year-Old+Thinks+My+P%28Doom%29+Is+Too+High+%E2%80%94+Eli+Goldfine&lang=en&timestamp=1786481554&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7907">
+          <img src="https://ytcards.demolab.com/?id=Bqk5vqpzG_o&title=This+14-Year-Old+Thinks+My+P%28Doom%29+Is+Too+High+%E2%80%94+Eli+Goldfine&lang=en&timestamp=1786481554&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7907" alt="This 14-Year-Old Thinks My P(Doom) Is Too High — Eli Goldfine" title="This 14-Year-Old Thinks My P(Doom) Is Too High — Eli Goldfine">
         </picture>
       </a>
     </td>
