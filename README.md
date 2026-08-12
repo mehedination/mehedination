@@ -253,56 +253,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=SNH3Bp1F0ks" target="_blank">
+      <a href="https://www.youtube.com/watch?v=u21bLT_nQgE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SNH3Bp1F0ks&title=Mark+Zuckerberg+responds+to+fears+about+artificial+intelligence&lang=en&timestamp=1786430931&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=157">
-          <img src="https://ytcards.demolab.com/?id=SNH3Bp1F0ks&title=Mark+Zuckerberg+responds+to+fears+about+artificial+intelligence&lang=en&timestamp=1786430931&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=157" alt="Mark Zuckerberg responds to fears about artificial intelligence" title="Mark Zuckerberg responds to fears about artificial intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=u21bLT_nQgE&title=Behind+Zuckerberg%27s+essay+on+the+future+of+AI+and+what+he+calls+the+%22most+dangerous%22+scenario&lang=en&timestamp=1786458146&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=313">
+          <img src="https://ytcards.demolab.com/?id=u21bLT_nQgE&title=Behind+Zuckerberg%27s+essay+on+the+future+of+AI+and+what+he+calls+the+%22most+dangerous%22+scenario&lang=en&timestamp=1786458146&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=313" alt="Behind Zuckerberg's essay on the future of AI and what he calls the &quot;most dangerous&quot; scenario" title="Behind Zuckerberg's essay on the future of AI and what he calls the &quot;most dangerous&quot; scenario">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=N5AQFYtqx8Q" target="_blank">
+      <a href="https://www.youtube.com/watch?v=XaAMbu5ohVw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=N5AQFYtqx8Q&title=Using+AI+to+Increase+Your+Intelligence+%26+Enrich+Humanity+%7C+Dr.+Fei-Fei+Li&lang=en&timestamp=1786405731&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7693">
-          <img src="https://ytcards.demolab.com/?id=N5AQFYtqx8Q&title=Using+AI+to+Increase+Your+Intelligence+%26+Enrich+Humanity+%7C+Dr.+Fei-Fei+Li&lang=en&timestamp=1786405731&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7693" alt="Using AI to Increase Your Intelligence & Enrich Humanity | Dr. Fei-Fei Li" title="Using AI to Increase Your Intelligence & Enrich Humanity | Dr. Fei-Fei Li">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XaAMbu5ohVw&title=The+%28Overdue%29+Collapse+Of+Artificial+Intelligence&lang=en&timestamp=1786497746&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1231">
+          <img src="https://ytcards.demolab.com/?id=XaAMbu5ohVw&title=The+%28Overdue%29+Collapse+Of+Artificial+Intelligence&lang=en&timestamp=1786497746&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1231" alt="The (Overdue) Collapse Of Artificial Intelligence" title="The (Overdue) Collapse Of Artificial Intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=tLukFkijO5M" target="_blank">
+      <a href="https://www.youtube.com/watch?v=EvPMIh4SxP0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tLukFkijO5M&title=Iran+Security+Shake-up%3B+China+Attempts+to+Close+AI+Gap+with+US+%7C+The+Pulse+8%2F10%2F2026&lang=en&timestamp=1786405731&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2932">
-          <img src="https://ytcards.demolab.com/?id=tLukFkijO5M&title=Iran+Security+Shake-up%3B+China+Attempts+to+Close+AI+Gap+with+US+%7C+The+Pulse+8%2F10%2F2026&lang=en&timestamp=1786405731&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2932" alt="Iran Security Shake-up; China Attempts to Close AI Gap with US | The Pulse 8/10/2026" title="Iran Security Shake-up; China Attempts to Close AI Gap with US | The Pulse 8/10/2026">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EvPMIh4SxP0&title=Entirely+Artificial+Intelligence%3A+Joshua+Bonehill-Paine+and+the+Crewkerne+Gazette&lang=en&timestamp=1786476146&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2287">
+          <img src="https://ytcards.demolab.com/?id=EvPMIh4SxP0&title=Entirely+Artificial+Intelligence%3A+Joshua+Bonehill-Paine+and+the+Crewkerne+Gazette&lang=en&timestamp=1786476146&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2287" alt="Entirely Artificial Intelligence: Joshua Bonehill-Paine and the Crewkerne Gazette" title="Entirely Artificial Intelligence: Joshua Bonehill-Paine and the Crewkerne Gazette">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=-w9XCnIWV7U" target="_blank">
+      <a href="https://www.youtube.com/watch?v=hZqJvWDI0Rs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-w9XCnIWV7U&title=Hossein+Berenji+talks+about+virtual+infidelity+with+artificial+intelligence&lang=en&timestamp=1786484931&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=275">
-          <img src="https://ytcards.demolab.com/?id=-w9XCnIWV7U&title=Hossein+Berenji+talks+about+virtual+infidelity+with+artificial+intelligence&lang=en&timestamp=1786484931&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=275" alt="Hossein Berenji talks about virtual infidelity with artificial intelligence" title="Hossein Berenji talks about virtual infidelity with artificial intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hZqJvWDI0Rs&title=Mark+Zuckerberg+just+called+out+Dario+%28and+Anthropic%29&lang=en&timestamp=1786472546&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2223">
+          <img src="https://ytcards.demolab.com/?id=hZqJvWDI0Rs&title=Mark+Zuckerberg+just+called+out+Dario+%28and+Anthropic%29&lang=en&timestamp=1786472546&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2223" alt="Mark Zuckerberg just called out Dario (and Anthropic)" title="Mark Zuckerberg just called out Dario (and Anthropic)">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=SWtcb-K63pI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=psllRvOotwI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SWtcb-K63pI&title=What+Meta%27s+new+open-source+AI+model+means+for+the+future+of+artificial+intelligence&lang=en&timestamp=1786405731&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=403">
-          <img src="https://ytcards.demolab.com/?id=SWtcb-K63pI&title=What+Meta%27s+new+open-source+AI+model+means+for+the+future+of+artificial+intelligence&lang=en&timestamp=1786405731&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=403" alt="What Meta's new open-source AI model means for the future of artificial intelligence" title="What Meta's new open-source AI model means for the future of artificial intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=psllRvOotwI&title=911+calls+answered+by+AI+in+New+Orleans&lang=en&timestamp=1786447346&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=476">
+          <img src="https://ytcards.demolab.com/?id=psllRvOotwI&title=911+calls+answered+by+AI+in+New+Orleans&lang=en&timestamp=1786447346&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=476" alt="911 calls answered by AI in New Orleans" title="911 calls answered by AI in New Orleans">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=z6rzH1HdQc4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=m9ZtDksxAXg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=z6rzH1HdQc4&title=AI+Improves+Prostate+Biopsy+Accuracy%3A+New+Study+Explained&lang=en&timestamp=1786405731&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=355">
-          <img src="https://ytcards.demolab.com/?id=z6rzH1HdQc4&title=AI+Improves+Prostate+Biopsy+Accuracy%3A+New+Study+Explained&lang=en&timestamp=1786405731&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=355" alt="AI Improves Prostate Biopsy Accuracy: New Study Explained" title="AI Improves Prostate Biopsy Accuracy: New Study Explained">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=m9ZtDksxAXg&title=AI+Will+Change+Money+Forever+-+Are+We+Ready%3F&lang=en&timestamp=1786454546&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3087">
+          <img src="https://ytcards.demolab.com/?id=m9ZtDksxAXg&title=AI+Will+Change+Money+Forever+-+Are+We+Ready%3F&lang=en&timestamp=1786454546&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3087" alt="AI Will Change Money Forever - Are We Ready?" title="AI Will Change Money Forever - Are We Ready?">
         </picture>
       </a>
     </td>
