@@ -264,56 +264,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=XaAMbu5ohVw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=nqb9LmkxY5U" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XaAMbu5ohVw&title=The+%28Overdue%29+Collapse+Of+Artificial+Intelligence&lang=en&timestamp=1786495733&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1231">
-          <img src="https://ytcards.demolab.com/?id=XaAMbu5ohVw&title=The+%28Overdue%29+Collapse+Of+Artificial+Intelligence&lang=en&timestamp=1786495733&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1231" alt="The (Overdue) Collapse Of Artificial Intelligence" title="The (Overdue) Collapse Of Artificial Intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nqb9LmkxY5U&title=Bernie+Sanders+Demand+AI+Development+Pause+-+Progressives+Love+Trump&lang=en&timestamp=1786567952&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1608">
+          <img src="https://ytcards.demolab.com/?id=nqb9LmkxY5U&title=Bernie+Sanders+Demand+AI+Development+Pause+-+Progressives+Love+Trump&lang=en&timestamp=1786567952&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1608" alt="Bernie Sanders Demand AI Development Pause - Progressives Love Trump" title="Bernie Sanders Demand AI Development Pause - Progressives Love Trump">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=EvPMIh4SxP0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=P0iwCz_DYQk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EvPMIh4SxP0&title=Entirely+Artificial+Intelligence%3A+Joshua+Bonehill-Paine+and+the+Crewkerne+Gazette&lang=en&timestamp=1786492133&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2287">
-          <img src="https://ytcards.demolab.com/?id=EvPMIh4SxP0&title=Entirely+Artificial+Intelligence%3A+Joshua+Bonehill-Paine+and+the+Crewkerne+Gazette&lang=en&timestamp=1786492133&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2287" alt="Entirely Artificial Intelligence: Joshua Bonehill-Paine and the Crewkerne Gazette" title="Entirely Artificial Intelligence: Joshua Bonehill-Paine and the Crewkerne Gazette">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=P0iwCz_DYQk&title=Google%E2%80%99s+Pixel+11+puts+Gemini+Intelligence+at+the+center+of+the+smartphone&lang=en&timestamp=1786553552&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=167">
+          <img src="https://ytcards.demolab.com/?id=P0iwCz_DYQk&title=Google%E2%80%99s+Pixel+11+puts+Gemini+Intelligence+at+the+center+of+the+smartphone&lang=en&timestamp=1786553552&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=167" alt="Google’s Pixel 11 puts Gemini Intelligence at the center of the smartphone" title="Google’s Pixel 11 puts Gemini Intelligence at the center of the smartphone">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=psllRvOotwI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=-KPnQWV8A8I" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=psllRvOotwI&title=911+calls+answered+by+AI+in+New+Orleans&lang=en&timestamp=1786492133&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=476">
-          <img src="https://ytcards.demolab.com/?id=psllRvOotwI&title=911+calls+answered+by+AI+in+New+Orleans&lang=en&timestamp=1786492133&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=476" alt="911 calls answered by AI in New Orleans" title="911 calls answered by AI in New Orleans">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-KPnQWV8A8I&title=Will+AI+Go+To+Zero%3F+%E2%80%94++With+Paul+Kedrosky&lang=en&timestamp=1786553552&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3875">
+          <img src="https://ytcards.demolab.com/?id=-KPnQWV8A8I&title=Will+AI+Go+To+Zero%3F+%E2%80%94++With+Paul+Kedrosky&lang=en&timestamp=1786553552&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3875" alt="Will AI Go To Zero? —  With Paul Kedrosky" title="Will AI Go To Zero? —  With Paul Kedrosky">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=u21bLT_nQgE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=YccmSwvjwnw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=u21bLT_nQgE&title=Behind+Zuckerberg%27s+essay+on+the+future+of+AI+and+what+he+calls+the+%22most+dangerous%22+scenario&lang=en&timestamp=1786492133&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=313">
-          <img src="https://ytcards.demolab.com/?id=u21bLT_nQgE&title=Behind+Zuckerberg%27s+essay+on+the+future+of+AI+and+what+he+calls+the+%22most+dangerous%22+scenario&lang=en&timestamp=1786492133&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=313" alt="Behind Zuckerberg's essay on the future of AI and what he calls the &quot;most dangerous&quot; scenario" title="Behind Zuckerberg's essay on the future of AI and what he calls the &quot;most dangerous&quot; scenario">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=YccmSwvjwnw&title=Putin+on+AI+Fears%3A+%27I%27ve+Never+Been+Afraid+of+Anything%2C%27+Warns+Of+AI+Divide+%7C+WION&lang=en&timestamp=1786535552&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=103">
+          <img src="https://ytcards.demolab.com/?id=YccmSwvjwnw&title=Putin+on+AI+Fears%3A+%27I%27ve+Never+Been+Afraid+of+Anything%2C%27+Warns+Of+AI+Divide+%7C+WION&lang=en&timestamp=1786535552&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=103" alt="Putin on AI Fears: 'I've Never Been Afraid of Anything,' Warns Of AI Divide | WION" title="Putin on AI Fears: 'I've Never Been Afraid of Anything,' Warns Of AI Divide | WION">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=m9ZtDksxAXg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=P5C9SUblMXo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=m9ZtDksxAXg&title=AI+Will+Change+Money+Forever+-+Are+We+Ready%3F&lang=en&timestamp=1786492133&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3087">
-          <img src="https://ytcards.demolab.com/?id=m9ZtDksxAXg&title=AI+Will+Change+Money+Forever+-+Are+We+Ready%3F&lang=en&timestamp=1786492133&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3087" alt="AI Will Change Money Forever - Are We Ready?" title="AI Will Change Money Forever - Are We Ready?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=P5C9SUblMXo&title=Asian+Dad+Energy+LIVE+Office+Hours%3A++The+State+of+the+AI+Bubble&lang=en&timestamp=1786589552&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7144">
+          <img src="https://ytcards.demolab.com/?id=P5C9SUblMXo&title=Asian+Dad+Energy+LIVE+Office+Hours%3A++The+State+of+the+AI+Bubble&lang=en&timestamp=1786589552&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7144" alt="Asian Dad Energy LIVE Office Hours:  The State of the AI Bubble" title="Asian Dad Energy LIVE Office Hours:  The State of the AI Bubble">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=K7Kpba0VN2A" target="_blank">
+      <a href="https://www.youtube.com/watch?v=UIUuanjVvds" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=K7Kpba0VN2A&title=Zuckerberg+makes+%27STUNNING%27+announcement+on+AI+race&lang=en&timestamp=1786492133&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=211">
-          <img src="https://ytcards.demolab.com/?id=K7Kpba0VN2A&title=Zuckerberg+makes+%27STUNNING%27+announcement+on+AI+race&lang=en&timestamp=1786492133&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=211" alt="Zuckerberg makes 'STUNNING' announcement on AI race" title="Zuckerberg makes 'STUNNING' announcement on AI race">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=UIUuanjVvds&title=Live+Satsang+106+%7C+AI%3A+Boon+or+Bane%3F+ft.+%40vimoh+%7C+Punit+Pania&lang=en&timestamp=1786560752&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7731">
+          <img src="https://ytcards.demolab.com/?id=UIUuanjVvds&title=Live+Satsang+106+%7C+AI%3A+Boon+or+Bane%3F+ft.+%40vimoh+%7C+Punit+Pania&lang=en&timestamp=1786560752&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7731" alt="Live Satsang 106 | AI: Boon or Bane? ft. @vimoh | Punit Pania" title="Live Satsang 106 | AI: Boon or Bane? ft. @vimoh | Punit Pania">
         </picture>
       </a>
     </td>
