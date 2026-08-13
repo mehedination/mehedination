@@ -269,56 +269,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=jAkB_qeATag" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jAkB_qeATag&title=AI+%26+Data+Science+Periodic+Tables%3A+How+They+Work+Together&lang=en&timestamp=1786619358&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=801">
-          <img src="https://ytcards.demolab.com/?id=jAkB_qeATag&title=AI+%26+Data+Science+Periodic+Tables%3A+How+They+Work+Together&lang=en&timestamp=1786619358&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=801" alt="AI & Data Science Periodic Tables: How They Work Together" title="AI & Data Science Periodic Tables: How They Work Together">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jAkB_qeATag&title=AI+%26+Data+Science+Periodic+Tables%3A+How+They+Work+Together&lang=en&timestamp=1786621947&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=801">
+          <img src="https://ytcards.demolab.com/?id=jAkB_qeATag&title=AI+%26+Data+Science+Periodic+Tables%3A+How+They+Work+Together&lang=en&timestamp=1786621947&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=801" alt="AI & Data Science Periodic Tables: How They Work Together" title="AI & Data Science Periodic Tables: How They Work Together">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=1LUWYDmk8PA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=aCB-NQtsKrs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1LUWYDmk8PA&title=How+the+hybridization+of+humans%2C+affects+our+ability+to+face+artificial+intelligence&lang=en&timestamp=1786561758&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=594">
-          <img src="https://ytcards.demolab.com/?id=1LUWYDmk8PA&title=How+the+hybridization+of+humans%2C+affects+our+ability+to+face+artificial+intelligence&lang=en&timestamp=1786561758&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=594" alt="How the hybridization of humans, affects our ability to face artificial intelligence" title="How the hybridization of humans, affects our ability to face artificial intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aCB-NQtsKrs&title=%22Deep+Unlearning%22%3A+Timnit+Gebru+on+AI+Hype%2C+Ethics+%26+Algorithmic+Racial+Bias&lang=en&timestamp=1786636347&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1076">
+          <img src="https://ytcards.demolab.com/?id=aCB-NQtsKrs&title=%22Deep+Unlearning%22%3A+Timnit+Gebru+on+AI+Hype%2C+Ethics+%26+Algorithmic+Racial+Bias&lang=en&timestamp=1786636347&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1076" alt="&quot;Deep Unlearning&quot;: Timnit Gebru on AI Hype, Ethics & Algorithmic Racial Bias" title="&quot;Deep Unlearning&quot;: Timnit Gebru on AI Hype, Ethics & Algorithmic Racial Bias">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=UIUuanjVvds" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=UIUuanjVvds&title=Live+Satsang+106+%7C+AI%3A+Boon+or+Bane%3F+ft.+%40vimoh+%7C+Punit+Pania&lang=en&timestamp=1786561758&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7731">
-          <img src="https://ytcards.demolab.com/?id=UIUuanjVvds&title=Live+Satsang+106+%7C+AI%3A+Boon+or+Bane%3F+ft.+%40vimoh+%7C+Punit+Pania&lang=en&timestamp=1786561758&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7731" alt="Live Satsang 106 | AI: Boon or Bane? ft. @vimoh | Punit Pania" title="Live Satsang 106 | AI: Boon or Bane? ft. @vimoh | Punit Pania">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=UIUuanjVvds&title=Live+Satsang+106+%7C+AI%3A+Boon+or+Bane%3F+ft.+%40vimoh+%7C+Punit+Pania&lang=en&timestamp=1786571547&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7731">
+          <img src="https://ytcards.demolab.com/?id=UIUuanjVvds&title=Live+Satsang+106+%7C+AI%3A+Boon+or+Bane%3F+ft.+%40vimoh+%7C+Punit+Pania&lang=en&timestamp=1786571547&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7731" alt="Live Satsang 106 | AI: Boon or Bane? ft. @vimoh | Punit Pania" title="Live Satsang 106 | AI: Boon or Bane? ft. @vimoh | Punit Pania">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=VDovVDrw9Z0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=a-ya_d89eEA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=VDovVDrw9Z0&title=FREE+Uncensored+AI+2026+%E2%80%94+No+Filters%2C+No+Restrictions&lang=en&timestamp=1786561758&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=237">
-          <img src="https://ytcards.demolab.com/?id=VDovVDrw9Z0&title=FREE+Uncensored+AI+2026+%E2%80%94+No+Filters%2C+No+Restrictions&lang=en&timestamp=1786561758&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=237" alt="FREE Uncensored AI 2026 — No Filters, No Restrictions" title="FREE Uncensored AI 2026 — No Filters, No Restrictions">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=a-ya_d89eEA&title=TDF+Major+Development+%7C+ENDF+will+use+Artificial+Intelligence&lang=en&timestamp=1786654587&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=588">
+          <img src="https://ytcards.demolab.com/?id=a-ya_d89eEA&title=TDF+Major+Development+%7C+ENDF+will+use+Artificial+Intelligence&lang=en&timestamp=1786654587&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=588" alt="TDF Major Development | ENDF will use Artificial Intelligence" title="TDF Major Development | ENDF will use Artificial Intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=8wqZXOhuJUM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=P5C9SUblMXo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8wqZXOhuJUM&title=Why+Linear+Doesn%E2%80%99t+Use+AI+for+Everything&lang=en&timestamp=1786561758&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=617">
-          <img src="https://ytcards.demolab.com/?id=8wqZXOhuJUM&title=Why+Linear+Doesn%E2%80%99t+Use+AI+for+Everything&lang=en&timestamp=1786561758&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=617" alt="Why Linear Doesn’t Use AI for Everything" title="Why Linear Doesn’t Use AI for Everything">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=P5C9SUblMXo&title=Asian+Dad+Energy+LIVE+Office+Hours%3A++The+State+of+the+AI+Bubble&lang=en&timestamp=1786589547&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7144">
+          <img src="https://ytcards.demolab.com/?id=P5C9SUblMXo&title=Asian+Dad+Energy+LIVE+Office+Hours%3A++The+State+of+the+AI+Bubble&lang=en&timestamp=1786589547&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7144" alt="Asian Dad Energy LIVE Office Hours:  The State of the AI Bubble" title="Asian Dad Energy LIVE Office Hours:  The State of the AI Bubble">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=nqb9LmkxY5U" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nqb9LmkxY5U&title=Bernie+Sanders+Demand+AI+Development+Pause+-+Progressives+Love+Trump&lang=en&timestamp=1786565358&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1608">
-          <img src="https://ytcards.demolab.com/?id=nqb9LmkxY5U&title=Bernie+Sanders+Demand+AI+Development+Pause+-+Progressives+Love+Trump&lang=en&timestamp=1786565358&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1608" alt="Bernie Sanders Demand AI Development Pause - Progressives Love Trump" title="Bernie Sanders Demand AI Development Pause - Progressives Love Trump">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nqb9LmkxY5U&title=Bernie+Sanders+Demand+AI+Development+Pause+-+Progressives+Love+Trump&lang=en&timestamp=1786571547&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1608">
+          <img src="https://ytcards.demolab.com/?id=nqb9LmkxY5U&title=Bernie+Sanders+Demand+AI+Development+Pause+-+Progressives+Love+Trump&lang=en&timestamp=1786571547&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1608" alt="Bernie Sanders Demand AI Development Pause - Progressives Love Trump" title="Bernie Sanders Demand AI Development Pause - Progressives Love Trump">
         </picture>
       </a>
     </td>
