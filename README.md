@@ -278,56 +278,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=Q-E7hkZ5NdI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Q-E7hkZ5NdI&title=Trump+to+revise+AI+policy+as+technology+grows+DANGEROUSLY+powerful%3A+%27Can+HACK+the+Pentagon%27&lang=en&timestamp=1786636198&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=514">
-          <img src="https://ytcards.demolab.com/?id=Q-E7hkZ5NdI&title=Trump+to+revise+AI+policy+as+technology+grows+DANGEROUSLY+powerful%3A+%27Can+HACK+the+Pentagon%27&lang=en&timestamp=1786636198&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=514" alt="Trump to revise AI policy as technology grows DANGEROUSLY powerful: 'Can HACK the Pentagon'" title="Trump to revise AI policy as technology grows DANGEROUSLY powerful: 'Can HACK the Pentagon'">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=a-ya_d89eEA" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=a-ya_d89eEA&title=TDF+Major+Development+%7C+ENDF+will+use+Artificial+Intelligence&lang=en&timestamp=1786657798&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=588">
-          <img src="https://ytcards.demolab.com/?id=a-ya_d89eEA&title=TDF+Major+Development+%7C+ENDF+will+use+Artificial+Intelligence&lang=en&timestamp=1786657798&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=588" alt="TDF Major Development | ENDF will use Artificial Intelligence" title="TDF Major Development | ENDF will use Artificial Intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Q-E7hkZ5NdI&title=Trump+to+revise+AI+policy+as+technology+grows+DANGEROUSLY+powerful%3A+%27Can+HACK+the+Pentagon%27&lang=en&timestamp=1786637881&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=514">
+          <img src="https://ytcards.demolab.com/?id=Q-E7hkZ5NdI&title=Trump+to+revise+AI+policy+as+technology+grows+DANGEROUSLY+powerful%3A+%27Can+HACK+the+Pentagon%27&lang=en&timestamp=1786637881&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=514" alt="Trump to revise AI policy as technology grows DANGEROUSLY powerful: 'Can HACK the Pentagon'" title="Trump to revise AI policy as technology grows DANGEROUSLY powerful: 'Can HACK the Pentagon'">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=aCB-NQtsKrs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aCB-NQtsKrs&title=%22Deep+Unlearning%22%3A+Timnit+Gebru+on+AI+Hype%2C+Ethics+%26+Algorithmic+Racial+Bias&lang=en&timestamp=1786636198&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1076">
-          <img src="https://ytcards.demolab.com/?id=aCB-NQtsKrs&title=%22Deep+Unlearning%22%3A+Timnit+Gebru+on+AI+Hype%2C+Ethics+%26+Algorithmic+Racial+Bias&lang=en&timestamp=1786636198&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1076" alt="&quot;Deep Unlearning&quot;: Timnit Gebru on AI Hype, Ethics & Algorithmic Racial Bias" title="&quot;Deep Unlearning&quot;: Timnit Gebru on AI Hype, Ethics & Algorithmic Racial Bias">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aCB-NQtsKrs&title=%22Deep+Unlearning%22%3A+Timnit+Gebru+on+AI+Hype%2C+Ethics+%26+Algorithmic+Racial+Bias&lang=en&timestamp=1786634281&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1076">
+          <img src="https://ytcards.demolab.com/?id=aCB-NQtsKrs&title=%22Deep+Unlearning%22%3A+Timnit+Gebru+on+AI+Hype%2C+Ethics+%26+Algorithmic+Racial+Bias&lang=en&timestamp=1786634281&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1076" alt="&quot;Deep Unlearning&quot;: Timnit Gebru on AI Hype, Ethics & Algorithmic Racial Bias" title="&quot;Deep Unlearning&quot;: Timnit Gebru on AI Hype, Ethics & Algorithmic Racial Bias">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=BiWK3miW0EY" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BiWK3miW0EY&title=Dr.+Jeremy+Heffner+%7C+The+Most+Interesting+Conversation+I+Have+Had+On+AI&lang=en&timestamp=1786706281&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5727">
+          <img src="https://ytcards.demolab.com/?id=BiWK3miW0EY&title=Dr.+Jeremy+Heffner+%7C+The+Most+Interesting+Conversation+I+Have+Had+On+AI&lang=en&timestamp=1786706281&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5727" alt="Dr. Jeremy Heffner | The Most Interesting Conversation I Have Had On AI" title="Dr. Jeremy Heffner | The Most Interesting Conversation I Have Had On AI">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
+      <a href="https://www.youtube.com/watch?v=KIo9qL2LD90" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KIo9qL2LD90&title=John+Lennox%3A+Will+Technology+Change+What+It+Means+to+be+Human%3F&lang=en&timestamp=1786637881&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2786">
+          <img src="https://ytcards.demolab.com/?id=KIo9qL2LD90&title=John+Lennox%3A+Will+Technology+Change+What+It+Means+to+be+Human%3F&lang=en&timestamp=1786637881&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2786" alt="John Lennox: Will Technology Change What It Means to be Human?" title="John Lennox: Will Technology Change What It Means to be Human?">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
       <a href="https://www.youtube.com/watch?v=BvlGs25tCxI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BvlGs25tCxI&title=The+War+on+AI+Has+Begun&lang=en&timestamp=1786636198&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=412">
-          <img src="https://ytcards.demolab.com/?id=BvlGs25tCxI&title=The+War+on+AI+Has+Begun&lang=en&timestamp=1786636198&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=412" alt="The War on AI Has Begun" title="The War on AI Has Begun">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BvlGs25tCxI&title=A+Violent+Anti-Technology+Movement+Is+Forming&lang=en&timestamp=1786634281&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=412">
+          <img src="https://ytcards.demolab.com/?id=BvlGs25tCxI&title=A+Violent+Anti-Technology+Movement+Is+Forming&lang=en&timestamp=1786634281&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=412" alt="A Violent Anti-Technology Movement Is Forming" title="A Violent Anti-Technology Movement Is Forming">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=jAkB_qeATag" target="_blank">
+      <a href="https://www.youtube.com/watch?v=BkzzeZFq1wo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jAkB_qeATag&title=AI+%26+Data+Science+Periodic+Tables%3A+How+They+Work+Together&lang=en&timestamp=1786621798&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=801">
-          <img src="https://ytcards.demolab.com/?id=jAkB_qeATag&title=AI+%26+Data+Science+Periodic+Tables%3A+How+They+Work+Together&lang=en&timestamp=1786621798&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=801" alt="AI & Data Science Periodic Tables: How They Work Together" title="AI & Data Science Periodic Tables: How They Work Together">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=zqy_LyUSh_8" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zqy_LyUSh_8&title=He+Finds+%24750%2C000+in+His+Bank+Account%2C+Then+an+AI+Takes+Control+of+His+Life&lang=en&timestamp=1786643398&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=937">
-          <img src="https://ytcards.demolab.com/?id=zqy_LyUSh_8&title=He+Finds+%24750%2C000+in+His+Bank+Account%2C+Then+an+AI+Takes+Control+of+His+Life&lang=en&timestamp=1786643398&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=937" alt="He Finds $750,000 in His Bank Account, Then an AI Takes Control of His Life" title="He Finds $750,000 in His Bank Account, Then an AI Takes Control of His Life">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BkzzeZFq1wo&title=AI+Meets+Ancient+Wisdom%3A+Aligning+AI+with+Human+Flourishing+%7C+Dr.+Ruben+Laukkonen&lang=en&timestamp=1786666681&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2767">
+          <img src="https://ytcards.demolab.com/?id=BkzzeZFq1wo&title=AI+Meets+Ancient+Wisdom%3A+Aligning+AI+with+Human+Flourishing+%7C+Dr.+Ruben+Laukkonen&lang=en&timestamp=1786666681&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2767" alt="AI Meets Ancient Wisdom: Aligning AI with Human Flourishing | Dr. Ruben Laukkonen" title="AI Meets Ancient Wisdom: Aligning AI with Human Flourishing | Dr. Ruben Laukkonen">
         </picture>
       </a>
     </td>
