@@ -276,56 +276,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=Q-E7hkZ5NdI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Q-E7hkZ5NdI&title=Trump+to+revise+AI+policy+as+technology+grows+DANGEROUSLY+powerful%3A+%27Can+HACK+the+Pentagon%27&lang=en&timestamp=1786638031&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=514">
-          <img src="https://ytcards.demolab.com/?id=Q-E7hkZ5NdI&title=Trump+to+revise+AI+policy+as+technology+grows+DANGEROUSLY+powerful%3A+%27Can+HACK+the+Pentagon%27&lang=en&timestamp=1786638031&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=514" alt="Trump to revise AI policy as technology grows DANGEROUSLY powerful: 'Can HACK the Pentagon'" title="Trump to revise AI policy as technology grows DANGEROUSLY powerful: 'Can HACK the Pentagon'">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Q-E7hkZ5NdI&title=Trump+to+revise+AI+policy+as+technology+grows+DANGEROUSLY+powerful%3A+%27Can+HACK+the+Pentagon%27&lang=en&timestamp=1786637381&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=514">
+          <img src="https://ytcards.demolab.com/?id=Q-E7hkZ5NdI&title=Trump+to+revise+AI+policy+as+technology+grows+DANGEROUSLY+powerful%3A+%27Can+HACK+the+Pentagon%27&lang=en&timestamp=1786637381&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=514" alt="Trump to revise AI policy as technology grows DANGEROUSLY powerful: 'Can HACK the Pentagon'" title="Trump to revise AI policy as technology grows DANGEROUSLY powerful: 'Can HACK the Pentagon'">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=BvlGs25tCxI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BvlGs25tCxI&title=A+Violent+Anti-Technology+Movement+Is+Forming&lang=en&timestamp=1786634431&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=412">
-          <img src="https://ytcards.demolab.com/?id=BvlGs25tCxI&title=A+Violent+Anti-Technology+Movement+Is+Forming&lang=en&timestamp=1786634431&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=412" alt="A Violent Anti-Technology Movement Is Forming" title="A Violent Anti-Technology Movement Is Forming">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BvlGs25tCxI&title=The+War+on+AI+Has+Begun&lang=en&timestamp=1786633781&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=412">
+          <img src="https://ytcards.demolab.com/?id=BvlGs25tCxI&title=The+War+on+AI+Has+Begun&lang=en&timestamp=1786633781&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=412" alt="The War on AI Has Begun" title="The War on AI Has Begun">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=aCB-NQtsKrs" target="_blank">
+      <a href="https://www.youtube.com/watch?v=KIo9qL2LD90" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aCB-NQtsKrs&title=%22Deep+Unlearning%22%3A+Timnit+Gebru+on+AI+Hype%2C+Ethics+%26+Algorithmic+Racial+Bias&lang=en&timestamp=1786634431&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1076">
-          <img src="https://ytcards.demolab.com/?id=aCB-NQtsKrs&title=%22Deep+Unlearning%22%3A+Timnit+Gebru+on+AI+Hype%2C+Ethics+%26+Algorithmic+Racial+Bias&lang=en&timestamp=1786634431&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1076" alt="&quot;Deep Unlearning&quot;: Timnit Gebru on AI Hype, Ethics & Algorithmic Racial Bias" title="&quot;Deep Unlearning&quot;: Timnit Gebru on AI Hype, Ethics & Algorithmic Racial Bias">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KIo9qL2LD90&title=John+Lennox%3A+Will+Technology+Change+What+It+Means+to+be+Human%3F&lang=en&timestamp=1786637381&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2786">
+          <img src="https://ytcards.demolab.com/?id=KIo9qL2LD90&title=John+Lennox%3A+Will+Technology+Change+What+It+Means+to+be+Human%3F&lang=en&timestamp=1786637381&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2786" alt="John Lennox: Will Technology Change What It Means to be Human?" title="John Lennox: Will Technology Change What It Means to be Human?">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=KIo9qL2LD90" target="_blank">
+      <a href="https://www.youtube.com/watch?v=aCB-NQtsKrs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KIo9qL2LD90&title=John+Lennox%3A+Will+Technology+Change+What+It+Means+to+be+Human%3F&lang=en&timestamp=1786638031&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2786">
-          <img src="https://ytcards.demolab.com/?id=KIo9qL2LD90&title=John+Lennox%3A+Will+Technology+Change+What+It+Means+to+be+Human%3F&lang=en&timestamp=1786638031&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2786" alt="John Lennox: Will Technology Change What It Means to be Human?" title="John Lennox: Will Technology Change What It Means to be Human?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aCB-NQtsKrs&title=%22Deep+Unlearning%22%3A+Timnit+Gebru+on+AI+Hype%2C+Ethics+%26+Algorithmic+Racial+Bias&lang=en&timestamp=1786633781&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1076">
+          <img src="https://ytcards.demolab.com/?id=aCB-NQtsKrs&title=%22Deep+Unlearning%22%3A+Timnit+Gebru+on+AI+Hype%2C+Ethics+%26+Algorithmic+Racial+Bias&lang=en&timestamp=1786633781&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1076" alt="&quot;Deep Unlearning&quot;: Timnit Gebru on AI Hype, Ethics & Algorithmic Racial Bias" title="&quot;Deep Unlearning&quot;: Timnit Gebru on AI Hype, Ethics & Algorithmic Racial Bias">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=jAkB_qeATag" target="_blank">
+      <a href="https://www.youtube.com/watch?v=zqy_LyUSh_8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jAkB_qeATag&title=AI+%26+Data+Science+Periodic+Tables%3A+How+They+Work+Together&lang=en&timestamp=1786620031&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=801">
-          <img src="https://ytcards.demolab.com/?id=jAkB_qeATag&title=AI+%26+Data+Science+Periodic+Tables%3A+How+They+Work+Together&lang=en&timestamp=1786620031&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=801" alt="AI & Data Science Periodic Tables: How They Work Together" title="AI & Data Science Periodic Tables: How They Work Together">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zqy_LyUSh_8&title=He+Finds+%24750%2C000+in+His+Bank+Account%2C+Then+an+AI+Takes+Control+of+His+Life&lang=en&timestamp=1786640981&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=937">
+          <img src="https://ytcards.demolab.com/?id=zqy_LyUSh_8&title=He+Finds+%24750%2C000+in+His+Bank+Account%2C+Then+an+AI+Takes+Control+of+His+Life&lang=en&timestamp=1786640981&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=937" alt="He Finds $750,000 in His Bank Account, Then an AI Takes Control of His Life" title="He Finds $750,000 in His Bank Account, Then an AI Takes Control of His Life">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=T76AnLgAxS4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=oRjA5UTCHNg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=T76AnLgAxS4&title=2026+State+of+AI+Exposed%3A+The+Future+of+Work+Is+Here&lang=en&timestamp=1786663231&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=650">
-          <img src="https://ytcards.demolab.com/?id=T76AnLgAxS4&title=2026+State+of+AI+Exposed%3A+The+Future+of+Work+Is+Here&lang=en&timestamp=1786663231&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=650" alt="2026 State of AI Exposed: The Future of Work Is Here" title="2026 State of AI Exposed: The Future of Work Is Here">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=oRjA5UTCHNg&title=This+is+what+investors+should+watch+out+for+in+the+AI+buildout&lang=en&timestamp=1786676981&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=215">
+          <img src="https://ytcards.demolab.com/?id=oRjA5UTCHNg&title=This+is+what+investors+should+watch+out+for+in+the+AI+buildout&lang=en&timestamp=1786676981&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=215" alt="This is what investors should watch out for in the AI buildout" title="This is what investors should watch out for in the AI buildout">
         </picture>
       </a>
     </td>
