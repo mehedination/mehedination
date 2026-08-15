@@ -297,56 +297,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
+      <a href="https://www.youtube.com/watch?v=6XrkGK9mqsE" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6XrkGK9mqsE&title=We+Have+2+Years+Left+Before+AI+Controls+Everything+%7C+Connor+Leahy&lang=en&timestamp=1786733322&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4201">
+          <img src="https://ytcards.demolab.com/?id=6XrkGK9mqsE&title=We+Have+2+Years+Left+Before+AI+Controls+Everything+%7C+Connor+Leahy&lang=en&timestamp=1786733322&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4201" alt="We Have 2 Years Left Before AI Controls Everything | Connor Leahy" title="We Have 2 Years Left Before AI Controls Everything | Connor Leahy">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
       <a href="https://www.youtube.com/watch?v=JhAwRs7Vwqs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JhAwRs7Vwqs&title=The+Satisfying+Death+of+Corporate+Consulting&lang=en&timestamp=1786753504&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=931">
-          <img src="https://ytcards.demolab.com/?id=JhAwRs7Vwqs&title=The+Satisfying+Death+of+Corporate+Consulting&lang=en&timestamp=1786753504&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=931" alt="The Satisfying Death of Corporate Consulting" title="The Satisfying Death of Corporate Consulting">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JhAwRs7Vwqs&title=The+Satisfying+Death+of+Corporate+Consulting&lang=en&timestamp=1786751322&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=931">
+          <img src="https://ytcards.demolab.com/?id=JhAwRs7Vwqs&title=The+Satisfying+Death+of+Corporate+Consulting&lang=en&timestamp=1786751322&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=931" alt="The Satisfying Death of Corporate Consulting" title="The Satisfying Death of Corporate Consulting">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=I4ljcdqSGTE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=BiWK3miW0EY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=I4ljcdqSGTE&title=How+AI+is+driving+up+consumer+prices&lang=en&timestamp=1786760704&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=145">
-          <img src="https://ytcards.demolab.com/?id=I4ljcdqSGTE&title=How+AI+is+driving+up+consumer+prices&lang=en&timestamp=1786760704&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=145" alt="How AI is driving up consumer prices" title="How AI is driving up consumer prices">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=MltAATjd_BQ" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=MltAATjd_BQ&title=China+Just+Bypassed+CUDA+%E2%80%94+Jensen+Huang%E2%80%99s+%22Horrible+Outcome%22+Just+Happened&lang=en&timestamp=1786721104&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3034">
-          <img src="https://ytcards.demolab.com/?id=MltAATjd_BQ&title=China+Just+Bypassed+CUDA+%E2%80%94+Jensen+Huang%E2%80%99s+%22Horrible+Outcome%22+Just+Happened&lang=en&timestamp=1786721104&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3034" alt="China Just Bypassed CUDA — Jensen Huang’s &quot;Horrible Outcome&quot; Just Happened" title="China Just Bypassed CUDA — Jensen Huang’s &quot;Horrible Outcome&quot; Just Happened">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BiWK3miW0EY&title=Dr.+Jeremy+Heffner+%7C+The+Most+Interesting+Conversation+I+Have+Had+On+AI&lang=en&timestamp=1786711722&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5727">
+          <img src="https://ytcards.demolab.com/?id=BiWK3miW0EY&title=Dr.+Jeremy+Heffner+%7C+The+Most+Interesting+Conversation+I+Have+Had+On+AI&lang=en&timestamp=1786711722&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5727" alt="Dr. Jeremy Heffner | The Most Interesting Conversation I Have Had On AI" title="Dr. Jeremy Heffner | The Most Interesting Conversation I Have Had On AI">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=BiWK3miW0EY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=I4ljcdqSGTE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BiWK3miW0EY&title=Dr.+Jeremy+Heffner+%7C+The+Most+Interesting+Conversation+I+Have+Had+On+AI&lang=en&timestamp=1786706704&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5727">
-          <img src="https://ytcards.demolab.com/?id=BiWK3miW0EY&title=Dr.+Jeremy+Heffner+%7C+The+Most+Interesting+Conversation+I+Have+Had+On+AI&lang=en&timestamp=1786706704&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5727" alt="Dr. Jeremy Heffner | The Most Interesting Conversation I Have Had On AI" title="Dr. Jeremy Heffner | The Most Interesting Conversation I Have Had On AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=I4ljcdqSGTE&title=How+AI+is+driving+up+consumer+prices&lang=en&timestamp=1786758522&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=145">
+          <img src="https://ytcards.demolab.com/?id=I4ljcdqSGTE&title=How+AI+is+driving+up+consumer+prices&lang=en&timestamp=1786758522&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=145" alt="How AI is driving up consumer prices" title="How AI is driving up consumer prices">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=MltAATjd_BQ" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=MltAATjd_BQ&title=China+Just+Bypassed+CUDA+%E2%80%94+Jensen+Huang%E2%80%99s+%22Horrible+Outcome%22+Just+Happened&lang=en&timestamp=1786722522&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3034">
+          <img src="https://ytcards.demolab.com/?id=MltAATjd_BQ&title=China+Just+Bypassed+CUDA+%E2%80%94+Jensen+Huang%E2%80%99s+%22Horrible+Outcome%22+Just+Happened&lang=en&timestamp=1786722522&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3034" alt="China Just Bypassed CUDA — Jensen Huang’s &quot;Horrible Outcome&quot; Just Happened" title="China Just Bypassed CUDA — Jensen Huang’s &quot;Horrible Outcome&quot; Just Happened">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=WPqoCJK8vBo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WPqoCJK8vBo&title=Is+the+AI+Bubble+Finally%2C+Actually+About+to+Burst%3F+%28w%2F+Ed+Zitron%29&lang=en&timestamp=1786706704&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3780">
-          <img src="https://ytcards.demolab.com/?id=WPqoCJK8vBo&title=Is+the+AI+Bubble+Finally%2C+Actually+About+to+Burst%3F+%28w%2F+Ed+Zitron%29&lang=en&timestamp=1786706704&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3780" alt="Is the AI Bubble Finally, Actually About to Burst? (w/ Ed Zitron)" title="Is the AI Bubble Finally, Actually About to Burst? (w/ Ed Zitron)">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=4K0NZHCAK8w" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4K0NZHCAK8w&title=7+MINUTES+AGO%3A+Google%27s+Quantum+AI+JUST+CONFIRMED+THE+UNIMAGINABLE%21%21&lang=en&timestamp=1786721104&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1237">
-          <img src="https://ytcards.demolab.com/?id=4K0NZHCAK8w&title=7+MINUTES+AGO%3A+Google%27s+Quantum+AI+JUST+CONFIRMED+THE+UNIMAGINABLE%21%21&lang=en&timestamp=1786721104&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1237" alt="7 MINUTES AGO: Google's Quantum AI JUST CONFIRMED THE UNIMAGINABLE!!" title="7 MINUTES AGO: Google's Quantum AI JUST CONFIRMED THE UNIMAGINABLE!!">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WPqoCJK8vBo&title=Is+the+AI+Bubble+Finally%2C+Actually+About+to+Burst%3F+%28w%2F+Ed+Zitron%29&lang=en&timestamp=1786711722&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3780">
+          <img src="https://ytcards.demolab.com/?id=WPqoCJK8vBo&title=Is+the+AI+Bubble+Finally%2C+Actually+About+to+Burst%3F+%28w%2F+Ed+Zitron%29&lang=en&timestamp=1786711722&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3780" alt="Is the AI Bubble Finally, Actually About to Burst? (w/ Ed Zitron)" title="Is the AI Bubble Finally, Actually About to Burst? (w/ Ed Zitron)">
         </picture>
       </a>
     </td>
