@@ -293,56 +293,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=I4ljcdqSGTE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=I4ljcdqSGTE&title=How+AI+is+driving+up+consumer+prices&lang=en&timestamp=1786757712&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=145">
-          <img src="https://ytcards.demolab.com/?id=I4ljcdqSGTE&title=How+AI+is+driving+up+consumer+prices&lang=en&timestamp=1786757712&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=145" alt="How AI is driving up consumer prices" title="How AI is driving up consumer prices">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=I4ljcdqSGTE&title=How+AI+is+driving+up+consumer+prices&lang=en&timestamp=1786757730&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=145">
+          <img src="https://ytcards.demolab.com/?id=I4ljcdqSGTE&title=How+AI+is+driving+up+consumer+prices&lang=en&timestamp=1786757730&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=145" alt="How AI is driving up consumer prices" title="How AI is driving up consumer prices">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=_lSDt1cBKls" target="_blank">
+      <a href="https://www.youtube.com/watch?v=PAJsYbbevoo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_lSDt1cBKls&title=AI+Builds+the+Next+Airbus%3A+What%E2%80%99s+Left+for+Humans%3F&lang=en&timestamp=1786703712&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2166">
-          <img src="https://ytcards.demolab.com/?id=_lSDt1cBKls&title=AI+Builds+the+Next+Airbus%3A+What%E2%80%99s+Left+for+Humans%3F&lang=en&timestamp=1786703712&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2166" alt="AI Builds the Next Airbus: What’s Left for Humans?" title="AI Builds the Next Airbus: What’s Left for Humans?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PAJsYbbevoo&title=Why+some+women+in+China+are+choosing+AI+companions+%7C+Asia+News+Week+%7C+ABC+NEWS&lang=en&timestamp=1786754130&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=244">
+          <img src="https://ytcards.demolab.com/?id=PAJsYbbevoo&title=Why+some+women+in+China+are+choosing+AI+companions+%7C+Asia+News+Week+%7C+ABC+NEWS&lang=en&timestamp=1786754130&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=244" alt="Why some women in China are choosing AI companions | Asia News Week | ABC NEWS" title="Why some women in China are choosing AI companions | Asia News Week | ABC NEWS">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=BiWK3miW0EY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BiWK3miW0EY&title=Dr.+Jeremy+Heffner+%7C+The+Most+Interesting+Conversation+I+Have+Had+On+AI&lang=en&timestamp=1786707312&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5727">
-          <img src="https://ytcards.demolab.com/?id=BiWK3miW0EY&title=Dr.+Jeremy+Heffner+%7C+The+Most+Interesting+Conversation+I+Have+Had+On+AI&lang=en&timestamp=1786707312&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5727" alt="Dr. Jeremy Heffner | The Most Interesting Conversation I Have Had On AI" title="Dr. Jeremy Heffner | The Most Interesting Conversation I Have Had On AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BiWK3miW0EY&title=Dr.+Jeremy+Heffner+%7C+The+Most+Interesting+Conversation+I+Have+Had+On+AI&lang=en&timestamp=1786707330&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5727">
+          <img src="https://ytcards.demolab.com/?id=BiWK3miW0EY&title=Dr.+Jeremy+Heffner+%7C+The+Most+Interesting+Conversation+I+Have+Had+On+AI&lang=en&timestamp=1786707330&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5727" alt="Dr. Jeremy Heffner | The Most Interesting Conversation I Have Had On AI" title="Dr. Jeremy Heffner | The Most Interesting Conversation I Have Had On AI">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=4K0NZHCAK8w" target="_blank">
+      <a href="https://www.youtube.com/watch?v=MltAATjd_BQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4K0NZHCAK8w&title=7+MINUTES+AGO%3A+Google%27s+Quantum+AI+JUST+CONFIRMED+THE+UNIMAGINABLE%21%21&lang=en&timestamp=1786721712&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1237">
-          <img src="https://ytcards.demolab.com/?id=4K0NZHCAK8w&title=7+MINUTES+AGO%3A+Google%27s+Quantum+AI+JUST+CONFIRMED+THE+UNIMAGINABLE%21%21&lang=en&timestamp=1786721712&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1237" alt="7 MINUTES AGO: Google's Quantum AI JUST CONFIRMED THE UNIMAGINABLE!!" title="7 MINUTES AGO: Google's Quantum AI JUST CONFIRMED THE UNIMAGINABLE!!">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=MltAATjd_BQ&title=China+Just+Bypassed+CUDA+%E2%80%94+Jensen+Huang%E2%80%99s+%22Horrible+Outcome%22+Just+Happened&lang=en&timestamp=1786721730&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3034">
+          <img src="https://ytcards.demolab.com/?id=MltAATjd_BQ&title=China+Just+Bypassed+CUDA+%E2%80%94+Jensen+Huang%E2%80%99s+%22Horrible+Outcome%22+Just+Happened&lang=en&timestamp=1786721730&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3034" alt="China Just Bypassed CUDA — Jensen Huang’s &quot;Horrible Outcome&quot; Just Happened" title="China Just Bypassed CUDA — Jensen Huang’s &quot;Horrible Outcome&quot; Just Happened">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=MltAATjd_BQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=4K0NZHCAK8w" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=MltAATjd_BQ&title=China+Just+Bypassed+CUDA+%E2%80%94+Jensen+Huang%E2%80%99s+%22Horrible+Outcome%22+Just+Happened&lang=en&timestamp=1786721712&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3034">
-          <img src="https://ytcards.demolab.com/?id=MltAATjd_BQ&title=China+Just+Bypassed+CUDA+%E2%80%94+Jensen+Huang%E2%80%99s+%22Horrible+Outcome%22+Just+Happened&lang=en&timestamp=1786721712&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3034" alt="China Just Bypassed CUDA — Jensen Huang’s &quot;Horrible Outcome&quot; Just Happened" title="China Just Bypassed CUDA — Jensen Huang’s &quot;Horrible Outcome&quot; Just Happened">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4K0NZHCAK8w&title=7+MINUTES+AGO%3A+Google%27s+Quantum+AI+JUST+CONFIRMED+THE+UNIMAGINABLE%21%21&lang=en&timestamp=1786721730&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1237">
+          <img src="https://ytcards.demolab.com/?id=4K0NZHCAK8w&title=7+MINUTES+AGO%3A+Google%27s+Quantum+AI+JUST+CONFIRMED+THE+UNIMAGINABLE%21%21&lang=en&timestamp=1786721730&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1237" alt="7 MINUTES AGO: Google's Quantum AI JUST CONFIRMED THE UNIMAGINABLE!!" title="7 MINUTES AGO: Google's Quantum AI JUST CONFIRMED THE UNIMAGINABLE!!">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=wmmqWCICTCk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wmmqWCICTCk&title=How+to+Be+More+Articulate+-+Basics+of+Real+Intelligence+by+Ansh+Mehra&lang=en&timestamp=1786714512&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=437">
-          <img src="https://ytcards.demolab.com/?id=wmmqWCICTCk&title=How+to+Be+More+Articulate+-+Basics+of+Real+Intelligence+by+Ansh+Mehra&lang=en&timestamp=1786714512&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=437" alt="How to Be More Articulate - Basics of Real Intelligence by Ansh Mehra" title="How to Be More Articulate - Basics of Real Intelligence by Ansh Mehra">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wmmqWCICTCk&title=How+to+Be+More+Articulate+-+Basics+of+Real+Intelligence+by+Ansh+Mehra&lang=en&timestamp=1786714530&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=437">
+          <img src="https://ytcards.demolab.com/?id=wmmqWCICTCk&title=How+to+Be+More+Articulate+-+Basics+of+Real+Intelligence+by+Ansh+Mehra&lang=en&timestamp=1786714530&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=437" alt="How to Be More Articulate - Basics of Real Intelligence by Ansh Mehra" title="How to Be More Articulate - Basics of Real Intelligence by Ansh Mehra">
         </picture>
       </a>
     </td>
