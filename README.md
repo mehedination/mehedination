@@ -289,56 +289,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=I4ljcdqSGTE" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=I4ljcdqSGTE&title=How+AI+is+driving+up+consumer+prices&lang=en&timestamp=1786759011&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=145">
-          <img src="https://ytcards.demolab.com/?id=I4ljcdqSGTE&title=How+AI+is+driving+up+consumer+prices&lang=en&timestamp=1786759011&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=145" alt="How AI is driving up consumer prices" title="How AI is driving up consumer prices">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
       <a href="https://www.youtube.com/watch?v=wmmqWCICTCk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wmmqWCICTCk&title=How+to+Be+More+Articulate+-+Basics+of+Real+Intelligence+by+Ansh+Mehra&lang=en&timestamp=1786715811&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=437">
-          <img src="https://ytcards.demolab.com/?id=wmmqWCICTCk&title=How+to+Be+More+Articulate+-+Basics+of+Real+Intelligence+by+Ansh+Mehra&lang=en&timestamp=1786715811&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=437" alt="How to Be More Articulate - Basics of Real Intelligence by Ansh Mehra" title="How to Be More Articulate - Basics of Real Intelligence by Ansh Mehra">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wmmqWCICTCk&title=How+to+Be+More+Articulate+-+Basics+of+Real+Intelligence+by+Ansh+Mehra&lang=en&timestamp=1786715241&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=437">
+          <img src="https://ytcards.demolab.com/?id=wmmqWCICTCk&title=How+to+Be+More+Articulate+-+Basics+of+Real+Intelligence+by+Ansh+Mehra&lang=en&timestamp=1786715241&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=437" alt="How to Be More Articulate - Basics of Real Intelligence by Ansh Mehra" title="How to Be More Articulate - Basics of Real Intelligence by Ansh Mehra">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=BiWK3miW0EY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BiWK3miW0EY&title=Dr.+Jeremy+Heffner+%7C+The+Most+Interesting+Conversation+I+Have+Had+On+AI&lang=en&timestamp=1786708611&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5727">
-          <img src="https://ytcards.demolab.com/?id=BiWK3miW0EY&title=Dr.+Jeremy+Heffner+%7C+The+Most+Interesting+Conversation+I+Have+Had+On+AI&lang=en&timestamp=1786708611&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5727" alt="Dr. Jeremy Heffner | The Most Interesting Conversation I Have Had On AI" title="Dr. Jeremy Heffner | The Most Interesting Conversation I Have Had On AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BiWK3miW0EY&title=Dr.+Jeremy+Heffner+%7C+The+Most+Interesting+Conversation+I+Have+Had+On+AI&lang=en&timestamp=1786708041&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5727">
+          <img src="https://ytcards.demolab.com/?id=BiWK3miW0EY&title=Dr.+Jeremy+Heffner+%7C+The+Most+Interesting+Conversation+I+Have+Had+On+AI&lang=en&timestamp=1786708041&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5727" alt="Dr. Jeremy Heffner | The Most Interesting Conversation I Have Had On AI" title="Dr. Jeremy Heffner | The Most Interesting Conversation I Have Had On AI">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=WPqoCJK8vBo" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WPqoCJK8vBo&title=Is+the+AI+Bubble+Finally%2C+Actually+About+to+Burst%3F+%28w%2F+Ed+Zitron%29&lang=en&timestamp=1786704441&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3780">
+          <img src="https://ytcards.demolab.com/?id=WPqoCJK8vBo&title=Is+the+AI+Bubble+Finally%2C+Actually+About+to+Burst%3F+%28w%2F+Ed+Zitron%29&lang=en&timestamp=1786704441&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3780" alt="Is the AI Bubble Finally, Actually About to Burst? (w/ Ed Zitron)" title="Is the AI Bubble Finally, Actually About to Burst? (w/ Ed Zitron)">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
+      <a href="https://www.youtube.com/watch?v=sd3lh6TxfSM" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sd3lh6TxfSM&title=AI%27s+Role+in+the+End+Times+Featuring+Gary+Wayne+Episode+400+%23Garywayne+%23endtimes+%23jesus&lang=en&timestamp=1786736841&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5617">
+          <img src="https://ytcards.demolab.com/?id=sd3lh6TxfSM&title=AI%27s+Role+in+the+End+Times+Featuring+Gary+Wayne+Episode+400+%23Garywayne+%23endtimes+%23jesus&lang=en&timestamp=1786736841&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5617" alt="AI's Role in the End Times Featuring Gary Wayne Episode 400 #Garywayne #endtimes #jesus" title="AI's Role in the End Times Featuring Gary Wayne Episode 400 #Garywayne #endtimes #jesus">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
       <a href="https://www.youtube.com/watch?v=6jnOnAaonbI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6jnOnAaonbI&title=%27DEBUNK+THIS+CONCEPT%27%3A+Top+strategist%27s+message+before+volatility+hits&lang=en&timestamp=1786759011&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=442">
-          <img src="https://ytcards.demolab.com/?id=6jnOnAaonbI&title=%27DEBUNK+THIS+CONCEPT%27%3A+Top+strategist%27s+message+before+volatility+hits&lang=en&timestamp=1786759011&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=442" alt="'DEBUNK THIS CONCEPT': Top strategist's message before volatility hits" title="'DEBUNK THIS CONCEPT': Top strategist's message before volatility hits">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6jnOnAaonbI&title=%27DEBUNK+THIS+CONCEPT%27%3A+Top+strategist%27s+message+before+volatility+hits&lang=en&timestamp=1786758441&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=442">
+          <img src="https://ytcards.demolab.com/?id=6jnOnAaonbI&title=%27DEBUNK+THIS+CONCEPT%27%3A+Top+strategist%27s+message+before+volatility+hits&lang=en&timestamp=1786758441&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=442" alt="'DEBUNK THIS CONCEPT': Top strategist's message before volatility hits" title="'DEBUNK THIS CONCEPT': Top strategist's message before volatility hits">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=rphg1mQ1oxY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=_owo2Vhcr8A" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=rphg1mQ1oxY&title=Destiny+%7C+The+Truth+About+Artificial+Intelligence+%7C+AGG+Lui+on+AI%2C+Consciousness+%26+the+Future&lang=en&timestamp=1786741011&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4131">
-          <img src="https://ytcards.demolab.com/?id=rphg1mQ1oxY&title=Destiny+%7C+The+Truth+About+Artificial+Intelligence+%7C+AGG+Lui+on+AI%2C+Consciousness+%26+the+Future&lang=en&timestamp=1786741011&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4131" alt="Destiny | The Truth About Artificial Intelligence | AGG Lui on AI, Consciousness & the Future" title="Destiny | The Truth About Artificial Intelligence | AGG Lui on AI, Consciousness & the Future">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=DQZ2K-xz6hU" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=DQZ2K-xz6hU&title=%2435M+U.S.+AI+Program%3A+Big+Job+Opportunity+for+Indians%3F+%7C+Indians+In+U.S+%7C+U.S+Jobs&lang=en&timestamp=1786705011&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=291">
-          <img src="https://ytcards.demolab.com/?id=DQZ2K-xz6hU&title=%2435M+U.S.+AI+Program%3A+Big+Job+Opportunity+for+Indians%3F+%7C+Indians+In+U.S+%7C+U.S+Jobs&lang=en&timestamp=1786705011&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=291" alt="$35M U.S. AI Program: Big Job Opportunity for Indians? | Indians In U.S | U.S Jobs" title="$35M U.S. AI Program: Big Job Opportunity for Indians? | Indians In U.S | U.S Jobs">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_owo2Vhcr8A&title=The+Lost+Egyptian+Machine+Buried+Under+the+Pyramids+%E2%80%94+And+the+Day+It+Was+Rediscovered&lang=en&timestamp=1786740441&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1626">
+          <img src="https://ytcards.demolab.com/?id=_owo2Vhcr8A&title=The+Lost+Egyptian+Machine+Buried+Under+the+Pyramids+%E2%80%94+And+the+Day+It+Was+Rediscovered&lang=en&timestamp=1786740441&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1626" alt="The Lost Egyptian Machine Buried Under the Pyramids — And the Day It Was Rediscovered" title="The Lost Egyptian Machine Buried Under the Pyramids — And the Day It Was Rediscovered">
         </picture>
       </a>
     </td>
