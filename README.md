@@ -287,56 +287,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=jAkB_qeATag" target="_blank">
+      <a href="https://www.youtube.com/watch?v=_3ffd37I5MI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jAkB_qeATag&title=AI+%26+Data+Science+Periodic+Tables%3A+How+They+Work+Together&lang=en&timestamp=1786663586&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=801">
-          <img src="https://ytcards.demolab.com/?id=jAkB_qeATag&title=AI+%26+Data+Science+Periodic+Tables%3A+How+They+Work+Together&lang=en&timestamp=1786663586&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=801" alt="AI & Data Science Periodic Tables: How They Work Together" title="AI & Data Science Periodic Tables: How They Work Together">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_3ffd37I5MI&title=AI+in+Healthcare+Full+Course%3A+Diagnosis%2C+GenAI+%26+More&lang=en&timestamp=1786725355&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7533">
+          <img src="https://ytcards.demolab.com/?id=_3ffd37I5MI&title=AI+in+Healthcare+Full+Course%3A+Diagnosis%2C+GenAI+%26+More&lang=en&timestamp=1786725355&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7533" alt="AI in Healthcare Full Course: Diagnosis, GenAI & More" title="AI in Healthcare Full Course: Diagnosis, GenAI & More">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=YMhH5_YUCiI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=mGTxADIEymM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=YMhH5_YUCiI&title=%E2%80%98The+Five%E2%80%99%3A+Anti-AI+frenzy+picks+up+socialist+support&lang=en&timestamp=1786667186&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=519">
-          <img src="https://ytcards.demolab.com/?id=YMhH5_YUCiI&title=%E2%80%98The+Five%E2%80%99%3A+Anti-AI+frenzy+picks+up+socialist+support&lang=en&timestamp=1786667186&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=519" alt="‘The Five’: Anti-AI frenzy picks up socialist support" title="‘The Five’: Anti-AI frenzy picks up socialist support">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mGTxADIEymM&title=The+Human+Side+of+Artificial+Intelligence+in+Health+Care&lang=en&timestamp=1786725355&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3740">
+          <img src="https://ytcards.demolab.com/?id=mGTxADIEymM&title=The+Human+Side+of+Artificial+Intelligence+in+Health+Care&lang=en&timestamp=1786725355&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3740" alt="The Human Side of Artificial Intelligence in Health Care" title="The Human Side of Artificial Intelligence in Health Care">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=aCB-NQtsKrs" target="_blank">
+      <a href="https://www.youtube.com/watch?v=DQZ2K-xz6hU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aCB-NQtsKrs&title=%22Deep+Unlearning%22%3A+Timnit+Gebru+on+AI+Hype%2C+Ethics+%26+Algorithmic+Racial+Bias&lang=en&timestamp=1786663586&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1076">
-          <img src="https://ytcards.demolab.com/?id=aCB-NQtsKrs&title=%22Deep+Unlearning%22%3A+Timnit+Gebru+on+AI+Hype%2C+Ethics+%26+Algorithmic+Racial+Bias&lang=en&timestamp=1786663586&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1076" alt="&quot;Deep Unlearning&quot;: Timnit Gebru on AI Hype, Ethics & Algorithmic Racial Bias" title="&quot;Deep Unlearning&quot;: Timnit Gebru on AI Hype, Ethics & Algorithmic Racial Bias">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=DQZ2K-xz6hU&title=%2435M+U.S.+AI+Program%3A+Big+Job+Opportunity+for+Indians%3F+%7C+Indians+In+U.S+%7C+U.S+Jobs&lang=en&timestamp=1786703755&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=291">
+          <img src="https://ytcards.demolab.com/?id=DQZ2K-xz6hU&title=%2435M+U.S.+AI+Program%3A+Big+Job+Opportunity+for+Indians%3F+%7C+Indians+In+U.S+%7C+U.S+Jobs&lang=en&timestamp=1786703755&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=291" alt="$35M U.S. AI Program: Big Job Opportunity for Indians? | Indians In U.S | U.S Jobs" title="$35M U.S. AI Program: Big Job Opportunity for Indians? | Indians In U.S | U.S Jobs">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=KIo9qL2LD90" target="_blank">
+      <a href="https://www.youtube.com/watch?v=lHTgeGYTfnc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KIo9qL2LD90&title=John+Lennox%3A+Will+Technology+Change+What+It+Means+to+be+Human%3F&lang=en&timestamp=1786663586&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2786">
-          <img src="https://ytcards.demolab.com/?id=KIo9qL2LD90&title=John+Lennox%3A+Will+Technology+Change+What+It+Means+to+be+Human%3F&lang=en&timestamp=1786663586&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2786" alt="John Lennox: Will Technology Change What It Means to be Human?" title="John Lennox: Will Technology Change What It Means to be Human?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lHTgeGYTfnc&title=Why+1+in+4+Gen+Z+Would+Rather+Talk+To+AI+Than+A+Real+Person&lang=en&timestamp=1786710955&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=350">
+          <img src="https://ytcards.demolab.com/?id=lHTgeGYTfnc&title=Why+1+in+4+Gen+Z+Would+Rather+Talk+To+AI+Than+A+Real+Person&lang=en&timestamp=1786710955&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=350" alt="Why 1 in 4 Gen Z Would Rather Talk To AI Than A Real Person" title="Why 1 in 4 Gen Z Would Rather Talk To AI Than A Real Person">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=BiWK3miW0EY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ImJTsp5hvLY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BiWK3miW0EY&title=Dr.+Jeremy+Heffner+%7C+The+Most+Interesting+Conversation+I+Have+Had+On+AI&lang=en&timestamp=1786706786&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5727">
-          <img src="https://ytcards.demolab.com/?id=BiWK3miW0EY&title=Dr.+Jeremy+Heffner+%7C+The+Most+Interesting+Conversation+I+Have+Had+On+AI&lang=en&timestamp=1786706786&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5727" alt="Dr. Jeremy Heffner | The Most Interesting Conversation I Have Had On AI" title="Dr. Jeremy Heffner | The Most Interesting Conversation I Have Had On AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ImJTsp5hvLY&title=Artificial+Intelligence+News+%7C+Anthropic+Introduces+Invisible+Watermarks+To+Identify+AI+Content&lang=en&timestamp=1786703755&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=68">
+          <img src="https://ytcards.demolab.com/?id=ImJTsp5hvLY&title=Artificial+Intelligence+News+%7C+Anthropic+Introduces+Invisible+Watermarks+To+Identify+AI+Content&lang=en&timestamp=1786703755&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=68" alt="Artificial Intelligence News | Anthropic Introduces Invisible Watermarks To Identify AI Content" title="Artificial Intelligence News | Anthropic Introduces Invisible Watermarks To Identify AI Content">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=BvlGs25tCxI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=VMKN2o_Vlew" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BvlGs25tCxI&title=The+War+on+AI+Has+Begun&lang=en&timestamp=1786663586&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=412">
-          <img src="https://ytcards.demolab.com/?id=BvlGs25tCxI&title=The+War+on+AI+Has+Begun&lang=en&timestamp=1786663586&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=412" alt="The War on AI Has Begun" title="The War on AI Has Begun">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=VMKN2o_Vlew&title=I+Let+AI+Control+My+Life+for+7+Days&lang=en&timestamp=1786721755&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=438">
+          <img src="https://ytcards.demolab.com/?id=VMKN2o_Vlew&title=I+Let+AI+Control+My+Life+for+7+Days&lang=en&timestamp=1786721755&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=438" alt="I Let AI Control My Life for 7 Days" title="I Let AI Control My Life for 7 Days">
         </picture>
       </a>
     </td>
