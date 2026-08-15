@@ -288,56 +288,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=_3ffd37I5MI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=I4ljcdqSGTE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_3ffd37I5MI&title=AI+in+Healthcare+Full+Course%3A+Diagnosis%2C+GenAI+%26+More&lang=en&timestamp=1786725355&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7533">
-          <img src="https://ytcards.demolab.com/?id=_3ffd37I5MI&title=AI+in+Healthcare+Full+Course%3A+Diagnosis%2C+GenAI+%26+More&lang=en&timestamp=1786725355&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7533" alt="AI in Healthcare Full Course: Diagnosis, GenAI & More" title="AI in Healthcare Full Course: Diagnosis, GenAI & More">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=I4ljcdqSGTE&title=How+AI+is+driving+up+consumer+prices&lang=en&timestamp=1786759011&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=145">
+          <img src="https://ytcards.demolab.com/?id=I4ljcdqSGTE&title=How+AI+is+driving+up+consumer+prices&lang=en&timestamp=1786759011&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=145" alt="How AI is driving up consumer prices" title="How AI is driving up consumer prices">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=mGTxADIEymM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=wmmqWCICTCk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mGTxADIEymM&title=The+Human+Side+of+Artificial+Intelligence+in+Health+Care&lang=en&timestamp=1786725355&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3740">
-          <img src="https://ytcards.demolab.com/?id=mGTxADIEymM&title=The+Human+Side+of+Artificial+Intelligence+in+Health+Care&lang=en&timestamp=1786725355&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3740" alt="The Human Side of Artificial Intelligence in Health Care" title="The Human Side of Artificial Intelligence in Health Care">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wmmqWCICTCk&title=How+to+Be+More+Articulate+-+Basics+of+Real+Intelligence+by+Ansh+Mehra&lang=en&timestamp=1786715811&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=437">
+          <img src="https://ytcards.demolab.com/?id=wmmqWCICTCk&title=How+to+Be+More+Articulate+-+Basics+of+Real+Intelligence+by+Ansh+Mehra&lang=en&timestamp=1786715811&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=437" alt="How to Be More Articulate - Basics of Real Intelligence by Ansh Mehra" title="How to Be More Articulate - Basics of Real Intelligence by Ansh Mehra">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=DQZ2K-xz6hU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=BiWK3miW0EY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=DQZ2K-xz6hU&title=%2435M+U.S.+AI+Program%3A+Big+Job+Opportunity+for+Indians%3F+%7C+Indians+In+U.S+%7C+U.S+Jobs&lang=en&timestamp=1786703755&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=291">
-          <img src="https://ytcards.demolab.com/?id=DQZ2K-xz6hU&title=%2435M+U.S.+AI+Program%3A+Big+Job+Opportunity+for+Indians%3F+%7C+Indians+In+U.S+%7C+U.S+Jobs&lang=en&timestamp=1786703755&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=291" alt="$35M U.S. AI Program: Big Job Opportunity for Indians? | Indians In U.S | U.S Jobs" title="$35M U.S. AI Program: Big Job Opportunity for Indians? | Indians In U.S | U.S Jobs">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BiWK3miW0EY&title=Dr.+Jeremy+Heffner+%7C+The+Most+Interesting+Conversation+I+Have+Had+On+AI&lang=en&timestamp=1786708611&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5727">
+          <img src="https://ytcards.demolab.com/?id=BiWK3miW0EY&title=Dr.+Jeremy+Heffner+%7C+The+Most+Interesting+Conversation+I+Have+Had+On+AI&lang=en&timestamp=1786708611&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5727" alt="Dr. Jeremy Heffner | The Most Interesting Conversation I Have Had On AI" title="Dr. Jeremy Heffner | The Most Interesting Conversation I Have Had On AI">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=lHTgeGYTfnc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=6jnOnAaonbI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lHTgeGYTfnc&title=Why+1+in+4+Gen+Z+Would+Rather+Talk+To+AI+Than+A+Real+Person&lang=en&timestamp=1786710955&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=350">
-          <img src="https://ytcards.demolab.com/?id=lHTgeGYTfnc&title=Why+1+in+4+Gen+Z+Would+Rather+Talk+To+AI+Than+A+Real+Person&lang=en&timestamp=1786710955&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=350" alt="Why 1 in 4 Gen Z Would Rather Talk To AI Than A Real Person" title="Why 1 in 4 Gen Z Would Rather Talk To AI Than A Real Person">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6jnOnAaonbI&title=%27DEBUNK+THIS+CONCEPT%27%3A+Top+strategist%27s+message+before+volatility+hits&lang=en&timestamp=1786759011&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=442">
+          <img src="https://ytcards.demolab.com/?id=6jnOnAaonbI&title=%27DEBUNK+THIS+CONCEPT%27%3A+Top+strategist%27s+message+before+volatility+hits&lang=en&timestamp=1786759011&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=442" alt="'DEBUNK THIS CONCEPT': Top strategist's message before volatility hits" title="'DEBUNK THIS CONCEPT': Top strategist's message before volatility hits">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ImJTsp5hvLY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=rphg1mQ1oxY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ImJTsp5hvLY&title=Artificial+Intelligence+News+%7C+Anthropic+Introduces+Invisible+Watermarks+To+Identify+AI+Content&lang=en&timestamp=1786703755&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=68">
-          <img src="https://ytcards.demolab.com/?id=ImJTsp5hvLY&title=Artificial+Intelligence+News+%7C+Anthropic+Introduces+Invisible+Watermarks+To+Identify+AI+Content&lang=en&timestamp=1786703755&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=68" alt="Artificial Intelligence News | Anthropic Introduces Invisible Watermarks To Identify AI Content" title="Artificial Intelligence News | Anthropic Introduces Invisible Watermarks To Identify AI Content">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=rphg1mQ1oxY&title=Destiny+%7C+The+Truth+About+Artificial+Intelligence+%7C+AGG+Lui+on+AI%2C+Consciousness+%26+the+Future&lang=en&timestamp=1786741011&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4131">
+          <img src="https://ytcards.demolab.com/?id=rphg1mQ1oxY&title=Destiny+%7C+The+Truth+About+Artificial+Intelligence+%7C+AGG+Lui+on+AI%2C+Consciousness+%26+the+Future&lang=en&timestamp=1786741011&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4131" alt="Destiny | The Truth About Artificial Intelligence | AGG Lui on AI, Consciousness & the Future" title="Destiny | The Truth About Artificial Intelligence | AGG Lui on AI, Consciousness & the Future">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=VMKN2o_Vlew" target="_blank">
+      <a href="https://www.youtube.com/watch?v=DQZ2K-xz6hU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=VMKN2o_Vlew&title=I+Let+AI+Control+My+Life+for+7+Days&lang=en&timestamp=1786721755&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=438">
-          <img src="https://ytcards.demolab.com/?id=VMKN2o_Vlew&title=I+Let+AI+Control+My+Life+for+7+Days&lang=en&timestamp=1786721755&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=438" alt="I Let AI Control My Life for 7 Days" title="I Let AI Control My Life for 7 Days">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=DQZ2K-xz6hU&title=%2435M+U.S.+AI+Program%3A+Big+Job+Opportunity+for+Indians%3F+%7C+Indians+In+U.S+%7C+U.S+Jobs&lang=en&timestamp=1786705011&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=291">
+          <img src="https://ytcards.demolab.com/?id=DQZ2K-xz6hU&title=%2435M+U.S.+AI+Program%3A+Big+Job+Opportunity+for+Indians%3F+%7C+Indians+In+U.S+%7C+U.S+Jobs&lang=en&timestamp=1786705011&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=291" alt="$35M U.S. AI Program: Big Job Opportunity for Indians? | Indians In U.S | U.S Jobs" title="$35M U.S. AI Program: Big Job Opportunity for Indians? | Indians In U.S | U.S Jobs">
         </picture>
       </a>
     </td>
