@@ -301,56 +301,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=WklCnG9yfWQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WklCnG9yfWQ&title=Trump+grapples+with+the+AI+data+centre+debate+-+The+President%27s+Path+podcast%2C+BBC+World+Service&lang=en&timestamp=1786798153&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=973">
-          <img src="https://ytcards.demolab.com/?id=WklCnG9yfWQ&title=Trump+grapples+with+the+AI+data+centre+debate+-+The+President%27s+Path+podcast%2C+BBC+World+Service&lang=en&timestamp=1786798153&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=973" alt="Trump grapples with the AI data centre debate - The President's Path podcast, BBC World Service" title="Trump grapples with the AI data centre debate - The President's Path podcast, BBC World Service">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WklCnG9yfWQ&title=Trump+grapples+with+the+AI+data+centre+debate+-+The+President%27s+Path+podcast%2C+BBC+World+Service&lang=en&timestamp=1786797345&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=973">
+          <img src="https://ytcards.demolab.com/?id=WklCnG9yfWQ&title=Trump+grapples+with+the+AI+data+centre+debate+-+The+President%27s+Path+podcast%2C+BBC+World+Service&lang=en&timestamp=1786797345&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=973" alt="Trump grapples with the AI data centre debate - The President's Path podcast, BBC World Service" title="Trump grapples with the AI data centre debate - The President's Path podcast, BBC World Service">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=WjShJDLLUGE" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WjShJDLLUGE&title=AI+Is+Changing+Jobs+Forever+%E2%80%94+The+Dark+Truth+About+Artificial+Intelligence&lang=en&timestamp=1786800945&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=449">
+          <img src="https://ytcards.demolab.com/?id=WjShJDLLUGE&title=AI+Is+Changing+Jobs+Forever+%E2%80%94+The+Dark+Truth+About+Artificial+Intelligence&lang=en&timestamp=1786800945&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=449" alt="AI Is Changing Jobs Forever — The Dark Truth About Artificial Intelligence" title="AI Is Changing Jobs Forever — The Dark Truth About Artificial Intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=86wPeWkAGOw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=86wPeWkAGOw&title=Mark+Zuckerberg+Tries+To+Distract+After+OUTRAGEOUS+Neo-Nazi+Payouts+By+Meta+Go+Public&lang=en&timestamp=1786830553&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=391">
-          <img src="https://ytcards.demolab.com/?id=86wPeWkAGOw&title=Mark+Zuckerberg+Tries+To+Distract+After+OUTRAGEOUS+Neo-Nazi+Payouts+By+Meta+Go+Public&lang=en&timestamp=1786830553&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=391" alt="Mark Zuckerberg Tries To Distract After OUTRAGEOUS Neo-Nazi Payouts By Meta Go Public" title="Mark Zuckerberg Tries To Distract After OUTRAGEOUS Neo-Nazi Payouts By Meta Go Public">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=RL4LAzOXsc4" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=RL4LAzOXsc4&title=Raoul+Pal+%26+Cathie+Wood%3A+%22Crypto%E2%80%99s+Next+EXPLOSIVE+Rally+Is+Closer+Than+You+Think%22+%7C+Bitcoin+2026&lang=en&timestamp=1786812553&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=971">
-          <img src="https://ytcards.demolab.com/?id=RL4LAzOXsc4&title=Raoul+Pal+%26+Cathie+Wood%3A+%22Crypto%E2%80%99s+Next+EXPLOSIVE+Rally+Is+Closer+Than+You+Think%22+%7C+Bitcoin+2026&lang=en&timestamp=1786812553&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=971" alt="Raoul Pal & Cathie Wood: &quot;Crypto’s Next EXPLOSIVE Rally Is Closer Than You Think&quot; | Bitcoin 2026" title="Raoul Pal & Cathie Wood: &quot;Crypto’s Next EXPLOSIVE Rally Is Closer Than You Think&quot; | Bitcoin 2026">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=86wPeWkAGOw&title=Mark+Zuckerberg+Tries+To+Distract+After+OUTRAGEOUS+Neo-Nazi+Payouts+By+Meta+Go+Public&lang=en&timestamp=1786829745&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=391">
+          <img src="https://ytcards.demolab.com/?id=86wPeWkAGOw&title=Mark+Zuckerberg+Tries+To+Distract+After+OUTRAGEOUS+Neo-Nazi+Payouts+By+Meta+Go+Public&lang=en&timestamp=1786829745&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=391" alt="Mark Zuckerberg Tries To Distract After OUTRAGEOUS Neo-Nazi Payouts By Meta Go Public" title="Mark Zuckerberg Tries To Distract After OUTRAGEOUS Neo-Nazi Payouts By Meta Go Public">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=rO51jIAzoyQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=uAlLt4AKQfQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=rO51jIAzoyQ&title=How+Does+AI+Actually+Work%3F+%7C+Artificial+Intelligence+Explained+Simply&lang=en&timestamp=1786848553&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=892">
-          <img src="https://ytcards.demolab.com/?id=rO51jIAzoyQ&title=How+Does+AI+Actually+Work%3F+%7C+Artificial+Intelligence+Explained+Simply&lang=en&timestamp=1786848553&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=892" alt="How Does AI Actually Work? | Artificial Intelligence Explained Simply" title="How Does AI Actually Work? | Artificial Intelligence Explained Simply">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=uAlLt4AKQfQ&title=The+Terrifying+Future+Of+Artificial+Intelligence&lang=en&timestamp=1786808145&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=268">
+          <img src="https://ytcards.demolab.com/?id=uAlLt4AKQfQ&title=The+Terrifying+Future+Of+Artificial+Intelligence&lang=en&timestamp=1786808145&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=268" alt="The Terrifying Future Of Artificial Intelligence" title="The Terrifying Future Of Artificial Intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=bvumY1NbN3w" target="_blank">
+      <a href="https://www.youtube.com/watch?v=RL4LAzOXsc4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=bvumY1NbN3w&title=Future+Forward%3A+Exploring+STEM+%26+AI&lang=en&timestamp=1786776553&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5361">
-          <img src="https://ytcards.demolab.com/?id=bvumY1NbN3w&title=Future+Forward%3A+Exploring+STEM+%26+AI&lang=en&timestamp=1786776553&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5361" alt="Future Forward: Exploring STEM & AI" title="Future Forward: Exploring STEM & AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=RL4LAzOXsc4&title=Raoul+Pal+%26+Cathie+Wood%3A+%22Crypto%E2%80%99s+Next+EXPLOSIVE+Rally+Is+Closer+Than+You+Think%22+%7C+Bitcoin+2026&lang=en&timestamp=1786811745&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=971">
+          <img src="https://ytcards.demolab.com/?id=RL4LAzOXsc4&title=Raoul+Pal+%26+Cathie+Wood%3A+%22Crypto%E2%80%99s+Next+EXPLOSIVE+Rally+Is+Closer+Than+You+Think%22+%7C+Bitcoin+2026&lang=en&timestamp=1786811745&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=971" alt="Raoul Pal & Cathie Wood: &quot;Crypto’s Next EXPLOSIVE Rally Is Closer Than You Think&quot; | Bitcoin 2026" title="Raoul Pal & Cathie Wood: &quot;Crypto’s Next EXPLOSIVE Rally Is Closer Than You Think&quot; | Bitcoin 2026">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=0LTdc0THIn4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=YClvwaVjxhI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=0LTdc0THIn4&title=AI+Symposium+Explores+The+Future+Of+Work+In+Tobago&lang=en&timestamp=1786841353&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=138">
-          <img src="https://ytcards.demolab.com/?id=0LTdc0THIn4&title=AI+Symposium+Explores+The+Future+Of+Work+In+Tobago&lang=en&timestamp=1786841353&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=138" alt="AI Symposium Explores The Future Of Work In Tobago" title="AI Symposium Explores The Future Of Work In Tobago">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=YClvwaVjxhI&title=What+Happens+If+AI+Controls+the+World%3F+%7C+The+Future+of+Artificial+Intelligence+Explained&lang=en&timestamp=1786797345&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=456">
+          <img src="https://ytcards.demolab.com/?id=YClvwaVjxhI&title=What+Happens+If+AI+Controls+the+World%3F+%7C+The+Future+of+Artificial+Intelligence+Explained&lang=en&timestamp=1786797345&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=456" alt="What Happens If AI Controls the World? | The Future of Artificial Intelligence Explained" title="What Happens If AI Controls the World? | The Future of Artificial Intelligence Explained">
         </picture>
       </a>
     </td>
