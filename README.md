@@ -303,56 +303,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=9XlOaVItUgI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=4VdP4eoAGr0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9XlOaVItUgI&title=The+Dark+Reality+of+AI+Training&lang=en&timestamp=1786833353&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1339">
-          <img src="https://ytcards.demolab.com/?id=9XlOaVItUgI&title=The+Dark+Reality+of+AI+Training&lang=en&timestamp=1786833353&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1339" alt="The Dark Reality of AI Training" title="The Dark Reality of AI Training">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4VdP4eoAGr0&title=I+Asked+AI+To+Tune+My+Suspension.+This+Is+What+Happened...&lang=en&timestamp=1786872313&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1230">
+          <img src="https://ytcards.demolab.com/?id=4VdP4eoAGr0&title=I+Asked+AI+To+Tune+My+Suspension.+This+Is+What+Happened...&lang=en&timestamp=1786872313&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1230" alt="I Asked AI To Tune My Suspension. This Is What Happened..." title="I Asked AI To Tune My Suspension. This Is What Happened...">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=WklCnG9yfWQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WklCnG9yfWQ&title=Trump+grapples+with+the+AI+data+centre+debate+-+The+President%27s+Path+podcast%2C+BBC+World+Service&lang=en&timestamp=1786797353&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=973">
-          <img src="https://ytcards.demolab.com/?id=WklCnG9yfWQ&title=Trump+grapples+with+the+AI+data+centre+debate+-+The+President%27s+Path+podcast%2C+BBC+World+Service&lang=en&timestamp=1786797353&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=973" alt="Trump grapples with the AI data centre debate - The President's Path podcast, BBC World Service" title="Trump grapples with the AI data centre debate - The President's Path podcast, BBC World Service">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WklCnG9yfWQ&title=Trump+grapples+with+the+AI+data+centre+debate+-+The+President%27s+Path+podcast%2C+BBC+World+Service&lang=en&timestamp=1786796713&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=973">
+          <img src="https://ytcards.demolab.com/?id=WklCnG9yfWQ&title=Trump+grapples+with+the+AI+data+centre+debate+-+The+President%27s+Path+podcast%2C+BBC+World+Service&lang=en&timestamp=1786796713&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=973" alt="Trump grapples with the AI data centre debate - The President's Path podcast, BBC World Service" title="Trump grapples with the AI data centre debate - The President's Path podcast, BBC World Service">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=86wPeWkAGOw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=IPV90it7UYU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=86wPeWkAGOw&title=Mark+Zuckerberg+Tries+To+Distract+After+OUTRAGEOUS+Neo-Nazi+Payouts+By+Meta+Go+Public&lang=en&timestamp=1786829753&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=391">
-          <img src="https://ytcards.demolab.com/?id=86wPeWkAGOw&title=Mark+Zuckerberg+Tries+To+Distract+After+OUTRAGEOUS+Neo-Nazi+Payouts+By+Meta+Go+Public&lang=en&timestamp=1786829753&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=391" alt="Mark Zuckerberg Tries To Distract After OUTRAGEOUS Neo-Nazi Payouts By Meta Go Public" title="Mark Zuckerberg Tries To Distract After OUTRAGEOUS Neo-Nazi Payouts By Meta Go Public">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=IPV90it7UYU&title=Claude+Mythos+6+%3D+Model+2%21+HUGE+Leaks%2C+DeepSeek+v4+Pro%2C+Gemini+3.7+Flash%2C+Codex+2.0%2C+%26+More%21+AI+NEWS&lang=en&timestamp=1786865113&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1339">
+          <img src="https://ytcards.demolab.com/?id=IPV90it7UYU&title=Claude+Mythos+6+%3D+Model+2%21+HUGE+Leaks%2C+DeepSeek+v4+Pro%2C+Gemini+3.7+Flash%2C+Codex+2.0%2C+%26+More%21+AI+NEWS&lang=en&timestamp=1786865113&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1339" alt="Claude Mythos 6 = Model 2! HUGE Leaks, DeepSeek v4 Pro, Gemini 3.7 Flash, Codex 2.0, & More! AI NEWS" title="Claude Mythos 6 = Model 2! HUGE Leaks, DeepSeek v4 Pro, Gemini 3.7 Flash, Codex 2.0, & More! AI NEWS">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=nEMpW-BpqT0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=86wPeWkAGOw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nEMpW-BpqT0&title=Trump+Post%27s+AI+Pictures+with+George+Washington&lang=en&timestamp=1786808153&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=68">
-          <img src="https://ytcards.demolab.com/?id=nEMpW-BpqT0&title=Trump+Post%27s+AI+Pictures+with+George+Washington&lang=en&timestamp=1786808153&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=68" alt="Trump Post's AI Pictures with George Washington" title="Trump Post's AI Pictures with George Washington">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=86wPeWkAGOw&title=Mark+Zuckerberg+Tries+To+Distract+After+OUTRAGEOUS+Neo-Nazi+Payouts+By+Meta+Go+Public&lang=en&timestamp=1786829113&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=391">
+          <img src="https://ytcards.demolab.com/?id=86wPeWkAGOw&title=Mark+Zuckerberg+Tries+To+Distract+After+OUTRAGEOUS+Neo-Nazi+Payouts+By+Meta+Go+Public&lang=en&timestamp=1786829113&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=391" alt="Mark Zuckerberg Tries To Distract After OUTRAGEOUS Neo-Nazi Payouts By Meta Go Public" title="Mark Zuckerberg Tries To Distract After OUTRAGEOUS Neo-Nazi Payouts By Meta Go Public">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=6_weQ7r8lBk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=4noSplxSBLc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6_weQ7r8lBk&title=Armenia+launches+%24500+million+data+center+project%3A+THIS+WEEK+IN+BUSINESS&lang=en&timestamp=1786808153&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=266">
-          <img src="https://ytcards.demolab.com/?id=6_weQ7r8lBk&title=Armenia+launches+%24500+million+data+center+project%3A+THIS+WEEK+IN+BUSINESS&lang=en&timestamp=1786808153&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=266" alt="Armenia launches $500 million data center project: THIS WEEK IN BUSINESS" title="Armenia launches $500 million data center project: THIS WEEK IN BUSINESS">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4noSplxSBLc&title=The+Real+Intention+of+Artificial+Intelligence&lang=en&timestamp=1786875913&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1749">
+          <img src="https://ytcards.demolab.com/?id=4noSplxSBLc&title=The+Real+Intention+of+Artificial+Intelligence&lang=en&timestamp=1786875913&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1749" alt="The Real Intention of Artificial Intelligence" title="The Real Intention of Artificial Intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=0LTdc0THIn4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=7g2sSsgjqzw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=0LTdc0THIn4&title=AI+Symposium+Explores+The+Future+Of+Work+In+Tobago&lang=en&timestamp=1786840553&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=138">
-          <img src="https://ytcards.demolab.com/?id=0LTdc0THIn4&title=AI+Symposium+Explores+The+Future+Of+Work+In+Tobago&lang=en&timestamp=1786840553&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=138" alt="AI Symposium Explores The Future Of Work In Tobago" title="AI Symposium Explores The Future Of Work In Tobago">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=7g2sSsgjqzw&title=Hank+Green+just+became+an+abject+lesson+in+letting+down+your+audience&lang=en&timestamp=1786811113&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2670">
+          <img src="https://ytcards.demolab.com/?id=7g2sSsgjqzw&title=Hank+Green+just+became+an+abject+lesson+in+letting+down+your+audience&lang=en&timestamp=1786811113&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2670" alt="Hank Green just became an abject lesson in letting down your audience" title="Hank Green just became an abject lesson in letting down your audience">
         </picture>
       </a>
     </td>
