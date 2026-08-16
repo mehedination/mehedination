@@ -314,56 +314,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=PXgkm5UvAy8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PXgkm5UvAy8&title=The+Real+Opportunity+of+AI+Is+More+Human+Than+You+Think&lang=en&timestamp=1786894013&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2313">
-          <img src="https://ytcards.demolab.com/?id=PXgkm5UvAy8&title=The+Real+Opportunity+of+AI+Is+More+Human+Than+You+Think&lang=en&timestamp=1786894013&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2313" alt="The Real Opportunity of AI Is More Human Than You Think" title="The Real Opportunity of AI Is More Human Than You Think">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PXgkm5UvAy8&title=The+Real+Opportunity+of+AI+Is+More+Human+Than+You+Think&lang=en&timestamp=1786893925&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2313">
+          <img src="https://ytcards.demolab.com/?id=PXgkm5UvAy8&title=The+Real+Opportunity+of+AI+Is+More+Human+Than+You+Think&lang=en&timestamp=1786893925&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2313" alt="The Real Opportunity of AI Is More Human Than You Think" title="The Real Opportunity of AI Is More Human Than You Think">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=idCR2d4KRgw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=vUhamjWR_vA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=idCR2d4KRgw&title=Why+are+sandwiches+more+regulated+than+AI%3F+%7C+The+Bottom+Line&lang=en&timestamp=1786908413&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1501">
-          <img src="https://ytcards.demolab.com/?id=idCR2d4KRgw&title=Why+are+sandwiches+more+regulated+than+AI%3F+%7C+The+Bottom+Line&lang=en&timestamp=1786908413&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1501" alt="Why are sandwiches more regulated than AI? | The Bottom Line" title="Why are sandwiches more regulated than AI? | The Bottom Line">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vUhamjWR_vA&title=AI+threatens+the+Hasidic+community%3B+a+fiery+speech+by+Rabbi+Aaron+Teitelbaum&lang=en&timestamp=1786879525&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2261">
+          <img src="https://ytcards.demolab.com/?id=vUhamjWR_vA&title=AI+threatens+the+Hasidic+community%3B+a+fiery+speech+by+Rabbi+Aaron+Teitelbaum&lang=en&timestamp=1786879525&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2261" alt="AI threatens the Hasidic community; a fiery speech by Rabbi Aaron Teitelbaum" title="AI threatens the Hasidic community; a fiery speech by Rabbi Aaron Teitelbaum">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=f4dT40Po-40" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=f4dT40Po-40&title=AI%E2%80%99s+record+investment+boom+is+just+beginning+%7C+Alan+Kohler+%7C+ABC+NEWS&lang=en&timestamp=1786858013&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=142">
-          <img src="https://ytcards.demolab.com/?id=f4dT40Po-40&title=AI%E2%80%99s+record+investment+boom+is+just+beginning+%7C+Alan+Kohler+%7C+ABC+NEWS&lang=en&timestamp=1786858013&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=142" alt="AI’s record investment boom is just beginning | Alan Kohler | ABC NEWS" title="AI’s record investment boom is just beginning | Alan Kohler | ABC NEWS">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=f4dT40Po-40&title=AI%E2%80%99s+record+investment+boom+is+just+beginning+%7C+Alan+Kohler+%7C+ABC+NEWS&lang=en&timestamp=1786857925&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=142">
+          <img src="https://ytcards.demolab.com/?id=f4dT40Po-40&title=AI%E2%80%99s+record+investment+boom+is+just+beginning+%7C+Alan+Kohler+%7C+ABC+NEWS&lang=en&timestamp=1786857925&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=142" alt="AI’s record investment boom is just beginning | Alan Kohler | ABC NEWS" title="AI’s record investment boom is just beginning | Alan Kohler | ABC NEWS">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=vUhamjWR_vA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=idCR2d4KRgw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vUhamjWR_vA&title=AI+threatens+the+Hasidic+community%3B+a+fiery+speech+by+Rabbi+Aaron+Teitelbaum&lang=en&timestamp=1786879613&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2261">
-          <img src="https://ytcards.demolab.com/?id=vUhamjWR_vA&title=AI+threatens+the+Hasidic+community%3B+a+fiery+speech+by+Rabbi+Aaron+Teitelbaum&lang=en&timestamp=1786879613&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2261" alt="AI threatens the Hasidic community; a fiery speech by Rabbi Aaron Teitelbaum" title="AI threatens the Hasidic community; a fiery speech by Rabbi Aaron Teitelbaum">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=idCR2d4KRgw&title=Why+are+sandwiches+more+regulated+than+AI%3F+%7C+The+Bottom+Line&lang=en&timestamp=1786908325&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1501">
+          <img src="https://ytcards.demolab.com/?id=idCR2d4KRgw&title=Why+are+sandwiches+more+regulated+than+AI%3F+%7C+The+Bottom+Line&lang=en&timestamp=1786908325&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1501" alt="Why are sandwiches more regulated than AI? | The Bottom Line" title="Why are sandwiches more regulated than AI? | The Bottom Line">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=ejENM86i9Qs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ejENM86i9Qs&title=The+AI+Bubble+Is+About+To+Destroy+San+Francisco+&lang=en&timestamp=1786836413&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1447">
-          <img src="https://ytcards.demolab.com/?id=ejENM86i9Qs&title=The+AI+Bubble+Is+About+To+Destroy+San+Francisco+&lang=en&timestamp=1786836413&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1447" alt="The AI Bubble Is About To Destroy San Francisco " title="The AI Bubble Is About To Destroy San Francisco ">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ejENM86i9Qs&title=The+AI+Bubble+Is+About+To+Destroy+San+Francisco+&lang=en&timestamp=1786836325&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1447">
+          <img src="https://ytcards.demolab.com/?id=ejENM86i9Qs&title=The+AI+Bubble+Is+About+To+Destroy+San+Francisco+&lang=en&timestamp=1786836325&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1447" alt="The AI Bubble Is About To Destroy San Francisco " title="The AI Bubble Is About To Destroy San Francisco ">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=V4zb8QhQY58" target="_blank">
+      <a href="https://www.youtube.com/watch?v=kTeQh8l_iOw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=V4zb8QhQY58&title=Agents+Built+Their+Own+Message+Board&lang=en&timestamp=1786897613&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1304">
-          <img src="https://ytcards.demolab.com/?id=V4zb8QhQY58&title=Agents+Built+Their+Own+Message+Board&lang=en&timestamp=1786897613&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1304" alt="Agents Built Their Own Message Board" title="Agents Built Their Own Message Board">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=kTeQh8l_iOw&title=Why+AI+agents+keep+breaking+loose&lang=en&timestamp=1786836325&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=382">
+          <img src="https://ytcards.demolab.com/?id=kTeQh8l_iOw&title=Why+AI+agents+keep+breaking+loose&lang=en&timestamp=1786836325&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=382" alt="Why AI agents keep breaking loose" title="Why AI agents keep breaking loose">
         </picture>
       </a>
     </td>
