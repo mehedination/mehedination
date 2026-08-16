@@ -375,12 +375,12 @@
  <summary><h3>📝 Latest Google News</h3></summary>
 
 <!-- BLOG-POST-LIST:START -->
-- [AI and Subtractive Innovation - Psychology Today](https://news.google.com/rss/articles/CBMimAFBVV95cUxOMDJhQUtSdHFyLVc5QzVoZTd2MFBEczdRbEZiQVViTU9uUVlaMjFCZkpRRU5FcVAxY2xLMUg1bF9DV1VUMWFLaVl5UE90c3UwRm14dDZpN29qdkNxZ0RFOTV5SXhEb3NLdFJBSEdTSFpicWxjSUNCVXF4R1lBanFWUzg3S3pQWWdGV2s1Q2p3eU5LM3NyeFlfSQ?oc=5)
+- [Report on Candidates for Office Finds AI Is More Talked-About Than Racism or Israel - Gizmodo](https://news.google.com/rss/articles/CBMitAFBVV95cUxPUXVaYldsY1ZRaFZJQ05uQzRQUjdXNGx0UUl1Z3BhR19MNHRMTGZkTmluZFZMT1c5NTZEVzNkb3A3anBLNjJrVlJQd2FYYmNseU9zN0VPckdWUWpFUVBVN1hIZTFVX1lQMUpZTjNnczhzVFRoTVZ1X3oxdmRXdW8yejJPVlplQ3QzWU9FVEtaOHhjajZOYXJTS0NDUGdtTjlnWmd2VFZybUxSd2NfZ1BXZlF0Nnc?oc=5)
+- [Max Tegmark said there is insufficient regulation of AI in the U.S. - UA.NEWS](https://news.google.com/rss/articles/CBMijwFBVV95cUxOMjJRSC0wVjAwdUZlX3JLNzB3Ul9QN21SSHB0LWlyaHBfVHUwRzZGbTZLdnk0ZXgtQnhtM2pLamZ6VEFkb2d3M25Dby1KQjRCeGtCbEtBWGo3MzdRdjNEYmppdm5POWdPVWcxV0hNUkRLN3p5SFFRemx0cXlGY3Y2NEVTMEE0MVN5TnliTlNXdw?oc=5)
+- [AI and Subtractive Innovation - Psychology Today](https://news.google.com/rss/articles/CBMimAFBVV95cUxOWWhmWUxhR0ZJOXpWYnlzd0lzX1pPN0hXNFlQaWZSdmRMWkhadjlRTE91MThiN2JsUGg1SUJKaUdxbTdDbXpWM1ZnTDBhVFNfLUVCcE4ySjB2VDNITWp0d0dlMjVvWkNzb2RZZ282U1VtUTZNVkExSWZqcDNWZHBKUWJKaWR4U2RMOUZmNEg2Wmg5SUJocWlndQ?oc=5)
 - [Zhipu AI Co-Founder Tang Jie: Tokens as the Engine of the Intelligent Economy - Geopolitechs](https://news.google.com/rss/articles/CBMidEFVX3lxTE9PaVY3SmR5ZTdvVHlOdXdxUmltX0ZFS2lCdGZjeTZDWDZncm9oamxRQmRPamxyY3FUa2ZDTkN6aVpCUmJkMGttTEFUXzhVcV91SW83RmhzY0ExcnpoVlZCYmRHcmF5YUlSYlZwcDNUbkZpUl90?oc=5)
 - [Anthropic CEO Says AI Backlash Reflects a Crisis of Trust - Межа. Новини України.](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xeVVpVTlfSHlkVDZhaGJTTjhXWEFZOFJEZXVLV2ItUG5CNTZWUnhueFpaTThUQ2RFSGxWaFZDRDRPVUwzam9Nck1GMnNNVkVUdGNLRlFiTWxxcnlGLTNPSlVHNDdTZVE?oc=5)
 - [ChatGPT Descendant Could Watch Screens, Record Meetings in 6 Months - StartupHub.ai](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaUFYU212UGpGdjNyb1hPZTJLeE5tRm9UcFNCc1RTZXRtN0xyT1RnMXFUQ285REc1S1U1N043VlBVYlFvMnRvTl9zSkJjYTlxY05tOVZfM3A5ekZKX3NMYmtSYW8tZTBlNmlfdThoSHB0R3FxXzJSMFhoNl9tVDVHZDRHT3pEVGpZeDdqLWNMRWVqN01VclJLV3dvZGt5bTV1eUwxTUp1dXl0WkVYY2tyWUZUTWlMakFOcmgyZ1hFUjBOd2RocUJBeQ?oc=5)
-- [Experts Warn That AI Slop Is Corrupting Kids’ Brains - Futurism](https://news.google.com/rss/articles/CBMiowFBVV95cUxQRm9zcEFxYUFxZHhVTEpHdmV4N3NyTmFySmlkYnMxbC1MVjFLOGNOZVctcUs0cVlCRVVValFjR3UtUUJyNThtWXNwX09aZ2VQSDVRVWw4SWVBclBldHhTNWFxRVZ2WXlSY2ZYa2dYZHNvdGlYUnFlSmpoVk1QNFVDeHUwYkpSY29tSFczTnI5Y3MxdElFWlVvVXRkV0w0dlgtdERz?oc=5)
-- [The Autonomous Transportation Museum - Futurist Speaker](https://news.google.com/rss/articles/CBMikwFBVV95cUxNaVFpOWQ3cVk1ZDlQNVd3eXE1VWMwUXRfNXJ5cFVyLXYwOFFDQjNELW8xZ0tLdkxDcVFRSjdodmRTTWFobVducFFaRjNUbjdlX1VBZE5DMUYtZlBhek5zYWhJbXVJRnd6QmtENHNHT2pSNnZWU1VIUkkwTU9ESzBaVTRCaXdmOG5VaDdGSWphUXJVYjA?oc=5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
