@@ -311,30 +311,31 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=PXgkm5UvAy8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PXgkm5UvAy8&title=The+Real+Opportunity+of+AI+Is+More+Human+Than+You+Think&lang=en&timestamp=1786893895&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2313">
-          <img src="https://ytcards.demolab.com/?id=PXgkm5UvAy8&title=The+Real+Opportunity+of+AI+Is+More+Human+Than+You+Think&lang=en&timestamp=1786893895&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2313" alt="The Real Opportunity of AI Is More Human Than You Think" title="The Real Opportunity of AI Is More Human Than You Think">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PXgkm5UvAy8&title=The+Real+Opportunity+of+AI+Is+More+Human+Than+You+Think&lang=en&timestamp=1786894146&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2313">
+          <img src="https://ytcards.demolab.com/?id=PXgkm5UvAy8&title=The+Real+Opportunity+of+AI+Is+More+Human+Than+You+Think&lang=en&timestamp=1786894146&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2313" alt="The Real Opportunity of AI Is More Human Than You Think" title="The Real Opportunity of AI Is More Human Than You Think">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=f4dT40Po-40" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=f4dT40Po-40&title=AI%E2%80%99s+record+investment+boom+is+just+beginning+%7C+Alan+Kohler+%7C+ABC+NEWS&lang=en&timestamp=1786857895&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=142">
-          <img src="https://ytcards.demolab.com/?id=f4dT40Po-40&title=AI%E2%80%99s+record+investment+boom+is+just+beginning+%7C+Alan+Kohler+%7C+ABC+NEWS&lang=en&timestamp=1786857895&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=142" alt="AI’s record investment boom is just beginning | Alan Kohler | ABC NEWS" title="AI’s record investment boom is just beginning | Alan Kohler | ABC NEWS">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=f4dT40Po-40&title=AI%E2%80%99s+record+investment+boom+is+just+beginning+%7C+Alan+Kohler+%7C+ABC+NEWS&lang=en&timestamp=1786858146&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=142">
+          <img src="https://ytcards.demolab.com/?id=f4dT40Po-40&title=AI%E2%80%99s+record+investment+boom+is+just+beginning+%7C+Alan+Kohler+%7C+ABC+NEWS&lang=en&timestamp=1786858146&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=142" alt="AI’s record investment boom is just beginning | Alan Kohler | ABC NEWS" title="AI’s record investment boom is just beginning | Alan Kohler | ABC NEWS">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=4VdP4eoAGr0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=vUhamjWR_vA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4VdP4eoAGr0&title=I+Asked+AI+To+Tune+My+Suspension.+This+Is+What+Happened...&lang=en&timestamp=1786872295&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1230">
-          <img src="https://ytcards.demolab.com/?id=4VdP4eoAGr0&title=I+Asked+AI+To+Tune+My+Suspension.+This+Is+What+Happened...&lang=en&timestamp=1786872295&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1230" alt="I Asked AI To Tune My Suspension. This Is What Happened..." title="I Asked AI To Tune My Suspension. This Is What Happened...">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vUhamjWR_vA&title=AI+threatens+the+Hasidic+community%3B+a+fiery+speech+by+Rabbi+Aaron+Teitelbaum&lang=en&timestamp=1786879746&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2261">
+          <img src="https://ytcards.demolab.com/?id=vUhamjWR_vA&title=AI+threatens+the+Hasidic+community%3B+a+fiery+speech+by+Rabbi+Aaron+Teitelbaum&lang=en&timestamp=1786879746&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2261" alt="AI threatens the Hasidic community; a fiery speech by Rabbi Aaron Teitelbaum" title="AI threatens the Hasidic community; a fiery speech by Rabbi Aaron Teitelbaum">
         </picture>
       </a>
     </td>
@@ -343,24 +344,24 @@
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=WklCnG9yfWQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WklCnG9yfWQ&title=Trump+grapples+with+the+AI+data+centre+debate+-+The+President%27s+Path+podcast%2C+BBC+World+Service&lang=en&timestamp=1786821895&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=973">
-          <img src="https://ytcards.demolab.com/?id=WklCnG9yfWQ&title=Trump+grapples+with+the+AI+data+centre+debate+-+The+President%27s+Path+podcast%2C+BBC+World+Service&lang=en&timestamp=1786821895&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=973" alt="Trump grapples with the AI data centre debate - The President's Path podcast, BBC World Service" title="Trump grapples with the AI data centre debate - The President's Path podcast, BBC World Service">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WklCnG9yfWQ&title=Trump+grapples+with+the+AI+data+centre+debate+-+The+President%27s+Path+podcast%2C+BBC+World+Service&lang=en&timestamp=1786825746&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=973">
+          <img src="https://ytcards.demolab.com/?id=WklCnG9yfWQ&title=Trump+grapples+with+the+AI+data+centre+debate+-+The+President%27s+Path+podcast%2C+BBC+World+Service&lang=en&timestamp=1786825746&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=973" alt="Trump grapples with the AI data centre debate - The President's Path podcast, BBC World Service" title="Trump grapples with the AI data centre debate - The President's Path podcast, BBC World Service">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=vYZ4d3biLDU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vYZ4d3biLDU&title=AI+is+watching+you%3A+tracking%2C+traps+and+surveillance&lang=en&timestamp=1786821895&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=751">
-          <img src="https://ytcards.demolab.com/?id=vYZ4d3biLDU&title=AI+is+watching+you%3A+tracking%2C+traps+and+surveillance&lang=en&timestamp=1786821895&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=751" alt="AI is watching you: tracking, traps and surveillance" title="AI is watching you: tracking, traps and surveillance">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vYZ4d3biLDU&title=AI+is+watching+you%3A+tracking%2C+traps+and+surveillance&lang=en&timestamp=1786825746&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=751">
+          <img src="https://ytcards.demolab.com/?id=vYZ4d3biLDU&title=AI+is+watching+you%3A+tracking%2C+traps+and+surveillance&lang=en&timestamp=1786825746&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=751" alt="AI is watching you: tracking, traps and surveillance" title="AI is watching you: tracking, traps and surveillance">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=CK4IXU0Br_w" target="_blank">
+      <a href="https://www.youtube.com/watch?v=fdVX5_mLvl0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=CK4IXU0Br_w&title=Fallen+Angels+are+Behind+What%27s+Being+Built+and+Only+God+Can+Stop+it..&lang=en&timestamp=1786854295&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1558">
-          <img src="https://ytcards.demolab.com/?id=CK4IXU0Br_w&title=Fallen+Angels+are+Behind+What%27s+Being+Built+and+Only+God+Can+Stop+it..&lang=en&timestamp=1786854295&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1558" alt="Fallen Angels are Behind What's Being Built and Only God Can Stop it.." title="Fallen Angels are Behind What's Being Built and Only God Can Stop it..">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=fdVX5_mLvl0&title=AI+Factories%3A+In+Depth&lang=en&timestamp=1786894146&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1711">
+          <img src="https://ytcards.demolab.com/?id=fdVX5_mLvl0&title=AI+Factories%3A+In+Depth&lang=en&timestamp=1786894146&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1711" alt="AI Factories: In Depth" title="AI Factories: In Depth">
         </picture>
       </a>
     </td>
