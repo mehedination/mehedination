@@ -319,30 +319,31 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=BHGTA6ZEls4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BHGTA6ZEls4&title=5+Ways+to+Connect+AI+Agents+to+Tools%3A+From+APIs+to+MCP&lang=en&timestamp=1786878351&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=688">
-          <img src="https://ytcards.demolab.com/?id=BHGTA6ZEls4&title=5+Ways+to+Connect+AI+Agents+to+Tools%3A+From+APIs+to+MCP&lang=en&timestamp=1786878351&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=688" alt="5 Ways to Connect AI Agents to Tools: From APIs to MCP" title="5 Ways to Connect AI Agents to Tools: From APIs to MCP">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BHGTA6ZEls4&title=5+Ways+to+Connect+AI+Agents+to+Tools%3A+From+APIs+to+MCP&lang=en&timestamp=1786881031&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=688">
+          <img src="https://ytcards.demolab.com/?id=BHGTA6ZEls4&title=5+Ways+to+Connect+AI+Agents+to+Tools%3A+From+APIs+to+MCP&lang=en&timestamp=1786881031&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=688" alt="5 Ways to Connect AI Agents to Tools: From APIs to MCP" title="5 Ways to Connect AI Agents to Tools: From APIs to MCP">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=idCR2d4KRgw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=idCR2d4KRgw&title=Why+are+sandwiches+more+regulated+than+AI%3F+%7C+The+Bottom+Line&lang=en&timestamp=1786907151&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1501">
-          <img src="https://ytcards.demolab.com/?id=idCR2d4KRgw&title=Why+are+sandwiches+more+regulated+than+AI%3F+%7C+The+Bottom+Line&lang=en&timestamp=1786907151&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1501" alt="Why are sandwiches more regulated than AI? | The Bottom Line" title="Why are sandwiches more regulated than AI? | The Bottom Line">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=idCR2d4KRgw&title=Why+are+sandwiches+more+regulated+than+AI%3F+%7C+The+Bottom+Line&lang=en&timestamp=1786906231&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1501">
+          <img src="https://ytcards.demolab.com/?id=idCR2d4KRgw&title=Why+are+sandwiches+more+regulated+than+AI%3F+%7C+The+Bottom+Line&lang=en&timestamp=1786906231&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1501" alt="Why are sandwiches more regulated than AI? | The Bottom Line" title="Why are sandwiches more regulated than AI? | The Bottom Line">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=PXgkm5UvAy8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PXgkm5UvAy8&title=The+Real+Opportunity+of+AI+Is+More+Human+Than+You+Think&lang=en&timestamp=1786892751&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2313">
-          <img src="https://ytcards.demolab.com/?id=PXgkm5UvAy8&title=The+Real+Opportunity+of+AI+Is+More+Human+Than+You+Think&lang=en&timestamp=1786892751&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2313" alt="The Real Opportunity of AI Is More Human Than You Think" title="The Real Opportunity of AI Is More Human Than You Think">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PXgkm5UvAy8&title=The+Real+Opportunity+of+AI+Is+More+Human+Than+You+Think&lang=en&timestamp=1786891831&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2313">
+          <img src="https://ytcards.demolab.com/?id=PXgkm5UvAy8&title=The+Real+Opportunity+of+AI+Is+More+Human+Than+You+Think&lang=en&timestamp=1786891831&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2313" alt="The Real Opportunity of AI Is More Human Than You Think" title="The Real Opportunity of AI Is More Human Than You Think">
         </picture>
       </a>
     </td>
@@ -351,24 +352,24 @@
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=5iQZ7T2-O_E" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5iQZ7T2-O_E&title=Russia%E2%80%99s+Greatest+Mystery+Finally+Solved+By+AI+%E2%80%94+Dyatlov+Pass+Was+Far+Worse+Than+We+Thought%E2%80%9D&lang=en&timestamp=1786910751&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1694">
-          <img src="https://ytcards.demolab.com/?id=5iQZ7T2-O_E&title=Russia%E2%80%99s+Greatest+Mystery+Finally+Solved+By+AI+%E2%80%94+Dyatlov+Pass+Was+Far+Worse+Than+We+Thought%E2%80%9D&lang=en&timestamp=1786910751&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1694" alt="Russia’s Greatest Mystery Finally Solved By AI — Dyatlov Pass Was Far Worse Than We Thought”" title="Russia’s Greatest Mystery Finally Solved By AI — Dyatlov Pass Was Far Worse Than We Thought”">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5iQZ7T2-O_E&title=Russia%E2%80%99s+Greatest+Mystery+Finally+Solved+By+AI+%E2%80%94+Dyatlov+Pass+Was+Far+Worse+Than+We+Thought%E2%80%9D&lang=en&timestamp=1786909831&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1694">
+          <img src="https://ytcards.demolab.com/?id=5iQZ7T2-O_E&title=Russia%E2%80%99s+Greatest+Mystery+Finally+Solved+By+AI+%E2%80%94+Dyatlov+Pass+Was+Far+Worse+Than+We+Thought%E2%80%9D&lang=en&timestamp=1786909831&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1694" alt="Russia’s Greatest Mystery Finally Solved By AI — Dyatlov Pass Was Far Worse Than We Thought”" title="Russia’s Greatest Mystery Finally Solved By AI — Dyatlov Pass Was Far Worse Than We Thought”">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=vUhamjWR_vA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=S9ecC2xjtYQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vUhamjWR_vA&title=AI+threatens+the+Hasidic+community%3B+a+fiery+speech+by+Rabbi+Aaron+Teitelbaum&lang=en&timestamp=1786878351&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2261">
-          <img src="https://ytcards.demolab.com/?id=vUhamjWR_vA&title=AI+threatens+the+Hasidic+community%3B+a+fiery+speech+by+Rabbi+Aaron+Teitelbaum&lang=en&timestamp=1786878351&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2261" alt="AI threatens the Hasidic community; a fiery speech by Rabbi Aaron Teitelbaum" title="AI threatens the Hasidic community; a fiery speech by Rabbi Aaron Teitelbaum">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=S9ecC2xjtYQ&title=Which+AI+is+The+Best+Chef%3F&lang=en&timestamp=1786899031&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1447">
+          <img src="https://ytcards.demolab.com/?id=S9ecC2xjtYQ&title=Which+AI+is+The+Best+Chef%3F&lang=en&timestamp=1786899031&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1447" alt="Which AI is The Best Chef?" title="Which AI is The Best Chef?">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=EMj1fl17Tv8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=RNdP1GzU1do" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EMj1fl17Tv8&title=The+Many+Problems+With+Home+Robotics&lang=en&timestamp=1786881951&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=316">
-          <img src="https://ytcards.demolab.com/?id=EMj1fl17Tv8&title=The+Many+Problems+With+Home+Robotics&lang=en&timestamp=1786881951&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=316" alt="The Many Problems With Home Robotics" title="The Many Problems With Home Robotics">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=RNdP1GzU1do&title=Who+First+Coined+the+Term+%22Artificial+Intelligence%22%3F&lang=en&timestamp=1786942231&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=775">
+          <img src="https://ytcards.demolab.com/?id=RNdP1GzU1do&title=Who+First+Coined+the+Term+%22Artificial+Intelligence%22%3F&lang=en&timestamp=1786942231&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=775" alt="Who First Coined the Term &quot;Artificial Intelligence&quot;?" title="Who First Coined the Term &quot;Artificial Intelligence&quot;?">
         </picture>
       </a>
     </td>
