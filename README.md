@@ -338,56 +338,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=KkG2tyEU-Hs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KkG2tyEU-Hs&title=School+uses+AI+instead+of+teachers+for+personalized+learning%3A+Co-founder+breaks+it+down&lang=en&timestamp=1787002977&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=272">
-          <img src="https://ytcards.demolab.com/?id=KkG2tyEU-Hs&title=School+uses+AI+instead+of+teachers+for+personalized+learning%3A+Co-founder+breaks+it+down&lang=en&timestamp=1787002977&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=272" alt="School uses AI instead of teachers for personalized learning: Co-founder breaks it down" title="School uses AI instead of teachers for personalized learning: Co-founder breaks it down">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KkG2tyEU-Hs&title=School+uses+AI+instead+of+teachers+for+personalized+learning%3A+Co-founder+breaks+it+down&lang=en&timestamp=1787003002&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=272">
+          <img src="https://ytcards.demolab.com/?id=KkG2tyEU-Hs&title=School+uses+AI+instead+of+teachers+for+personalized+learning%3A+Co-founder+breaks+it+down&lang=en&timestamp=1787003002&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=272" alt="School uses AI instead of teachers for personalized learning: Co-founder breaks it down" title="School uses AI instead of teachers for personalized learning: Co-founder breaks it down">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=PHCg9kanGR4" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PHCg9kanGR4&title=Artificial+Intelligence+Confirms+Date+of+the+Rapture+08%2F18%2F2026&lang=en&timestamp=1787040682&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1795">
+          <img src="https://ytcards.demolab.com/?id=PHCg9kanGR4&title=Artificial+Intelligence+Confirms+Date+of+the+Rapture+08%2F18%2F2026&lang=en&timestamp=1787040682&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1795" alt="Artificial Intelligence Confirms Date of the Rapture 08/18/2026" title="Artificial Intelligence Confirms Date of the Rapture 08/18/2026">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=5_Vi_uhJtS0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5_Vi_uhJtS0&title=AI+Finally+Translated+The+Voynich+Manuscript+%E2%80%94+It+Isn%27t+A+Language+At+All&lang=en&timestamp=1786992177&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2154">
-          <img src="https://ytcards.demolab.com/?id=5_Vi_uhJtS0&title=AI+Finally+Translated+The+Voynich+Manuscript+%E2%80%94+It+Isn%27t+A+Language+At+All&lang=en&timestamp=1786992177&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2154" alt="AI Finally Translated The Voynich Manuscript — It Isn't A Language At All" title="AI Finally Translated The Voynich Manuscript — It Isn't A Language At All">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=3Xgsz36gX7I" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3Xgsz36gX7I&title=The+%28Overdue%29+Collapse+Of+Artificial+intelligence&lang=en&timestamp=1786995777&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=917">
-          <img src="https://ytcards.demolab.com/?id=3Xgsz36gX7I&title=The+%28Overdue%29+Collapse+Of+Artificial+intelligence&lang=en&timestamp=1786995777&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=917" alt="The (Overdue) Collapse Of Artificial intelligence" title="The (Overdue) Collapse Of Artificial intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5_Vi_uhJtS0&title=AI+Finally+Translated+The+Voynich+Manuscript+%E2%80%94+It+Isn%27t+A+Language+At+All&lang=en&timestamp=1786992202&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2154">
+          <img src="https://ytcards.demolab.com/?id=5_Vi_uhJtS0&title=AI+Finally+Translated+The+Voynich+Manuscript+%E2%80%94+It+Isn%27t+A+Language+At+All&lang=en&timestamp=1786992202&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2154" alt="AI Finally Translated The Voynich Manuscript — It Isn't A Language At All" title="AI Finally Translated The Voynich Manuscript — It Isn't A Language At All">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
+      <a href="https://www.youtube.com/watch?v=3Xgsz36gX7I" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3Xgsz36gX7I&title=The+%28Overdue%29+Collapse+Of+Artificial+intelligence&lang=en&timestamp=1786995802&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=917">
+          <img src="https://ytcards.demolab.com/?id=3Xgsz36gX7I&title=The+%28Overdue%29+Collapse+Of+Artificial+intelligence&lang=en&timestamp=1786995802&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=917" alt="The (Overdue) Collapse Of Artificial intelligence" title="The (Overdue) Collapse Of Artificial intelligence">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=J2j7ucgSJUE" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=J2j7ucgSJUE&title=How+to+Get+AHEAD+of+the+Market+Before+AI+Changes+the+Rules+of+the+Game&lang=en&timestamp=1786985002&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6294">
+          <img src="https://ytcards.demolab.com/?id=J2j7ucgSJUE&title=How+to+Get+AHEAD+of+the+Market+Before+AI+Changes+the+Rules+of+the+Game&lang=en&timestamp=1786985002&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6294" alt="How to Get AHEAD of the Market Before AI Changes the Rules of the Game" title="How to Get AHEAD of the Market Before AI Changes the Rules of the Game">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
       <a href="https://www.youtube.com/watch?v=FDj7YfHOuf8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=FDj7YfHOuf8&title=US+Tells+35+Countries%3A+Pick+Us+or+China+in+the+Global+AI+Race+%7C+WION&lang=en&timestamp=1786966977&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=119">
-          <img src="https://ytcards.demolab.com/?id=FDj7YfHOuf8&title=US+Tells+35+Countries%3A+Pick+Us+or+China+in+the+Global+AI+Race+%7C+WION&lang=en&timestamp=1786966977&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=119" alt="US Tells 35 Countries: Pick Us or China in the Global AI Race | WION" title="US Tells 35 Countries: Pick Us or China in the Global AI Race | WION">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=QDFfzYNyY8k" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QDFfzYNyY8k&title=AI+and+robotic+companions+helping+aging+New+Yorkers&lang=en&timestamp=1787010177&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=270">
-          <img src="https://ytcards.demolab.com/?id=QDFfzYNyY8k&title=AI+and+robotic+companions+helping+aging+New+Yorkers&lang=en&timestamp=1787010177&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=270" alt="AI and robotic companions helping aging New Yorkers" title="AI and robotic companions helping aging New Yorkers">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=u4K1IGzNSyo" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=u4K1IGzNSyo&title=AI+Companies+Are+Buying%E2%80%94And+Destroying%E2%80%94Antique+Books.+Here%E2%80%99s+Why.&lang=en&timestamp=1787002977&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=208">
-          <img src="https://ytcards.demolab.com/?id=u4K1IGzNSyo&title=AI+Companies+Are+Buying%E2%80%94And+Destroying%E2%80%94Antique+Books.+Here%E2%80%99s+Why.&lang=en&timestamp=1787002977&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=208" alt="AI Companies Are Buying—And Destroying—Antique Books. Here’s Why." title="AI Companies Are Buying—And Destroying—Antique Books. Here’s Why.">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=FDj7YfHOuf8&title=US+Tells+35+Countries%3A+Pick+Us+or+China+in+the+Global+AI+Race+%7C+WION&lang=en&timestamp=1786967002&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=119">
+          <img src="https://ytcards.demolab.com/?id=FDj7YfHOuf8&title=US+Tells+35+Countries%3A+Pick+Us+or+China+in+the+Global+AI+Race+%7C+WION&lang=en&timestamp=1786967002&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=119" alt="US Tells 35 Countries: Pick Us or China in the Global AI Race | WION" title="US Tells 35 Countries: Pick Us or China in the Global AI Race | WION">
         </picture>
       </a>
     </td>
