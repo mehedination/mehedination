@@ -334,30 +334,31 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=PXgkm5UvAy8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=KkG2tyEU-Hs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PXgkm5UvAy8&title=The+Real+Opportunity+of+AI+Is+More+Human+Than+You+Think&lang=en&timestamp=1786922877&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2313">
-          <img src="https://ytcards.demolab.com/?id=PXgkm5UvAy8&title=The+Real+Opportunity+of+AI+Is+More+Human+Than+You+Think&lang=en&timestamp=1786922877&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2313" alt="The Real Opportunity of AI Is More Human Than You Think" title="The Real Opportunity of AI Is More Human Than You Think">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=vUhamjWR_vA" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vUhamjWR_vA&title=AI+threatens+the+Hasidic+community%3B+a+fiery+speech+by+Rabbi+Aaron+Teitelbaum&lang=en&timestamp=1786922877&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2261">
-          <img src="https://ytcards.demolab.com/?id=vUhamjWR_vA&title=AI+threatens+the+Hasidic+community%3B+a+fiery+speech+by+Rabbi+Aaron+Teitelbaum&lang=en&timestamp=1786922877&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2261" alt="AI threatens the Hasidic community; a fiery speech by Rabbi Aaron Teitelbaum" title="AI threatens the Hasidic community; a fiery speech by Rabbi Aaron Teitelbaum">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KkG2tyEU-Hs&title=School+uses+AI+instead+of+teachers+for+personalized+learning%3A+Co-founder+breaks+it+down&lang=en&timestamp=1787002854&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=272">
+          <img src="https://ytcards.demolab.com/?id=KkG2tyEU-Hs&title=School+uses+AI+instead+of+teachers+for+personalized+learning%3A+Co-founder+breaks+it+down&lang=en&timestamp=1787002854&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=272" alt="School uses AI instead of teachers for personalized learning: Co-founder breaks it down" title="School uses AI instead of teachers for personalized learning: Co-founder breaks it down">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=3Xgsz36gX7I" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3Xgsz36gX7I&title=The+%28Overdue%29+Collapse+Of+Artificial+intelligence&lang=en&timestamp=1786994877&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=917">
-          <img src="https://ytcards.demolab.com/?id=3Xgsz36gX7I&title=The+%28Overdue%29+Collapse+Of+Artificial+intelligence&lang=en&timestamp=1786994877&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=917" alt="The (Overdue) Collapse Of Artificial intelligence" title="The (Overdue) Collapse Of Artificial intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3Xgsz36gX7I&title=The+%28Overdue%29+Collapse+Of+Artificial+intelligence&lang=en&timestamp=1786995654&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=917">
+          <img src="https://ytcards.demolab.com/?id=3Xgsz36gX7I&title=The+%28Overdue%29+Collapse+Of+Artificial+intelligence&lang=en&timestamp=1786995654&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=917" alt="The (Overdue) Collapse Of Artificial intelligence" title="The (Overdue) Collapse Of Artificial intelligence">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=SN93egkvFVA" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SN93egkvFVA&title=How+Gen+X+Defeats+Skynet%3A+Now+That+It%E2%80%99s+Here%2C+5+Ways+to+Stay+Human&lang=en&timestamp=1787002854&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1144">
+          <img src="https://ytcards.demolab.com/?id=SN93egkvFVA&title=How+Gen+X+Defeats+Skynet%3A+Now+That+It%E2%80%99s+Here%2C+5+Ways+to+Stay+Human&lang=en&timestamp=1787002854&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1144" alt="How Gen X Defeats Skynet: Now That It’s Here, 5 Ways to Stay Human" title="How Gen X Defeats Skynet: Now That It’s Here, 5 Ways to Stay Human">
         </picture>
       </a>
     </td>
@@ -366,24 +367,24 @@
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=FDj7YfHOuf8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=FDj7YfHOuf8&title=US+Tells+35+Countries%3A+Pick+Us+or+China+in+the+Global+AI+Race+%7C+WION&lang=en&timestamp=1786966077&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=119">
-          <img src="https://ytcards.demolab.com/?id=FDj7YfHOuf8&title=US+Tells+35+Countries%3A+Pick+Us+or+China+in+the+Global+AI+Race+%7C+WION&lang=en&timestamp=1786966077&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=119" alt="US Tells 35 Countries: Pick Us or China in the Global AI Race | WION" title="US Tells 35 Countries: Pick Us or China in the Global AI Race | WION">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=FDj7YfHOuf8&title=US+Tells+35+Countries%3A+Pick+Us+or+China+in+the+Global+AI+Race+%7C+WION&lang=en&timestamp=1786966854&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=119">
+          <img src="https://ytcards.demolab.com/?id=FDj7YfHOuf8&title=US+Tells+35+Countries%3A+Pick+Us+or+China+in+the+Global+AI+Race+%7C+WION&lang=en&timestamp=1786966854&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=119" alt="US Tells 35 Countries: Pick Us or China in the Global AI Race | WION" title="US Tells 35 Countries: Pick Us or China in the Global AI Race | WION">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Wj4HgWmELpc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=QDFfzYNyY8k" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Wj4HgWmELpc&title=Is+China+secretly+behind+the+AI+data+centre+backlash+in+the+US%3F+%7C+Andrew+Neil&lang=en&timestamp=1786922877&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=903">
-          <img src="https://ytcards.demolab.com/?id=Wj4HgWmELpc&title=Is+China+secretly+behind+the+AI+data+centre+backlash+in+the+US%3F+%7C+Andrew+Neil&lang=en&timestamp=1786922877&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=903" alt="Is China secretly behind the AI data centre backlash in the US? | Andrew Neil" title="Is China secretly behind the AI data centre backlash in the US? | Andrew Neil">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QDFfzYNyY8k&title=AI+and+robotic+companions+helping+aging+New+Yorkers&lang=en&timestamp=1787010054&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=270">
+          <img src="https://ytcards.demolab.com/?id=QDFfzYNyY8k&title=AI+and+robotic+companions+helping+aging+New+Yorkers&lang=en&timestamp=1787010054&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=270" alt="AI and robotic companions helping aging New Yorkers" title="AI and robotic companions helping aging New Yorkers">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=idCR2d4KRgw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=iVo006_Rbzk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=idCR2d4KRgw&title=Why+are+sandwiches+more+regulated+than+AI%3F+%7C+The+Bottom+Line&lang=en&timestamp=1786922877&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1501">
-          <img src="https://ytcards.demolab.com/?id=idCR2d4KRgw&title=Why+are+sandwiches+more+regulated+than+AI%3F+%7C+The+Bottom+Line&lang=en&timestamp=1786922877&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1501" alt="Why are sandwiches more regulated than AI? | The Bottom Line" title="Why are sandwiches more regulated than AI? | The Bottom Line">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=iVo006_Rbzk&title=Build+Your+First+Productivity+Assistant+with+OpenClaw&lang=en&timestamp=1786984854&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3922">
+          <img src="https://ytcards.demolab.com/?id=iVo006_Rbzk&title=Build+Your+First+Productivity+Assistant+with+OpenClaw&lang=en&timestamp=1786984854&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3922" alt="Build Your First Productivity Assistant with OpenClaw" title="Build Your First Productivity Assistant with OpenClaw">
         </picture>
       </a>
     </td>
