@@ -349,30 +349,31 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=IkP-uk0n3uY" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=IkP-uk0n3uY&title=AI+%22Art%22&lang=en&timestamp=1786992379&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=787">
-          <img src="https://ytcards.demolab.com/?id=IkP-uk0n3uY&title=AI+%22Art%22&lang=en&timestamp=1786992379&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=787" alt="AI &quot;Art&quot;" title="AI &quot;Art&quot;">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
       <a href="https://www.youtube.com/watch?v=PHCg9kanGR4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PHCg9kanGR4&title=Artificial+Intelligence+Confirms+Date+of+the+Rapture+08%2F18%2F2026&lang=en&timestamp=1787042779&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1795">
-          <img src="https://ytcards.demolab.com/?id=PHCg9kanGR4&title=Artificial+Intelligence+Confirms+Date+of+the+Rapture+08%2F18%2F2026&lang=en&timestamp=1787042779&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1795" alt="Artificial Intelligence Confirms Date of the Rapture 08/18/2026" title="Artificial Intelligence Confirms Date of the Rapture 08/18/2026">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PHCg9kanGR4&title=Artificial+Intelligence+Confirms+Date+of+the+Rapture+08%2F18%2F2026&lang=en&timestamp=1787041885&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1795">
+          <img src="https://ytcards.demolab.com/?id=PHCg9kanGR4&title=Artificial+Intelligence+Confirms+Date+of+the+Rapture+08%2F18%2F2026&lang=en&timestamp=1787041885&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1795" alt="Artificial Intelligence Confirms Date of the Rapture 08/18/2026" title="Artificial Intelligence Confirms Date of the Rapture 08/18/2026">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=5pW-qpP-2xw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=IkP-uk0n3uY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5pW-qpP-2xw&title=This+New+AI+Bubble+Intel+Should+Scare+The+Hell+Out+Of+You&lang=en&timestamp=1786992379&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2933">
-          <img src="https://ytcards.demolab.com/?id=5pW-qpP-2xw&title=This+New+AI+Bubble+Intel+Should+Scare+The+Hell+Out+Of+You&lang=en&timestamp=1786992379&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2933" alt="This New AI Bubble Intel Should Scare The Hell Out Of You" title="This New AI Bubble Intel Should Scare The Hell Out Of You">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=IkP-uk0n3uY&title=Does+AI+have+a+place+in+Art%3F&lang=en&timestamp=1786995085&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=787">
+          <img src="https://ytcards.demolab.com/?id=IkP-uk0n3uY&title=Does+AI+have+a+place+in+Art%3F&lang=en&timestamp=1786995085&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=787" alt="Does AI have a place in Art?" title="Does AI have a place in Art?">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=5_Vi_uhJtS0" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5_Vi_uhJtS0&title=AI+Finally+Translated+The+Voynich+Manuscript+%E2%80%94+It+Isn%27t+A+Language+At+All&lang=en&timestamp=1786995085&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2154">
+          <img src="https://ytcards.demolab.com/?id=5_Vi_uhJtS0&title=AI+Finally+Translated+The+Voynich+Manuscript+%E2%80%94+It+Isn%27t+A+Language+At+All&lang=en&timestamp=1786995085&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2154" alt="AI Finally Translated The Voynich Manuscript — It Isn't A Language At All" title="AI Finally Translated The Voynich Manuscript — It Isn't A Language At All">
         </picture>
       </a>
     </td>
@@ -381,24 +382,24 @@
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=3Xgsz36gX7I" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3Xgsz36gX7I&title=The+%28Overdue%29+Collapse+Of+Artificial+intelligence&lang=en&timestamp=1786995979&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=917">
-          <img src="https://ytcards.demolab.com/?id=3Xgsz36gX7I&title=The+%28Overdue%29+Collapse+Of+Artificial+intelligence&lang=en&timestamp=1786995979&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=917" alt="The (Overdue) Collapse Of Artificial intelligence" title="The (Overdue) Collapse Of Artificial intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3Xgsz36gX7I&title=The+%28Overdue%29+Collapse+Of+Artificial+intelligence&lang=en&timestamp=1786995085&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=917">
+          <img src="https://ytcards.demolab.com/?id=3Xgsz36gX7I&title=The+%28Overdue%29+Collapse+Of+Artificial+intelligence&lang=en&timestamp=1786995085&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=917" alt="The (Overdue) Collapse Of Artificial intelligence" title="The (Overdue) Collapse Of Artificial intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=5_Vi_uhJtS0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=5pW-qpP-2xw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5_Vi_uhJtS0&title=AI+Finally+Translated+The+Voynich+Manuscript+%E2%80%94+It+Isn%27t+A+Language+At+All&lang=en&timestamp=1786992379&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2154">
-          <img src="https://ytcards.demolab.com/?id=5_Vi_uhJtS0&title=AI+Finally+Translated+The+Voynich+Manuscript+%E2%80%94+It+Isn%27t+A+Language+At+All&lang=en&timestamp=1786992379&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2154" alt="AI Finally Translated The Voynich Manuscript — It Isn't A Language At All" title="AI Finally Translated The Voynich Manuscript — It Isn't A Language At All">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5pW-qpP-2xw&title=This+New+AI+Bubble+Intel+Should+Scare+The+Hell+Out+Of+You&lang=en&timestamp=1786995085&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2933">
+          <img src="https://ytcards.demolab.com/?id=5pW-qpP-2xw&title=This+New+AI+Bubble+Intel+Should+Scare+The+Hell+Out+Of+You&lang=en&timestamp=1786995085&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2933" alt="This New AI Bubble Intel Should Scare The Hell Out Of You" title="This New AI Bubble Intel Should Scare The Hell Out Of You">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=sQVuKIWSX0o" target="_blank">
+      <a href="https://www.youtube.com/watch?v=L1YpE8g0chU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sQVuKIWSX0o&title=Why+Is+Artificial+Intelligence+Considered+Atheist%3F&lang=en&timestamp=1786992379&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=857">
-          <img src="https://ytcards.demolab.com/?id=sQVuKIWSX0o&title=Why+Is+Artificial+Intelligence+Considered+Atheist%3F&lang=en&timestamp=1786992379&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=857" alt="Why Is Artificial Intelligence Considered Atheist?" title="Why Is Artificial Intelligence Considered Atheist?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=L1YpE8g0chU&title=Who+Are+The+AI+Experts+I+Try+to+Learn+From%3F&lang=en&timestamp=1787013085&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1433">
+          <img src="https://ytcards.demolab.com/?id=L1YpE8g0chU&title=Who+Are+The+AI+Experts+I+Try+to+Learn+From%3F&lang=en&timestamp=1787013085&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1433" alt="Who Are The AI Experts I Try to Learn From?" title="Who Are The AI Experts I Try to Learn From?">
         </picture>
       </a>
     </td>
