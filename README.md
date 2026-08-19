@@ -358,56 +358,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=JoLDB4Px-I8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=QvFUbz9Uu8Y" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JoLDB4Px-I8&title=AI+Can+Find+Your+Location+Over+87%25+of+the+Time+Using+Just+a+Photo+%7C+WION&lang=en&timestamp=1787107445&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=111">
-          <img src="https://ytcards.demolab.com/?id=JoLDB4Px-I8&title=AI+Can+Find+Your+Location+Over+87%25+of+the+Time+Using+Just+a+Photo+%7C+WION&lang=en&timestamp=1787107445&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=111" alt="AI Can Find Your Location Over 87% of the Time Using Just a Photo | WION" title="AI Can Find Your Location Over 87% of the Time Using Just a Photo | WION">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QvFUbz9Uu8Y&title=AI+scams+targeting+seniors+surge%2C+here%E2%80%99s+what+the+IRS+is+doing+about+it&lang=en&timestamp=1787081934&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=331">
+          <img src="https://ytcards.demolab.com/?id=QvFUbz9Uu8Y&title=AI+scams+targeting+seniors+surge%2C+here%E2%80%99s+what+the+IRS+is+doing+about+it&lang=en&timestamp=1787081934&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=331" alt="AI scams targeting seniors surge, here’s what the IRS is doing about it" title="AI scams targeting seniors surge, here’s what the IRS is doing about it">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=aOo-Tz5C-GY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=TGtdAvr7TeE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aOo-Tz5C-GY&title=How+AI+Has+Become+a+Fixture+in+Classrooms+and+Homes&lang=en&timestamp=1787060645&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=349">
-          <img src="https://ytcards.demolab.com/?id=aOo-Tz5C-GY&title=How+AI+Has+Become+a+Fixture+in+Classrooms+and+Homes&lang=en&timestamp=1787060645&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=349" alt="How AI Has Become a Fixture in Classrooms and Homes" title="How AI Has Become a Fixture in Classrooms and Homes">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=TGtdAvr7TeE&title=BHP+CEO+Brandon+Craig%3A+AI+and+global+growth+fuel+a+long+term+copper+boom&lang=en&timestamp=1787067534&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=415">
+          <img src="https://ytcards.demolab.com/?id=TGtdAvr7TeE&title=BHP+CEO+Brandon+Craig%3A+AI+and+global+growth+fuel+a+long+term+copper+boom&lang=en&timestamp=1787067534&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=415" alt="BHP CEO Brandon Craig: AI and global growth fuel a long term copper boom" title="BHP CEO Brandon Craig: AI and global growth fuel a long term copper boom">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=S4vGBNmaQRk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Wmy1OJK-ha8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=S4vGBNmaQRk&title=Impacts+of+Artificial+Intelligence+in+the+workplace&lang=en&timestamp=1787093045&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=326">
-          <img src="https://ytcards.demolab.com/?id=S4vGBNmaQRk&title=Impacts+of+Artificial+Intelligence+in+the+workplace&lang=en&timestamp=1787093045&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=326" alt="Impacts of Artificial Intelligence in the workplace" title="Impacts of Artificial Intelligence in the workplace">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Wmy1OJK-ha8&title=See+why+Elon+Musk%27s+AI+power+plant+is+SPARKING+OUTRAGE&lang=en&timestamp=1787092734&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=621">
+          <img src="https://ytcards.demolab.com/?id=Wmy1OJK-ha8&title=See+why+Elon+Musk%27s+AI+power+plant+is+SPARKING+OUTRAGE&lang=en&timestamp=1787092734&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=621" alt="See why Elon Musk's AI power plant is SPARKING OUTRAGE" title="See why Elon Musk's AI power plant is SPARKING OUTRAGE">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=PHCg9kanGR4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=JoLDB4Px-I8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PHCg9kanGR4&title=Artificial+Intelligence+Confirms+Date+of+the+Rapture+08%2F18%2F2026&lang=en&timestamp=1787042645&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1795">
-          <img src="https://ytcards.demolab.com/?id=PHCg9kanGR4&title=Artificial+Intelligence+Confirms+Date+of+the+Rapture+08%2F18%2F2026&lang=en&timestamp=1787042645&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1795" alt="Artificial Intelligence Confirms Date of the Rapture 08/18/2026" title="Artificial Intelligence Confirms Date of the Rapture 08/18/2026">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JoLDB4Px-I8&title=AI+Can+Find+Your+Location+Over+87%25+of+the+Time+Using+Just+a+Photo+%7C+WION&lang=en&timestamp=1787107134&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=111">
+          <img src="https://ytcards.demolab.com/?id=JoLDB4Px-I8&title=AI+Can+Find+Your+Location+Over+87%25+of+the+Time+Using+Just+a+Photo+%7C+WION&lang=en&timestamp=1787107134&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=111" alt="AI Can Find Your Location Over 87% of the Time Using Just a Photo | WION" title="AI Can Find Your Location Over 87% of the Time Using Just a Photo | WION">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=-MUDG2_DhJc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=wLGOxxGBs_U" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-MUDG2_DhJc&title=Can+you+Al-proof+your+degree%3F+-+What+in+the+World+podcast%2C+BBC+World+Service&lang=en&timestamp=1787057045&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1069">
-          <img src="https://ytcards.demolab.com/?id=-MUDG2_DhJc&title=Can+you+Al-proof+your+degree%3F+-+What+in+the+World+podcast%2C+BBC+World+Service&lang=en&timestamp=1787057045&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1069" alt="Can you Al-proof your degree? - What in the World podcast, BBC World Service" title="Can you Al-proof your degree? - What in the World podcast, BBC World Service">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wLGOxxGBs_U&title=The+Tech+Layoffs+are+About+to+Reverse&lang=en&timestamp=1787063934&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=600">
+          <img src="https://ytcards.demolab.com/?id=wLGOxxGBs_U&title=The+Tech+Layoffs+are+About+to+Reverse&lang=en&timestamp=1787063934&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=600" alt="The Tech Layoffs are About to Reverse" title="The Tech Layoffs are About to Reverse">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=1FU8XklmrA8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=AIfdLtip6N4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1FU8XklmrA8&title=Artificial+Intelligence%2C+Interest+Rates+And+Inflation...Oh%2C+What+A+Tangled+Web+We+Weave&lang=en&timestamp=1787071445&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=755">
-          <img src="https://ytcards.demolab.com/?id=1FU8XklmrA8&title=Artificial+Intelligence%2C+Interest+Rates+And+Inflation...Oh%2C+What+A+Tangled+Web+We+Weave&lang=en&timestamp=1787071445&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=755" alt="Artificial Intelligence, Interest Rates And Inflation...Oh, What A Tangled Web We Weave" title="Artificial Intelligence, Interest Rates And Inflation...Oh, What A Tangled Web We Weave">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=AIfdLtip6N4&title=Dems+FIGHT+BACK+Against+Trump+Push+for+MORE+AI+Data+Centers&lang=en&timestamp=1787103534&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=467">
+          <img src="https://ytcards.demolab.com/?id=AIfdLtip6N4&title=Dems+FIGHT+BACK+Against+Trump+Push+for+MORE+AI+Data+Centers&lang=en&timestamp=1787103534&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=467" alt="Dems FIGHT BACK Against Trump Push for MORE AI Data Centers" title="Dems FIGHT BACK Against Trump Push for MORE AI Data Centers">
         </picture>
       </a>
     </td>
