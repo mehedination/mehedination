@@ -367,56 +367,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=k20ohWh6nK8" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=k20ohWh6nK8&title=AI+Bubble%3A+%22Singularity+is+garbage%22+%7C+Eli+the+Computer+Guy&lang=en&timestamp=1787074260&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1506">
-          <img src="https://ytcards.demolab.com/?id=k20ohWh6nK8&title=AI+Bubble%3A+%22Singularity+is+garbage%22+%7C+Eli+the+Computer+Guy&lang=en&timestamp=1787074260&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1506" alt="AI Bubble: &quot;Singularity is garbage&quot; | Eli the Computer Guy" title="AI Bubble: &quot;Singularity is garbage&quot; | Eli the Computer Guy">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=m1s8yRt4cAU" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=m1s8yRt4cAU&title=China+summer+camps%3A+Govt+expands+national+education+in+AI+technologies&lang=en&timestamp=1787128260&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=136">
-          <img src="https://ytcards.demolab.com/?id=m1s8yRt4cAU&title=China+summer+camps%3A+Govt+expands+national+education+in+AI+technologies&lang=en&timestamp=1787128260&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=136" alt="China summer camps: Govt expands national education in AI technologies" title="China summer camps: Govt expands national education in AI technologies">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
       <a href="https://www.youtube.com/watch?v=sfjFKy0ZOiA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sfjFKy0ZOiA&title=2006%3A+When+Will+Intelligent+Machines+Take+Over%3F+%7C+Newsnight+%7C+BBC+Archive&lang=en&timestamp=1787139060&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=419">
-          <img src="https://ytcards.demolab.com/?id=sfjFKy0ZOiA&title=2006%3A+When+Will+Intelligent+Machines+Take+Over%3F+%7C+Newsnight+%7C+BBC+Archive&lang=en&timestamp=1787139060&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=419" alt="2006: When Will Intelligent Machines Take Over? | Newsnight | BBC Archive" title="2006: When Will Intelligent Machines Take Over? | Newsnight | BBC Archive">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sfjFKy0ZOiA&title=2006%3A+When+Will+Intelligent+Machines+Take+Over%3F+%7C+Newsnight+%7C+BBC+Archive&lang=en&timestamp=1787139722&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=419">
+          <img src="https://ytcards.demolab.com/?id=sfjFKy0ZOiA&title=2006%3A+When+Will+Intelligent+Machines+Take+Over%3F+%7C+Newsnight+%7C+BBC+Archive&lang=en&timestamp=1787139722&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=419" alt="2006: When Will Intelligent Machines Take Over? | Newsnight | BBC Archive" title="2006: When Will Intelligent Machines Take Over? | Newsnight | BBC Archive">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=y5B_XYlR4SA" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=y5B_XYlR4SA&title=EU+set+to+invest+billions+to+become+a+global+AI+powerhouse&lang=en&timestamp=1787082122&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=170">
+          <img src="https://ytcards.demolab.com/?id=y5B_XYlR4SA&title=EU+set+to+invest+billions+to+become+a+global+AI+powerhouse&lang=en&timestamp=1787082122&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=170" alt="EU set to invest billions to become a global AI powerhouse" title="EU set to invest billions to become a global AI powerhouse">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=_JXMaI_pB_U" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_JXMaI_pB_U&title=Grok+4.6+%E2%80%94+Haute+intelligence%2C+prix+imbattable&lang=en&timestamp=1787110922&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=91">
+          <img src="https://ytcards.demolab.com/?id=_JXMaI_pB_U&title=Grok+4.6+%E2%80%94+Haute+intelligence%2C+prix+imbattable&lang=en&timestamp=1787110922&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=91" alt="Grok 4.6 — Haute intelligence, prix imbattable" title="Grok 4.6 — Haute intelligence, prix imbattable">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=LQ27TjQBSy0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=S4vGBNmaQRk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=LQ27TjQBSy0&title=AI+is+being+used+to+target+children.+Police+say+it%27s+happening+more+often&lang=en&timestamp=1787074260&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=169">
-          <img src="https://ytcards.demolab.com/?id=LQ27TjQBSy0&title=AI+is+being+used+to+target+children.+Police+say+it%27s+happening+more+often&lang=en&timestamp=1787074260&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=169" alt="AI is being used to target children. Police say it's happening more often" title="AI is being used to target children. Police say it's happening more often">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=S4vGBNmaQRk&title=Impacts+of+Artificial+Intelligence+in+the+workplace&lang=en&timestamp=1787092922&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=326">
+          <img src="https://ytcards.demolab.com/?id=S4vGBNmaQRk&title=Impacts+of+Artificial+Intelligence+in+the+workplace&lang=en&timestamp=1787092922&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=326" alt="Impacts of Artificial Intelligence in the workplace" title="Impacts of Artificial Intelligence in the workplace">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=nKlEx3MnZtk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=2Y_RC4Ac_Io" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nKlEx3MnZtk&title=Claude+AI+Full+Course+2026%3A+20%2B+Powerful+Features+You+NEED+to+Know&lang=en&timestamp=1787139060&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1655">
-          <img src="https://ytcards.demolab.com/?id=nKlEx3MnZtk&title=Claude+AI+Full+Course+2026%3A+20%2B+Powerful+Features+You+NEED+to+Know&lang=en&timestamp=1787139060&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1655" alt="Claude AI Full Course 2026: 20+ Powerful Features You NEED to Know" title="Claude AI Full Course 2026: 20+ Powerful Features You NEED to Know">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2Y_RC4Ac_Io&title=Is+Becoming+an+AI+Integrator+Right+for+Me%3F&lang=en&timestamp=1787078522&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2960">
+          <img src="https://ytcards.demolab.com/?id=2Y_RC4Ac_Io&title=Is+Becoming+an+AI+Integrator+Right+for+Me%3F&lang=en&timestamp=1787078522&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2960" alt="Is Becoming an AI Integrator Right for Me?" title="Is Becoming an AI Integrator Right for Me?">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=aOo-Tz5C-GY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=eT5kLGl7sCs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aOo-Tz5C-GY&title=How+AI+Has+Become+a+Fixture+in+Classrooms+and+Homes&lang=en&timestamp=1787074260&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=349">
-          <img src="https://ytcards.demolab.com/?id=aOo-Tz5C-GY&title=How+AI+Has+Become+a+Fixture+in+Classrooms+and+Homes&lang=en&timestamp=1787074260&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=349" alt="How AI Has Become a Fixture in Classrooms and Homes" title="How AI Has Become a Fixture in Classrooms and Homes">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=eT5kLGl7sCs&title=AI+in+Everyday+Life%3A+How+Artificial+Intelligence+Is+Changing+Our+World+in+2026&lang=en&timestamp=1787078522&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=725">
+          <img src="https://ytcards.demolab.com/?id=eT5kLGl7sCs&title=AI+in+Everyday+Life%3A+How+Artificial+Intelligence+Is+Changing+Our+World+in+2026&lang=en&timestamp=1787078522&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=725" alt="AI in Everyday Life: How Artificial Intelligence Is Changing Our World in 2026" title="AI in Everyday Life: How Artificial Intelligence Is Changing Our World in 2026">
         </picture>
       </a>
     </td>
