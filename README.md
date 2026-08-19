@@ -365,56 +365,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=LQ27TjQBSy0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=_ZGgGTI-J-g" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=LQ27TjQBSy0&title=AI+is+being+used+to+target+children.+Police+say+it%27s+happening+more+often&lang=en&timestamp=1787067402&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=169">
-          <img src="https://ytcards.demolab.com/?id=LQ27TjQBSy0&title=AI+is+being+used+to+target+children.+Police+say+it%27s+happening+more+often&lang=en&timestamp=1787067402&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=169" alt="AI is being used to target children. Police say it's happening more often" title="AI is being used to target children. Police say it's happening more often">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_ZGgGTI-J-g&title=The+Complexity+Tax%3A+Jobs+for+Humans+in+the+Age+of+Artificial+Intelligence&lang=en&timestamp=1787146628&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1514">
+          <img src="https://ytcards.demolab.com/?id=_ZGgGTI-J-g&title=The+Complexity+Tax%3A+Jobs+for+Humans+in+the+Age+of+Artificial+Intelligence&lang=en&timestamp=1787146628&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1514" alt="The Complexity Tax: Jobs for Humans in the Age of Artificial Intelligence" title="The Complexity Tax: Jobs for Humans in the Age of Artificial Intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=H_dZZ4ItVbc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=PHCg9kanGR4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=H_dZZ4ItVbc&title=NY+bill+would+require+companies+to+report+AI-related+job+losses&lang=en&timestamp=1787092602&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=165">
-          <img src="https://ytcards.demolab.com/?id=H_dZZ4ItVbc&title=NY+bill+would+require+companies+to+report+AI-related+job+losses&lang=en&timestamp=1787092602&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=165" alt="NY bill would require companies to report AI-related job losses" title="NY bill would require companies to report AI-related job losses">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PHCg9kanGR4&title=Artificial+Intelligence+Confirms+Date+of+the+Rapture+08%2F18%2F2026&lang=en&timestamp=1787071028&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1795">
+          <img src="https://ytcards.demolab.com/?id=PHCg9kanGR4&title=Artificial+Intelligence+Confirms+Date+of+the+Rapture+08%2F18%2F2026&lang=en&timestamp=1787071028&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1795" alt="Artificial Intelligence Confirms Date of the Rapture 08/18/2026" title="Artificial Intelligence Confirms Date of the Rapture 08/18/2026">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=JoLDB4Px-I8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=N5RsJTHcaRk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JoLDB4Px-I8&title=AI+Can+Find+Your+Location+Over+87%25+of+the+Time+Using+Just+a+Photo+%7C+WION&lang=en&timestamp=1787107002&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=111">
-          <img src="https://ytcards.demolab.com/?id=JoLDB4Px-I8&title=AI+Can+Find+Your+Location+Over+87%25+of+the+Time+Using+Just+a+Photo+%7C+WION&lang=en&timestamp=1787107002&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=111" alt="AI Can Find Your Location Over 87% of the Time Using Just a Photo | WION" title="AI Can Find Your Location Over 87% of the Time Using Just a Photo | WION">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=N5RsJTHcaRk&title=Artificial+intelligence+and+industry+transformation+%7C+%23MaxMorningShow&lang=en&timestamp=1787071028&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1437">
+          <img src="https://ytcards.demolab.com/?id=N5RsJTHcaRk&title=Artificial+intelligence+and+industry+transformation+%7C+%23MaxMorningShow&lang=en&timestamp=1787071028&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1437" alt="Artificial intelligence and industry transformation | #MaxMorningShow" title="Artificial intelligence and industry transformation | #MaxMorningShow">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=aOo-Tz5C-GY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=1FU8XklmrA8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aOo-Tz5C-GY&title=How+AI+Has+Become+a+Fixture+in+Classrooms+and+Homes&lang=en&timestamp=1787067402&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=349">
-          <img src="https://ytcards.demolab.com/?id=aOo-Tz5C-GY&title=How+AI+Has+Become+a+Fixture+in+Classrooms+and+Homes&lang=en&timestamp=1787067402&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=349" alt="How AI Has Become a Fixture in Classrooms and Homes" title="How AI Has Become a Fixture in Classrooms and Homes">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=-MUDG2_DhJc" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-MUDG2_DhJc&title=Can+you+Al-proof+your+degree%3F+-+What+in+the+World+podcast%2C+BBC+World+Service&lang=en&timestamp=1787067402&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1069">
-          <img src="https://ytcards.demolab.com/?id=-MUDG2_DhJc&title=Can+you+Al-proof+your+degree%3F+-+What+in+the+World+podcast%2C+BBC+World+Service&lang=en&timestamp=1787067402&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1069" alt="Can you Al-proof your degree? - What in the World podcast, BBC World Service" title="Can you Al-proof your degree? - What in the World podcast, BBC World Service">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1FU8XklmrA8&title=Artificial+Intelligence%2C+Interest+Rates+And+Inflation...Oh%2C+What+A+Tangled+Web+We+Weave&lang=en&timestamp=1787071028&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=755">
+          <img src="https://ytcards.demolab.com/?id=1FU8XklmrA8&title=Artificial+Intelligence%2C+Interest+Rates+And+Inflation...Oh%2C+What+A+Tangled+Web+We+Weave&lang=en&timestamp=1787071028&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=755" alt="Artificial Intelligence, Interest Rates And Inflation...Oh, What A Tangled Web We Weave" title="Artificial Intelligence, Interest Rates And Inflation...Oh, What A Tangled Web We Weave">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=S4vGBNmaQRk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=S4vGBNmaQRk&title=Impacts+of+Artificial+Intelligence+in+the+workplace&lang=en&timestamp=1787092602&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=326">
-          <img src="https://ytcards.demolab.com/?id=S4vGBNmaQRk&title=Impacts+of+Artificial+Intelligence+in+the+workplace&lang=en&timestamp=1787092602&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=326" alt="Impacts of Artificial Intelligence in the workplace" title="Impacts of Artificial Intelligence in the workplace">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=S4vGBNmaQRk&title=Impacts+of+Artificial+Intelligence+in+the+workplace&lang=en&timestamp=1787092628&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=326">
+          <img src="https://ytcards.demolab.com/?id=S4vGBNmaQRk&title=Impacts+of+Artificial+Intelligence+in+the+workplace&lang=en&timestamp=1787092628&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=326" alt="Impacts of Artificial Intelligence in the workplace" title="Impacts of Artificial Intelligence in the workplace">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=nIbjtQJdtqY" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nIbjtQJdtqY&title=Farm%2BFood%2BFacts%3A+How+Artificial+intelligence+could+be+a+game-changer+for+farmers&lang=en&timestamp=1787139428&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=89">
+          <img src="https://ytcards.demolab.com/?id=nIbjtQJdtqY&title=Farm%2BFood%2BFacts%3A+How+Artificial+intelligence+could+be+a+game-changer+for+farmers&lang=en&timestamp=1787139428&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=89" alt="Farm+Food+Facts: How Artificial intelligence could be a game-changer for farmers" title="Farm+Food+Facts: How Artificial intelligence could be a game-changer for farmers">
         </picture>
       </a>
     </td>
