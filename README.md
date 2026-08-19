@@ -368,30 +368,31 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=sfjFKy0ZOiA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=1FU8XklmrA8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sfjFKy0ZOiA&title=2006%3A+When+Will+Intelligent+Machines+Take+Over%3F+%7C+Newsnight+%7C+BBC+Archive&lang=en&timestamp=1787139722&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=419">
-          <img src="https://ytcards.demolab.com/?id=sfjFKy0ZOiA&title=2006%3A+When+Will+Intelligent+Machines+Take+Over%3F+%7C+Newsnight+%7C+BBC+Archive&lang=en&timestamp=1787139722&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=419" alt="2006: When Will Intelligent Machines Take Over? | Newsnight | BBC Archive" title="2006: When Will Intelligent Machines Take Over? | Newsnight | BBC Archive">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1FU8XklmrA8&title=Artificial+Intelligence%2C+Interest+Rates+And+Inflation...Oh%2C+What+A+Tangled+Web+We+Weave&lang=en&timestamp=1787081444&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=755">
+          <img src="https://ytcards.demolab.com/?id=1FU8XklmrA8&title=Artificial+Intelligence%2C+Interest+Rates+And+Inflation...Oh%2C+What+A+Tangled+Web+We+Weave&lang=en&timestamp=1787081444&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=755" alt="Artificial Intelligence, Interest Rates And Inflation...Oh, What A Tangled Web We Weave" title="Artificial Intelligence, Interest Rates And Inflation...Oh, What A Tangled Web We Weave">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=y5B_XYlR4SA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=PHCg9kanGR4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=y5B_XYlR4SA&title=EU+set+to+invest+billions+to+become+a+global+AI+powerhouse&lang=en&timestamp=1787082122&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=170">
-          <img src="https://ytcards.demolab.com/?id=y5B_XYlR4SA&title=EU+set+to+invest+billions+to+become+a+global+AI+powerhouse&lang=en&timestamp=1787082122&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=170" alt="EU set to invest billions to become a global AI powerhouse" title="EU set to invest billions to become a global AI powerhouse">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PHCg9kanGR4&title=Artificial+Intelligence+Confirms+Date+of+the+Rapture+08%2F18%2F2026&lang=en&timestamp=1787081444&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1795">
+          <img src="https://ytcards.demolab.com/?id=PHCg9kanGR4&title=Artificial+Intelligence+Confirms+Date+of+the+Rapture+08%2F18%2F2026&lang=en&timestamp=1787081444&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1795" alt="Artificial Intelligence Confirms Date of the Rapture 08/18/2026" title="Artificial Intelligence Confirms Date of the Rapture 08/18/2026">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=_JXMaI_pB_U" target="_blank">
+      <a href="https://www.youtube.com/watch?v=_ZGgGTI-J-g" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_JXMaI_pB_U&title=Grok+4.6+%E2%80%94+Haute+intelligence%2C+prix+imbattable&lang=en&timestamp=1787110922&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=91">
-          <img src="https://ytcards.demolab.com/?id=_JXMaI_pB_U&title=Grok+4.6+%E2%80%94+Haute+intelligence%2C+prix+imbattable&lang=en&timestamp=1787110922&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=91" alt="Grok 4.6 — Haute intelligence, prix imbattable" title="Grok 4.6 — Haute intelligence, prix imbattable">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_ZGgGTI-J-g&title=The+Complexity+Tax%3A+Jobs+for+Humans+in+the+Age+of+Artificial+Intelligence&lang=en&timestamp=1787146244&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1514">
+          <img src="https://ytcards.demolab.com/?id=_ZGgGTI-J-g&title=The+Complexity+Tax%3A+Jobs+for+Humans+in+the+Age+of+Artificial+Intelligence&lang=en&timestamp=1787146244&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1514" alt="The Complexity Tax: Jobs for Humans in the Age of Artificial Intelligence" title="The Complexity Tax: Jobs for Humans in the Age of Artificial Intelligence">
         </picture>
       </a>
     </td>
@@ -400,24 +401,24 @@
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=S4vGBNmaQRk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=S4vGBNmaQRk&title=Impacts+of+Artificial+Intelligence+in+the+workplace&lang=en&timestamp=1787092922&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=326">
-          <img src="https://ytcards.demolab.com/?id=S4vGBNmaQRk&title=Impacts+of+Artificial+Intelligence+in+the+workplace&lang=en&timestamp=1787092922&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=326" alt="Impacts of Artificial Intelligence in the workplace" title="Impacts of Artificial Intelligence in the workplace">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=S4vGBNmaQRk&title=Impacts+of+Artificial+Intelligence+in+the+workplace&lang=en&timestamp=1787092244&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=326">
+          <img src="https://ytcards.demolab.com/?id=S4vGBNmaQRk&title=Impacts+of+Artificial+Intelligence+in+the+workplace&lang=en&timestamp=1787092244&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=326" alt="Impacts of Artificial Intelligence in the workplace" title="Impacts of Artificial Intelligence in the workplace">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=2Y_RC4Ac_Io" target="_blank">
+      <a href="https://www.youtube.com/watch?v=3lCXy26UeD8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2Y_RC4Ac_Io&title=Is+Becoming+an+AI+Integrator+Right+for+Me%3F&lang=en&timestamp=1787078522&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2960">
-          <img src="https://ytcards.demolab.com/?id=2Y_RC4Ac_Io&title=Is+Becoming+an+AI+Integrator+Right+for+Me%3F&lang=en&timestamp=1787078522&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2960" alt="Is Becoming an AI Integrator Right for Me?" title="Is Becoming an AI Integrator Right for Me?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3lCXy26UeD8&title=What+Is+AI+and+How+Does+It+Work%3F+Artificial+Intelligence+Explained+Simply+in+1+Minute&lang=en&timestamp=1787081444&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=64">
+          <img src="https://ytcards.demolab.com/?id=3lCXy26UeD8&title=What+Is+AI+and+How+Does+It+Work%3F+Artificial+Intelligence+Explained+Simply+in+1+Minute&lang=en&timestamp=1787081444&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=64" alt="What Is AI and How Does It Work? Artificial Intelligence Explained Simply in 1 Minute" title="What Is AI and How Does It Work? Artificial Intelligence Explained Simply in 1 Minute">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=eT5kLGl7sCs" target="_blank">
+      <a href="https://www.youtube.com/watch?v=N5RsJTHcaRk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=eT5kLGl7sCs&title=AI+in+Everyday+Life%3A+How+Artificial+Intelligence+Is+Changing+Our+World+in+2026&lang=en&timestamp=1787078522&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=725">
-          <img src="https://ytcards.demolab.com/?id=eT5kLGl7sCs&title=AI+in+Everyday+Life%3A+How+Artificial+Intelligence+Is+Changing+Our+World+in+2026&lang=en&timestamp=1787078522&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=725" alt="AI in Everyday Life: How Artificial Intelligence Is Changing Our World in 2026" title="AI in Everyday Life: How Artificial Intelligence Is Changing Our World in 2026">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=N5RsJTHcaRk&title=Artificial+intelligence+and+industry+transformation+%7C+%23MaxMorningShow&lang=en&timestamp=1787081444&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1437">
+          <img src="https://ytcards.demolab.com/?id=N5RsJTHcaRk&title=Artificial+intelligence+and+industry+transformation+%7C+%23MaxMorningShow&lang=en&timestamp=1787081444&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1437" alt="Artificial intelligence and industry transformation | #MaxMorningShow" title="Artificial intelligence and industry transformation | #MaxMorningShow">
         </picture>
       </a>
     </td>
