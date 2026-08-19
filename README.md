@@ -361,56 +361,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=JoLDB4Px-I8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JoLDB4Px-I8&title=AI+Can+Find+Your+Location+Over+87%25+of+the+Time+Using+Just+a+Photo+%7C+WION&lang=en&timestamp=1787110210&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=111">
-          <img src="https://ytcards.demolab.com/?id=JoLDB4Px-I8&title=AI+Can+Find+Your+Location+Over+87%25+of+the+Time+Using+Just+a+Photo+%7C+WION&lang=en&timestamp=1787110210&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=111" alt="AI Can Find Your Location Over 87% of the Time Using Just a Photo | WION" title="AI Can Find Your Location Over 87% of the Time Using Just a Photo | WION">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JoLDB4Px-I8&title=AI+Can+Find+Your+Location+Over+87%25+of+the+Time+Using+Just+a+Photo+%7C+WION&lang=en&timestamp=1787108232&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=111">
+          <img src="https://ytcards.demolab.com/?id=JoLDB4Px-I8&title=AI+Can+Find+Your+Location+Over+87%25+of+the+Time+Using+Just+a+Photo+%7C+WION&lang=en&timestamp=1787108232&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=111" alt="AI Can Find Your Location Over 87% of the Time Using Just a Photo | WION" title="AI Can Find Your Location Over 87% of the Time Using Just a Photo | WION">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=-MUDG2_DhJc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=aOo-Tz5C-GY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-MUDG2_DhJc&title=Is+your+degree+safe+from+AI%3F+-+What+in+the+World+podcast%2C+BBC+World+Service&lang=en&timestamp=1787056210&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1069">
-          <img src="https://ytcards.demolab.com/?id=-MUDG2_DhJc&title=Is+your+degree+safe+from+AI%3F+-+What+in+the+World+podcast%2C+BBC+World+Service&lang=en&timestamp=1787056210&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1069" alt="Is your degree safe from AI? - What in the World podcast, BBC World Service" title="Is your degree safe from AI? - What in the World podcast, BBC World Service">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aOo-Tz5C-GY&title=How+AI+Has+Become+a+Fixture+in+Classrooms+and+Homes&lang=en&timestamp=1787061432&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=349">
+          <img src="https://ytcards.demolab.com/?id=aOo-Tz5C-GY&title=How+AI+Has+Become+a+Fixture+in+Classrooms+and+Homes&lang=en&timestamp=1787061432&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=349" alt="How AI Has Become a Fixture in Classrooms and Homes" title="How AI Has Become a Fixture in Classrooms and Homes">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=LQ27TjQBSy0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=LQ27TjQBSy0&title=AI+is+being+used+to+target+children.+Police+say+it%27s+happening+more+often&lang=en&timestamp=1787056210&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=169">
-          <img src="https://ytcards.demolab.com/?id=LQ27TjQBSy0&title=AI+is+being+used+to+target+children.+Police+say+it%27s+happening+more+often&lang=en&timestamp=1787056210&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=169" alt="AI is being used to target children. Police say it's happening more often" title="AI is being used to target children. Police say it's happening more often">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=LQ27TjQBSy0&title=AI+is+being+used+to+target+children.+Police+say+it%27s+happening+more+often&lang=en&timestamp=1787057832&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=169">
+          <img src="https://ytcards.demolab.com/?id=LQ27TjQBSy0&title=AI+is+being+used+to+target+children.+Police+say+it%27s+happening+more+often&lang=en&timestamp=1787057832&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=169" alt="AI is being used to target children. Police say it's happening more often" title="AI is being used to target children. Police say it's happening more often">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=aOo-Tz5C-GY" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aOo-Tz5C-GY&title=How+AI+Has+Become+a+Fixture+in+Classrooms+and+Homes&lang=en&timestamp=1787059810&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=349">
-          <img src="https://ytcards.demolab.com/?id=aOo-Tz5C-GY&title=How+AI+Has+Become+a+Fixture+in+Classrooms+and+Homes&lang=en&timestamp=1787059810&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=349" alt="How AI Has Become a Fixture in Classrooms and Homes" title="How AI Has Become a Fixture in Classrooms and Homes">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
       <a href="https://www.youtube.com/watch?v=PHCg9kanGR4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PHCg9kanGR4&title=Artificial+Intelligence+Confirms+Date+of+the+Rapture+08%2F18%2F2026&lang=en&timestamp=1787052610&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1795">
-          <img src="https://ytcards.demolab.com/?id=PHCg9kanGR4&title=Artificial+Intelligence+Confirms+Date+of+the+Rapture+08%2F18%2F2026&lang=en&timestamp=1787052610&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1795" alt="Artificial Intelligence Confirms Date of the Rapture 08/18/2026" title="Artificial Intelligence Confirms Date of the Rapture 08/18/2026">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PHCg9kanGR4&title=Artificial+Intelligence+Confirms+Date+of+the+Rapture+08%2F18%2F2026&lang=en&timestamp=1787057832&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1795">
+          <img src="https://ytcards.demolab.com/?id=PHCg9kanGR4&title=Artificial+Intelligence+Confirms+Date+of+the+Rapture+08%2F18%2F2026&lang=en&timestamp=1787057832&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1795" alt="Artificial Intelligence Confirms Date of the Rapture 08/18/2026" title="Artificial Intelligence Confirms Date of the Rapture 08/18/2026">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=S4vGBNmaQRk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=1FU8XklmrA8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=S4vGBNmaQRk&title=Impacts+of+Artificial+Intelligence+in+the+workplace&lang=en&timestamp=1787092210&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=326">
-          <img src="https://ytcards.demolab.com/?id=S4vGBNmaQRk&title=Impacts+of+Artificial+Intelligence+in+the+workplace&lang=en&timestamp=1787092210&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=326" alt="Impacts of Artificial Intelligence in the workplace" title="Impacts of Artificial Intelligence in the workplace">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1FU8XklmrA8&title=Artificial+Intelligence%2C+Interest+Rates+And+Inflation...Oh%2C+What+A+Tangled+Web+We+Weave&lang=en&timestamp=1787072232&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=755">
+          <img src="https://ytcards.demolab.com/?id=1FU8XklmrA8&title=Artificial+Intelligence%2C+Interest+Rates+And+Inflation...Oh%2C+What+A+Tangled+Web+We+Weave&lang=en&timestamp=1787072232&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=755" alt="Artificial Intelligence, Interest Rates And Inflation...Oh, What A Tangled Web We Weave" title="Artificial Intelligence, Interest Rates And Inflation...Oh, What A Tangled Web We Weave">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=2Y_RC4Ac_Io" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2Y_RC4Ac_Io&title=Is+Becoming+an+AI+Integrator+Right+for+Me%3F&lang=en&timestamp=1787075832&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2960">
+          <img src="https://ytcards.demolab.com/?id=2Y_RC4Ac_Io&title=Is+Becoming+an+AI+Integrator+Right+for+Me%3F&lang=en&timestamp=1787075832&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2960" alt="Is Becoming an AI Integrator Right for Me?" title="Is Becoming an AI Integrator Right for Me?">
         </picture>
       </a>
     </td>
