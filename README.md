@@ -387,56 +387,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=PDitGsC6yjo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=YebvAl6t4_s" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PDitGsC6yjo&title=Gemini%27s+1+Billion+User+Lie&lang=en&timestamp=1787161128&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=850">
-          <img src="https://ytcards.demolab.com/?id=PDitGsC6yjo&title=Gemini%27s+1+Billion+User+Lie&lang=en&timestamp=1787161128&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=850" alt="Gemini's 1 Billion User Lie" title="Gemini's 1 Billion User Lie">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=YebvAl6t4_s&title=Robotics+and+AI+converging+to+revolutionise+industries%3A+ABB+Robotics&lang=en&timestamp=1787157613&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=444">
+          <img src="https://ytcards.demolab.com/?id=YebvAl6t4_s&title=Robotics+and+AI+converging+to+revolutionise+industries%3A+ABB+Robotics&lang=en&timestamp=1787157613&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=444" alt="Robotics and AI converging to revolutionise industries: ABB Robotics" title="Robotics and AI converging to revolutionise industries: ABB Robotics">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=xavckvuszzU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ZABTvS7YyWo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xavckvuszzU&title=%2335+Lee+Cronin+-+Chemputation%2C+Origin+of+Life%2C+Assembly+Theory&lang=en&timestamp=1787157528&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6229">
-          <img src="https://ytcards.demolab.com/?id=xavckvuszzU&title=%2335+Lee+Cronin+-+Chemputation%2C+Origin+of+Life%2C+Assembly+Theory&lang=en&timestamp=1787157528&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6229" alt="#35 Lee Cronin - Chemputation, Origin of Life, Assembly Theory" title="#35 Lee Cronin - Chemputation, Origin of Life, Assembly Theory">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ZABTvS7YyWo&title=Meta+Is+Losing+The+AI+Race+And+Panicking&lang=en&timestamp=1787157613&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1998">
+          <img src="https://ytcards.demolab.com/?id=ZABTvS7YyWo&title=Meta+Is+Losing+The+AI+Race+And+Panicking&lang=en&timestamp=1787157613&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1998" alt="Meta Is Losing The AI Race And Panicking" title="Meta Is Losing The AI Race And Panicking">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=kzo526Wda5U" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=kzo526Wda5U&title=EMERGENT+TECHNOLOGIES+%7C+THEY+SAY+HUMANS+ARE+BOOTLOADERS+FOR+ARTIFICIAL+INTELLIGENCE&lang=en&timestamp=1787153928&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3593">
-          <img src="https://ytcards.demolab.com/?id=kzo526Wda5U&title=EMERGENT+TECHNOLOGIES+%7C+THEY+SAY+HUMANS+ARE+BOOTLOADERS+FOR+ARTIFICIAL+INTELLIGENCE&lang=en&timestamp=1787153928&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3593" alt="EMERGENT TECHNOLOGIES | THEY SAY HUMANS ARE BOOTLOADERS FOR ARTIFICIAL INTELLIGENCE" title="EMERGENT TECHNOLOGIES | THEY SAY HUMANS ARE BOOTLOADERS FOR ARTIFICIAL INTELLIGENCE">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=kzo526Wda5U&title=EMERGENT+TECHNOLOGIES+%7C+THEY+SAY+HUMANS+ARE+BOOTLOADERS+FOR+ARTIFICIAL+INTELLIGENCE&lang=en&timestamp=1787157613&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3593">
+          <img src="https://ytcards.demolab.com/?id=kzo526Wda5U&title=EMERGENT+TECHNOLOGIES+%7C+THEY+SAY+HUMANS+ARE+BOOTLOADERS+FOR+ARTIFICIAL+INTELLIGENCE&lang=en&timestamp=1787157613&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3593" alt="EMERGENT TECHNOLOGIES | THEY SAY HUMANS ARE BOOTLOADERS FOR ARTIFICIAL INTELLIGENCE" title="EMERGENT TECHNOLOGIES | THEY SAY HUMANS ARE BOOTLOADERS FOR ARTIFICIAL INTELLIGENCE">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=U_0aPqSAlgo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=m1s8yRt4cAU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=U_0aPqSAlgo&title=Nick+Bostrom%3A+Worries+About+AI+Existential+Risk+Just+Became+More+Concrete&lang=en&timestamp=1787157528&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3556">
-          <img src="https://ytcards.demolab.com/?id=U_0aPqSAlgo&title=Nick+Bostrom%3A+Worries+About+AI+Existential+Risk+Just+Became+More+Concrete&lang=en&timestamp=1787157528&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3556" alt="Nick Bostrom: Worries About AI Existential Risk Just Became More Concrete" title="Nick Bostrom: Worries About AI Existential Risk Just Became More Concrete">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=m1s8yRt4cAU&title=China+summer+camps%3A+Govt+expands+national+education+in+AI+technologies&lang=en&timestamp=1787157613&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=136">
+          <img src="https://ytcards.demolab.com/?id=m1s8yRt4cAU&title=China+summer+camps%3A+Govt+expands+national+education+in+AI+technologies&lang=en&timestamp=1787157613&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=136" alt="China summer camps: Govt expands national education in AI technologies" title="China summer camps: Govt expands national education in AI technologies">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=S0GhZwBpsTw" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=S0GhZwBpsTw&title=Trump+Says+He+Will+Discuss+Artificial+Intelligence+With+Xi+Jinping&lang=en&timestamp=1787204413&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=140">
+          <img src="https://ytcards.demolab.com/?id=S0GhZwBpsTw&title=Trump+Says+He+Will+Discuss+Artificial+Intelligence+With+Xi+Jinping&lang=en&timestamp=1787204413&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=140" alt="Trump Says He Will Discuss Artificial Intelligence With Xi Jinping" title="Trump Says He Will Discuss Artificial Intelligence With Xi Jinping">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=8vrzrJagJ6U" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8vrzrJagJ6U&title=Artificial+Intelligence+Fundamentals+%7C+Modern+AI+Explained+by+3D+AI+Tutor&lang=en&timestamp=1787229528&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=40">
-          <img src="https://ytcards.demolab.com/?id=8vrzrJagJ6U&title=Artificial+Intelligence+Fundamentals+%7C+Modern+AI+Explained+by+3D+AI+Tutor&lang=en&timestamp=1787229528&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=40" alt="Artificial Intelligence Fundamentals | Modern AI Explained by 3D AI Tutor" title="Artificial Intelligence Fundamentals | Modern AI Explained by 3D AI Tutor">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=m1s8yRt4cAU" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=m1s8yRt4cAU&title=China+summer+camps%3A+Govt+expands+national+education+in+AI+technologies&lang=en&timestamp=1787153928&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=136">
-          <img src="https://ytcards.demolab.com/?id=m1s8yRt4cAU&title=China+summer+camps%3A+Govt+expands+national+education+in+AI+technologies&lang=en&timestamp=1787153928&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=136" alt="China summer camps: Govt expands national education in AI technologies" title="China summer camps: Govt expands national education in AI technologies">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8vrzrJagJ6U&title=Artificial+Intelligence+Fundamentals+%7C+Modern+AI+Explained+by+3D+AI+Tutor&lang=en&timestamp=1787229613&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=40">
+          <img src="https://ytcards.demolab.com/?id=8vrzrJagJ6U&title=Artificial+Intelligence+Fundamentals+%7C+Modern+AI+Explained+by+3D+AI+Tutor&lang=en&timestamp=1787229613&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=40" alt="Artificial Intelligence Fundamentals | Modern AI Explained by 3D AI Tutor" title="Artificial Intelligence Fundamentals | Modern AI Explained by 3D AI Tutor">
         </picture>
       </a>
     </td>
