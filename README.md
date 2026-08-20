@@ -377,56 +377,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=A9thsRRuoOE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=A9thsRRuoOE&title=How+AI+Has+Become+a+Fixture+in+Classrooms&lang=en&timestamp=1787175345&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=202">
-          <img src="https://ytcards.demolab.com/?id=A9thsRRuoOE&title=How+AI+Has+Become+a+Fixture+in+Classrooms&lang=en&timestamp=1787175345&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=202" alt="How AI Has Become a Fixture in Classrooms" title="How AI Has Become a Fixture in Classrooms">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=A9thsRRuoOE&title=How+AI+Has+Become+a+Fixture+in+Classrooms&lang=en&timestamp=1787176483&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=202">
+          <img src="https://ytcards.demolab.com/?id=A9thsRRuoOE&title=How+AI+Has+Become+a+Fixture+in+Classrooms&lang=en&timestamp=1787176483&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=202" alt="How AI Has Become a Fixture in Classrooms" title="How AI Has Become a Fixture in Classrooms">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=YebvAl6t4_s" target="_blank">
+      <a href="https://www.youtube.com/watch?v=PDitGsC6yjo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=YebvAl6t4_s&title=Robotics+and+AI+converging+to+revolutionise+industries%3A+ABB+Robotics&lang=en&timestamp=1787146545&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=444">
-          <img src="https://ytcards.demolab.com/?id=YebvAl6t4_s&title=Robotics+and+AI+converging+to+revolutionise+industries%3A+ABB+Robotics&lang=en&timestamp=1787146545&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=444" alt="Robotics and AI converging to revolutionise industries: ABB Robotics" title="Robotics and AI converging to revolutionise industries: ABB Robotics">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PDitGsC6yjo&title=Gemini%27s+1+Billion+User+Lie&lang=en&timestamp=1787162083&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=850">
+          <img src="https://ytcards.demolab.com/?id=PDitGsC6yjo&title=Gemini%27s+1+Billion+User+Lie&lang=en&timestamp=1787162083&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=850" alt="Gemini's 1 Billion User Lie" title="Gemini's 1 Billion User Lie">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=zcLPGC-tvgk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=NX79wKHa0hI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zcLPGC-tvgk&title=LIVE%3A+Uncle+Bob+on+Software+Fundamentals+in+the+Age+of+AI&lang=en&timestamp=1787157345&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3400">
-          <img src="https://ytcards.demolab.com/?id=zcLPGC-tvgk&title=LIVE%3A+Uncle+Bob+on+Software+Fundamentals+in+the+Age+of+AI&lang=en&timestamp=1787157345&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3400" alt="LIVE: Uncle Bob on Software Fundamentals in the Age of AI" title="LIVE: Uncle Bob on Software Fundamentals in the Age of AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=NX79wKHa0hI&title=FULL+REMARKS%3A+President+Trump+Says+America+Is+Winning+the+Crypto+and+AI+Race+Against+China+%7C+AC15&lang=en&timestamp=1787169283&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=691">
+          <img src="https://ytcards.demolab.com/?id=NX79wKHa0hI&title=FULL+REMARKS%3A+President+Trump+Says+America+Is+Winning+the+Crypto+and+AI+Race+Against+China+%7C+AC15&lang=en&timestamp=1787169283&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=691" alt="FULL REMARKS: President Trump Says America Is Winning the Crypto and AI Race Against China | AC15" title="FULL REMARKS: President Trump Says America Is Winning the Crypto and AI Race Against China | AC15">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=U_0aPqSAlgo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=gL_RDkiz25c" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=U_0aPqSAlgo&title=Nick+Bostrom%3A+Worries+About+AI+Existential+Risk+Just+Became+More+Concrete&lang=en&timestamp=1787157345&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3556">
-          <img src="https://ytcards.demolab.com/?id=U_0aPqSAlgo&title=Nick+Bostrom%3A+Worries+About+AI+Existential+Risk+Just+Became+More+Concrete&lang=en&timestamp=1787157345&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3556" alt="Nick Bostrom: Worries About AI Existential Risk Just Became More Concrete" title="Nick Bostrom: Worries About AI Existential Risk Just Became More Concrete">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=gL_RDkiz25c&title=Trump+Declares+The+US+Is+%22Way+Ahead%22+Of+China+In+The+Artificial+Intelligence+Race+%7C+%27No%2C+2+is+China%27&lang=en&timestamp=1787205283&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2313">
+          <img src="https://ytcards.demolab.com/?id=gL_RDkiz25c&title=Trump+Declares+The+US+Is+%22Way+Ahead%22+Of+China+In+The+Artificial+Intelligence+Race+%7C+%27No%2C+2+is+China%27&lang=en&timestamp=1787205283&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2313" alt="Trump Declares The US Is &quot;Way Ahead&quot; Of China In The Artificial Intelligence Race | 'No, 2 is China'" title="Trump Declares The US Is &quot;Way Ahead&quot; Of China In The Artificial Intelligence Race | 'No, 2 is China'">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=YebvAl6t4_s" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=YebvAl6t4_s&title=Robotics+and+AI+converging+to+revolutionise+industries%3A+ABB+Robotics&lang=en&timestamp=1787147683&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=444">
+          <img src="https://ytcards.demolab.com/?id=YebvAl6t4_s&title=Robotics+and+AI+converging+to+revolutionise+industries%3A+ABB+Robotics&lang=en&timestamp=1787147683&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=444" alt="Robotics and AI converging to revolutionise industries: ABB Robotics" title="Robotics and AI converging to revolutionise industries: ABB Robotics">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=m1s8yRt4cAU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=m1s8yRt4cAU&title=China+summer+camps%3A+Govt+expands+national+education+in+AI+technologies&lang=en&timestamp=1787128545&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=136">
-          <img src="https://ytcards.demolab.com/?id=m1s8yRt4cAU&title=China+summer+camps%3A+Govt+expands+national+education+in+AI+technologies&lang=en&timestamp=1787128545&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=136" alt="China summer camps: Govt expands national education in AI technologies" title="China summer camps: Govt expands national education in AI technologies">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=S0GhZwBpsTw" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=S0GhZwBpsTw&title=Trump+Says+He+Will+Discuss+Artificial+Intelligence+With+Xi+Jinping&lang=en&timestamp=1787203785&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=140">
-          <img src="https://ytcards.demolab.com/?id=S0GhZwBpsTw&title=Trump+Says+He+Will+Discuss+Artificial+Intelligence+With+Xi+Jinping&lang=en&timestamp=1787203785&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=140" alt="Trump Says He Will Discuss Artificial Intelligence With Xi Jinping" title="Trump Says He Will Discuss Artificial Intelligence With Xi Jinping">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=m1s8yRt4cAU&title=China+summer+camps%3A+Govt+expands+national+education+in+AI+technologies&lang=en&timestamp=1787126083&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=136">
+          <img src="https://ytcards.demolab.com/?id=m1s8yRt4cAU&title=China+summer+camps%3A+Govt+expands+national+education+in+AI+technologies&lang=en&timestamp=1787126083&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=136" alt="China summer camps: Govt expands national education in AI technologies" title="China summer camps: Govt expands national education in AI technologies">
         </picture>
       </a>
     </td>
