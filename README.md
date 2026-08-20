@@ -379,30 +379,31 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=A9thsRRuoOE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=A9thsRRuoOE&title=How+AI+Has+Become+a+Fixture+in+Classrooms&lang=en&timestamp=1787176003&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=202">
-          <img src="https://ytcards.demolab.com/?id=A9thsRRuoOE&title=How+AI+Has+Become+a+Fixture+in+Classrooms&lang=en&timestamp=1787176003&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=202" alt="How AI Has Become a Fixture in Classrooms" title="How AI Has Become a Fixture in Classrooms">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=A9thsRRuoOE&title=How+AI+Has+Become+a+Fixture+in+Classrooms&lang=en&timestamp=1787176009&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=202">
+          <img src="https://ytcards.demolab.com/?id=A9thsRRuoOE&title=How+AI+Has+Become+a+Fixture+in+Classrooms&lang=en&timestamp=1787176009&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=202" alt="How AI Has Become a Fixture in Classrooms" title="How AI Has Become a Fixture in Classrooms">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=PDitGsC6yjo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PDitGsC6yjo&title=Google+Gemini+Is+Failing&lang=en&timestamp=1787161603&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=850">
-          <img src="https://ytcards.demolab.com/?id=PDitGsC6yjo&title=Google+Gemini+Is+Failing&lang=en&timestamp=1787161603&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=850" alt="Google Gemini Is Failing" title="Google Gemini Is Failing">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PDitGsC6yjo&title=Google+Gemini+Is+Failing&lang=en&timestamp=1787161609&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=850">
+          <img src="https://ytcards.demolab.com/?id=PDitGsC6yjo&title=Google+Gemini+Is+Failing&lang=en&timestamp=1787161609&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=850" alt="Google Gemini Is Failing" title="Google Gemini Is Failing">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=zcLPGC-tvgk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=CHBwvDrqTMs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zcLPGC-tvgk&title=LIVE%3A+Uncle+Bob+on+Software+Fundamentals+in+the+Age+of+AI&lang=en&timestamp=1787158003&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3400">
-          <img src="https://ytcards.demolab.com/?id=zcLPGC-tvgk&title=LIVE%3A+Uncle+Bob+on+Software+Fundamentals+in+the+Age+of+AI&lang=en&timestamp=1787158003&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3400" alt="LIVE: Uncle Bob on Software Fundamentals in the Age of AI" title="LIVE: Uncle Bob on Software Fundamentals in the Age of AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=CHBwvDrqTMs&title=Humanoid+hype%3A+Chinese+robots+featured+at+World+Robot+Conference+leaves+US+wary&lang=en&timestamp=1787183209&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=117">
+          <img src="https://ytcards.demolab.com/?id=CHBwvDrqTMs&title=Humanoid+hype%3A+Chinese+robots+featured+at+World+Robot+Conference+leaves+US+wary&lang=en&timestamp=1787183209&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=117" alt="Humanoid hype: Chinese robots featured at World Robot Conference leaves US wary" title="Humanoid hype: Chinese robots featured at World Robot Conference leaves US wary">
         </picture>
       </a>
     </td>
@@ -411,24 +412,24 @@
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=YebvAl6t4_s" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=YebvAl6t4_s&title=Robotics+and+AI+converging+to+revolutionise+industries%3A+ABB+Robotics&lang=en&timestamp=1787147203&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=444">
-          <img src="https://ytcards.demolab.com/?id=YebvAl6t4_s&title=Robotics+and+AI+converging+to+revolutionise+industries%3A+ABB+Robotics&lang=en&timestamp=1787147203&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=444" alt="Robotics and AI converging to revolutionise industries: ABB Robotics" title="Robotics and AI converging to revolutionise industries: ABB Robotics">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=YebvAl6t4_s&title=Robotics+and+AI+converging+to+revolutionise+industries%3A+ABB+Robotics&lang=en&timestamp=1787147209&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=444">
+          <img src="https://ytcards.demolab.com/?id=YebvAl6t4_s&title=Robotics+and+AI+converging+to+revolutionise+industries%3A+ABB+Robotics&lang=en&timestamp=1787147209&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=444" alt="Robotics and AI converging to revolutionise industries: ABB Robotics" title="Robotics and AI converging to revolutionise industries: ABB Robotics">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=kzo526Wda5U" target="_blank">
+      <a href="https://www.youtube.com/watch?v=kJp5PbYheeU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=kzo526Wda5U&title=EMERGENT+TECHNOLOGIES+%7C+THEY+SAY+HUMANS+ARE+BOOTLOADERS+FOR+ARTIFICIAL+INTELLIGENCE&lang=en&timestamp=1787150803&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3593">
-          <img src="https://ytcards.demolab.com/?id=kzo526Wda5U&title=EMERGENT+TECHNOLOGIES+%7C+THEY+SAY+HUMANS+ARE+BOOTLOADERS+FOR+ARTIFICIAL+INTELLIGENCE&lang=en&timestamp=1787150803&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3593" alt="EMERGENT TECHNOLOGIES | THEY SAY HUMANS ARE BOOTLOADERS FOR ARTIFICIAL INTELLIGENCE" title="EMERGENT TECHNOLOGIES | THEY SAY HUMANS ARE BOOTLOADERS FOR ARTIFICIAL INTELLIGENCE">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=kJp5PbYheeU&title=Nobel+Prize+Conversations%3A+Laureates+on+the+AI+revolution&lang=en&timestamp=1787204809&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2312">
+          <img src="https://ytcards.demolab.com/?id=kJp5PbYheeU&title=Nobel+Prize+Conversations%3A+Laureates+on+the+AI+revolution&lang=en&timestamp=1787204809&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2312" alt="Nobel Prize Conversations: Laureates on the AI revolution" title="Nobel Prize Conversations: Laureates on the AI revolution">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=m1s8yRt4cAU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=m1s8yRt4cAU&title=China+summer+camps%3A+Govt+expands+national+education+in+AI+technologies&lang=en&timestamp=1787129203&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=136">
-          <img src="https://ytcards.demolab.com/?id=m1s8yRt4cAU&title=China+summer+camps%3A+Govt+expands+national+education+in+AI+technologies&lang=en&timestamp=1787129203&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=136" alt="China summer camps: Govt expands national education in AI technologies" title="China summer camps: Govt expands national education in AI technologies">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=m1s8yRt4cAU&title=China+summer+camps%3A+Govt+expands+national+education+in+AI+technologies&lang=en&timestamp=1787129209&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=136">
+          <img src="https://ytcards.demolab.com/?id=m1s8yRt4cAU&title=China+summer+camps%3A+Govt+expands+national+education+in+AI+technologies&lang=en&timestamp=1787129209&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=136" alt="China summer camps: Govt expands national education in AI technologies" title="China summer camps: Govt expands national education in AI technologies">
         </picture>
       </a>
     </td>
