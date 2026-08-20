@@ -390,56 +390,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=JRyo8zvmqaQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JRyo8zvmqaQ&title=How+AI+Actually+Works&lang=en&timestamp=1787248113&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=996">
-          <img src="https://ytcards.demolab.com/?id=JRyo8zvmqaQ&title=How+AI+Actually+Works&lang=en&timestamp=1787248113&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=996" alt="How AI Actually Works" title="How AI Actually Works">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JRyo8zvmqaQ&title=How+AI+Actually+Works&lang=en&timestamp=1787247350&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=996">
+          <img src="https://ytcards.demolab.com/?id=JRyo8zvmqaQ&title=How+AI+Actually+Works&lang=en&timestamp=1787247350&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=996" alt="How AI Actually Works" title="How AI Actually Works">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=PDitGsC6yjo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=xavckvuszzU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PDitGsC6yjo&title=Google+Gemini+Is+Failing&lang=en&timestamp=1787165313&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=850">
-          <img src="https://ytcards.demolab.com/?id=PDitGsC6yjo&title=Google+Gemini+Is+Failing&lang=en&timestamp=1787165313&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=850" alt="Google Gemini Is Failing" title="Google Gemini Is Failing">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xavckvuszzU&title=%2335+Lee+Cronin+-+Chemputation%2C+Origin+of+Life%2C+Assembly+Theory&lang=en&timestamp=1787168150&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6229">
+          <img src="https://ytcards.demolab.com/?id=xavckvuszzU&title=%2335+Lee+Cronin+-+Chemputation%2C+Origin+of+Life%2C+Assembly+Theory&lang=en&timestamp=1787168150&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6229" alt="#35 Lee Cronin - Chemputation, Origin of Life, Assembly Theory" title="#35 Lee Cronin - Chemputation, Origin of Life, Assembly Theory">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=kzo526Wda5U" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=kzo526Wda5U&title=EMERGENT+TECHNOLOGIES+%7C+THEY+SAY+HUMANS+ARE+BOOTLOADERS+FOR+ARTIFICIAL+INTELLIGENCE&lang=en&timestamp=1787165313&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3593">
-          <img src="https://ytcards.demolab.com/?id=kzo526Wda5U&title=EMERGENT+TECHNOLOGIES+%7C+THEY+SAY+HUMANS+ARE+BOOTLOADERS+FOR+ARTIFICIAL+INTELLIGENCE&lang=en&timestamp=1787165313&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3593" alt="EMERGENT TECHNOLOGIES | THEY SAY HUMANS ARE BOOTLOADERS FOR ARTIFICIAL INTELLIGENCE" title="EMERGENT TECHNOLOGIES | THEY SAY HUMANS ARE BOOTLOADERS FOR ARTIFICIAL INTELLIGENCE">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=kzo526Wda5U&title=EMERGENT+TECHNOLOGIES+%7C+THEY+SAY+HUMANS+ARE+BOOTLOADERS+FOR+ARTIFICIAL+INTELLIGENCE&lang=en&timestamp=1787168150&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3593">
+          <img src="https://ytcards.demolab.com/?id=kzo526Wda5U&title=EMERGENT+TECHNOLOGIES+%7C+THEY+SAY+HUMANS+ARE+BOOTLOADERS+FOR+ARTIFICIAL+INTELLIGENCE&lang=en&timestamp=1787168150&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3593" alt="EMERGENT TECHNOLOGIES | THEY SAY HUMANS ARE BOOTLOADERS FOR ARTIFICIAL INTELLIGENCE" title="EMERGENT TECHNOLOGIES | THEY SAY HUMANS ARE BOOTLOADERS FOR ARTIFICIAL INTELLIGENCE">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=xavckvuszzU" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xavckvuszzU&title=%2335+Lee+Cronin+-+Chemputation%2C+Origin+of+Life%2C+Assembly+Theory&lang=en&timestamp=1787165313&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6229">
-          <img src="https://ytcards.demolab.com/?id=xavckvuszzU&title=%2335+Lee+Cronin+-+Chemputation%2C+Origin+of+Life%2C+Assembly+Theory&lang=en&timestamp=1787165313&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6229" alt="#35 Lee Cronin - Chemputation, Origin of Life, Assembly Theory" title="#35 Lee Cronin - Chemputation, Origin of Life, Assembly Theory">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
       <a href="https://www.youtube.com/watch?v=ZABTvS7YyWo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ZABTvS7YyWo&title=Meta+Is+Losing+The+AI+Race+And+Panicking&lang=en&timestamp=1787165313&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1998">
-          <img src="https://ytcards.demolab.com/?id=ZABTvS7YyWo&title=Meta+Is+Losing+The+AI+Race+And+Panicking&lang=en&timestamp=1787165313&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1998" alt="Meta Is Losing The AI Race And Panicking" title="Meta Is Losing The AI Race And Panicking">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ZABTvS7YyWo&title=Meta+Is+Losing+The+AI+Race+And+Panicking&lang=en&timestamp=1787168150&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1998">
+          <img src="https://ytcards.demolab.com/?id=ZABTvS7YyWo&title=Meta+Is+Losing+The+AI+Race+And+Panicking&lang=en&timestamp=1787168150&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1998" alt="Meta Is Losing The AI Race And Panicking" title="Meta Is Losing The AI Race And Panicking">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Add9QzjhpGo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=k1tbc1Rqt2k" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Add9QzjhpGo&title=Do+Readers+Even+Care+if+Books+Are+Written+With+AI%3F+Survey+Says%E2%80%A6&lang=en&timestamp=1787165313&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1867">
-          <img src="https://ytcards.demolab.com/?id=Add9QzjhpGo&title=Do+Readers+Even+Care+if+Books+Are+Written+With+AI%3F+Survey+Says%E2%80%A6&lang=en&timestamp=1787165313&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1867" alt="Do Readers Even Care if Books Are Written With AI? Survey Says…" title="Do Readers Even Care if Books Are Written With AI? Survey Says…">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=k1tbc1Rqt2k&title=Survey+found+70+percent+of+teens+use+artificial+intelligence+for+schoolwork&lang=en&timestamp=1787251310&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=303">
+          <img src="https://ytcards.demolab.com/?id=k1tbc1Rqt2k&title=Survey+found+70+percent+of+teens+use+artificial+intelligence+for+schoolwork&lang=en&timestamp=1787251310&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=303" alt="Survey found 70 percent of teens use artificial intelligence for schoolwork" title="Survey found 70 percent of teens use artificial intelligence for schoolwork">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=uKj0rXGQov8" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=uKj0rXGQov8&title=Data+Scientia+Exclusive+Interview+on+Sovereign+Artificial+Intelligence&lang=en&timestamp=1787175350&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1437">
+          <img src="https://ytcards.demolab.com/?id=uKj0rXGQov8&title=Data+Scientia+Exclusive+Interview+on+Sovereign+Artificial+Intelligence&lang=en&timestamp=1787175350&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1437" alt="Data Scientia Exclusive Interview on Sovereign Artificial Intelligence" title="Data Scientia Exclusive Interview on Sovereign Artificial Intelligence">
         </picture>
       </a>
     </td>
