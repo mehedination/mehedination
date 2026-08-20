@@ -383,56 +383,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=A9thsRRuoOE" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=A9thsRRuoOE&title=How+AI+Has+Become+a+Fixture+in+Classrooms&lang=en&timestamp=1787175123&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=202">
-          <img src="https://ytcards.demolab.com/?id=A9thsRRuoOE&title=How+AI+Has+Become+a+Fixture+in+Classrooms&lang=en&timestamp=1787175123&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=202" alt="How AI Has Become a Fixture in Classrooms" title="How AI Has Become a Fixture in Classrooms">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
       <a href="https://www.youtube.com/watch?v=PDitGsC6yjo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PDitGsC6yjo&title=Gemini%27s+1+Billion+User+Lie&lang=en&timestamp=1787160723&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=850">
-          <img src="https://ytcards.demolab.com/?id=PDitGsC6yjo&title=Gemini%27s+1+Billion+User+Lie&lang=en&timestamp=1787160723&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=850" alt="Gemini's 1 Billion User Lie" title="Gemini's 1 Billion User Lie">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PDitGsC6yjo&title=Gemini%27s+1+Billion+User+Lie&lang=en&timestamp=1787162347&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=850">
+          <img src="https://ytcards.demolab.com/?id=PDitGsC6yjo&title=Gemini%27s+1+Billion+User+Lie&lang=en&timestamp=1787162347&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=850" alt="Gemini's 1 Billion User Lie" title="Gemini's 1 Billion User Lie">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=kzo526Wda5U" target="_blank">
+      <a href="https://www.youtube.com/watch?v=8vrzrJagJ6U" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=kzo526Wda5U&title=EMERGENT+TECHNOLOGIES+%7C+THEY+SAY+HUMANS+ARE+BOOTLOADERS+FOR+ARTIFICIAL+INTELLIGENCE&lang=en&timestamp=1787149923&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3593">
-          <img src="https://ytcards.demolab.com/?id=kzo526Wda5U&title=EMERGENT+TECHNOLOGIES+%7C+THEY+SAY+HUMANS+ARE+BOOTLOADERS+FOR+ARTIFICIAL+INTELLIGENCE&lang=en&timestamp=1787149923&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3593" alt="EMERGENT TECHNOLOGIES | THEY SAY HUMANS ARE BOOTLOADERS FOR ARTIFICIAL INTELLIGENCE" title="EMERGENT TECHNOLOGIES | THEY SAY HUMANS ARE BOOTLOADERS FOR ARTIFICIAL INTELLIGENCE">
-        </picture>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=zcLPGC-tvgk" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zcLPGC-tvgk&title=LIVE%3A+Uncle+Bob+on+Software+Fundamentals+in+the+Age+of+AI&lang=en&timestamp=1787157123&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3400">
-          <img src="https://ytcards.demolab.com/?id=zcLPGC-tvgk&title=LIVE%3A+Uncle+Bob+on+Software+Fundamentals+in+the+Age+of+AI&lang=en&timestamp=1787157123&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3400" alt="LIVE: Uncle Bob on Software Fundamentals in the Age of AI" title="LIVE: Uncle Bob on Software Fundamentals in the Age of AI">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=U_0aPqSAlgo" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=U_0aPqSAlgo&title=Nick+Bostrom%3A+Worries+About+AI+Existential+Risk+Just+Became+More+Concrete&lang=en&timestamp=1787157123&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3556">
-          <img src="https://ytcards.demolab.com/?id=U_0aPqSAlgo&title=Nick+Bostrom%3A+Worries+About+AI+Existential+Risk+Just+Became+More+Concrete&lang=en&timestamp=1787157123&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3556" alt="Nick Bostrom: Worries About AI Existential Risk Just Became More Concrete" title="Nick Bostrom: Worries About AI Existential Risk Just Became More Concrete">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8vrzrJagJ6U&title=Artificial+Intelligence+Fundamentals+%7C+Modern+AI+Explained+by+3D+AI+Tutor&lang=en&timestamp=1787228647&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=40">
+          <img src="https://ytcards.demolab.com/?id=8vrzrJagJ6U&title=Artificial+Intelligence+Fundamentals+%7C+Modern+AI+Explained+by+3D+AI+Tutor&lang=en&timestamp=1787228647&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=40" alt="Artificial Intelligence Fundamentals | Modern AI Explained by 3D AI Tutor" title="Artificial Intelligence Fundamentals | Modern AI Explained by 3D AI Tutor">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=kJp5PbYheeU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=kJp5PbYheeU&title=Nobel+Prize+Conversations%3A+Laureates+on+the+AI+revolution&lang=en&timestamp=1787203923&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2312">
-          <img src="https://ytcards.demolab.com/?id=kJp5PbYheeU&title=Nobel+Prize+Conversations%3A+Laureates+on+the+AI+revolution&lang=en&timestamp=1787203923&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2312" alt="Nobel Prize Conversations: Laureates on the AI revolution" title="Nobel Prize Conversations: Laureates on the AI revolution">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=kJp5PbYheeU&title=Nobel+Prize+Conversations%3A+Laureates+on+the+AI+revolution&lang=en&timestamp=1787201947&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2312">
+          <img src="https://ytcards.demolab.com/?id=kJp5PbYheeU&title=Nobel+Prize+Conversations%3A+Laureates+on+the+AI+revolution&lang=en&timestamp=1787201947&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2312" alt="Nobel Prize Conversations: Laureates on the AI revolution" title="Nobel Prize Conversations: Laureates on the AI revolution">
+        </picture>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=U_0aPqSAlgo" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=U_0aPqSAlgo&title=Nick+Bostrom%3A+Worries+About+AI+Existential+Risk+Just+Became+More+Concrete&lang=en&timestamp=1787158747&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3556">
+          <img src="https://ytcards.demolab.com/?id=U_0aPqSAlgo&title=Nick+Bostrom%3A+Worries+About+AI+Existential+Risk+Just+Became+More+Concrete&lang=en&timestamp=1787158747&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3556" alt="Nick Bostrom: Worries About AI Existential Risk Just Became More Concrete" title="Nick Bostrom: Worries About AI Existential Risk Just Became More Concrete">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=kzo526Wda5U" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=kzo526Wda5U&title=EMERGENT+TECHNOLOGIES+%7C+THEY+SAY+HUMANS+ARE+BOOTLOADERS+FOR+ARTIFICIAL+INTELLIGENCE&lang=en&timestamp=1787147947&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3593">
+          <img src="https://ytcards.demolab.com/?id=kzo526Wda5U&title=EMERGENT+TECHNOLOGIES+%7C+THEY+SAY+HUMANS+ARE+BOOTLOADERS+FOR+ARTIFICIAL+INTELLIGENCE&lang=en&timestamp=1787147947&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3593" alt="EMERGENT TECHNOLOGIES | THEY SAY HUMANS ARE BOOTLOADERS FOR ARTIFICIAL INTELLIGENCE" title="EMERGENT TECHNOLOGIES | THEY SAY HUMANS ARE BOOTLOADERS FOR ARTIFICIAL INTELLIGENCE">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=uKj0rXGQov8" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=uKj0rXGQov8&title=Data+Scientia+Exclusive+Interview+on+Sovereign+Artificial+Intelligence&lang=en&timestamp=1787176747&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1437">
+          <img src="https://ytcards.demolab.com/?id=uKj0rXGQov8&title=Data+Scientia+Exclusive+Interview+on+Sovereign+Artificial+Intelligence&lang=en&timestamp=1787176747&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1437" alt="Data Scientia Exclusive Interview on Sovereign Artificial Intelligence" title="Data Scientia Exclusive Interview on Sovereign Artificial Intelligence">
         </picture>
       </a>
     </td>
