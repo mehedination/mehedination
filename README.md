@@ -374,30 +374,31 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=YebvAl6t4_s" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=YebvAl6t4_s&title=Robotics+and+AI+converging+to+revolutionise+industries%3A+ABB+Robotics&lang=en&timestamp=1787146602&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=444">
-          <img src="https://ytcards.demolab.com/?id=YebvAl6t4_s&title=Robotics+and+AI+converging+to+revolutionise+industries%3A+ABB+Robotics&lang=en&timestamp=1787146602&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=444" alt="Robotics and AI converging to revolutionise industries: ABB Robotics" title="Robotics and AI converging to revolutionise industries: ABB Robotics">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=YebvAl6t4_s&title=Robotics+and+AI+converging+to+revolutionise+industries%3A+ABB+Robotics&lang=en&timestamp=1787148115&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=444">
+          <img src="https://ytcards.demolab.com/?id=YebvAl6t4_s&title=Robotics+and+AI+converging+to+revolutionise+industries%3A+ABB+Robotics&lang=en&timestamp=1787148115&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=444" alt="Robotics and AI converging to revolutionise industries: ABB Robotics" title="Robotics and AI converging to revolutionise industries: ABB Robotics">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=m1s8yRt4cAU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=m1s8yRt4cAU&title=China+summer+camps%3A+Govt+expands+national+education+in+AI+technologies&lang=en&timestamp=1787128602&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=136">
-          <img src="https://ytcards.demolab.com/?id=m1s8yRt4cAU&title=China+summer+camps%3A+Govt+expands+national+education+in+AI+technologies&lang=en&timestamp=1787128602&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=136" alt="China summer camps: Govt expands national education in AI technologies" title="China summer camps: Govt expands national education in AI technologies">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=m1s8yRt4cAU&title=China+summer+camps%3A+Govt+expands+national+education+in+AI+technologies&lang=en&timestamp=1787126515&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=136">
+          <img src="https://ytcards.demolab.com/?id=m1s8yRt4cAU&title=China+summer+camps%3A+Govt+expands+national+education+in+AI+technologies&lang=en&timestamp=1787126515&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=136" alt="China summer camps: Govt expands national education in AI technologies" title="China summer camps: Govt expands national education in AI technologies">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=zcLPGC-tvgk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zcLPGC-tvgk&title=LIVE%3A+Uncle+Bob+on+Software+Fundamentals+in+the+Age+of+AI&lang=en&timestamp=1787157402&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3400">
-          <img src="https://ytcards.demolab.com/?id=zcLPGC-tvgk&title=LIVE%3A+Uncle+Bob+on+Software+Fundamentals+in+the+Age+of+AI&lang=en&timestamp=1787157402&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3400" alt="LIVE: Uncle Bob on Software Fundamentals in the Age of AI" title="LIVE: Uncle Bob on Software Fundamentals in the Age of AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zcLPGC-tvgk&title=LIVE%3A+Uncle+Bob+on+Software+Fundamentals+in+the+Age+of+AI&lang=en&timestamp=1787158915&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3400">
+          <img src="https://ytcards.demolab.com/?id=zcLPGC-tvgk&title=LIVE%3A+Uncle+Bob+on+Software+Fundamentals+in+the+Age+of+AI&lang=en&timestamp=1787158915&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3400" alt="LIVE: Uncle Bob on Software Fundamentals in the Age of AI" title="LIVE: Uncle Bob on Software Fundamentals in the Age of AI">
         </picture>
       </a>
     </td>
@@ -406,24 +407,24 @@
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=kzo526Wda5U" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=kzo526Wda5U&title=EMERGENT+TECHNOLOGIES+%7C+THEY+SAY+HUMANS+ARE+BOOTLOADERS+FOR+ARTIFICIAL+INTELLIGENCE&lang=en&timestamp=1787150202&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3589">
-          <img src="https://ytcards.demolab.com/?id=kzo526Wda5U&title=EMERGENT+TECHNOLOGIES+%7C+THEY+SAY+HUMANS+ARE+BOOTLOADERS+FOR+ARTIFICIAL+INTELLIGENCE&lang=en&timestamp=1787150202&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3589" alt="EMERGENT TECHNOLOGIES | THEY SAY HUMANS ARE BOOTLOADERS FOR ARTIFICIAL INTELLIGENCE" title="EMERGENT TECHNOLOGIES | THEY SAY HUMANS ARE BOOTLOADERS FOR ARTIFICIAL INTELLIGENCE">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=kzo526Wda5U&title=EMERGENT+TECHNOLOGIES+%7C+THEY+SAY+HUMANS+ARE+BOOTLOADERS+FOR+ARTIFICIAL+INTELLIGENCE&lang=en&timestamp=1787148115&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3589">
+          <img src="https://ytcards.demolab.com/?id=kzo526Wda5U&title=EMERGENT+TECHNOLOGIES+%7C+THEY+SAY+HUMANS+ARE+BOOTLOADERS+FOR+ARTIFICIAL+INTELLIGENCE&lang=en&timestamp=1787148115&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3589" alt="EMERGENT TECHNOLOGIES | THEY SAY HUMANS ARE BOOTLOADERS FOR ARTIFICIAL INTELLIGENCE" title="EMERGENT TECHNOLOGIES | THEY SAY HUMANS ARE BOOTLOADERS FOR ARTIFICIAL INTELLIGENCE">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=sfjFKy0ZOiA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sfjFKy0ZOiA&title=2006%3A+When+Will+Intelligent+Machines+Take+Over%3F+%7C+Newsnight+%7C+BBC+Archive&lang=en&timestamp=1787139402&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=419">
-          <img src="https://ytcards.demolab.com/?id=sfjFKy0ZOiA&title=2006%3A+When+Will+Intelligent+Machines+Take+Over%3F+%7C+Newsnight+%7C+BBC+Archive&lang=en&timestamp=1787139402&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=419" alt="2006: When Will Intelligent Machines Take Over? | Newsnight | BBC Archive" title="2006: When Will Intelligent Machines Take Over? | Newsnight | BBC Archive">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sfjFKy0ZOiA&title=2006%3A+When+Will+Intelligent+Machines+Take+Over%3F+%7C+Newsnight+%7C+BBC+Archive&lang=en&timestamp=1787137315&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=419">
+          <img src="https://ytcards.demolab.com/?id=sfjFKy0ZOiA&title=2006%3A+When+Will+Intelligent+Machines+Take+Over%3F+%7C+Newsnight+%7C+BBC+Archive&lang=en&timestamp=1787137315&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=419" alt="2006: When Will Intelligent Machines Take Over? | Newsnight | BBC Archive" title="2006: When Will Intelligent Machines Take Over? | Newsnight | BBC Archive">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=xNvyKezAgao" target="_blank">
+      <a href="https://www.youtube.com/watch?v=CHBwvDrqTMs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xNvyKezAgao&title=Ask+Me+Anything+About+the+Future+%7C+Space%2C+AI%2C+Aliens+%26+Civilization+%7C+SFIA+August+Live+Q%26A&lang=en&timestamp=1787103402&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4411">
-          <img src="https://ytcards.demolab.com/?id=xNvyKezAgao&title=Ask+Me+Anything+About+the+Future+%7C+Space%2C+AI%2C+Aliens+%26+Civilization+%7C+SFIA+August+Live+Q%26A&lang=en&timestamp=1787103402&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4411" alt="Ask Me Anything About the Future | Space, AI, Aliens & Civilization | SFIA August Live Q&A" title="Ask Me Anything About the Future | Space, AI, Aliens & Civilization | SFIA August Live Q&A">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=CHBwvDrqTMs&title=Humanoid+robots+demonstrate+their+capabilities+at+Beijing+conference&lang=en&timestamp=1787184115&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=117">
+          <img src="https://ytcards.demolab.com/?id=CHBwvDrqTMs&title=Humanoid+robots+demonstrate+their+capabilities+at+Beijing+conference&lang=en&timestamp=1787184115&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=117" alt="Humanoid robots demonstrate their capabilities at Beijing conference" title="Humanoid robots demonstrate their capabilities at Beijing conference">
         </picture>
       </a>
     </td>
