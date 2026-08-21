@@ -396,56 +396,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=bCfzOVVWknQ" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=bCfzOVVWknQ&title=Book+publishers+forced+to+navigate+AI+and+the+stories+about+misuse+are+stunning&lang=en&timestamp=1787240523&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=130">
-          <img src="https://ytcards.demolab.com/?id=bCfzOVVWknQ&title=Book+publishers+forced+to+navigate+AI+and+the+stories+about+misuse+are+stunning&lang=en&timestamp=1787240523&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=130" alt="Book publishers forced to navigate AI and the stories about misuse are stunning" title="Book publishers forced to navigate AI and the stories about misuse are stunning">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
       <a href="https://www.youtube.com/watch?v=v99DkPP6LVY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=v99DkPP6LVY&title=AI+Superintelligence+Is+Not+a+Tool%2C+It%27s+an+Adversary+Threatening+Humanity%3A+ControlAI%27s+Connor+Leahy&lang=en&timestamp=1787236923&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=815">
-          <img src="https://ytcards.demolab.com/?id=v99DkPP6LVY&title=AI+Superintelligence+Is+Not+a+Tool%2C+It%27s+an+Adversary+Threatening+Humanity%3A+ControlAI%27s+Connor+Leahy&lang=en&timestamp=1787236923&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=815" alt="AI Superintelligence Is Not a Tool, It's an Adversary Threatening Humanity: ControlAI's Connor Leahy" title="AI Superintelligence Is Not a Tool, It's an Adversary Threatening Humanity: ControlAI's Connor Leahy">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=v99DkPP6LVY&title=AI+Critics+Warn+Against+Big+Tech%27s+Drive+for+%22Superintelligence%22&lang=en&timestamp=1787238500&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=815">
+          <img src="https://ytcards.demolab.com/?id=v99DkPP6LVY&title=AI+Critics+Warn+Against+Big+Tech%27s+Drive+for+%22Superintelligence%22&lang=en&timestamp=1787238500&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=815" alt="AI Critics Warn Against Big Tech's Drive for &quot;Superintelligence&quot;" title="AI Critics Warn Against Big Tech's Drive for &quot;Superintelligence&quot;">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=zr1kOeilDKI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zr1kOeilDKI&title=Do+workers+actually+use+Artificial+Intelligence+on+the+job%3F&lang=en&timestamp=1787272923&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=119">
-          <img src="https://ytcards.demolab.com/?id=zr1kOeilDKI&title=Do+workers+actually+use+Artificial+Intelligence+on+the+job%3F&lang=en&timestamp=1787272923&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=119" alt="Do workers actually use Artificial Intelligence on the job?" title="Do workers actually use Artificial Intelligence on the job?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zr1kOeilDKI&title=Do+workers+actually+use+Artificial+Intelligence+on+the+job%3F&lang=en&timestamp=1787270900&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=119">
+          <img src="https://ytcards.demolab.com/?id=zr1kOeilDKI&title=Do+workers+actually+use+Artificial+Intelligence+on+the+job%3F&lang=en&timestamp=1787270900&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=119" alt="Do workers actually use Artificial Intelligence on the job?" title="Do workers actually use Artificial Intelligence on the job?">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=JRyo8zvmqaQ" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JRyo8zvmqaQ&title=Every+Important+AI+Concept+Demystified&lang=en&timestamp=1787245700&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=996">
+          <img src="https://ytcards.demolab.com/?id=JRyo8zvmqaQ&title=Every+Important+AI+Concept+Demystified&lang=en&timestamp=1787245700&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=996" alt="Every Important AI Concept Demystified" title="Every Important AI Concept Demystified">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=JRyo8zvmqaQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=B6bnQnvUAmk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JRyo8zvmqaQ&title=How+AI+Actually+Works&lang=en&timestamp=1787247723&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=996">
-          <img src="https://ytcards.demolab.com/?id=JRyo8zvmqaQ&title=How+AI+Actually+Works&lang=en&timestamp=1787247723&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=996" alt="How AI Actually Works" title="How AI Actually Works">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=B6bnQnvUAmk&title=%22Love+Machines%22%3A+James+Muldoon+on+How+AI+Is+Changing+Relationships+%26+the+Global+Workers+Fueling+AI&lang=en&timestamp=1787238500&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=725">
+          <img src="https://ytcards.demolab.com/?id=B6bnQnvUAmk&title=%22Love+Machines%22%3A+James+Muldoon+on+How+AI+Is+Changing+Relationships+%26+the+Global+Workers+Fueling+AI&lang=en&timestamp=1787238500&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=725" alt="&quot;Love Machines&quot;: James Muldoon on How AI Is Changing Relationships & the Global Workers Fueling AI" title="&quot;Love Machines&quot;: James Muldoon on How AI Is Changing Relationships & the Global Workers Fueling AI">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=B6bnQnvUAmk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=bCfzOVVWknQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=B6bnQnvUAmk&title=%22Love+Machines%22%3A+James+Muldoon+on+How+AI+Is+Changing+Relationships+%26+the+Global+Workers+Fueling+AI&lang=en&timestamp=1787236923&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=725">
-          <img src="https://ytcards.demolab.com/?id=B6bnQnvUAmk&title=%22Love+Machines%22%3A+James+Muldoon+on+How+AI+Is+Changing+Relationships+%26+the+Global+Workers+Fueling+AI&lang=en&timestamp=1787236923&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=725" alt="&quot;Love Machines&quot;: James Muldoon on How AI Is Changing Relationships & the Global Workers Fueling AI" title="&quot;Love Machines&quot;: James Muldoon on How AI Is Changing Relationships & the Global Workers Fueling AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=bCfzOVVWknQ&title=Book+publishers+forced+to+navigate+AI+and+the+stories+about+misuse+are+stunning&lang=en&timestamp=1787238500&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=130">
+          <img src="https://ytcards.demolab.com/?id=bCfzOVVWknQ&title=Book+publishers+forced+to+navigate+AI+and+the+stories+about+misuse+are+stunning&lang=en&timestamp=1787238500&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=130" alt="Book publishers forced to navigate AI and the stories about misuse are stunning" title="Book publishers forced to navigate AI and the stories about misuse are stunning">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=-KJ2Px80lm4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-KJ2Px80lm4&title=Women+Are+Avoiding+AI+at+the+Worst+Possible+Time&lang=en&timestamp=1787226123&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1620">
-          <img src="https://ytcards.demolab.com/?id=-KJ2Px80lm4&title=Women+Are+Avoiding+AI+at+the+Worst+Possible+Time&lang=en&timestamp=1787226123&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1620" alt="Women Are Avoiding AI at the Worst Possible Time" title="Women Are Avoiding AI at the Worst Possible Time">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-KJ2Px80lm4&title=How+Women+Can+Use+AI+to+Make+Money%2C+Save+Time+and+Protect+Their+Careers&lang=en&timestamp=1787224100&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1620">
+          <img src="https://ytcards.demolab.com/?id=-KJ2Px80lm4&title=How+Women+Can+Use+AI+to+Make+Money%2C+Save+Time+and+Protect+Their+Careers&lang=en&timestamp=1787224100&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1620" alt="How Women Can Use AI to Make Money, Save Time and Protect Their Careers" title="How Women Can Use AI to Make Money, Save Time and Protect Their Careers">
         </picture>
       </a>
     </td>
