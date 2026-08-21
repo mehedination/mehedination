@@ -411,56 +411,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=v99DkPP6LVY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=v99DkPP6LVY&title=AI+Superintelligence+Is+Not+a+Tool%2C+It%27s+an+Adversary+Threatening+Humanity%3A+ControlAI%27s+Connor+Leahy&lang=en&timestamp=1787251454&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=815">
-          <img src="https://ytcards.demolab.com/?id=v99DkPP6LVY&title=AI+Superintelligence+Is+Not+a+Tool%2C+It%27s+an+Adversary+Threatening+Humanity%3A+ControlAI%27s+Connor+Leahy&lang=en&timestamp=1787251454&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=815" alt="AI Superintelligence Is Not a Tool, It's an Adversary Threatening Humanity: ControlAI's Connor Leahy" title="AI Superintelligence Is Not a Tool, It's an Adversary Threatening Humanity: ControlAI's Connor Leahy">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ZRuIEB1x4u4" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ZRuIEB1x4u4&title=Ilya+Sutskever%E2%80%99s+New+AI+Superintelligence++Is+About+to+Change+A..I+Forever%3F&lang=en&timestamp=1787316254&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=687">
-          <img src="https://ytcards.demolab.com/?id=ZRuIEB1x4u4&title=Ilya+Sutskever%E2%80%99s+New+AI+Superintelligence++Is+About+to+Change+A..I+Forever%3F&lang=en&timestamp=1787316254&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=687" alt="Ilya Sutskever’s New AI Superintelligence  Is About to Change A..I Forever?" title="Ilya Sutskever’s New AI Superintelligence  Is About to Change A..I Forever?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=v99DkPP6LVY&title=AI+Superintelligence+Is+Not+a+Tool%2C+It%27s+an+Adversary+Threatening+Humanity%3A+ControlAI%27s+Connor+Leahy&lang=en&timestamp=1787254164&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=815">
+          <img src="https://ytcards.demolab.com/?id=v99DkPP6LVY&title=AI+Superintelligence+Is+Not+a+Tool%2C+It%27s+an+Adversary+Threatening+Humanity%3A+ControlAI%27s+Connor+Leahy&lang=en&timestamp=1787254164&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=815" alt="AI Superintelligence Is Not a Tool, It's an Adversary Threatening Humanity: ControlAI's Connor Leahy" title="AI Superintelligence Is Not a Tool, It's an Adversary Threatening Humanity: ControlAI's Connor Leahy">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=DkiqVSgF3GY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=DkiqVSgF3GY&title=10+AI+Behaviors+That+Are+Keeping+Scientists+Up+At+Night&lang=en&timestamp=1787258654&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=515">
-          <img src="https://ytcards.demolab.com/?id=DkiqVSgF3GY&title=10+AI+Behaviors+That+Are+Keeping+Scientists+Up+At+Night&lang=en&timestamp=1787258654&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=515" alt="10 AI Behaviors That Are Keeping Scientists Up At Night" title="10 AI Behaviors That Are Keeping Scientists Up At Night">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=DkiqVSgF3GY&title=10+AI+Behaviors+That+Are+Keeping+Scientists+Up+At+Night&lang=en&timestamp=1787257764&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=515">
+          <img src="https://ytcards.demolab.com/?id=DkiqVSgF3GY&title=10+AI+Behaviors+That+Are+Keeping+Scientists+Up+At+Night&lang=en&timestamp=1787257764&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=515" alt="10 AI Behaviors That Are Keeping Scientists Up At Night" title="10 AI Behaviors That Are Keeping Scientists Up At Night">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=zr1kOeilDKI" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zr1kOeilDKI&title=Do+workers+actually+use+Artificial+Intelligence+on+the+job%3F&lang=en&timestamp=1787272164&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=119">
+          <img src="https://ytcards.demolab.com/?id=zr1kOeilDKI&title=Do+workers+actually+use+Artificial+Intelligence+on+the+job%3F&lang=en&timestamp=1787272164&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=119" alt="Do workers actually use Artificial Intelligence on the job?" title="Do workers actually use Artificial Intelligence on the job?">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=zr1kOeilDKI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=JRyo8zvmqaQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zr1kOeilDKI&title=Do+workers+actually+use+Artificial+Intelligence+on+the+job%3F&lang=en&timestamp=1787269454&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=119">
-          <img src="https://ytcards.demolab.com/?id=zr1kOeilDKI&title=Do+workers+actually+use+Artificial+Intelligence+on+the+job%3F&lang=en&timestamp=1787269454&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=119" alt="Do workers actually use Artificial Intelligence on the job?" title="Do workers actually use Artificial Intelligence on the job?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JRyo8zvmqaQ&title=How+AI+Actually+Works&lang=en&timestamp=1787254164&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=996">
+          <img src="https://ytcards.demolab.com/?id=JRyo8zvmqaQ&title=How+AI+Actually+Works&lang=en&timestamp=1787254164&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=996" alt="How AI Actually Works" title="How AI Actually Works">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=JRyo8zvmqaQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=B6bnQnvUAmk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JRyo8zvmqaQ&title=How+AI+Actually+Works&lang=en&timestamp=1787251454&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=996">
-          <img src="https://ytcards.demolab.com/?id=JRyo8zvmqaQ&title=How+AI+Actually+Works&lang=en&timestamp=1787251454&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=996" alt="How AI Actually Works" title="How AI Actually Works">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=B6bnQnvUAmk&title=%22Love+Machines%22%3A+James+Muldoon+on+How+AI+Is+Changing+Relationships+%26+the+Global+Workers+Fueling+AI&lang=en&timestamp=1787254164&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=725">
+          <img src="https://ytcards.demolab.com/?id=B6bnQnvUAmk&title=%22Love+Machines%22%3A+James+Muldoon+on+How+AI+Is+Changing+Relationships+%26+the+Global+Workers+Fueling+AI&lang=en&timestamp=1787254164&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=725" alt="&quot;Love Machines&quot;: James Muldoon on How AI Is Changing Relationships & the Global Workers Fueling AI" title="&quot;Love Machines&quot;: James Muldoon on How AI Is Changing Relationships & the Global Workers Fueling AI">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=2aM1gohpvYA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2aM1gohpvYA&title=What+role+is+Artificial+Intelligence+playing+in+schools%3F&lang=en&timestamp=1787319854&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=208">
-          <img src="https://ytcards.demolab.com/?id=2aM1gohpvYA&title=What+role+is+Artificial+Intelligence+playing+in+schools%3F&lang=en&timestamp=1787319854&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=208" alt="What role is Artificial Intelligence playing in schools?" title="What role is Artificial Intelligence playing in schools?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2aM1gohpvYA&title=What+role+is+Artificial+Intelligence+playing+in+schools%3F&lang=en&timestamp=1787322564&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=208">
+          <img src="https://ytcards.demolab.com/?id=2aM1gohpvYA&title=What+role+is+Artificial+Intelligence+playing+in+schools%3F&lang=en&timestamp=1787322564&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=208" alt="What role is Artificial Intelligence playing in schools?" title="What role is Artificial Intelligence playing in schools?">
         </picture>
       </a>
     </td>
