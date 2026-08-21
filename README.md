@@ -395,56 +395,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=JRyo8zvmqaQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=bCfzOVVWknQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JRyo8zvmqaQ&title=How+AI+Actually+Works&lang=en&timestamp=1787247063&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=996">
-          <img src="https://ytcards.demolab.com/?id=JRyo8zvmqaQ&title=How+AI+Actually+Works&lang=en&timestamp=1787247063&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=996" alt="How AI Actually Works" title="How AI Actually Works">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=bCfzOVVWknQ&title=Book+publishers+forced+to+navigate+AI+and+the+stories+about+misuse+are+stunning&lang=en&timestamp=1787240523&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=130">
+          <img src="https://ytcards.demolab.com/?id=bCfzOVVWknQ&title=Book+publishers+forced+to+navigate+AI+and+the+stories+about+misuse+are+stunning&lang=en&timestamp=1787240523&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=130" alt="Book publishers forced to navigate AI and the stories about misuse are stunning" title="Book publishers forced to navigate AI and the stories about misuse are stunning">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=xavckvuszzU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=v99DkPP6LVY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xavckvuszzU&title=%2335+Lee+Cronin+-+Chemputation%2C+Origin+of+Life%2C+Assembly+Theory&lang=en&timestamp=1787182263&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6229">
-          <img src="https://ytcards.demolab.com/?id=xavckvuszzU&title=%2335+Lee+Cronin+-+Chemputation%2C+Origin+of+Life%2C+Assembly+Theory&lang=en&timestamp=1787182263&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6229" alt="#35 Lee Cronin - Chemputation, Origin of Life, Assembly Theory" title="#35 Lee Cronin - Chemputation, Origin of Life, Assembly Theory">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=v99DkPP6LVY&title=AI+Superintelligence+Is+Not+a+Tool%2C+It%27s+an+Adversary+Threatening+Humanity%3A+ControlAI%27s+Connor+Leahy&lang=en&timestamp=1787236923&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=815">
+          <img src="https://ytcards.demolab.com/?id=v99DkPP6LVY&title=AI+Superintelligence+Is+Not+a+Tool%2C+It%27s+an+Adversary+Threatening+Humanity%3A+ControlAI%27s+Connor+Leahy&lang=en&timestamp=1787236923&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=815" alt="AI Superintelligence Is Not a Tool, It's an Adversary Threatening Humanity: ControlAI's Connor Leahy" title="AI Superintelligence Is Not a Tool, It's an Adversary Threatening Humanity: ControlAI's Connor Leahy">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=kzo526Wda5U" target="_blank">
+      <a href="https://www.youtube.com/watch?v=zr1kOeilDKI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=kzo526Wda5U&title=EMERGENT+TECHNOLOGIES+%7C+THEY+SAY+HUMANS+ARE+BOOTLOADERS+FOR+ARTIFICIAL+INTELLIGENCE&lang=en&timestamp=1787182263&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3593">
-          <img src="https://ytcards.demolab.com/?id=kzo526Wda5U&title=EMERGENT+TECHNOLOGIES+%7C+THEY+SAY+HUMANS+ARE+BOOTLOADERS+FOR+ARTIFICIAL+INTELLIGENCE&lang=en&timestamp=1787182263&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3593" alt="EMERGENT TECHNOLOGIES | THEY SAY HUMANS ARE BOOTLOADERS FOR ARTIFICIAL INTELLIGENCE" title="EMERGENT TECHNOLOGIES | THEY SAY HUMANS ARE BOOTLOADERS FOR ARTIFICIAL INTELLIGENCE">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zr1kOeilDKI&title=Do+workers+actually+use+Artificial+Intelligence+on+the+job%3F&lang=en&timestamp=1787272923&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=119">
+          <img src="https://ytcards.demolab.com/?id=zr1kOeilDKI&title=Do+workers+actually+use+Artificial+Intelligence+on+the+job%3F&lang=en&timestamp=1787272923&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=119" alt="Do workers actually use Artificial Intelligence on the job?" title="Do workers actually use Artificial Intelligence on the job?">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=zcLPGC-tvgk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=JRyo8zvmqaQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zcLPGC-tvgk&title=LIVE%3A+Uncle+Bob+on+Software+Fundamentals+in+the+Age+of+AI&lang=en&timestamp=1787182263&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3400">
-          <img src="https://ytcards.demolab.com/?id=zcLPGC-tvgk&title=LIVE%3A+Uncle+Bob+on+Software+Fundamentals+in+the+Age+of+AI&lang=en&timestamp=1787182263&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3400" alt="LIVE: Uncle Bob on Software Fundamentals in the Age of AI" title="LIVE: Uncle Bob on Software Fundamentals in the Age of AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JRyo8zvmqaQ&title=How+AI+Actually+Works&lang=en&timestamp=1787247723&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=996">
+          <img src="https://ytcards.demolab.com/?id=JRyo8zvmqaQ&title=How+AI+Actually+Works&lang=en&timestamp=1787247723&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=996" alt="How AI Actually Works" title="How AI Actually Works">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ZABTvS7YyWo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=B6bnQnvUAmk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ZABTvS7YyWo&title=Meta+Is+Losing+The+AI+Race+And+Panicking&lang=en&timestamp=1787182263&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1998">
-          <img src="https://ytcards.demolab.com/?id=ZABTvS7YyWo&title=Meta+Is+Losing+The+AI+Race+And+Panicking&lang=en&timestamp=1787182263&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1998" alt="Meta Is Losing The AI Race And Panicking" title="Meta Is Losing The AI Race And Panicking">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=B6bnQnvUAmk&title=%22Love+Machines%22%3A+James+Muldoon+on+How+AI+Is+Changing+Relationships+%26+the+Global+Workers+Fueling+AI&lang=en&timestamp=1787236923&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=725">
+          <img src="https://ytcards.demolab.com/?id=B6bnQnvUAmk&title=%22Love+Machines%22%3A+James+Muldoon+on+How+AI+Is+Changing+Relationships+%26+the+Global+Workers+Fueling+AI&lang=en&timestamp=1787236923&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=725" alt="&quot;Love Machines&quot;: James Muldoon on How AI Is Changing Relationships & the Global Workers Fueling AI" title="&quot;Love Machines&quot;: James Muldoon on How AI Is Changing Relationships & the Global Workers Fueling AI">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=k1tbc1Rqt2k" target="_blank">
+      <a href="https://www.youtube.com/watch?v=-KJ2Px80lm4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=k1tbc1Rqt2k&title=Survey+found+70+percent+of+teens+use+artificial+intelligence+for+schoolwork&lang=en&timestamp=1787254263&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=303">
-          <img src="https://ytcards.demolab.com/?id=k1tbc1Rqt2k&title=Survey+found+70+percent+of+teens+use+artificial+intelligence+for+schoolwork&lang=en&timestamp=1787254263&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=303" alt="Survey found 70 percent of teens use artificial intelligence for schoolwork" title="Survey found 70 percent of teens use artificial intelligence for schoolwork">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-KJ2Px80lm4&title=Women+Are+Avoiding+AI+at+the+Worst+Possible+Time&lang=en&timestamp=1787226123&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1620">
+          <img src="https://ytcards.demolab.com/?id=-KJ2Px80lm4&title=Women+Are+Avoiding+AI+at+the+Worst+Possible+Time&lang=en&timestamp=1787226123&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1620" alt="Women Are Avoiding AI at the Worst Possible Time" title="Women Are Avoiding AI at the Worst Possible Time">
         </picture>
       </a>
     </td>
