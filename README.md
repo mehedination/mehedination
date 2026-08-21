@@ -415,56 +415,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=v99DkPP6LVY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=v99DkPP6LVY&title=AI+Superintelligence+Is+Not+a+Tool%2C+It%27s+an+Adversary+Threatening+Humanity%3A+ControlAI%27s+Connor+Leahy&lang=en&timestamp=1787265026&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=815">
-          <img src="https://ytcards.demolab.com/?id=v99DkPP6LVY&title=AI+Superintelligence+Is+Not+a+Tool%2C+It%27s+an+Adversary+Threatening+Humanity%3A+ControlAI%27s+Connor+Leahy&lang=en&timestamp=1787265026&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=815" alt="AI Superintelligence Is Not a Tool, It's an Adversary Threatening Humanity: ControlAI's Connor Leahy" title="AI Superintelligence Is Not a Tool, It's an Adversary Threatening Humanity: ControlAI's Connor Leahy">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=v99DkPP6LVY&title=AI+Superintelligence+Is+Not+a+Tool%2C+It%27s+an+Adversary+Threatening+Humanity%3A+ControlAI%27s+Connor+Leahy&lang=en&timestamp=1787268537&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=815">
+          <img src="https://ytcards.demolab.com/?id=v99DkPP6LVY&title=AI+Superintelligence+Is+Not+a+Tool%2C+It%27s+an+Adversary+Threatening+Humanity%3A+ControlAI%27s+Connor+Leahy&lang=en&timestamp=1787268537&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=815" alt="AI Superintelligence Is Not a Tool, It's an Adversary Threatening Humanity: ControlAI's Connor Leahy" title="AI Superintelligence Is Not a Tool, It's an Adversary Threatening Humanity: ControlAI's Connor Leahy">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=DkiqVSgF3GY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=DkiqVSgF3GY&title=10+AI+Behaviors+That+Are+Keeping+Scientists+Up+At+Night&lang=en&timestamp=1787265026&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=515">
-          <img src="https://ytcards.demolab.com/?id=DkiqVSgF3GY&title=10+AI+Behaviors+That+Are+Keeping+Scientists+Up+At+Night&lang=en&timestamp=1787265026&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=515" alt="10 AI Behaviors That Are Keeping Scientists Up At Night" title="10 AI Behaviors That Are Keeping Scientists Up At Night">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=DkiqVSgF3GY&title=10+AI+Behaviors+That+Are+Keeping+Scientists+Up+At+Night&lang=en&timestamp=1787268537&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=515">
+          <img src="https://ytcards.demolab.com/?id=DkiqVSgF3GY&title=10+AI+Behaviors+That+Are+Keeping+Scientists+Up+At+Night&lang=en&timestamp=1787268537&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=515" alt="10 AI Behaviors That Are Keeping Scientists Up At Night" title="10 AI Behaviors That Are Keeping Scientists Up At Night">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=sxyYoNNTpU8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=aBCsBQAnoVs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sxyYoNNTpU8&title=The+AI+coding+backlash+has+begun&lang=en&timestamp=1787265026&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=483">
-          <img src="https://ytcards.demolab.com/?id=sxyYoNNTpU8&title=The+AI+coding+backlash+has+begun&lang=en&timestamp=1787265026&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=483" alt="The AI coding backlash has begun" title="The AI coding backlash has begun">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aBCsBQAnoVs&title=How+doctors+use+artificial+intelligence+during+exams+and+appointments&lang=en&timestamp=1787351337&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=124">
+          <img src="https://ytcards.demolab.com/?id=aBCsBQAnoVs&title=How+doctors+use+artificial+intelligence+during+exams+and+appointments&lang=en&timestamp=1787351337&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=124" alt="How doctors use artificial intelligence during exams and appointments" title="How doctors use artificial intelligence during exams and appointments">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=aBCsBQAnoVs" target="_blank">
+      <a href="https://www.youtube.com/watch?v=JRyo8zvmqaQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aBCsBQAnoVs&title=How+doctors+use+artificial+intelligence+during+exams+and+appointments&lang=en&timestamp=1787348906&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=124">
-          <img src="https://ytcards.demolab.com/?id=aBCsBQAnoVs&title=How+doctors+use+artificial+intelligence+during+exams+and+appointments&lang=en&timestamp=1787348906&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=124" alt="How doctors use artificial intelligence during exams and appointments" title="How doctors use artificial intelligence during exams and appointments">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JRyo8zvmqaQ&title=How+AI+Actually+Works&lang=en&timestamp=1787268537&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=996">
+          <img src="https://ytcards.demolab.com/?id=JRyo8zvmqaQ&title=How+AI+Actually+Works&lang=en&timestamp=1787268537&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=996" alt="How AI Actually Works" title="How AI Actually Works">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=JRyo8zvmqaQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ileUkRD5B4c" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JRyo8zvmqaQ&title=The+Essential+Artificial+Intelligence+Guide+for+Beginners&lang=en&timestamp=1787265026&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=996">
-          <img src="https://ytcards.demolab.com/?id=JRyo8zvmqaQ&title=The+Essential+Artificial+Intelligence+Guide+for+Beginners&lang=en&timestamp=1787265026&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=996" alt="The Essential Artificial Intelligence Guide for Beginners" title="The Essential Artificial Intelligence Guide for Beginners">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ileUkRD5B4c&title=Artificial+intelligence+playing+a+big+role+in+choosing+college+majors&lang=en&timestamp=1787353017&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=149">
+          <img src="https://ytcards.demolab.com/?id=ileUkRD5B4c&title=Artificial+intelligence+playing+a+big+role+in+choosing+college+majors&lang=en&timestamp=1787353017&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=149" alt="Artificial intelligence playing a big role in choosing college majors" title="Artificial intelligence playing a big role in choosing college majors">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=zr1kOeilDKI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zr1kOeilDKI&title=Do+workers+actually+use+Artificial+Intelligence+on+the+job%3F&lang=en&timestamp=1787272226&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=119">
-          <img src="https://ytcards.demolab.com/?id=zr1kOeilDKI&title=Do+workers+actually+use+Artificial+Intelligence+on+the+job%3F&lang=en&timestamp=1787272226&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=119" alt="Do workers actually use Artificial Intelligence on the job?" title="Do workers actually use Artificial Intelligence on the job?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zr1kOeilDKI&title=Do+workers+actually+use+Artificial+Intelligence+on+the+job%3F&lang=en&timestamp=1787272137&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=119">
+          <img src="https://ytcards.demolab.com/?id=zr1kOeilDKI&title=Do+workers+actually+use+Artificial+Intelligence+on+the+job%3F&lang=en&timestamp=1787272137&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=119" alt="Do workers actually use Artificial Intelligence on the job?" title="Do workers actually use Artificial Intelligence on the job?">
         </picture>
       </a>
     </td>
