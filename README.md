@@ -416,56 +416,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=v99DkPP6LVY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=SjEN45gU2Kw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=v99DkPP6LVY&title=AI+Superintelligence+Is+Not+a+Tool%2C+It%27s+an+Adversary+Threatening+Humanity%3A+ControlAI%27s+Connor+Leahy&lang=en&timestamp=1787268537&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=815">
-          <img src="https://ytcards.demolab.com/?id=v99DkPP6LVY&title=AI+Superintelligence+Is+Not+a+Tool%2C+It%27s+an+Adversary+Threatening+Humanity%3A+ControlAI%27s+Connor+Leahy&lang=en&timestamp=1787268537&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=815" alt="AI Superintelligence Is Not a Tool, It's an Adversary Threatening Humanity: ControlAI's Connor Leahy" title="AI Superintelligence Is Not a Tool, It's an Adversary Threatening Humanity: ControlAI's Connor Leahy">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SjEN45gU2Kw&title=Melania+Comes+Out+of+Hiding...+Debuts+New+Boyfriend%3F%21+-+News+Dump&lang=en&timestamp=1787315724&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2738">
+          <img src="https://ytcards.demolab.com/?id=SjEN45gU2Kw&title=Melania+Comes+Out+of+Hiding...+Debuts+New+Boyfriend%3F%21+-+News+Dump&lang=en&timestamp=1787315724&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2738" alt="Melania Comes Out of Hiding... Debuts New Boyfriend?! - News Dump" title="Melania Comes Out of Hiding... Debuts New Boyfriend?! - News Dump">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=DkiqVSgF3GY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=JTOrrvgkoHU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=DkiqVSgF3GY&title=10+AI+Behaviors+That+Are+Keeping+Scientists+Up+At+Night&lang=en&timestamp=1787268537&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=515">
-          <img src="https://ytcards.demolab.com/?id=DkiqVSgF3GY&title=10+AI+Behaviors+That+Are+Keeping+Scientists+Up+At+Night&lang=en&timestamp=1787268537&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=515" alt="10 AI Behaviors That Are Keeping Scientists Up At Night" title="10 AI Behaviors That Are Keeping Scientists Up At Night">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JTOrrvgkoHU&title=Artificial+Intelligence+as+a+Vital+Tool+for+Preserving+and+Revitalizing+the+Harari+Language&lang=en&timestamp=1787326524&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=490">
+          <img src="https://ytcards.demolab.com/?id=JTOrrvgkoHU&title=Artificial+Intelligence+as+a+Vital+Tool+for+Preserving+and+Revitalizing+the+Harari+Language&lang=en&timestamp=1787326524&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=490" alt="Artificial Intelligence as a Vital Tool for Preserving and Revitalizing the Harari Language" title="Artificial Intelligence as a Vital Tool for Preserving and Revitalizing the Harari Language">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=aBCsBQAnoVs" target="_blank">
+      <a href="https://www.youtube.com/watch?v=_KPKQ0Eoldk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aBCsBQAnoVs&title=How+doctors+use+artificial+intelligence+during+exams+and+appointments&lang=en&timestamp=1787351337&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=124">
-          <img src="https://ytcards.demolab.com/?id=aBCsBQAnoVs&title=How+doctors+use+artificial+intelligence+during+exams+and+appointments&lang=en&timestamp=1787351337&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=124" alt="How doctors use artificial intelligence during exams and appointments" title="How doctors use artificial intelligence during exams and appointments">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_KPKQ0Eoldk&title=Artificial+intelligence+will+be+more+human+than+biological+humans%3A+they+will+emulate+emotional+jobs&lang=en&timestamp=1787319324&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=490">
+          <img src="https://ytcards.demolab.com/?id=_KPKQ0Eoldk&title=Artificial+intelligence+will+be+more+human+than+biological+humans%3A+they+will+emulate+emotional+jobs&lang=en&timestamp=1787319324&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=490" alt="Artificial intelligence will be more human than biological humans: they will emulate emotional jobs" title="Artificial intelligence will be more human than biological humans: they will emulate emotional jobs">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=JRyo8zvmqaQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=RBTnbgUlelg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JRyo8zvmqaQ&title=How+AI+Actually+Works&lang=en&timestamp=1787268537&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=996">
-          <img src="https://ytcards.demolab.com/?id=JRyo8zvmqaQ&title=How+AI+Actually+Works&lang=en&timestamp=1787268537&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=996" alt="How AI Actually Works" title="How AI Actually Works">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=RBTnbgUlelg&title=Accra%3A+Ai+In+Healthcare+%E2%80%94+Can+Artificial+Intelligence+Transform+Patient+Care%3F&lang=en&timestamp=1787330124&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=170">
+          <img src="https://ytcards.demolab.com/?id=RBTnbgUlelg&title=Accra%3A+Ai+In+Healthcare+%E2%80%94+Can+Artificial+Intelligence+Transform+Patient+Care%3F&lang=en&timestamp=1787330124&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=170" alt="Accra: Ai In Healthcare — Can Artificial Intelligence Transform Patient Care?" title="Accra: Ai In Healthcare — Can Artificial Intelligence Transform Patient Care?">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ileUkRD5B4c" target="_blank">
+      <a href="https://www.youtube.com/watch?v=bQ9E86ZnAF8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ileUkRD5B4c&title=Artificial+intelligence+playing+a+big+role+in+choosing+college+majors&lang=en&timestamp=1787353017&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=149">
-          <img src="https://ytcards.demolab.com/?id=ileUkRD5B4c&title=Artificial+intelligence+playing+a+big+role+in+choosing+college+majors&lang=en&timestamp=1787353017&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=149" alt="Artificial intelligence playing a big role in choosing college majors" title="Artificial intelligence playing a big role in choosing college majors">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=bQ9E86ZnAF8&title=%E2%80%9CDiscouraging+our+community+from+AI+does+a+disservice%E2%80%9D%3A+N.C.+A%26T+alum+weighs+in+on+generative+AI&lang=en&timestamp=1787312124&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1502">
+          <img src="https://ytcards.demolab.com/?id=bQ9E86ZnAF8&title=%E2%80%9CDiscouraging+our+community+from+AI+does+a+disservice%E2%80%9D%3A+N.C.+A%26T+alum+weighs+in+on+generative+AI&lang=en&timestamp=1787312124&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1502" alt="“Discouraging our community from AI does a disservice”: N.C. A&T alum weighs in on generative AI" title="“Discouraging our community from AI does a disservice”: N.C. A&T alum weighs in on generative AI">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=zr1kOeilDKI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=OQ18egIXV0M" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zr1kOeilDKI&title=Do+workers+actually+use+Artificial+Intelligence+on+the+job%3F&lang=en&timestamp=1787272137&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=119">
-          <img src="https://ytcards.demolab.com/?id=zr1kOeilDKI&title=Do+workers+actually+use+Artificial+Intelligence+on+the+job%3F&lang=en&timestamp=1787272137&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=119" alt="Do workers actually use Artificial Intelligence on the job?" title="Do workers actually use Artificial Intelligence on the job?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=OQ18egIXV0M&title=%22Artificial+Intelligence%3A+What+Do+We+Do+With+AI%3F%22+-+Titus+Wiley%2C+student+speaker&lang=en&timestamp=1787326524&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=549">
+          <img src="https://ytcards.demolab.com/?id=OQ18egIXV0M&title=%22Artificial+Intelligence%3A+What+Do+We+Do+With+AI%3F%22+-+Titus+Wiley%2C+student+speaker&lang=en&timestamp=1787326524&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=549" alt="&quot;Artificial Intelligence: What Do We Do With AI?&quot; - Titus Wiley, student speaker" title="&quot;Artificial Intelligence: What Do We Do With AI?&quot; - Titus Wiley, student speaker">
         </picture>
       </a>
     </td>
