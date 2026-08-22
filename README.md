@@ -418,56 +418,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ileUkRD5B4c" target="_blank">
+      <a href="https://www.youtube.com/watch?v=egbK3OFFIEU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ileUkRD5B4c&title=Artificial+intelligence+playing+a+big+role+in+choosing+college+majors&lang=en&timestamp=1787353149&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=149">
-          <img src="https://ytcards.demolab.com/?id=ileUkRD5B4c&title=Artificial+intelligence+playing+a+big+role+in+choosing+college+majors&lang=en&timestamp=1787353149&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=149" alt="Artificial intelligence playing a big role in choosing college majors" title="Artificial intelligence playing a big role in choosing college majors">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=egbK3OFFIEU&title=What%E2%80%99s+on+My+Mac+2026+%2F%2F+AI%2C+Productivity%2C+Creative+Tools+%26+Workflow%21&lang=en&timestamp=1787341827&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=845">
+          <img src="https://ytcards.demolab.com/?id=egbK3OFFIEU&title=What%E2%80%99s+on+My+Mac+2026+%2F%2F+AI%2C+Productivity%2C+Creative+Tools+%26+Workflow%21&lang=en&timestamp=1787341827&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=845" alt="What’s on My Mac 2026 // AI, Productivity, Creative Tools & Workflow!" title="What’s on My Mac 2026 // AI, Productivity, Creative Tools & Workflow!">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=aBCsBQAnoVs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aBCsBQAnoVs&title=How+doctors+use+artificial+intelligence+during+exams+and+appointments&lang=en&timestamp=1787349549&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=124">
-          <img src="https://ytcards.demolab.com/?id=aBCsBQAnoVs&title=How+doctors+use+artificial+intelligence+during+exams+and+appointments&lang=en&timestamp=1787349549&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=124" alt="How doctors use artificial intelligence during exams and appointments" title="How doctors use artificial intelligence during exams and appointments">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aBCsBQAnoVs&title=How+doctors+use+artificial+intelligence+during+exams+and+appointments&lang=en&timestamp=1787349027&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=124">
+          <img src="https://ytcards.demolab.com/?id=aBCsBQAnoVs&title=How+doctors+use+artificial+intelligence+during+exams+and+appointments&lang=en&timestamp=1787349027&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=124" alt="How doctors use artificial intelligence during exams and appointments" title="How doctors use artificial intelligence during exams and appointments">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Z8NMhu1Fohc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=KKoa0Ya9nJg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Z8NMhu1Fohc&title=US+and+UAE+announce+military+artificial+intelligence+task+force+%7C+Breaking+News&lang=en&timestamp=1787363949&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=40">
-          <img src="https://ytcards.demolab.com/?id=Z8NMhu1Fohc&title=US+and+UAE+announce+military+artificial+intelligence+task+force+%7C+Breaking+News&lang=en&timestamp=1787363949&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=40" alt="US and UAE announce military artificial intelligence task force | Breaking News" title="US and UAE announce military artificial intelligence task force | Breaking News">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KKoa0Ya9nJg&title=OpenAI+Just+Pulled+the+Emergency+Brakes+on+AI&lang=en&timestamp=1787323827&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1754">
+          <img src="https://ytcards.demolab.com/?id=KKoa0Ya9nJg&title=OpenAI+Just+Pulled+the+Emergency+Brakes+on+AI&lang=en&timestamp=1787323827&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1754" alt="OpenAI Just Pulled the Emergency Brakes on AI" title="OpenAI Just Pulled the Emergency Brakes on AI">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
+      <a href="https://www.youtube.com/watch?v=ileUkRD5B4c" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ileUkRD5B4c&title=Artificial+intelligence+playing+a+big+role+in+choosing+college+majors&lang=en&timestamp=1787356227&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=149">
+          <img src="https://ytcards.demolab.com/?id=ileUkRD5B4c&title=Artificial+intelligence+playing+a+big+role+in+choosing+college+majors&lang=en&timestamp=1787356227&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=149" alt="Artificial intelligence playing a big role in choosing college majors" title="Artificial intelligence playing a big role in choosing college majors">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=Z8NMhu1Fohc" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Z8NMhu1Fohc&title=US+and+UAE+announce+military+artificial+intelligence+task+force+%7C+Breaking+News&lang=en&timestamp=1787363427&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=40">
+          <img src="https://ytcards.demolab.com/?id=Z8NMhu1Fohc&title=US+and+UAE+announce+military+artificial+intelligence+task+force+%7C+Breaking+News&lang=en&timestamp=1787363427&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=40" alt="US and UAE announce military artificial intelligence task force | Breaking News" title="US and UAE announce military artificial intelligence task force | Breaking News">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
       <a href="https://www.youtube.com/watch?v=2aM1gohpvYA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2aM1gohpvYA&title=What+role+is+Artificial+Intelligence+playing+in+schools%3F&lang=en&timestamp=1787320749&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=208">
-          <img src="https://ytcards.demolab.com/?id=2aM1gohpvYA&title=What+role+is+Artificial+Intelligence+playing+in+schools%3F&lang=en&timestamp=1787320749&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=208" alt="What role is Artificial Intelligence playing in schools?" title="What role is Artificial Intelligence playing in schools?">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=M5A8SombhwA" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=M5A8SombhwA&title=Key+Principles+of+Artificial+Intelligence+%28AI%29+and+Machine+Learning%21&lang=en&timestamp=1787327949&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=633">
-          <img src="https://ytcards.demolab.com/?id=M5A8SombhwA&title=Key+Principles+of+Artificial+Intelligence+%28AI%29+and+Machine+Learning%21&lang=en&timestamp=1787327949&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=633" alt="Key Principles of Artificial Intelligence (AI) and Machine Learning!" title="Key Principles of Artificial Intelligence (AI) and Machine Learning!">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=qWKHFYixR7U" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qWKHFYixR7U&title=ARTIFICIAL+INTELLIGENCE+EXPLAINED+%5B+AI+TOOLS+%26+FEATURES+%5D&lang=en&timestamp=1787338749&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=325">
-          <img src="https://ytcards.demolab.com/?id=qWKHFYixR7U&title=ARTIFICIAL+INTELLIGENCE+EXPLAINED+%5B+AI+TOOLS+%26+FEATURES+%5D&lang=en&timestamp=1787338749&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=325" alt="ARTIFICIAL INTELLIGENCE EXPLAINED [ AI TOOLS & FEATURES ]" title="ARTIFICIAL INTELLIGENCE EXPLAINED [ AI TOOLS & FEATURES ]">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2aM1gohpvYA&title=What+role+is+Artificial+Intelligence+playing+in+schools%3F&lang=en&timestamp=1787320227&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=208">
+          <img src="https://ytcards.demolab.com/?id=2aM1gohpvYA&title=What+role+is+Artificial+Intelligence+playing+in+schools%3F&lang=en&timestamp=1787320227&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=208" alt="What role is Artificial Intelligence playing in schools?" title="What role is Artificial Intelligence playing in schools?">
         </picture>
       </a>
     </td>
