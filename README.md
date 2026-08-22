@@ -421,56 +421,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ZRuIEB1x4u4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=zFPwGxDp_kg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ZRuIEB1x4u4&title=Ilya+Sutskever%E2%80%99s+New+AI+Superintelligence++Is+About+to+Change+A..I+Forever%3F&lang=en&timestamp=1787319157&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=687">
-          <img src="https://ytcards.demolab.com/?id=ZRuIEB1x4u4&title=Ilya+Sutskever%E2%80%99s+New+AI+Superintelligence++Is+About+to+Change+A..I+Forever%3F&lang=en&timestamp=1787319157&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=687" alt="Ilya Sutskever’s New AI Superintelligence  Is About to Change A..I Forever?" title="Ilya Sutskever’s New AI Superintelligence  Is About to Change A..I Forever?">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=DpU0qXkQrAs" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=DpU0qXkQrAs&title=UK+data+centres+expand+as+AI+boom+raises+concerns+over+water+and+power+use&lang=en&timestamp=1787326357&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=166">
-          <img src="https://ytcards.demolab.com/?id=DpU0qXkQrAs&title=UK+data+centres+expand+as+AI+boom+raises+concerns+over+water+and+power+use&lang=en&timestamp=1787326357&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=166" alt="UK data centres expand as AI boom raises concerns over water and power use" title="UK data centres expand as AI boom raises concerns over water and power use">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ZgPGlUYMhhY" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ZgPGlUYMhhY&title=Ai+Bubble%3A+%22Singularity++is+garbage%22&lang=en&timestamp=1787329957&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=983">
-          <img src="https://ytcards.demolab.com/?id=ZgPGlUYMhhY&title=Ai+Bubble%3A+%22Singularity++is+garbage%22&lang=en&timestamp=1787329957&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=983" alt="Ai Bubble: &quot;Singularity  is garbage&quot;" title="Ai Bubble: &quot;Singularity  is garbage&quot;">
-        </picture>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=mJi-bI1zQ-o" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mJi-bI1zQ-o&title=Oracle+Prepares+Second+Mass+Layoffs+In+The+U.S.%7C+Indians+In+U.S.+Affected%21&lang=en&timestamp=1787333557&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=237">
-          <img src="https://ytcards.demolab.com/?id=mJi-bI1zQ-o&title=Oracle+Prepares+Second+Mass+Layoffs+In+The+U.S.%7C+Indians+In+U.S.+Affected%21&lang=en&timestamp=1787333557&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=237" alt="Oracle Prepares Second Mass Layoffs In The U.S.| Indians In U.S. Affected!" title="Oracle Prepares Second Mass Layoffs In The U.S.| Indians In U.S. Affected!">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=aBCsBQAnoVs" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aBCsBQAnoVs&title=How+doctors+use+artificial+intelligence+during+exams+and+appointments&lang=en&timestamp=1787351557&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=124">
-          <img src="https://ytcards.demolab.com/?id=aBCsBQAnoVs&title=How+doctors+use+artificial+intelligence+during+exams+and+appointments&lang=en&timestamp=1787351557&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=124" alt="How doctors use artificial intelligence during exams and appointments" title="How doctors use artificial intelligence during exams and appointments">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zFPwGxDp_kg&title=Japan+Approves+Code+for+AI+Copyright+Protection+%7C+WION&lang=en&timestamp=1787312972&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=143">
+          <img src="https://ytcards.demolab.com/?id=zFPwGxDp_kg&title=Japan+Approves+Code+for+AI+Copyright+Protection+%7C+WION&lang=en&timestamp=1787312972&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=143" alt="Japan Approves Code for AI Copyright Protection | WION" title="Japan Approves Code for AI Copyright Protection | WION">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=ileUkRD5B4c" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ileUkRD5B4c&title=Artificial+intelligence+playing+a+big+role+in+choosing+college+majors&lang=en&timestamp=1787355157&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=149">
-          <img src="https://ytcards.demolab.com/?id=ileUkRD5B4c&title=Artificial+intelligence+playing+a+big+role+in+choosing+college+majors&lang=en&timestamp=1787355157&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=149" alt="Artificial intelligence playing a big role in choosing college majors" title="Artificial intelligence playing a big role in choosing college majors">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ileUkRD5B4c&title=Artificial+intelligence+playing+a+big+role+in+choosing+college+majors&lang=en&timestamp=1787356172&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=149">
+          <img src="https://ytcards.demolab.com/?id=ileUkRD5B4c&title=Artificial+intelligence+playing+a+big+role+in+choosing+college+majors&lang=en&timestamp=1787356172&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=149" alt="Artificial intelligence playing a big role in choosing college majors" title="Artificial intelligence playing a big role in choosing college majors">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=FLPQJIJ9x7Q" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=FLPQJIJ9x7Q&title=SanDisk+Just+Bet+Against+AI&lang=en&timestamp=1787334572&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=891">
+          <img src="https://ytcards.demolab.com/?id=FLPQJIJ9x7Q&title=SanDisk+Just+Bet+Against+AI&lang=en&timestamp=1787334572&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=891" alt="SanDisk Just Bet Against AI" title="SanDisk Just Bet Against AI">
+        </picture>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=ZgPGlUYMhhY" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ZgPGlUYMhhY&title=Ai+Bubble%3A+%22Singularity++is+garbage%22&lang=en&timestamp=1787330972&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=983">
+          <img src="https://ytcards.demolab.com/?id=ZgPGlUYMhhY&title=Ai+Bubble%3A+%22Singularity++is+garbage%22&lang=en&timestamp=1787330972&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=983" alt="Ai Bubble: &quot;Singularity  is garbage&quot;" title="Ai Bubble: &quot;Singularity  is garbage&quot;">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=aBCsBQAnoVs" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aBCsBQAnoVs&title=How+doctors+use+artificial+intelligence+during+exams+and+appointments&lang=en&timestamp=1787348972&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=124">
+          <img src="https://ytcards.demolab.com/?id=aBCsBQAnoVs&title=How+doctors+use+artificial+intelligence+during+exams+and+appointments&lang=en&timestamp=1787348972&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=124" alt="How doctors use artificial intelligence during exams and appointments" title="How doctors use artificial intelligence during exams and appointments">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=2aM1gohpvYA" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2aM1gohpvYA&title=What+role+is+Artificial+Intelligence+playing+in+schools%3F&lang=en&timestamp=1787320172&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=208">
+          <img src="https://ytcards.demolab.com/?id=2aM1gohpvYA&title=What+role+is+Artificial+Intelligence+playing+in+schools%3F&lang=en&timestamp=1787320172&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=208" alt="What role is Artificial Intelligence playing in schools?" title="What role is Artificial Intelligence playing in schools?">
         </picture>
       </a>
     </td>
