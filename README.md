@@ -419,56 +419,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=egbK3OFFIEU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=3P2wMsFnVFg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=egbK3OFFIEU&title=What%E2%80%99s+on+My+Mac+2026+%2F%2F+AI%2C+Productivity%2C+Creative+Tools+%26+Workflow%21&lang=en&timestamp=1787341827&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=845">
-          <img src="https://ytcards.demolab.com/?id=egbK3OFFIEU&title=What%E2%80%99s+on+My+Mac+2026+%2F%2F+AI%2C+Productivity%2C+Creative+Tools+%26+Workflow%21&lang=en&timestamp=1787341827&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=845" alt="What’s on My Mac 2026 // AI, Productivity, Creative Tools & Workflow!" title="What’s on My Mac 2026 // AI, Productivity, Creative Tools & Workflow!">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3P2wMsFnVFg&title=Will+He+Fake+the+AI+Apocalypse%3F&lang=en&timestamp=1787330321&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1267">
+          <img src="https://ytcards.demolab.com/?id=3P2wMsFnVFg&title=Will+He+Fake+the+AI+Apocalypse%3F&lang=en&timestamp=1787330321&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1267" alt="Will He Fake the AI Apocalypse?" title="Will He Fake the AI Apocalypse?">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=aBCsBQAnoVs" target="_blank">
+      <a href="https://www.youtube.com/watch?v=zFPwGxDp_kg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aBCsBQAnoVs&title=How+doctors+use+artificial+intelligence+during+exams+and+appointments&lang=en&timestamp=1787349027&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=124">
-          <img src="https://ytcards.demolab.com/?id=aBCsBQAnoVs&title=How+doctors+use+artificial+intelligence+during+exams+and+appointments&lang=en&timestamp=1787349027&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=124" alt="How doctors use artificial intelligence during exams and appointments" title="How doctors use artificial intelligence during exams and appointments">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zFPwGxDp_kg&title=Japan+Approves+Code+for+AI+Copyright+Protection+%7C+WION&lang=en&timestamp=1787312321&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=143">
+          <img src="https://ytcards.demolab.com/?id=zFPwGxDp_kg&title=Japan+Approves+Code+for+AI+Copyright+Protection+%7C+WION&lang=en&timestamp=1787312321&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=143" alt="Japan Approves Code for AI Copyright Protection | WION" title="Japan Approves Code for AI Copyright Protection | WION">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=KKoa0Ya9nJg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=s7hvBCW9eoE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KKoa0Ya9nJg&title=OpenAI+Just+Pulled+the+Emergency+Brakes+on+AI&lang=en&timestamp=1787323827&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1754">
-          <img src="https://ytcards.demolab.com/?id=KKoa0Ya9nJg&title=OpenAI+Just+Pulled+the+Emergency+Brakes+on+AI&lang=en&timestamp=1787323827&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1754" alt="OpenAI Just Pulled the Emergency Brakes on AI" title="OpenAI Just Pulled the Emergency Brakes on AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=s7hvBCW9eoE&title=Artificial+Intelligence+Got+Its+Own+Computer&lang=en&timestamp=1787369921&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=626">
+          <img src="https://ytcards.demolab.com/?id=s7hvBCW9eoE&title=Artificial+Intelligence+Got+Its+Own+Computer&lang=en&timestamp=1787369921&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=626" alt="Artificial Intelligence Got Its Own Computer" title="Artificial Intelligence Got Its Own Computer">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
+      <a href="https://www.youtube.com/watch?v=BoIG45Bvdd0" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BoIG45Bvdd0&title=The+Rise+Of+Artificial+Love%3A+Can+AI+Chatbots+And+Robots+Replace+Human+Partners%3F+%7C+WION&lang=en&timestamp=1787315921&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=156">
+          <img src="https://ytcards.demolab.com/?id=BoIG45Bvdd0&title=The+Rise+Of+Artificial+Love%3A+Can+AI+Chatbots+And+Robots+Replace+Human+Partners%3F+%7C+WION&lang=en&timestamp=1787315921&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=156" alt="The Rise Of Artificial Love: Can AI Chatbots And Robots Replace Human Partners? | WION" title="The Rise Of Artificial Love: Can AI Chatbots And Robots Replace Human Partners? | WION">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=aBCsBQAnoVs" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aBCsBQAnoVs&title=How+doctors+use+artificial+intelligence+during+exams+and+appointments&lang=en&timestamp=1787351921&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=124">
+          <img src="https://ytcards.demolab.com/?id=aBCsBQAnoVs&title=How+doctors+use+artificial+intelligence+during+exams+and+appointments&lang=en&timestamp=1787351921&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=124" alt="How doctors use artificial intelligence during exams and appointments" title="How doctors use artificial intelligence during exams and appointments">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
       <a href="https://www.youtube.com/watch?v=ileUkRD5B4c" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ileUkRD5B4c&title=Artificial+intelligence+playing+a+big+role+in+choosing+college+majors&lang=en&timestamp=1787356227&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=149">
-          <img src="https://ytcards.demolab.com/?id=ileUkRD5B4c&title=Artificial+intelligence+playing+a+big+role+in+choosing+college+majors&lang=en&timestamp=1787356227&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=149" alt="Artificial intelligence playing a big role in choosing college majors" title="Artificial intelligence playing a big role in choosing college majors">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Z8NMhu1Fohc" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Z8NMhu1Fohc&title=US+and+UAE+announce+military+artificial+intelligence+task+force+%7C+Breaking+News&lang=en&timestamp=1787363427&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=40">
-          <img src="https://ytcards.demolab.com/?id=Z8NMhu1Fohc&title=US+and+UAE+announce+military+artificial+intelligence+task+force+%7C+Breaking+News&lang=en&timestamp=1787363427&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=40" alt="US and UAE announce military artificial intelligence task force | Breaking News" title="US and UAE announce military artificial intelligence task force | Breaking News">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=2aM1gohpvYA" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2aM1gohpvYA&title=What+role+is+Artificial+Intelligence+playing+in+schools%3F&lang=en&timestamp=1787320227&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=208">
-          <img src="https://ytcards.demolab.com/?id=2aM1gohpvYA&title=What+role+is+Artificial+Intelligence+playing+in+schools%3F&lang=en&timestamp=1787320227&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=208" alt="What role is Artificial Intelligence playing in schools?" title="What role is Artificial Intelligence playing in schools?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ileUkRD5B4c&title=Artificial+intelligence+playing+a+big+role+in+choosing+college+majors&lang=en&timestamp=1787355521&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=149">
+          <img src="https://ytcards.demolab.com/?id=ileUkRD5B4c&title=Artificial+intelligence+playing+a+big+role+in+choosing+college+majors&lang=en&timestamp=1787355521&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=149" alt="Artificial intelligence playing a big role in choosing college majors" title="Artificial intelligence playing a big role in choosing college majors">
         </picture>
       </a>
     </td>
