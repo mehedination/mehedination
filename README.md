@@ -443,56 +443,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=SmmS4iZvy58" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SmmS4iZvy58&title=AI%27s+circular+money+machine+faces+the+ultimate+DEMAND+TEST&lang=en&timestamp=1787452155&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=531">
-          <img src="https://ytcards.demolab.com/?id=SmmS4iZvy58&title=AI%27s+circular+money+machine+faces+the+ultimate+DEMAND+TEST&lang=en&timestamp=1787452155&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=531" alt="AI's circular money machine faces the ultimate DEMAND TEST" title="AI's circular money machine faces the ultimate DEMAND TEST">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=JV37zLPX7Oo" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JV37zLPX7Oo&title=The+Deepest+Scene+in+the+Entire+Sci-Fi+Cinema&lang=en&timestamp=1787430555&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=838">
-          <img src="https://ytcards.demolab.com/?id=JV37zLPX7Oo&title=The+Deepest+Scene+in+the+Entire+Sci-Fi+Cinema&lang=en&timestamp=1787430555&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=838" alt="The Deepest Scene in the Entire Sci-Fi Cinema" title="The Deepest Scene in the Entire Sci-Fi Cinema">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SmmS4iZvy58&title=AI%27s+circular+money+machine+faces+the+ultimate+DEMAND+TEST&lang=en&timestamp=1787452019&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=531">
+          <img src="https://ytcards.demolab.com/?id=SmmS4iZvy58&title=AI%27s+circular+money+machine+faces+the+ultimate+DEMAND+TEST&lang=en&timestamp=1787452019&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=531" alt="AI's circular money machine faces the ultimate DEMAND TEST" title="AI's circular money machine faces the ultimate DEMAND TEST">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=WNGcwV-zsXA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WNGcwV-zsXA&title=Faith+in+the+Age+of+Artificial+Intelligence%3A+Is+AI+a+Blessing+or+Curse%3F+%7C+Shaykh+Dr.+Yasir+Qadhi&lang=en&timestamp=1787344155&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2697">
-          <img src="https://ytcards.demolab.com/?id=WNGcwV-zsXA&title=Faith+in+the+Age+of+Artificial+Intelligence%3A+Is+AI+a+Blessing+or+Curse%3F+%7C+Shaykh+Dr.+Yasir+Qadhi&lang=en&timestamp=1787344155&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2697" alt="Faith in the Age of Artificial Intelligence: Is AI a Blessing or Curse? | Shaykh Dr. Yasir Qadhi" title="Faith in the Age of Artificial Intelligence: Is AI a Blessing or Curse? | Shaykh Dr. Yasir Qadhi">
-        </picture>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=8FMQHTpquaE" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8FMQHTpquaE&title=National+Day+Rally+2026%3A+S%27pore+to+handle+gains%2C+risks+of+tech+change+on+its+own+terms%2C+says+PM+Wong&lang=en&timestamp=1787502555&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=239">
-          <img src="https://ytcards.demolab.com/?id=8FMQHTpquaE&title=National+Day+Rally+2026%3A+S%27pore+to+handle+gains%2C+risks+of+tech+change+on+its+own+terms%2C+says+PM+Wong&lang=en&timestamp=1787502555&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=239" alt="National Day Rally 2026: S'pore to handle gains, risks of tech change on its own terms, says PM Wong" title="National Day Rally 2026: S'pore to handle gains, risks of tech change on its own terms, says PM Wong">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WNGcwV-zsXA&title=Faith+in+the+Age+of+Artificial+Intelligence%3A+Is+AI+a+Blessing+or+Curse%3F+%7C+Shaykh+Dr.+Yasir+Qadhi&lang=en&timestamp=1787347619&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2697">
+          <img src="https://ytcards.demolab.com/?id=WNGcwV-zsXA&title=Faith+in+the+Age+of+Artificial+Intelligence%3A+Is+AI+a+Blessing+or+Curse%3F+%7C+Shaykh+Dr.+Yasir+Qadhi&lang=en&timestamp=1787347619&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2697" alt="Faith in the Age of Artificial Intelligence: Is AI a Blessing or Curse? | Shaykh Dr. Yasir Qadhi" title="Faith in the Age of Artificial Intelligence: Is AI a Blessing or Curse? | Shaykh Dr. Yasir Qadhi">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=O07vdWfhqow" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=O07vdWfhqow&title=110+Disturbing+Facts+About+Artificial+Intelligence+to+Fall+Asleep+To&lang=en&timestamp=1787437755&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7975">
-          <img src="https://ytcards.demolab.com/?id=O07vdWfhqow&title=110+Disturbing+Facts+About+Artificial+Intelligence+to+Fall+Asleep+To&lang=en&timestamp=1787437755&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7975" alt="110 Disturbing Facts About Artificial Intelligence to Fall Asleep To" title="110 Disturbing Facts About Artificial Intelligence to Fall Asleep To">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=O07vdWfhqow&title=110+Disturbing+Facts+About+Artificial+Intelligence+to+Fall+Asleep+To&lang=en&timestamp=1787437619&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7975">
+          <img src="https://ytcards.demolab.com/?id=O07vdWfhqow&title=110+Disturbing+Facts+About+Artificial+Intelligence+to+Fall+Asleep+To&lang=en&timestamp=1787437619&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7975" alt="110 Disturbing Facts About Artificial Intelligence to Fall Asleep To" title="110 Disturbing Facts About Artificial Intelligence to Fall Asleep To">
+        </picture>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=WIxn9k1YSPc" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WIxn9k1YSPc&title=The+Overdue+Collapse+Of+Artificial+Intelligence&lang=en&timestamp=1787480819&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=351">
+          <img src="https://ytcards.demolab.com/?id=WIxn9k1YSPc&title=The+Overdue+Collapse+Of+Artificial+Intelligence&lang=en&timestamp=1787480819&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=351" alt="The Overdue Collapse Of Artificial Intelligence" title="The Overdue Collapse Of Artificial Intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=4IzCVdxIUC8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=8FMQHTpquaE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4IzCVdxIUC8&title=Human+agency%2C+AI+and+the+future+of+mission-driven+work+%7C+Microsoft&lang=en&timestamp=1787473755&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=11430">
-          <img src="https://ytcards.demolab.com/?id=4IzCVdxIUC8&title=Human+agency%2C+AI+and+the+future+of+mission-driven+work+%7C+Microsoft&lang=en&timestamp=1787473755&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=11430" alt="Human agency, AI and the future of mission-driven work | Microsoft" title="Human agency, AI and the future of mission-driven work | Microsoft">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8FMQHTpquaE&title=National+Day+Rally+2026%3A+S%27pore+to+handle+gains%2C+risks+of+tech+change+on+its+own+terms%2C+says+PM+Wong&lang=en&timestamp=1787502419&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=239">
+          <img src="https://ytcards.demolab.com/?id=8FMQHTpquaE&title=National+Day+Rally+2026%3A+S%27pore+to+handle+gains%2C+risks+of+tech+change+on+its+own+terms%2C+says+PM+Wong&lang=en&timestamp=1787502419&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=239" alt="National Day Rally 2026: S'pore to handle gains, risks of tech change on its own terms, says PM Wong" title="National Day Rally 2026: S'pore to handle gains, risks of tech change on its own terms, says PM Wong">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=xgXY5lHgbhM" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xgXY5lHgbhM&title=The+Trillion+dollar+Race+to+Power+Artificial+Intelligence&lang=en&timestamp=1787434019&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=601">
+          <img src="https://ytcards.demolab.com/?id=xgXY5lHgbhM&title=The+Trillion+dollar+Race+to+Power+Artificial+Intelligence&lang=en&timestamp=1787434019&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=601" alt="The Trillion dollar Race to Power Artificial Intelligence" title="The Trillion dollar Race to Power Artificial Intelligence">
         </picture>
       </a>
     </td>
