@@ -439,56 +439,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=SmmS4iZvy58" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SmmS4iZvy58&title=AI%27s+circular+money+machine+faces+the+ultimate+DEMAND+TEST&lang=en&timestamp=1787448703&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=531">
-          <img src="https://ytcards.demolab.com/?id=SmmS4iZvy58&title=AI%27s+circular+money+machine+faces+the+ultimate+DEMAND+TEST&lang=en&timestamp=1787448703&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=531" alt="AI's circular money machine faces the ultimate DEMAND TEST" title="AI's circular money machine faces the ultimate DEMAND TEST">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SmmS4iZvy58&title=AI%27s+circular+money+machine+faces+the+ultimate+DEMAND+TEST&lang=en&timestamp=1787451901&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=531">
+          <img src="https://ytcards.demolab.com/?id=SmmS4iZvy58&title=AI%27s+circular+money+machine+faces+the+ultimate+DEMAND+TEST&lang=en&timestamp=1787451901&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=531" alt="AI's circular money machine faces the ultimate DEMAND TEST" title="AI's circular money machine faces the ultimate DEMAND TEST">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=WNGcwV-zsXA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=CGkM68EG0CA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WNGcwV-zsXA&title=Faith+in+the+Age+of+Artificial+Intelligence%3A+Is+AI+a+Blessing+or+Curse%3F+%7C+Shaykh+Dr.+Yasir+Qadhi&lang=en&timestamp=1787416303&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2890">
-          <img src="https://ytcards.demolab.com/?id=WNGcwV-zsXA&title=Faith+in+the+Age+of+Artificial+Intelligence%3A+Is+AI+a+Blessing+or+Curse%3F+%7C+Shaykh+Dr.+Yasir+Qadhi&lang=en&timestamp=1787416303&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2890" alt="Faith in the Age of Artificial Intelligence: Is AI a Blessing or Curse? | Shaykh Dr. Yasir Qadhi" title="Faith in the Age of Artificial Intelligence: Is AI a Blessing or Curse? | Shaykh Dr. Yasir Qadhi">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=O07vdWfhqow" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=O07vdWfhqow&title=110+Disturbing+Facts+About+Artificial+Intelligence+to+Fall+Asleep+To&lang=en&timestamp=1787437903&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7975">
-          <img src="https://ytcards.demolab.com/?id=O07vdWfhqow&title=110+Disturbing+Facts+About+Artificial+Intelligence+to+Fall+Asleep+To&lang=en&timestamp=1787437903&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7975" alt="110 Disturbing Facts About Artificial Intelligence to Fall Asleep To" title="110 Disturbing Facts About Artificial Intelligence to Fall Asleep To">
-        </picture>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=JV37zLPX7Oo" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JV37zLPX7Oo&title=The+Deepest+Scene+in+the+Entire+Sci-Fi+Cinema&lang=en&timestamp=1787416303&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=838">
-          <img src="https://ytcards.demolab.com/?id=JV37zLPX7Oo&title=The+Deepest+Scene+in+the+Entire+Sci-Fi+Cinema&lang=en&timestamp=1787416303&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=838" alt="The Deepest Scene in the Entire Sci-Fi Cinema" title="The Deepest Scene in the Entire Sci-Fi Cinema">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=CGkM68EG0CA&title=Missed+The+AI+Boom%3F+This+Is+10+Times+Bigger.&lang=en&timestamp=1787419501&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1011">
+          <img src="https://ytcards.demolab.com/?id=CGkM68EG0CA&title=Missed+The+AI+Boom%3F+This+Is+10+Times+Bigger.&lang=en&timestamp=1787419501&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1011" alt="Missed The AI Boom? This Is 10 Times Bigger." title="Missed The AI Boom? This Is 10 Times Bigger.">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=6WK8ZEsVK_U" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6WK8ZEsVK_U&title=AI+Is+Already+Doing+Things+Its+Creators+Don%27t+Understand+%7C+Jon+Hern%C3%A1ndez+%23LFDE&lang=en&timestamp=1787484703&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7192">
-          <img src="https://ytcards.demolab.com/?id=6WK8ZEsVK_U&title=AI+Is+Already+Doing+Things+Its+Creators+Don%27t+Understand+%7C+Jon+Hern%C3%A1ndez+%23LFDE&lang=en&timestamp=1787484703&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7192" alt="AI Is Already Doing Things Its Creators Don't Understand | Jon Hernández #LFDE" title="AI Is Already Doing Things Its Creators Don't Understand | Jon Hernández #LFDE">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6WK8ZEsVK_U&title=AI+Is+Already+Doing+Things+Its+Creators+Don%27t+Understand+%7C+Jon+Hern%C3%A1ndez+%23LFDE&lang=en&timestamp=1787484301&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7192">
+          <img src="https://ytcards.demolab.com/?id=6WK8ZEsVK_U&title=AI+Is+Already+Doing+Things+Its+Creators+Don%27t+Understand+%7C+Jon+Hern%C3%A1ndez+%23LFDE&lang=en&timestamp=1787484301&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7192" alt="AI Is Already Doing Things Its Creators Don't Understand | Jon Hernández #LFDE" title="AI Is Already Doing Things Its Creators Don't Understand | Jon Hernández #LFDE">
+        </picture>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=WNGcwV-zsXA" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WNGcwV-zsXA&title=Faith+in+the+Age+of+Artificial+Intelligence%3A+Is+AI+a+Blessing+or+Curse%3F+%7C+Shaykh+Dr.+Yasir+Qadhi&lang=en&timestamp=1787419501&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2890">
+          <img src="https://ytcards.demolab.com/?id=WNGcwV-zsXA&title=Faith+in+the+Age+of+Artificial+Intelligence%3A+Is+AI+a+Blessing+or+Curse%3F+%7C+Shaykh+Dr.+Yasir+Qadhi&lang=en&timestamp=1787419501&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2890" alt="Faith in the Age of Artificial Intelligence: Is AI a Blessing or Curse? | Shaykh Dr. Yasir Qadhi" title="Faith in the Age of Artificial Intelligence: Is AI a Blessing or Curse? | Shaykh Dr. Yasir Qadhi">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=EBh0gDcXWA4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=O07vdWfhqow" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EBh0gDcXWA4&title=Real+Women+Are+Becoming+%E2%80%9CBad+For+Business%E2%80%9D%E2%80%A6+And+It%E2%80%99s+Getting+Disturbing&lang=en&timestamp=1787416303&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1808">
-          <img src="https://ytcards.demolab.com/?id=EBh0gDcXWA4&title=Real+Women+Are+Becoming+%E2%80%9CBad+For+Business%E2%80%9D%E2%80%A6+And+It%E2%80%99s+Getting+Disturbing&lang=en&timestamp=1787416303&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1808" alt="Real Women Are Becoming “Bad For Business”… And It’s Getting Disturbing" title="Real Women Are Becoming “Bad For Business”… And It’s Getting Disturbing">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=O07vdWfhqow&title=110+Disturbing+Facts+About+Artificial+Intelligence+to+Fall+Asleep+To&lang=en&timestamp=1787437501&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7975">
+          <img src="https://ytcards.demolab.com/?id=O07vdWfhqow&title=110+Disturbing+Facts+About+Artificial+Intelligence+to+Fall+Asleep+To&lang=en&timestamp=1787437501&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7975" alt="110 Disturbing Facts About Artificial Intelligence to Fall Asleep To" title="110 Disturbing Facts About Artificial Intelligence to Fall Asleep To">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=rKbVeHfUf98" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=rKbVeHfUf98&title=Experts+Put+OpenAI+on+Pause&lang=en&timestamp=1787419501&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1451">
+          <img src="https://ytcards.demolab.com/?id=rKbVeHfUf98&title=Experts+Put+OpenAI+on+Pause&lang=en&timestamp=1787419501&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1451" alt="Experts Put OpenAI on Pause" title="Experts Put OpenAI on Pause">
         </picture>
       </a>
     </td>
