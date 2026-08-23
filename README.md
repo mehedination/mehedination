@@ -429,30 +429,31 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=JV37zLPX7Oo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JV37zLPX7Oo&title=The+Deepest+Scene+in+the+Entire+Sci-Fi+Cinema&lang=en&timestamp=1787416977&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=838">
-          <img src="https://ytcards.demolab.com/?id=JV37zLPX7Oo&title=The+Deepest+Scene+in+the+Entire+Sci-Fi+Cinema&lang=en&timestamp=1787416977&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=838" alt="The Deepest Scene in the Entire Sci-Fi Cinema" title="The Deepest Scene in the Entire Sci-Fi Cinema">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JV37zLPX7Oo&title=The+Deepest+Scene+in+the+Entire+Sci-Fi+Cinema&lang=en&timestamp=1787416441&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=838">
+          <img src="https://ytcards.demolab.com/?id=JV37zLPX7Oo&title=The+Deepest+Scene+in+the+Entire+Sci-Fi+Cinema&lang=en&timestamp=1787416441&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=838" alt="The Deepest Scene in the Entire Sci-Fi Cinema" title="The Deepest Scene in the Entire Sci-Fi Cinema">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=WNGcwV-zsXA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WNGcwV-zsXA&title=Faith+in+the+Age+of+Artificial+Intelligence%3A+Is+AI+a+Blessing+or+Curse%3F+%7C+Shaykh+Dr.+Yasir+Qadhi&lang=en&timestamp=1787373777&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2890">
-          <img src="https://ytcards.demolab.com/?id=WNGcwV-zsXA&title=Faith+in+the+Age+of+Artificial+Intelligence%3A+Is+AI+a+Blessing+or+Curse%3F+%7C+Shaykh+Dr.+Yasir+Qadhi&lang=en&timestamp=1787373777&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2890" alt="Faith in the Age of Artificial Intelligence: Is AI a Blessing or Curse? | Shaykh Dr. Yasir Qadhi" title="Faith in the Age of Artificial Intelligence: Is AI a Blessing or Curse? | Shaykh Dr. Yasir Qadhi">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WNGcwV-zsXA&title=Faith+in+the+Age+of+Artificial+Intelligence%3A+Is+AI+a+Blessing+or+Curse%3F+%7C+Shaykh+Dr.+Yasir+Qadhi&lang=en&timestamp=1787376841&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2890">
+          <img src="https://ytcards.demolab.com/?id=WNGcwV-zsXA&title=Faith+in+the+Age+of+Artificial+Intelligence%3A+Is+AI+a+Blessing+or+Curse%3F+%7C+Shaykh+Dr.+Yasir+Qadhi&lang=en&timestamp=1787376841&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2890" alt="Faith in the Age of Artificial Intelligence: Is AI a Blessing or Curse? | Shaykh Dr. Yasir Qadhi" title="Faith in the Age of Artificial Intelligence: Is AI a Blessing or Curse? | Shaykh Dr. Yasir Qadhi">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=O07vdWfhqow" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=O07vdWfhqow&title=110+Disturbing+Facts+About+Artificial+Intelligence+to+Fall+Asleep+To&lang=en&timestamp=1787434977&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7975">
-          <img src="https://ytcards.demolab.com/?id=O07vdWfhqow&title=110+Disturbing+Facts+About+Artificial+Intelligence+to+Fall+Asleep+To&lang=en&timestamp=1787434977&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7975" alt="110 Disturbing Facts About Artificial Intelligence to Fall Asleep To" title="110 Disturbing Facts About Artificial Intelligence to Fall Asleep To">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=O07vdWfhqow&title=110+Disturbing+Facts+About+Artificial+Intelligence+to+Fall+Asleep+To&lang=en&timestamp=1787434441&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7975">
+          <img src="https://ytcards.demolab.com/?id=O07vdWfhqow&title=110+Disturbing+Facts+About+Artificial+Intelligence+to+Fall+Asleep+To&lang=en&timestamp=1787434441&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7975" alt="110 Disturbing Facts About Artificial Intelligence to Fall Asleep To" title="110 Disturbing Facts About Artificial Intelligence to Fall Asleep To">
         </picture>
       </a>
     </td>
@@ -461,24 +462,24 @@
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=EBh0gDcXWA4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EBh0gDcXWA4&title=Real+Women+Are+Becoming+%E2%80%9CBad+For+Business%E2%80%9D%E2%80%A6+And+It%E2%80%99s+Getting+Disturbing&lang=en&timestamp=1787416977&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1808">
-          <img src="https://ytcards.demolab.com/?id=EBh0gDcXWA4&title=Real+Women+Are+Becoming+%E2%80%9CBad+For+Business%E2%80%9D%E2%80%A6+And+It%E2%80%99s+Getting+Disturbing&lang=en&timestamp=1787416977&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1808" alt="Real Women Are Becoming “Bad For Business”… And It’s Getting Disturbing" title="Real Women Are Becoming “Bad For Business”… And It’s Getting Disturbing">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=xgXY5lHgbhM" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xgXY5lHgbhM&title=The+Trillion+dollar+Race+to+Power+Artificial+Intelligence&lang=en&timestamp=1787424177&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=601">
-          <img src="https://ytcards.demolab.com/?id=xgXY5lHgbhM&title=The+Trillion+dollar+Race+to+Power+Artificial+Intelligence&lang=en&timestamp=1787424177&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=601" alt="The Trillion dollar Race to Power Artificial Intelligence" title="The Trillion dollar Race to Power Artificial Intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EBh0gDcXWA4&title=Real+Women+Are+Becoming+%E2%80%9CBad+For+Business%E2%80%9D%E2%80%A6+And+It%E2%80%99s+Getting+Disturbing&lang=en&timestamp=1787416441&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1808">
+          <img src="https://ytcards.demolab.com/?id=EBh0gDcXWA4&title=Real+Women+Are+Becoming+%E2%80%9CBad+For+Business%E2%80%9D%E2%80%A6+And+It%E2%80%99s+Getting+Disturbing&lang=en&timestamp=1787416441&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1808" alt="Real Women Are Becoming “Bad For Business”… And It’s Getting Disturbing" title="Real Women Are Becoming “Bad For Business”… And It’s Getting Disturbing">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=c6zCeh_J5XI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=c6zCeh_J5XI&title=List+Founders+of+AI+Companies&lang=en&timestamp=1787409777&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=194">
-          <img src="https://ytcards.demolab.com/?id=c6zCeh_J5XI&title=List+Founders+of+AI+Companies&lang=en&timestamp=1787409777&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=194" alt="List Founders of AI Companies" title="List Founders of AI Companies">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=c6zCeh_J5XI&title=List+Founders+of+AI+Companies&lang=en&timestamp=1787409241&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=194">
+          <img src="https://ytcards.demolab.com/?id=c6zCeh_J5XI&title=List+Founders+of+AI+Companies&lang=en&timestamp=1787409241&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=194" alt="List Founders of AI Companies" title="List Founders of AI Companies">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=ZOerj0EMmKA" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ZOerj0EMmKA&title=Can+AI+Become+Conscious%3F+%7C+Susan+Schneider&lang=en&timestamp=1787416441&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=983">
+          <img src="https://ytcards.demolab.com/?id=ZOerj0EMmKA&title=Can+AI+Become+Conscious%3F+%7C+Susan+Schneider&lang=en&timestamp=1787416441&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=983" alt="Can AI Become Conscious? | Susan Schneider" title="Can AI Become Conscious? | Susan Schneider">
         </picture>
       </a>
     </td>
