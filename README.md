@@ -441,56 +441,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=SmmS4iZvy58" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SmmS4iZvy58&title=AI%27s+circular+money+machine+faces+the+ultimate+DEMAND+TEST&lang=en&timestamp=1787449031&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=531">
-          <img src="https://ytcards.demolab.com/?id=SmmS4iZvy58&title=AI%27s+circular+money+machine+faces+the+ultimate+DEMAND+TEST&lang=en&timestamp=1787449031&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=531" alt="AI's circular money machine faces the ultimate DEMAND TEST" title="AI's circular money machine faces the ultimate DEMAND TEST">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SmmS4iZvy58&title=AI%27s+circular+money+machine+faces+the+ultimate+DEMAND+TEST&lang=en&timestamp=1787451970&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=531">
+          <img src="https://ytcards.demolab.com/?id=SmmS4iZvy58&title=AI%27s+circular+money+machine+faces+the+ultimate+DEMAND+TEST&lang=en&timestamp=1787451970&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=531" alt="AI's circular money machine faces the ultimate DEMAND TEST" title="AI's circular money machine faces the ultimate DEMAND TEST">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=WNGcwV-zsXA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WNGcwV-zsXA&title=Faith+in+the+Age+of+Artificial+Intelligence%3A+Is+AI+a+Blessing+or+Curse%3F+%7C+Shaykh+Dr.+Yasir+Qadhi&lang=en&timestamp=1787423831&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2890">
-          <img src="https://ytcards.demolab.com/?id=WNGcwV-zsXA&title=Faith+in+the+Age+of+Artificial+Intelligence%3A+Is+AI+a+Blessing+or+Curse%3F+%7C+Shaykh+Dr.+Yasir+Qadhi&lang=en&timestamp=1787423831&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2890" alt="Faith in the Age of Artificial Intelligence: Is AI a Blessing or Curse? | Shaykh Dr. Yasir Qadhi" title="Faith in the Age of Artificial Intelligence: Is AI a Blessing or Curse? | Shaykh Dr. Yasir Qadhi">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WNGcwV-zsXA&title=Faith+in+the+Age+of+Artificial+Intelligence%3A+Is+AI+a+Blessing+or+Curse%3F+%7C+Shaykh+Dr.+Yasir+Qadhi&lang=en&timestamp=1787426770&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2697">
+          <img src="https://ytcards.demolab.com/?id=WNGcwV-zsXA&title=Faith+in+the+Age+of+Artificial+Intelligence%3A+Is+AI+a+Blessing+or+Curse%3F+%7C+Shaykh+Dr.+Yasir+Qadhi&lang=en&timestamp=1787426770&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2697" alt="Faith in the Age of Artificial Intelligence: Is AI a Blessing or Curse? | Shaykh Dr. Yasir Qadhi" title="Faith in the Age of Artificial Intelligence: Is AI a Blessing or Curse? | Shaykh Dr. Yasir Qadhi">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=O07vdWfhqow" target="_blank">
+      <a href="https://www.youtube.com/watch?v=CGkM68EG0CA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=O07vdWfhqow&title=110+Disturbing+Facts+About+Artificial+Intelligence+to+Fall+Asleep+To&lang=en&timestamp=1787434631&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7975">
-          <img src="https://ytcards.demolab.com/?id=O07vdWfhqow&title=110+Disturbing+Facts+About+Artificial+Intelligence+to+Fall+Asleep+To&lang=en&timestamp=1787434631&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7975" alt="110 Disturbing Facts About Artificial Intelligence to Fall Asleep To" title="110 Disturbing Facts About Artificial Intelligence to Fall Asleep To">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=CGkM68EG0CA&title=Missed+The+AI+Boom%3F+This+Is+10+Times+Bigger.&lang=en&timestamp=1787426770&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1011">
+          <img src="https://ytcards.demolab.com/?id=CGkM68EG0CA&title=Missed+The+AI+Boom%3F+This+Is+10+Times+Bigger.&lang=en&timestamp=1787426770&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1011" alt="Missed The AI Boom? This Is 10 Times Bigger." title="Missed The AI Boom? This Is 10 Times Bigger.">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=JV37zLPX7Oo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=kkd-UhJSqCs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JV37zLPX7Oo&title=The+Deepest+Scene+in+the+Entire+Sci-Fi+Cinema&lang=en&timestamp=1787423831&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=838">
-          <img src="https://ytcards.demolab.com/?id=JV37zLPX7Oo&title=The+Deepest+Scene+in+the+Entire+Sci-Fi+Cinema&lang=en&timestamp=1787423831&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=838" alt="The Deepest Scene in the Entire Sci-Fi Cinema" title="The Deepest Scene in the Entire Sci-Fi Cinema">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=4IzCVdxIUC8" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4IzCVdxIUC8&title=Human+agency%2C+AI+and+the+future+of+mission-driven+work+%7C+Microsoft&lang=en&timestamp=1787474231&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=11430">
-          <img src="https://ytcards.demolab.com/?id=4IzCVdxIUC8&title=Human+agency%2C+AI+and+the+future+of+mission-driven+work+%7C+Microsoft&lang=en&timestamp=1787474231&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=11430" alt="Human agency, AI and the future of mission-driven work | Microsoft" title="Human agency, AI and the future of mission-driven work | Microsoft">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=kkd-UhJSqCs&title=Brazil+Announces+Supercomputer+and+Advances+in+Artificial+Intelligence%21+Batista+Brothers+Buy+Avib...&lang=en&timestamp=1787433970&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1441">
+          <img src="https://ytcards.demolab.com/?id=kkd-UhJSqCs&title=Brazil+Announces+Supercomputer+and+Advances+in+Artificial+Intelligence%21+Batista+Brothers+Buy+Avib...&lang=en&timestamp=1787433970&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1441" alt="Brazil Announces Supercomputer and Advances in Artificial Intelligence! Batista Brothers Buy Avib..." title="Brazil Announces Supercomputer and Advances in Artificial Intelligence! Batista Brothers Buy Avib...">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=6WK8ZEsVK_U" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6WK8ZEsVK_U&title=AI+Is+Already+Doing+Things+Its+Creators+Don%27t+Understand+%7C+Jon+Hern%C3%A1ndez+%23LFDE&lang=en&timestamp=1787485031&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7192">
-          <img src="https://ytcards.demolab.com/?id=6WK8ZEsVK_U&title=AI+Is+Already+Doing+Things+Its+Creators+Don%27t+Understand+%7C+Jon+Hern%C3%A1ndez+%23LFDE&lang=en&timestamp=1787485031&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7192" alt="AI Is Already Doing Things Its Creators Don't Understand | Jon Hernández #LFDE" title="AI Is Already Doing Things Its Creators Don't Understand | Jon Hernández #LFDE">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6WK8ZEsVK_U&title=AI+Is+Already+Doing+Things+Its+Creators+Don%27t+Understand+%7C+Jon+Hern%C3%A1ndez+%23LFDE&lang=en&timestamp=1787484370&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7192">
+          <img src="https://ytcards.demolab.com/?id=6WK8ZEsVK_U&title=AI+Is+Already+Doing+Things+Its+Creators+Don%27t+Understand+%7C+Jon+Hern%C3%A1ndez+%23LFDE&lang=en&timestamp=1787484370&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7192" alt="AI Is Already Doing Things Its Creators Don't Understand | Jon Hernández #LFDE" title="AI Is Already Doing Things Its Creators Don't Understand | Jon Hernández #LFDE">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=dFSm9UM-mwo" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=dFSm9UM-mwo&title=This+is+a+tool+to+help+Americans+advance+to+the+next+%27GENERATION+OF+GREATNESS%2C%27+expert+says&lang=en&timestamp=1787451970&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=336">
+          <img src="https://ytcards.demolab.com/?id=dFSm9UM-mwo&title=This+is+a+tool+to+help+Americans+advance+to+the+next+%27GENERATION+OF+GREATNESS%2C%27+expert+says&lang=en&timestamp=1787451970&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=336" alt="This is a tool to help Americans advance to the next 'GENERATION OF GREATNESS,' expert says" title="This is a tool to help Americans advance to the next 'GENERATION OF GREATNESS,' expert says">
         </picture>
       </a>
     </td>
