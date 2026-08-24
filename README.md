@@ -463,56 +463,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=eDoqKpLquG0" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=eDoqKpLquG0&title=Expert+says+AI+can+EXPAND+student+thinking+in+classical+education&lang=en&timestamp=1787517393&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=333">
-          <img src="https://ytcards.demolab.com/?id=eDoqKpLquG0&title=Expert+says+AI+can+EXPAND+student+thinking+in+classical+education&lang=en&timestamp=1787517393&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=333" alt="Expert says AI can EXPAND student thinking in classical education" title="Expert says AI can EXPAND student thinking in classical education">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=u6drxiPTpw4" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=u6drxiPTpw4&title=AI+Before+vs+AI+Now+%7C+How+Much+Has+Artificial+Intelligence+Changed%3F&lang=en&timestamp=1787582193&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=418">
-          <img src="https://ytcards.demolab.com/?id=u6drxiPTpw4&title=AI+Before+vs+AI+Now+%7C+How+Much+Has+Artificial+Intelligence+Changed%3F&lang=en&timestamp=1787582193&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=418" alt="AI Before vs AI Now | How Much Has Artificial Intelligence Changed?" title="AI Before vs AI Now | How Much Has Artificial Intelligence Changed?">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
       <a href="https://www.youtube.com/watch?v=ABcFmgt0D5I" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ABcFmgt0D5I&title=Terrifying+AI+Behavior+Even+Its+Creators+Couldn%27t+Explain&lang=en&timestamp=1787517393&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6632">
-          <img src="https://ytcards.demolab.com/?id=ABcFmgt0D5I&title=Terrifying+AI+Behavior+Even+Its+Creators+Couldn%27t+Explain&lang=en&timestamp=1787517393&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6632" alt="Terrifying AI Behavior Even Its Creators Couldn't Explain" title="Terrifying AI Behavior Even Its Creators Couldn't Explain">
-        </picture>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=PLxY4EgyTF4" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PLxY4EgyTF4&title=The+Dark+Danger+of+Transhumanism+%26+AGI&lang=en&timestamp=1787517393&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=838">
-          <img src="https://ytcards.demolab.com/?id=PLxY4EgyTF4&title=The+Dark+Danger+of+Transhumanism+%26+AGI&lang=en&timestamp=1787517393&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=838" alt="The Dark Danger of Transhumanism & AGI" title="The Dark Danger of Transhumanism & AGI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ABcFmgt0D5I&title=Terrifying+AI+Behavior+Even+Its+Creators+Couldn%27t+Explain&lang=en&timestamp=1787520886&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6632">
+          <img src="https://ytcards.demolab.com/?id=ABcFmgt0D5I&title=Terrifying+AI+Behavior+Even+Its+Creators+Couldn%27t+Explain&lang=en&timestamp=1787520886&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6632" alt="Terrifying AI Behavior Even Its Creators Couldn't Explain" title="Terrifying AI Behavior Even Its Creators Couldn't Explain">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=UIDy_9d4xvU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=UIDy_9d4xvU&title=Why+TSMC+Wins+%7C+Inside+The+Secret+Chip+Empire+%7C+Former+TSMC+R%26D+Director+Explains+AI%27s+Future&lang=en&timestamp=1787571393&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1621">
-          <img src="https://ytcards.demolab.com/?id=UIDy_9d4xvU&title=Why+TSMC+Wins+%7C+Inside+The+Secret+Chip+Empire+%7C+Former+TSMC+R%26D+Director+Explains+AI%27s+Future&lang=en&timestamp=1787571393&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1621" alt="Why TSMC Wins | Inside The Secret Chip Empire | Former TSMC R&D Director Explains AI's Future" title="Why TSMC Wins | Inside The Secret Chip Empire | Former TSMC R&D Director Explains AI's Future">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=UIDy_9d4xvU&title=Why+TSMC+Wins+%7C+Inside+The+Secret+Chip+Empire+%7C+Former+TSMC+R%26D+Director+Explains+AI%27s+Future&lang=en&timestamp=1787571286&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1621">
+          <img src="https://ytcards.demolab.com/?id=UIDy_9d4xvU&title=Why+TSMC+Wins+%7C+Inside+The+Secret+Chip+Empire+%7C+Former+TSMC+R%26D+Director+Explains+AI%27s+Future&lang=en&timestamp=1787571286&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1621" alt="Why TSMC Wins | Inside The Secret Chip Empire | Former TSMC R&D Director Explains AI's Future" title="Why TSMC Wins | Inside The Secret Chip Empire | Former TSMC R&D Director Explains AI's Future">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=EYH8RFkuyw8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=PE4uXxGLLQ0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EYH8RFkuyw8&title=Researchers+Lay+Groundwork+For+Biohybrid+Singularity+&lang=en&timestamp=1787556993&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=330">
-          <img src="https://ytcards.demolab.com/?id=EYH8RFkuyw8&title=Researchers+Lay+Groundwork+For+Biohybrid+Singularity+&lang=en&timestamp=1787556993&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=330" alt="Researchers Lay Groundwork For Biohybrid Singularity " title="Researchers Lay Groundwork For Biohybrid Singularity ">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PE4uXxGLLQ0&title=Will+AI+Save+China%3F+The+Great+Transformation+of+the+Next+40+Years%3A+Is+China+Becoming+a+%22Technolog...&lang=en&timestamp=1787571286&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1946">
+          <img src="https://ytcards.demolab.com/?id=PE4uXxGLLQ0&title=Will+AI+Save+China%3F+The+Great+Transformation+of+the+Next+40+Years%3A+Is+China+Becoming+a+%22Technolog...&lang=en&timestamp=1787571286&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1946" alt="Will AI Save China? The Great Transformation of the Next 40 Years: Is China Becoming a &quot;Technolog..." title="Will AI Save China? The Great Transformation of the Next 40 Years: Is China Becoming a &quot;Technolog...">
+        </picture>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=mzy9tuA_g5s" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mzy9tuA_g5s&title=WHY+MODERN+SCHOOLS+ARE+AFRAID+OF+ARTIFICIAL+INTELLIGENCE&lang=en&timestamp=1787546086&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3598">
+          <img src="https://ytcards.demolab.com/?id=mzy9tuA_g5s&title=WHY+MODERN+SCHOOLS+ARE+AFRAID+OF+ARTIFICIAL+INTELLIGENCE&lang=en&timestamp=1787546086&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3598" alt="WHY MODERN SCHOOLS ARE AFRAID OF ARTIFICIAL INTELLIGENCE" title="WHY MODERN SCHOOLS ARE AFRAID OF ARTIFICIAL INTELLIGENCE">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=QEK4o-Di4KY" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QEK4o-Di4KY&title=Navigating+The+Future%3A+Can+IT+Make+The+AI+Pivot%3F+%7C+AI%3A+The+Next+Frontier&lang=en&timestamp=1787520886&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3683">
+          <img src="https://ytcards.demolab.com/?id=QEK4o-Di4KY&title=Navigating+The+Future%3A+Can+IT+Make+The+AI+Pivot%3F+%7C+AI%3A+The+Next+Frontier&lang=en&timestamp=1787520886&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3683" alt="Navigating The Future: Can IT Make The AI Pivot? | AI: The Next Frontier" title="Navigating The Future: Can IT Make The AI Pivot? | AI: The Next Frontier">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=xjXDQAzbNhc" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xjXDQAzbNhc&title=Paying+for+AI+Hallucinations.+200%2C000+PLN+for+a+report+generated+by+artificial+intelligence%3F&lang=en&timestamp=1787585686&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1443">
+          <img src="https://ytcards.demolab.com/?id=xjXDQAzbNhc&title=Paying+for+AI+Hallucinations.+200%2C000+PLN+for+a+report+generated+by+artificial+intelligence%3F&lang=en&timestamp=1787585686&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1443" alt="Paying for AI Hallucinations. 200,000 PLN for a report generated by artificial intelligence?" title="Paying for AI Hallucinations. 200,000 PLN for a report generated by artificial intelligence?">
         </picture>
       </a>
     </td>
