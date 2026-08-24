@@ -459,30 +459,31 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=WIxn9k1YSPc" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WIxn9k1YSPc&title=The+Ai+Content+Bubble+is+About+to+BURST&lang=en&timestamp=1787503472&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=351">
-          <img src="https://ytcards.demolab.com/?id=WIxn9k1YSPc&title=The+Ai+Content+Bubble+is+About+to+BURST&lang=en&timestamp=1787503472&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=351" alt="The Ai Content Bubble is About to BURST" title="The Ai Content Bubble is About to BURST">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
       <a href="https://www.youtube.com/watch?v=UIDy_9d4xvU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=UIDy_9d4xvU&title=Why+TSMC+Wins+%7C+Inside+The+Secret+Chip+Empire+%7C+Former+TSMC+R%26D+Director+Explains+AI%27s+Future&lang=en&timestamp=1787571872&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1621">
-          <img src="https://ytcards.demolab.com/?id=UIDy_9d4xvU&title=Why+TSMC+Wins+%7C+Inside+The+Secret+Chip+Empire+%7C+Former+TSMC+R%26D+Director+Explains+AI%27s+Future&lang=en&timestamp=1787571872&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1621" alt="Why TSMC Wins | Inside The Secret Chip Empire | Former TSMC R&D Director Explains AI's Future" title="Why TSMC Wins | Inside The Secret Chip Empire | Former TSMC R&D Director Explains AI's Future">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=UIDy_9d4xvU&title=Why+TSMC+Wins+%7C+Inside+The+Secret+Chip+Empire+%7C+Former+TSMC+R%26D+Director+Explains+AI%27s+Future&lang=en&timestamp=1787571310&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1621">
+          <img src="https://ytcards.demolab.com/?id=UIDy_9d4xvU&title=Why+TSMC+Wins+%7C+Inside+The+Secret+Chip+Empire+%7C+Former+TSMC+R%26D+Director+Explains+AI%27s+Future&lang=en&timestamp=1787571310&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1621" alt="Why TSMC Wins | Inside The Secret Chip Empire | Former TSMC R&D Director Explains AI's Future" title="Why TSMC Wins | Inside The Secret Chip Empire | Former TSMC R&D Director Explains AI's Future">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=mzy9tuA_g5s" target="_blank">
+      <a href="https://www.youtube.com/watch?v=yDlnIDYjE9A" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mzy9tuA_g5s&title=WHY+MODERN+SCHOOLS+ARE+AFRAID+OF+ARTIFICIAL+INTELLIGENCE&lang=en&timestamp=1787546672&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3598">
-          <img src="https://ytcards.demolab.com/?id=mzy9tuA_g5s&title=WHY+MODERN+SCHOOLS+ARE+AFRAID+OF+ARTIFICIAL+INTELLIGENCE&lang=en&timestamp=1787546672&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3598" alt="WHY MODERN SCHOOLS ARE AFRAID OF ARTIFICIAL INTELLIGENCE" title="WHY MODERN SCHOOLS ARE AFRAID OF ARTIFICIAL INTELLIGENCE">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=yDlnIDYjE9A&title=Dr.+Dre+Breaks+His+Silence+on+AI+in+Music+%23suno+%23aimusic&lang=en&timestamp=1787524510&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1477">
+          <img src="https://ytcards.demolab.com/?id=yDlnIDYjE9A&title=Dr.+Dre+Breaks+His+Silence+on+AI+in+Music+%23suno+%23aimusic&lang=en&timestamp=1787524510&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1477" alt="Dr. Dre Breaks His Silence on AI in Music #suno #aimusic" title="Dr. Dre Breaks His Silence on AI in Music #suno #aimusic">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=ABcFmgt0D5I" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ABcFmgt0D5I&title=Terrifying+AI+Behavior+Even+Its+Creators+Couldn%27t+Explain&lang=en&timestamp=1787517310&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6632">
+          <img src="https://ytcards.demolab.com/?id=ABcFmgt0D5I&title=Terrifying+AI+Behavior+Even+Its+Creators+Couldn%27t+Explain&lang=en&timestamp=1787517310&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6632" alt="Terrifying AI Behavior Even Its Creators Couldn't Explain" title="Terrifying AI Behavior Even Its Creators Couldn't Explain">
         </picture>
       </a>
     </td>
@@ -491,24 +492,24 @@
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=OGCAQJ6Zbnc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=OGCAQJ6Zbnc&title=Saturday+Class+-+Physical+AI+and+the+Reinvention+of+Manufacturing+-+August+22%2C+2026&lang=en&timestamp=1787503472&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3858">
-          <img src="https://ytcards.demolab.com/?id=OGCAQJ6Zbnc&title=Saturday+Class+-+Physical+AI+and+the+Reinvention+of+Manufacturing+-+August+22%2C+2026&lang=en&timestamp=1787503472&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3858" alt="Saturday Class - Physical AI and the Reinvention of Manufacturing - August 22, 2026" title="Saturday Class - Physical AI and the Reinvention of Manufacturing - August 22, 2026">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=OGCAQJ6Zbnc&title=Saturday+Class+-+Physical+AI+and+the+Reinvention+of+Manufacturing+-+August+22%2C+2026&lang=en&timestamp=1787506510&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3858">
+          <img src="https://ytcards.demolab.com/?id=OGCAQJ6Zbnc&title=Saturday+Class+-+Physical+AI+and+the+Reinvention+of+Manufacturing+-+August+22%2C+2026&lang=en&timestamp=1787506510&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3858" alt="Saturday Class - Physical AI and the Reinvention of Manufacturing - August 22, 2026" title="Saturday Class - Physical AI and the Reinvention of Manufacturing - August 22, 2026">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=yDlnIDYjE9A" target="_blank">
+      <a href="https://www.youtube.com/watch?v=u6drxiPTpw4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=yDlnIDYjE9A&title=Dr.+Dre+Breaks+His+Silence+on+AI+in+Music+%23suno+%23aimusic&lang=en&timestamp=1787525072&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1477">
-          <img src="https://ytcards.demolab.com/?id=yDlnIDYjE9A&title=Dr.+Dre+Breaks+His+Silence+on+AI+in+Music+%23suno+%23aimusic&lang=en&timestamp=1787525072&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1477" alt="Dr. Dre Breaks His Silence on AI in Music #suno #aimusic" title="Dr. Dre Breaks His Silence on AI in Music #suno #aimusic">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=u6drxiPTpw4&title=AI+Before+vs+AI+Now+%7C+How+Much+Has+Artificial+Intelligence+Changed%3F&lang=en&timestamp=1787582110&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=418">
+          <img src="https://ytcards.demolab.com/?id=u6drxiPTpw4&title=AI+Before+vs+AI+Now+%7C+How+Much+Has+Artificial+Intelligence+Changed%3F&lang=en&timestamp=1787582110&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=418" alt="AI Before vs AI Now | How Much Has Artificial Intelligence Changed?" title="AI Before vs AI Now | How Much Has Artificial Intelligence Changed?">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=k_M_xDRgEog" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=k_M_xDRgEog&title=Disney+Used+AI+And+The+Art+Community+Destroyed+Them+For+It&lang=en&timestamp=1787514272&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1171">
-          <img src="https://ytcards.demolab.com/?id=k_M_xDRgEog&title=Disney+Used+AI+And+The+Art+Community+Destroyed+Them+For+It&lang=en&timestamp=1787514272&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1171" alt="Disney Used AI And The Art Community Destroyed Them For It" title="Disney Used AI And The Art Community Destroyed Them For It">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=k_M_xDRgEog&title=Disney+Used+AI+And+The+Art+Community+Destroyed+Them+For+It&lang=en&timestamp=1787513710&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1171">
+          <img src="https://ytcards.demolab.com/?id=k_M_xDRgEog&title=Disney+Used+AI+And+The+Art+Community+Destroyed+Them+For+It&lang=en&timestamp=1787513710&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1171" alt="Disney Used AI And The Art Community Destroyed Them For It" title="Disney Used AI And The Art Community Destroyed Them For It">
         </picture>
       </a>
     </td>
