@@ -462,56 +462,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
+      <a href="https://www.youtube.com/watch?v=eDoqKpLquG0" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=eDoqKpLquG0&title=Expert+says+AI+can+EXPAND+student+thinking+in+classical+education&lang=en&timestamp=1787517393&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=333">
+          <img src="https://ytcards.demolab.com/?id=eDoqKpLquG0&title=Expert+says+AI+can+EXPAND+student+thinking+in+classical+education&lang=en&timestamp=1787517393&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=333" alt="Expert says AI can EXPAND student thinking in classical education" title="Expert says AI can EXPAND student thinking in classical education">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
       <a href="https://www.youtube.com/watch?v=u6drxiPTpw4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=u6drxiPTpw4&title=AI+Before+vs+AI+Now+%7C+How+Much+Has+Artificial+Intelligence+Changed%3F&lang=en&timestamp=1787582042&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=418">
-          <img src="https://ytcards.demolab.com/?id=u6drxiPTpw4&title=AI+Before+vs+AI+Now+%7C+How+Much+Has+Artificial+Intelligence+Changed%3F&lang=en&timestamp=1787582042&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=418" alt="AI Before vs AI Now | How Much Has Artificial Intelligence Changed?" title="AI Before vs AI Now | How Much Has Artificial Intelligence Changed?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=u6drxiPTpw4&title=AI+Before+vs+AI+Now+%7C+How+Much+Has+Artificial+Intelligence+Changed%3F&lang=en&timestamp=1787582193&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=418">
+          <img src="https://ytcards.demolab.com/?id=u6drxiPTpw4&title=AI+Before+vs+AI+Now+%7C+How+Much+Has+Artificial+Intelligence+Changed%3F&lang=en&timestamp=1787582193&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=418" alt="AI Before vs AI Now | How Much Has Artificial Intelligence Changed?" title="AI Before vs AI Now | How Much Has Artificial Intelligence Changed?">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=k_M_xDRgEog" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ABcFmgt0D5I" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=k_M_xDRgEog&title=Disney+Used+AI+And+The+Art+Community+Destroyed+Them+For+It&lang=en&timestamp=1787513642&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1171">
-          <img src="https://ytcards.demolab.com/?id=k_M_xDRgEog&title=Disney+Used+AI+And+The+Art+Community+Destroyed+Them+For+It&lang=en&timestamp=1787513642&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1171" alt="Disney Used AI And The Art Community Destroyed Them For It" title="Disney Used AI And The Art Community Destroyed Them For It">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=KixsIL38wkY" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KixsIL38wkY&title=AI+Jobs&lang=en&timestamp=1787513642&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=315">
-          <img src="https://ytcards.demolab.com/?id=KixsIL38wkY&title=AI+Jobs&lang=en&timestamp=1787513642&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=315" alt="AI Jobs" title="AI Jobs">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ABcFmgt0D5I&title=Terrifying+AI+Behavior+Even+Its+Creators+Couldn%27t+Explain&lang=en&timestamp=1787517393&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6632">
+          <img src="https://ytcards.demolab.com/?id=ABcFmgt0D5I&title=Terrifying+AI+Behavior+Even+Its+Creators+Couldn%27t+Explain&lang=en&timestamp=1787517393&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6632" alt="Terrifying AI Behavior Even Its Creators Couldn't Explain" title="Terrifying AI Behavior Even Its Creators Couldn't Explain">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=fg1UqACG6YE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=PLxY4EgyTF4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=fg1UqACG6YE&title=The+Daily+AI+Show+Live%3A+August+24%2C+2026&lang=en&timestamp=1787585642&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3670">
-          <img src="https://ytcards.demolab.com/?id=fg1UqACG6YE&title=The+Daily+AI+Show+Live%3A+August+24%2C+2026&lang=en&timestamp=1787585642&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3670" alt="The Daily AI Show Live: August 24, 2026" title="The Daily AI Show Live: August 24, 2026">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PLxY4EgyTF4&title=The+Dark+Danger+of+Transhumanism+%26+AGI&lang=en&timestamp=1787517393&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=838">
+          <img src="https://ytcards.demolab.com/?id=PLxY4EgyTF4&title=The+Dark+Danger+of+Transhumanism+%26+AGI&lang=en&timestamp=1787517393&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=838" alt="The Dark Danger of Transhumanism & AGI" title="The Dark Danger of Transhumanism & AGI">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ItTwyOa5xlk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=UIDy_9d4xvU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ItTwyOa5xlk&title=How+I+Turn+PDFs+and+AI+Outputs+Into+Editable+Workflows&lang=en&timestamp=1787513642&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=250">
-          <img src="https://ytcards.demolab.com/?id=ItTwyOa5xlk&title=How+I+Turn+PDFs+and+AI+Outputs+Into+Editable+Workflows&lang=en&timestamp=1787513642&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=250" alt="How I Turn PDFs and AI Outputs Into Editable Workflows" title="How I Turn PDFs and AI Outputs Into Editable Workflows">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=UIDy_9d4xvU&title=Why+TSMC+Wins+%7C+Inside+The+Secret+Chip+Empire+%7C+Former+TSMC+R%26D+Director+Explains+AI%27s+Future&lang=en&timestamp=1787571393&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1621">
+          <img src="https://ytcards.demolab.com/?id=UIDy_9d4xvU&title=Why+TSMC+Wins+%7C+Inside+The+Secret+Chip+Empire+%7C+Former+TSMC+R%26D+Director+Explains+AI%27s+Future&lang=en&timestamp=1787571393&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1621" alt="Why TSMC Wins | Inside The Secret Chip Empire | Former TSMC R&D Director Explains AI's Future" title="Why TSMC Wins | Inside The Secret Chip Empire | Former TSMC R&D Director Explains AI's Future">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=QEK4o-Di4KY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=EYH8RFkuyw8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QEK4o-Di4KY&title=Navigating+The+Future%3A+Can+IT+Make+The+AI+Pivot%3F+%7C+AI%3A+The+Next+Frontier&lang=en&timestamp=1787513642&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3683">
-          <img src="https://ytcards.demolab.com/?id=QEK4o-Di4KY&title=Navigating+The+Future%3A+Can+IT+Make+The+AI+Pivot%3F+%7C+AI%3A+The+Next+Frontier&lang=en&timestamp=1787513642&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3683" alt="Navigating The Future: Can IT Make The AI Pivot? | AI: The Next Frontier" title="Navigating The Future: Can IT Make The AI Pivot? | AI: The Next Frontier">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EYH8RFkuyw8&title=Researchers+Lay+Groundwork+For+Biohybrid+Singularity+&lang=en&timestamp=1787556993&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=330">
+          <img src="https://ytcards.demolab.com/?id=EYH8RFkuyw8&title=Researchers+Lay+Groundwork+For+Biohybrid+Singularity+&lang=en&timestamp=1787556993&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=330" alt="Researchers Lay Groundwork For Biohybrid Singularity " title="Researchers Lay Groundwork For Biohybrid Singularity ">
         </picture>
       </a>
     </td>
