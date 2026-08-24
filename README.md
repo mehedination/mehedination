@@ -456,56 +456,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=mzy9tuA_g5s" target="_blank">
+      <a href="https://www.youtube.com/watch?v=WIxn9k1YSPc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mzy9tuA_g5s&title=WHY+MODERN+SCHOOLS+ARE+AFRAID+OF+ARTIFICIAL+INTELLIGENCE&lang=en&timestamp=1787544058&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3598">
-          <img src="https://ytcards.demolab.com/?id=mzy9tuA_g5s&title=WHY+MODERN+SCHOOLS+ARE+AFRAID+OF+ARTIFICIAL+INTELLIGENCE&lang=en&timestamp=1787544058&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3598" alt="WHY MODERN SCHOOLS ARE AFRAID OF ARTIFICIAL INTELLIGENCE" title="WHY MODERN SCHOOLS ARE AFRAID OF ARTIFICIAL INTELLIGENCE">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WIxn9k1YSPc&title=The+Ai+Content+Bubble+is+About+to+BURST&lang=en&timestamp=1787496512&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=351">
+          <img src="https://ytcards.demolab.com/?id=WIxn9k1YSPc&title=The+Ai+Content+Bubble+is+About+to+BURST&lang=en&timestamp=1787496512&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=351" alt="The Ai Content Bubble is About to BURST" title="The Ai Content Bubble is About to BURST">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=yDlnIDYjE9A" target="_blank">
+      <a href="https://www.youtube.com/watch?v=OGCAQJ6Zbnc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=yDlnIDYjE9A&title=Dr.+Dre+Breaks+His+Silence+on+AI+in+Music+%23suno+%23aimusic&lang=en&timestamp=1787522458&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1477">
-          <img src="https://ytcards.demolab.com/?id=yDlnIDYjE9A&title=Dr.+Dre+Breaks+His+Silence+on+AI+in+Music+%23suno+%23aimusic&lang=en&timestamp=1787522458&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1477" alt="Dr. Dre Breaks His Silence on AI in Music #suno #aimusic" title="Dr. Dre Breaks His Silence on AI in Music #suno #aimusic">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=OGCAQJ6Zbnc&title=Saturday+Class+-+Physical+AI+and+the+Reinvention+of+Manufacturing+-+August+22%2C+2026&lang=en&timestamp=1787500112&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3858">
+          <img src="https://ytcards.demolab.com/?id=OGCAQJ6Zbnc&title=Saturday+Class+-+Physical+AI+and+the+Reinvention+of+Manufacturing+-+August+22%2C+2026&lang=en&timestamp=1787500112&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3858" alt="Saturday Class - Physical AI and the Reinvention of Manufacturing - August 22, 2026" title="Saturday Class - Physical AI and the Reinvention of Manufacturing - August 22, 2026">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=ABcFmgt0D5I" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ABcFmgt0D5I&title=Terrifying+AI+Behavior+Even+Its+Creators+Couldn%27t+Explain&lang=en&timestamp=1787515258&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6632">
-          <img src="https://ytcards.demolab.com/?id=ABcFmgt0D5I&title=Terrifying+AI+Behavior+Even+Its+Creators+Couldn%27t+Explain&lang=en&timestamp=1787515258&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6632" alt="Terrifying AI Behavior Even Its Creators Couldn't Explain" title="Terrifying AI Behavior Even Its Creators Couldn't Explain">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ABcFmgt0D5I&title=Terrifying+AI+Behavior+Even+Its+Creators+Couldn%27t+Explain&lang=en&timestamp=1787518112&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6632">
+          <img src="https://ytcards.demolab.com/?id=ABcFmgt0D5I&title=Terrifying+AI+Behavior+Even+Its+Creators+Couldn%27t+Explain&lang=en&timestamp=1787518112&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6632" alt="Terrifying AI Behavior Even Its Creators Couldn't Explain" title="Terrifying AI Behavior Even Its Creators Couldn't Explain">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=WIxn9k1YSPc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=u6drxiPTpw4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WIxn9k1YSPc&title=The+Ai+Content+Bubble+is+About+to+BURST&lang=en&timestamp=1787490058&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=351">
-          <img src="https://ytcards.demolab.com/?id=WIxn9k1YSPc&title=The+Ai+Content+Bubble+is+About+to+BURST&lang=en&timestamp=1787490058&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=351" alt="The Ai Content Bubble is About to BURST" title="The Ai Content Bubble is About to BURST">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=u6drxiPTpw4&title=AI+Before+vs+AI+Now+%7C+How+Much+Has+Artificial+Intelligence+Changed%3F&lang=en&timestamp=1787580032&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=418">
+          <img src="https://ytcards.demolab.com/?id=u6drxiPTpw4&title=AI+Before+vs+AI+Now+%7C+How+Much+Has+Artificial+Intelligence+Changed%3F&lang=en&timestamp=1787580032&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=418" alt="AI Before vs AI Now | How Much Has Artificial Intelligence Changed?" title="AI Before vs AI Now | How Much Has Artificial Intelligence Changed?">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=9ZZNMkpEy5E" target="_blank">
+      <a href="https://www.youtube.com/watch?v=yDlnIDYjE9A" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9ZZNMkpEy5E&title=UFOs%2C+3I%2FATLAS+and+AI%3A+Avi+Loeb+weighs+in+on+the+search+for+alien+life+%7C+Backscroll&lang=en&timestamp=1787508058&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1492">
-          <img src="https://ytcards.demolab.com/?id=9ZZNMkpEy5E&title=UFOs%2C+3I%2FATLAS+and+AI%3A+Avi+Loeb+weighs+in+on+the+search+for+alien+life+%7C+Backscroll&lang=en&timestamp=1787508058&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1492" alt="UFOs, 3I/ATLAS and AI: Avi Loeb weighs in on the search for alien life | Backscroll" title="UFOs, 3I/ATLAS and AI: Avi Loeb weighs in on the search for alien life | Backscroll">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=yDlnIDYjE9A&title=Dr.+Dre+Breaks+His+Silence+on+AI+in+Music+%23suno+%23aimusic&lang=en&timestamp=1787525312&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1477">
+          <img src="https://ytcards.demolab.com/?id=yDlnIDYjE9A&title=Dr.+Dre+Breaks+His+Silence+on+AI+in+Music+%23suno+%23aimusic&lang=en&timestamp=1787525312&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1477" alt="Dr. Dre Breaks His Silence on AI in Music #suno #aimusic" title="Dr. Dre Breaks His Silence on AI in Music #suno #aimusic">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Pp0kRaOv9hA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=KixsIL38wkY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Pp0kRaOv9hA&title=Literacy+is+Dead.+Consumerism+is+Forever.&lang=en&timestamp=1787518858&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3192">
-          <img src="https://ytcards.demolab.com/?id=Pp0kRaOv9hA&title=Literacy+is+Dead.+Consumerism+is+Forever.&lang=en&timestamp=1787518858&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3192" alt="Literacy is Dead. Consumerism is Forever." title="Literacy is Dead. Consumerism is Forever.">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KixsIL38wkY&title=AI+Jobs&lang=en&timestamp=1787510912&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=315">
+          <img src="https://ytcards.demolab.com/?id=KixsIL38wkY&title=AI+Jobs&lang=en&timestamp=1787510912&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=315" alt="AI Jobs" title="AI Jobs">
         </picture>
       </a>
     </td>
