@@ -453,56 +453,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=mzy9tuA_g5s" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mzy9tuA_g5s&title=WHY+MODERN+SCHOOLS+ARE+AFRAID+OF+ARTIFICIAL+INTELLIGENCE&lang=en&timestamp=1787543653&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3598">
-          <img src="https://ytcards.demolab.com/?id=mzy9tuA_g5s&title=WHY+MODERN+SCHOOLS+ARE+AFRAID+OF+ARTIFICIAL+INTELLIGENCE&lang=en&timestamp=1787543653&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3598" alt="WHY MODERN SCHOOLS ARE AFRAID OF ARTIFICIAL INTELLIGENCE" title="WHY MODERN SCHOOLS ARE AFRAID OF ARTIFICIAL INTELLIGENCE">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mzy9tuA_g5s&title=WHY+MODERN+SCHOOLS+ARE+AFRAID+OF+ARTIFICIAL+INTELLIGENCE&lang=en&timestamp=1787546498&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3598">
+          <img src="https://ytcards.demolab.com/?id=mzy9tuA_g5s&title=WHY+MODERN+SCHOOLS+ARE+AFRAID+OF+ARTIFICIAL+INTELLIGENCE&lang=en&timestamp=1787546498&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3598" alt="WHY MODERN SCHOOLS ARE AFRAID OF ARTIFICIAL INTELLIGENCE" title="WHY MODERN SCHOOLS ARE AFRAID OF ARTIFICIAL INTELLIGENCE">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=AfU-7FRu4_8" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=AfU-7FRu4_8&title=AI+Current+Affairs+2026+%7C+Science+and+Tech+2026+%7C+Artificial+Intelligence+2026+%7C+ssc+railway+exam&lang=en&timestamp=1787553698&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1976">
+          <img src="https://ytcards.demolab.com/?id=AfU-7FRu4_8&title=AI+Current+Affairs+2026+%7C+Science+and+Tech+2026+%7C+Artificial+Intelligence+2026+%7C+ssc+railway+exam&lang=en&timestamp=1787553698&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1976" alt="AI Current Affairs 2026 | Science and Tech 2026 | Artificial Intelligence 2026 | ssc railway exam" title="AI Current Affairs 2026 | Science and Tech 2026 | Artificial Intelligence 2026 | ssc railway exam">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=ABcFmgt0D5I" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ABcFmgt0D5I&title=Terrifying+AI+Behavior+Even+Its+Creators+Couldn%27t+Explain&lang=en&timestamp=1787518453&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6632">
-          <img src="https://ytcards.demolab.com/?id=ABcFmgt0D5I&title=Terrifying+AI+Behavior+Even+Its+Creators+Couldn%27t+Explain&lang=en&timestamp=1787518453&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6632" alt="Terrifying AI Behavior Even Its Creators Couldn't Explain" title="Terrifying AI Behavior Even Its Creators Couldn't Explain">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=WIxn9k1YSPc" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WIxn9k1YSPc&title=The+Overdue+Collapse+Of+Artificial+Intelligence&lang=en&timestamp=1787482453&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=351">
-          <img src="https://ytcards.demolab.com/?id=WIxn9k1YSPc&title=The+Overdue+Collapse+Of+Artificial+Intelligence&lang=en&timestamp=1787482453&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=351" alt="The Overdue Collapse Of Artificial Intelligence" title="The Overdue Collapse Of Artificial Intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ABcFmgt0D5I&title=Terrifying+AI+Behavior+Even+Its+Creators+Couldn%27t+Explain&lang=en&timestamp=1787517698&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6632">
+          <img src="https://ytcards.demolab.com/?id=ABcFmgt0D5I&title=Terrifying+AI+Behavior+Even+Its+Creators+Couldn%27t+Explain&lang=en&timestamp=1787517698&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6632" alt="Terrifying AI Behavior Even Its Creators Couldn't Explain" title="Terrifying AI Behavior Even Its Creators Couldn't Explain">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=AfU-7FRu4_8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=WIxn9k1YSPc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=AfU-7FRu4_8&title=AI+Current+Affairs+2026+%7C+Science+and+Tech+2026+%7C+Artificial+Intelligence+2026+%7C+ssc+railway+exam&lang=en&timestamp=1787554453&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1976">
-          <img src="https://ytcards.demolab.com/?id=AfU-7FRu4_8&title=AI+Current+Affairs+2026+%7C+Science+and+Tech+2026+%7C+Artificial+Intelligence+2026+%7C+ssc+railway+exam&lang=en&timestamp=1787554453&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1976" alt="AI Current Affairs 2026 | Science and Tech 2026 | Artificial Intelligence 2026 | ssc railway exam" title="AI Current Affairs 2026 | Science and Tech 2026 | Artificial Intelligence 2026 | ssc railway exam">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WIxn9k1YSPc&title=The+Ai+Content+Bubble+is+About+to+BURST&lang=en&timestamp=1787481698&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=351">
+          <img src="https://ytcards.demolab.com/?id=WIxn9k1YSPc&title=The+Ai+Content+Bubble+is+About+to+BURST&lang=en&timestamp=1787481698&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=351" alt="The Ai Content Bubble is About to BURST" title="The Ai Content Bubble is About to BURST">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=3ZBmo8I8fbw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=yDlnIDYjE9A" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3ZBmo8I8fbw&title=Stanford+Professor+WARNS%3A+This+Will+Be+One+Of+The+Worst+10+Years+Ever&lang=en&timestamp=1787504053&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=919">
-          <img src="https://ytcards.demolab.com/?id=3ZBmo8I8fbw&title=Stanford+Professor+WARNS%3A+This+Will+Be+One+Of+The+Worst+10+Years+Ever&lang=en&timestamp=1787504053&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=919" alt="Stanford Professor WARNS: This Will Be One Of The Worst 10 Years Ever" title="Stanford Professor WARNS: This Will Be One Of The Worst 10 Years Ever">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=yDlnIDYjE9A&title=Dr.+Dre+Breaks+His+Silence+on+AI+in+Music+%23suno+%23aimusic&lang=en&timestamp=1787524898&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1477">
+          <img src="https://ytcards.demolab.com/?id=yDlnIDYjE9A&title=Dr.+Dre+Breaks+His+Silence+on+AI+in+Music+%23suno+%23aimusic&lang=en&timestamp=1787524898&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1477" alt="Dr. Dre Breaks His Silence on AI in Music #suno #aimusic" title="Dr. Dre Breaks His Silence on AI in Music #suno #aimusic">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=QEK4o-Di4KY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=KixsIL38wkY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QEK4o-Di4KY&title=Navigating+The+Future%3A+Can+IT+Make+The+AI+Pivot%3F+%7C+AI%3A+The+Next+Frontier&lang=en&timestamp=1787493253&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3683">
-          <img src="https://ytcards.demolab.com/?id=QEK4o-Di4KY&title=Navigating+The+Future%3A+Can+IT+Make+The+AI+Pivot%3F+%7C+AI%3A+The+Next+Frontier&lang=en&timestamp=1787493253&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3683" alt="Navigating The Future: Can IT Make The AI Pivot? | AI: The Next Frontier" title="Navigating The Future: Can IT Make The AI Pivot? | AI: The Next Frontier">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KixsIL38wkY&title=AI+Jobs&lang=en&timestamp=1787510498&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=315">
+          <img src="https://ytcards.demolab.com/?id=KixsIL38wkY&title=AI+Jobs&lang=en&timestamp=1787510498&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=315" alt="AI Jobs" title="AI Jobs">
         </picture>
       </a>
     </td>
