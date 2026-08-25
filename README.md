@@ -467,56 +467,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=sZW6q8Wit38" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sZW6q8Wit38&title=AI+costs+are+rising+for+businesses.+Does+it+compute%3F+%7C+The+Business+%7C+ABC+NEWS&lang=en&timestamp=1787564276&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=231">
-          <img src="https://ytcards.demolab.com/?id=sZW6q8Wit38&title=AI+costs+are+rising+for+businesses.+Does+it+compute%3F+%7C+The+Business+%7C+ABC+NEWS&lang=en&timestamp=1787564276&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=231" alt="AI costs are rising for businesses. Does it compute? | The Business | ABC NEWS" title="AI costs are rising for businesses. Does it compute? | The Business | ABC NEWS">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sZW6q8Wit38&title=AI+costs+are+rising+for+businesses+even+as+tokens+get+cheaper+%7C+The+Business+%7C+ABC+NEWS&lang=en&timestamp=1787562248&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=231">
+          <img src="https://ytcards.demolab.com/?id=sZW6q8Wit38&title=AI+costs+are+rising+for+businesses+even+as+tokens+get+cheaper+%7C+The+Business+%7C+ABC+NEWS&lang=en&timestamp=1787562248&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=231" alt="AI costs are rising for businesses even as tokens get cheaper | The Business | ABC NEWS" title="AI costs are rising for businesses even as tokens get cheaper | The Business | ABC NEWS">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=wunK64HRink" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wunK64HRink&title=OpenAI+Is+Collapsing&lang=en&timestamp=1787589476&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=861">
-          <img src="https://ytcards.demolab.com/?id=wunK64HRink&title=OpenAI+Is+Collapsing&lang=en&timestamp=1787589476&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=861" alt="OpenAI Is Collapsing" title="OpenAI Is Collapsing">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wunK64HRink&title=OpenAI+Is+Out+of+Money&lang=en&timestamp=1787587448&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=861">
+          <img src="https://ytcards.demolab.com/?id=wunK64HRink&title=OpenAI+Is+Out+of+Money&lang=en&timestamp=1787587448&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=861" alt="OpenAI Is Out of Money" title="OpenAI Is Out of Money">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=MviT93-B7rc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=K_EKM2sm-L0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=MviT93-B7rc&title=AI+Won%27t+Take+Your+Job%2C+But+Someone+Who+Can+Use+AI+Might&lang=en&timestamp=1787593076&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3068">
-          <img src="https://ytcards.demolab.com/?id=MviT93-B7rc&title=AI+Won%27t+Take+Your+Job%2C+But+Someone+Who+Can+Use+AI+Might&lang=en&timestamp=1787593076&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3068" alt="AI Won't Take Your Job, But Someone Who Can Use AI Might" title="AI Won't Take Your Job, But Someone Who Can Use AI Might">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=K_EKM2sm-L0&title=Canada+Just+Committed+Economic+Suicide+%28And+Ran+to+China%29&lang=en&timestamp=1787591048&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7581">
+          <img src="https://ytcards.demolab.com/?id=K_EKM2sm-L0&title=Canada+Just+Committed+Economic+Suicide+%28And+Ran+to+China%29&lang=en&timestamp=1787591048&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7581" alt="Canada Just Committed Economic Suicide (And Ran to China)" title="Canada Just Committed Economic Suicide (And Ran to China)">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=u6drxiPTpw4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=MviT93-B7rc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=u6drxiPTpw4&title=AI+Before+vs+AI+Now+%7C+How+Much+Has+Artificial+Intelligence+Changed%3F&lang=en&timestamp=1787582276&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=418">
-          <img src="https://ytcards.demolab.com/?id=u6drxiPTpw4&title=AI+Before+vs+AI+Now+%7C+How+Much+Has+Artificial+Intelligence+Changed%3F&lang=en&timestamp=1787582276&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=418" alt="AI Before vs AI Now | How Much Has Artificial Intelligence Changed?" title="AI Before vs AI Now | How Much Has Artificial Intelligence Changed?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=MviT93-B7rc&title=AI+Won%27t+Take+Your+Job%2C+But+Someone+Who+Can+Use+AI+Might&lang=en&timestamp=1787591048&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3068">
+          <img src="https://ytcards.demolab.com/?id=MviT93-B7rc&title=AI+Won%27t+Take+Your+Job%2C+But+Someone+Who+Can+Use+AI+Might&lang=en&timestamp=1787591048&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3068" alt="AI Won't Take Your Job, But Someone Who Can Use AI Might" title="AI Won't Take Your Job, But Someone Who Can Use AI Might">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=UIDy_9d4xvU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=C3KAoTbovGc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=UIDy_9d4xvU&title=Why+TSMC+Wins+%7C+Inside+The+Secret+Chip+Empire+%7C+Former+TSMC+R%26D+Director+Explains+AI%27s+Future&lang=en&timestamp=1787571476&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1621">
-          <img src="https://ytcards.demolab.com/?id=UIDy_9d4xvU&title=Why+TSMC+Wins+%7C+Inside+The+Secret+Chip+Empire+%7C+Former+TSMC+R%26D+Director+Explains+AI%27s+Future&lang=en&timestamp=1787571476&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1621" alt="Why TSMC Wins | Inside The Secret Chip Empire | Former TSMC R&D Director Explains AI's Future" title="Why TSMC Wins | Inside The Secret Chip Empire | Former TSMC R&D Director Explains AI's Future">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=C3KAoTbovGc&title=Can+Keel+Infrastructure+consistently+outperform+the+Russell+3000%3F+Plus+an+AI+reality+check%21&lang=en&timestamp=1787605448&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=212">
+          <img src="https://ytcards.demolab.com/?id=C3KAoTbovGc&title=Can+Keel+Infrastructure+consistently+outperform+the+Russell+3000%3F+Plus+an+AI+reality+check%21&lang=en&timestamp=1787605448&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=212" alt="Can Keel Infrastructure consistently outperform the Russell 3000? Plus an AI reality check!" title="Can Keel Infrastructure consistently outperform the Russell 3000? Plus an AI reality check!">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=FXWEc0JjZLM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=a2hhtkbcbtU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=FXWEc0JjZLM&title=Which+Jobs+Will+AI+Change+First%3F&lang=en&timestamp=1787589476&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=172">
-          <img src="https://ytcards.demolab.com/?id=FXWEc0JjZLM&title=Which+Jobs+Will+AI+Change+First%3F&lang=en&timestamp=1787589476&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=172" alt="Which Jobs Will AI Change First?" title="Which Jobs Will AI Change First?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=a2hhtkbcbtU&title=The+AI+tax+hits+the+Pixel+Watch+5+HARD&lang=en&timestamp=1787601848&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=823">
+          <img src="https://ytcards.demolab.com/?id=a2hhtkbcbtU&title=The+AI+tax+hits+the+Pixel+Watch+5+HARD&lang=en&timestamp=1787601848&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=823" alt="The AI tax hits the Pixel Watch 5 HARD" title="The AI tax hits the Pixel Watch 5 HARD">
         </picture>
       </a>
     </td>
