@@ -477,56 +477,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=EsdqCEuoI8M" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EsdqCEuoI8M&title=Are+graduates+prepared+for+the+AI+era%3F+%7C+FT+Working+It&lang=en&timestamp=1787583199&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1140">
-          <img src="https://ytcards.demolab.com/?id=EsdqCEuoI8M&title=Are+graduates+prepared+for+the+AI+era%3F+%7C+FT+Working+It&lang=en&timestamp=1787583199&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1140" alt="Are graduates prepared for the AI era? | FT Working It" title="Are graduates prepared for the AI era? | FT Working It">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EsdqCEuoI8M&title=Are+graduates+prepared+for+the+AI+era%3F+%7C+FT+Working+It&lang=en&timestamp=1787592966&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1140">
+          <img src="https://ytcards.demolab.com/?id=EsdqCEuoI8M&title=Are+graduates+prepared+for+the+AI+era%3F+%7C+FT+Working+It&lang=en&timestamp=1787592966&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1140" alt="Are graduates prepared for the AI era? | FT Working It" title="Are graduates prepared for the AI era? | FT Working It">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=sQdKJamsilE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=sZW6q8Wit38" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sQdKJamsilE&title=Amazon+Is+Burning+Thousands+Of+Rare+Books+For+Ai&lang=en&timestamp=1787604799&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=821">
-          <img src="https://ytcards.demolab.com/?id=sQdKJamsilE&title=Amazon+Is+Burning+Thousands+Of+Rare+Books+For+Ai&lang=en&timestamp=1787604799&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=821" alt="Amazon Is Burning Thousands Of Rare Books For Ai" title="Amazon Is Burning Thousands Of Rare Books For Ai">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sZW6q8Wit38&title=AI+costs+are+rising+for+businesses+even+as+tokens+get+cheaper+%7C+The+Business+%7C+ABC+NEWS&lang=en&timestamp=1787592966&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=231">
+          <img src="https://ytcards.demolab.com/?id=sZW6q8Wit38&title=AI+costs+are+rising+for+businesses+even+as+tokens+get+cheaper+%7C+The+Business+%7C+ABC+NEWS&lang=en&timestamp=1787592966&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=231" alt="AI costs are rising for businesses even as tokens get cheaper | The Business | ABC NEWS" title="AI costs are rising for businesses even as tokens get cheaper | The Business | ABC NEWS">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=wunK64HRink" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wunK64HRink&title=OpenAI+Is+Collapsing&lang=en&timestamp=1787590399&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=861">
-          <img src="https://ytcards.demolab.com/?id=wunK64HRink&title=OpenAI+Is+Collapsing&lang=en&timestamp=1787590399&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=861" alt="OpenAI Is Collapsing" title="OpenAI Is Collapsing">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wunK64HRink&title=OpenAI+Is+Collapsing&lang=en&timestamp=1787592966&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=861">
+          <img src="https://ytcards.demolab.com/?id=wunK64HRink&title=OpenAI+Is+Collapsing&lang=en&timestamp=1787592966&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=861" alt="OpenAI Is Collapsing" title="OpenAI Is Collapsing">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=sZW6q8Wit38" target="_blank">
+      <a href="https://www.youtube.com/watch?v=W6fJqiAVB7k" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sZW6q8Wit38&title=AI+costs+are+rising+for+businesses+even+as+tokens+get+cheaper+%7C+The+Business+%7C+ABC+NEWS&lang=en&timestamp=1787583199&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=231">
-          <img src="https://ytcards.demolab.com/?id=sZW6q8Wit38&title=AI+costs+are+rising+for+businesses+even+as+tokens+get+cheaper+%7C+The+Business+%7C+ABC+NEWS&lang=en&timestamp=1787583199&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=231" alt="AI costs are rising for businesses even as tokens get cheaper | The Business | ABC NEWS" title="AI costs are rising for businesses even as tokens get cheaper | The Business | ABC NEWS">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=W6fJqiAVB7k&title=Focus+On+AI+Summit+2026%3A+Artificial+Intelligence+for+Societal+Impact&lang=en&timestamp=1787664966&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=828">
+          <img src="https://ytcards.demolab.com/?id=W6fJqiAVB7k&title=Focus+On+AI+Summit+2026%3A+Artificial+Intelligence+for+Societal+Impact&lang=en&timestamp=1787664966&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=828" alt="Focus On AI Summit 2026: Artificial Intelligence for Societal Impact" title="Focus On AI Summit 2026: Artificial Intelligence for Societal Impact">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=sQdKJamsilE" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sQdKJamsilE&title=Amazon+Is+Burning+Thousands+Of+Rare+Books+For+Ai&lang=en&timestamp=1787603766&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=821">
+          <img src="https://ytcards.demolab.com/?id=sQdKJamsilE&title=Amazon+Is+Burning+Thousands+Of+Rare+Books+For+Ai&lang=en&timestamp=1787603766&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=821" alt="Amazon Is Burning Thousands Of Rare Books For Ai" title="Amazon Is Burning Thousands Of Rare Books For Ai">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=ns9AemkKaFs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ns9AemkKaFs&title=Remove+AI+in+Windows+For+Good&lang=en&timestamp=1787583199&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1038">
-          <img src="https://ytcards.demolab.com/?id=ns9AemkKaFs&title=Remove+AI+in+Windows+For+Good&lang=en&timestamp=1787583199&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1038" alt="Remove AI in Windows For Good" title="Remove AI in Windows For Good">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=W6fJqiAVB7k" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=W6fJqiAVB7k&title=Focus+On+AI+Summit+2026%3A+Artificial+Intelligence+for+Societal+Impact&lang=en&timestamp=1787665999&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=828">
-          <img src="https://ytcards.demolab.com/?id=W6fJqiAVB7k&title=Focus+On+AI+Summit+2026%3A+Artificial+Intelligence+for+Societal+Impact&lang=en&timestamp=1787665999&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=828" alt="Focus On AI Summit 2026: Artificial Intelligence for Societal Impact" title="Focus On AI Summit 2026: Artificial Intelligence for Societal Impact">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ns9AemkKaFs&title=Remove+AI+in+Windows+For+Good&lang=en&timestamp=1787592966&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1038">
+          <img src="https://ytcards.demolab.com/?id=ns9AemkKaFs&title=Remove+AI+in+Windows+For+Good&lang=en&timestamp=1787592966&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1038" alt="Remove AI in Windows For Good" title="Remove AI in Windows For Good">
         </picture>
       </a>
     </td>
