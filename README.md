@@ -479,56 +479,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=EsdqCEuoI8M" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EsdqCEuoI8M&title=Are+graduates+prepared+for+the+AI+era%3F+%7C+FT+Working+It&lang=en&timestamp=1787600153&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1140">
-          <img src="https://ytcards.demolab.com/?id=EsdqCEuoI8M&title=Are+graduates+prepared+for+the+AI+era%3F+%7C+FT+Working+It&lang=en&timestamp=1787600153&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1140" alt="Are graduates prepared for the AI era? | FT Working It" title="Are graduates prepared for the AI era? | FT Working It">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
       <a href="https://www.youtube.com/watch?v=DYbTzE92jbE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=DYbTzE92jbE&title=AI+Investing+in+2026%3A+The+Next+Phase+of+Artificial+Intelligence&lang=en&timestamp=1787672153&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=288">
-          <img src="https://ytcards.demolab.com/?id=DYbTzE92jbE&title=AI+Investing+in+2026%3A+The+Next+Phase+of+Artificial+Intelligence&lang=en&timestamp=1787672153&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=288" alt="AI Investing in 2026: The Next Phase of Artificial Intelligence" title="AI Investing in 2026: The Next Phase of Artificial Intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=DYbTzE92jbE&title=AI+Investing+in+2026%3A+The+Next+Phase+of+Artificial+Intelligence&lang=en&timestamp=1787672092&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=288">
+          <img src="https://ytcards.demolab.com/?id=DYbTzE92jbE&title=AI+Investing+in+2026%3A+The+Next+Phase+of+Artificial+Intelligence&lang=en&timestamp=1787672092&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=288" alt="AI Investing in 2026: The Next Phase of Artificial Intelligence" title="AI Investing in 2026: The Next Phase of Artificial Intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=a2hhtkbcbtU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=EsdqCEuoI8M" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=a2hhtkbcbtU&title=The+AI+tax+hits+the+Pixel+Watch+5+HARD&lang=en&timestamp=1787600153&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=823">
-          <img src="https://ytcards.demolab.com/?id=a2hhtkbcbtU&title=The+AI+tax+hits+the+Pixel+Watch+5+HARD&lang=en&timestamp=1787600153&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=823" alt="The AI tax hits the Pixel Watch 5 HARD" title="The AI tax hits the Pixel Watch 5 HARD">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EsdqCEuoI8M&title=Are+graduates+prepared+for+the+AI+era%3F+%7C+FT+Working+It&lang=en&timestamp=1787603692&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1140">
+          <img src="https://ytcards.demolab.com/?id=EsdqCEuoI8M&title=Are+graduates+prepared+for+the+AI+era%3F+%7C+FT+Working+It&lang=en&timestamp=1787603692&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1140" alt="Are graduates prepared for the AI era? | FT Working It" title="Are graduates prepared for the AI era? | FT Working It">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=QQ4mttkotu4" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QQ4mttkotu4&title=How+you+can+Make+Money+Online+with+AI+-+Complete+Roadmap%E2%9C%85&lang=en&timestamp=1787661292&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1042">
+          <img src="https://ytcards.demolab.com/?id=QQ4mttkotu4&title=How+you+can+Make+Money+Online+with+AI+-+Complete+Roadmap%E2%9C%85&lang=en&timestamp=1787661292&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1042" alt="How you can Make Money Online with AI - Complete Roadmap✅" title="How you can Make Money Online with AI - Complete Roadmap✅">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=sZW6q8Wit38" target="_blank">
+      <a href="https://www.youtube.com/watch?v=a2hhtkbcbtU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sZW6q8Wit38&title=AI+costs+are+rising+for+businesses.+Does+it+compute%3F+%7C+The+Business+%7C+ABC+NEWS&lang=en&timestamp=1787600153&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=231">
-          <img src="https://ytcards.demolab.com/?id=sZW6q8Wit38&title=AI+costs+are+rising+for+businesses.+Does+it+compute%3F+%7C+The+Business+%7C+ABC+NEWS&lang=en&timestamp=1787600153&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=231" alt="AI costs are rising for businesses. Does it compute? | The Business | ABC NEWS" title="AI costs are rising for businesses. Does it compute? | The Business | ABC NEWS">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=W6fJqiAVB7k" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=W6fJqiAVB7k&title=Focus+On+AI+Summit+2026%3A+Artificial+Intelligence+for+Societal+Impact&lang=en&timestamp=1787664953&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=828">
-          <img src="https://ytcards.demolab.com/?id=W6fJqiAVB7k&title=Focus+On+AI+Summit+2026%3A+Artificial+Intelligence+for+Societal+Impact&lang=en&timestamp=1787664953&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=828" alt="Focus On AI Summit 2026: Artificial Intelligence for Societal Impact" title="Focus On AI Summit 2026: Artificial Intelligence for Societal Impact">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=a2hhtkbcbtU&title=The+AI+tax+hits+the+Pixel+Watch+5+HARD&lang=en&timestamp=1787603692&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=823">
+          <img src="https://ytcards.demolab.com/?id=a2hhtkbcbtU&title=The+AI+tax+hits+the+Pixel+Watch+5+HARD&lang=en&timestamp=1787603692&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=823" alt="The AI tax hits the Pixel Watch 5 HARD" title="The AI tax hits the Pixel Watch 5 HARD">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=sQdKJamsilE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sQdKJamsilE&title=Amazon+BUSTED+Burning+Rare+Books+After+Feeding+Them+Into+Ai&lang=en&timestamp=1787603753&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=821">
-          <img src="https://ytcards.demolab.com/?id=sQdKJamsilE&title=Amazon+BUSTED+Burning+Rare+Books+After+Feeding+Them+Into+Ai&lang=en&timestamp=1787603753&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=821" alt="Amazon BUSTED Burning Rare Books After Feeding Them Into Ai" title="Amazon BUSTED Burning Rare Books After Feeding Them Into Ai">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sQdKJamsilE&title=Amazon+BUSTED+Burning+Rare+Books+After+Feeding+Them+Into+Ai&lang=en&timestamp=1787603692&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=821">
+          <img src="https://ytcards.demolab.com/?id=sQdKJamsilE&title=Amazon+BUSTED+Burning+Rare+Books+After+Feeding+Them+Into+Ai&lang=en&timestamp=1787603692&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=821" alt="Amazon BUSTED Burning Rare Books After Feeding Them Into Ai" title="Amazon BUSTED Burning Rare Books After Feeding Them Into Ai">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=sZW6q8Wit38" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sZW6q8Wit38&title=AI+costs+are+rising+for+businesses.+Does+it+compute%3F+%7C+The+Business+%7C+ABC+NEWS&lang=en&timestamp=1787603692&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=231">
+          <img src="https://ytcards.demolab.com/?id=sZW6q8Wit38&title=AI+costs+are+rising+for+businesses.+Does+it+compute%3F+%7C+The+Business+%7C+ABC+NEWS&lang=en&timestamp=1787603692&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=231" alt="AI costs are rising for businesses. Does it compute? | The Business | ABC NEWS" title="AI costs are rising for businesses. Does it compute? | The Business | ABC NEWS">
         </picture>
       </a>
     </td>
