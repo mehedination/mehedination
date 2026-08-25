@@ -471,56 +471,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
+      <a href="https://www.youtube.com/watch?v=EsdqCEuoI8M" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EsdqCEuoI8M&title=Are+graduates+prepared+for+the+AI+era%3F+%7C+FT+Working+It&lang=en&timestamp=1787568622&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1140">
+          <img src="https://ytcards.demolab.com/?id=EsdqCEuoI8M&title=Are+graduates+prepared+for+the+AI+era%3F+%7C+FT+Working+It&lang=en&timestamp=1787568622&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1140" alt="Are graduates prepared for the AI era? | FT Working It" title="Are graduates prepared for the AI era? | FT Working It">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
       <a href="https://www.youtube.com/watch?v=sZW6q8Wit38" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sZW6q8Wit38&title=AI+costs+are+rising+for+businesses.+Does+it+compute%3F+%7C+The+Business+%7C+ABC+NEWS&lang=en&timestamp=1787561831&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=231">
-          <img src="https://ytcards.demolab.com/?id=sZW6q8Wit38&title=AI+costs+are+rising+for+businesses.+Does+it+compute%3F+%7C+The+Business+%7C+ABC+NEWS&lang=en&timestamp=1787561831&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=231" alt="AI costs are rising for businesses. Does it compute? | The Business | ABC NEWS" title="AI costs are rising for businesses. Does it compute? | The Business | ABC NEWS">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=sQdKJamsilE" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sQdKJamsilE&title=Amazon+BUSTED+Burning+Rare+Books+After+Feeding+Them+Into+Ai&lang=en&timestamp=1787605031&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=821">
-          <img src="https://ytcards.demolab.com/?id=sQdKJamsilE&title=Amazon+BUSTED+Burning+Rare+Books+After+Feeding+Them+Into+Ai&lang=en&timestamp=1787605031&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=821" alt="Amazon BUSTED Burning Rare Books After Feeding Them Into Ai" title="Amazon BUSTED Burning Rare Books After Feeding Them Into Ai">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=C5MQbzIncDE" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=C5MQbzIncDE&title=Perspective%3A+AI%3A+The+Next+Cyber+Weapon+%7C+24+August%2C+2026&lang=en&timestamp=1787590631&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1662">
-          <img src="https://ytcards.demolab.com/?id=C5MQbzIncDE&title=Perspective%3A+AI%3A+The+Next+Cyber+Weapon+%7C+24+August%2C+2026&lang=en&timestamp=1787590631&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1662" alt="Perspective: AI: The Next Cyber Weapon | 24 August, 2026" title="Perspective: AI: The Next Cyber Weapon | 24 August, 2026">
-        </picture>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=T673H572nP0" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=T673H572nP0&title=AI+for+Who%3F+UN+Deputy+Secretary-General+on+AI+and+Human+Development+%7C+United+Nations&lang=en&timestamp=1787587031&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=141">
-          <img src="https://ytcards.demolab.com/?id=T673H572nP0&title=AI+for+Who%3F+UN+Deputy+Secretary-General+on+AI+and+Human+Development+%7C+United+Nations&lang=en&timestamp=1787587031&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=141" alt="AI for Who? UN Deputy Secretary-General on AI and Human Development | United Nations" title="AI for Who? UN Deputy Secretary-General on AI and Human Development | United Nations">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sZW6q8Wit38&title=AI+costs+are+rising+for+businesses.+Does+it+compute%3F+%7C+The+Business+%7C+ABC+NEWS&lang=en&timestamp=1787561422&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=231">
+          <img src="https://ytcards.demolab.com/?id=sZW6q8Wit38&title=AI+costs+are+rising+for+businesses.+Does+it+compute%3F+%7C+The+Business+%7C+ABC+NEWS&lang=en&timestamp=1787561422&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=231" alt="AI costs are rising for businesses. Does it compute? | The Business | ABC NEWS" title="AI costs are rising for businesses. Does it compute? | The Business | ABC NEWS">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=wunK64HRink" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wunK64HRink&title=OpenAI+Is+Near+the+End&lang=en&timestamp=1787590631&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=861">
-          <img src="https://ytcards.demolab.com/?id=wunK64HRink&title=OpenAI+Is+Near+the+End&lang=en&timestamp=1787590631&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=861" alt="OpenAI Is Near the End" title="OpenAI Is Near the End">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wunK64HRink&title=OpenAI+Is+Out+of+Money&lang=en&timestamp=1787590222&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=861">
+          <img src="https://ytcards.demolab.com/?id=wunK64HRink&title=OpenAI+Is+Out+of+Money&lang=en&timestamp=1787590222&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=861" alt="OpenAI Is Out of Money" title="OpenAI Is Out of Money">
+        </picture>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=sQdKJamsilE" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sQdKJamsilE&title=Amazon+BUSTED+Burning+Rare+Books+After+Feeding+Them+Into+Ai&lang=en&timestamp=1787604622&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=821">
+          <img src="https://ytcards.demolab.com/?id=sQdKJamsilE&title=Amazon+BUSTED+Burning+Rare+Books+After+Feeding+Them+Into+Ai&lang=en&timestamp=1787604622&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=821" alt="Amazon BUSTED Burning Rare Books After Feeding Them Into Ai" title="Amazon BUSTED Burning Rare Books After Feeding Them Into Ai">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=rWgtIj_Q6Co" target="_blank">
+      <a href="https://www.youtube.com/watch?v=T673H572nP0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=rWgtIj_Q6Co&title=The+Real+Secret+to+Success+in+the+AI+Era&lang=en&timestamp=1787590631&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=210">
-          <img src="https://ytcards.demolab.com/?id=rWgtIj_Q6Co&title=The+Real+Secret+to+Success+in+the+AI+Era&lang=en&timestamp=1787590631&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=210" alt="The Real Secret to Success in the AI Era" title="The Real Secret to Success in the AI Era">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=T673H572nP0&title=AI+for+Who%3F+UN+Deputy+Secretary-General+on+AI+and+Human+Development+%7C+United+Nations&lang=en&timestamp=1787586622&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=141">
+          <img src="https://ytcards.demolab.com/?id=T673H572nP0&title=AI+for+Who%3F+UN+Deputy+Secretary-General+on+AI+and+Human+Development+%7C+United+Nations&lang=en&timestamp=1787586622&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=141" alt="AI for Who? UN Deputy Secretary-General on AI and Human Development | United Nations" title="AI for Who? UN Deputy Secretary-General on AI and Human Development | United Nations">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=TCNqJ4gTV5s" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=TCNqJ4gTV5s&title=The+Global+Youth+Job+Crisis%3A+AI%2C+Demographics+And+Geopolitics+Create+A+Perfect+Storm+%7C+WION&lang=en&timestamp=1787583022&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=255">
+          <img src="https://ytcards.demolab.com/?id=TCNqJ4gTV5s&title=The+Global+Youth+Job+Crisis%3A+AI%2C+Demographics+And+Geopolitics+Create+A+Perfect+Storm+%7C+WION&lang=en&timestamp=1787583022&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=255" alt="The Global Youth Job Crisis: AI, Demographics And Geopolitics Create A Perfect Storm | WION" title="The Global Youth Job Crisis: AI, Demographics And Geopolitics Create A Perfect Storm | WION">
         </picture>
       </a>
     </td>
