@@ -474,56 +474,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=EsdqCEuoI8M" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EsdqCEuoI8M&title=Are+graduates+prepared+for+the+AI+era%3F+%7C+FT+Working+It&lang=en&timestamp=1787571213&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1140">
-          <img src="https://ytcards.demolab.com/?id=EsdqCEuoI8M&title=Are+graduates+prepared+for+the+AI+era%3F+%7C+FT+Working+It&lang=en&timestamp=1787571213&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1140" alt="Are graduates prepared for the AI era? | FT Working It" title="Are graduates prepared for the AI era? | FT Working It">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EsdqCEuoI8M&title=Are+graduates+prepared+for+the+AI+era%3F+%7C+FT+Working+It&lang=en&timestamp=1787576219&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1140">
+          <img src="https://ytcards.demolab.com/?id=EsdqCEuoI8M&title=Are+graduates+prepared+for+the+AI+era%3F+%7C+FT+Working+It&lang=en&timestamp=1787576219&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1140" alt="Are graduates prepared for the AI era? | FT Working It" title="Are graduates prepared for the AI era? | FT Working It">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=sQdKJamsilE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sQdKJamsilE&title=Amazon+BUSTED+Burning+Rare+Books+After+Feeding+Them+Into+Ai&lang=en&timestamp=1787603613&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=821">
-          <img src="https://ytcards.demolab.com/?id=sQdKJamsilE&title=Amazon+BUSTED+Burning+Rare+Books+After+Feeding+Them+Into+Ai&lang=en&timestamp=1787603613&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=821" alt="Amazon BUSTED Burning Rare Books After Feeding Them Into Ai" title="Amazon BUSTED Burning Rare Books After Feeding Them Into Ai">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sQdKJamsilE&title=Amazon+BUSTED+Burning+Rare+Books+After+Feeding+Them+Into+Ai&lang=en&timestamp=1787605019&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=821">
+          <img src="https://ytcards.demolab.com/?id=sQdKJamsilE&title=Amazon+BUSTED+Burning+Rare+Books+After+Feeding+Them+Into+Ai&lang=en&timestamp=1787605019&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=821" alt="Amazon BUSTED Burning Rare Books After Feeding Them Into Ai" title="Amazon BUSTED Burning Rare Books After Feeding Them Into Ai">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=wunK64HRink" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wunK64HRink&title=OpenAI+Is+Near+the+End&lang=en&timestamp=1787589213&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=861">
-          <img src="https://ytcards.demolab.com/?id=wunK64HRink&title=OpenAI+Is+Near+the+End&lang=en&timestamp=1787589213&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=861" alt="OpenAI Is Near the End" title="OpenAI Is Near the End">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wunK64HRink&title=OpenAI+Is+Collapsing&lang=en&timestamp=1787590619&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=861">
+          <img src="https://ytcards.demolab.com/?id=wunK64HRink&title=OpenAI+Is+Collapsing&lang=en&timestamp=1787590619&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=861" alt="OpenAI Is Collapsing" title="OpenAI Is Collapsing">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=PUtYfoOvPoQ" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PUtYfoOvPoQ&title=1.+Do+You+Know+Artificial+Intelligence%3F&lang=en&timestamp=1787657313&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=469">
-          <img src="https://ytcards.demolab.com/?id=PUtYfoOvPoQ&title=1.+Do+You+Know+Artificial+Intelligence%3F&lang=en&timestamp=1787657313&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=469" alt="1. Do You Know Artificial Intelligence?" title="1. Do You Know Artificial Intelligence?">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
       <a href="https://www.youtube.com/watch?v=sZW6q8Wit38" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sZW6q8Wit38&title=AI+costs+are+rising+for+businesses.+Does+it+compute%3F+%7C+The+Business+%7C+ABC+NEWS&lang=en&timestamp=1787571213&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=231">
-          <img src="https://ytcards.demolab.com/?id=sZW6q8Wit38&title=AI+costs+are+rising+for+businesses.+Does+it+compute%3F+%7C+The+Business+%7C+ABC+NEWS&lang=en&timestamp=1787571213&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=231" alt="AI costs are rising for businesses. Does it compute? | The Business | ABC NEWS" title="AI costs are rising for businesses. Does it compute? | The Business | ABC NEWS">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sZW6q8Wit38&title=AI+costs+are+rising+for+businesses.+Does+it+compute%3F+%7C+The+Business+%7C+ABC+NEWS&lang=en&timestamp=1787576219&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=231">
+          <img src="https://ytcards.demolab.com/?id=sZW6q8Wit38&title=AI+costs+are+rising+for+businesses.+Does+it+compute%3F+%7C+The+Business+%7C+ABC+NEWS&lang=en&timestamp=1787576219&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=231" alt="AI costs are rising for businesses. Does it compute? | The Business | ABC NEWS" title="AI costs are rising for businesses. Does it compute? | The Business | ABC NEWS">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=i0x1T728S2Q" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ns9AemkKaFs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=i0x1T728S2Q&title=Roundtable+on+Semiconductor+and+Artificial+Intelligence%2C+Tokyo%2C+Japan&lang=en&timestamp=1787654013&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=916">
-          <img src="https://ytcards.demolab.com/?id=i0x1T728S2Q&title=Roundtable+on+Semiconductor+and+Artificial+Intelligence%2C+Tokyo%2C+Japan&lang=en&timestamp=1787654013&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=916" alt="Roundtable on Semiconductor and Artificial Intelligence, Tokyo, Japan" title="Roundtable on Semiconductor and Artificial Intelligence, Tokyo, Japan">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ns9AemkKaFs&title=Remove+AI+in+Windows+For+Good&lang=en&timestamp=1787583419&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1038">
+          <img src="https://ytcards.demolab.com/?id=ns9AemkKaFs&title=Remove+AI+in+Windows+For+Good&lang=en&timestamp=1787583419&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1038" alt="Remove AI in Windows For Good" title="Remove AI in Windows For Good">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=PUtYfoOvPoQ" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PUtYfoOvPoQ&title=1.+Do+You+Know+Artificial+Intelligence%3F&lang=en&timestamp=1787659019&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=469">
+          <img src="https://ytcards.demolab.com/?id=PUtYfoOvPoQ&title=1.+Do+You+Know+Artificial+Intelligence%3F&lang=en&timestamp=1787659019&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=469" alt="1. Do You Know Artificial Intelligence?" title="1. Do You Know Artificial Intelligence?">
         </picture>
       </a>
     </td>
