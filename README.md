@@ -481,56 +481,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=EsdqCEuoI8M" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EsdqCEuoI8M&title=Are+graduates+prepared+for+the+AI+era%3F+%7C+FT+Working+It&lang=en&timestamp=1787607243&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1140">
-          <img src="https://ytcards.demolab.com/?id=EsdqCEuoI8M&title=Are+graduates+prepared+for+the+AI+era%3F+%7C+FT+Working+It&lang=en&timestamp=1787607243&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1140" alt="Are graduates prepared for the AI era? | FT Working It" title="Are graduates prepared for the AI era? | FT Working It">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EsdqCEuoI8M&title=Are+graduates+prepared+for+the+AI+era%3F+%7C+FT+Working+It&lang=en&timestamp=1787610789&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1140">
+          <img src="https://ytcards.demolab.com/?id=EsdqCEuoI8M&title=Are+graduates+prepared+for+the+AI+era%3F+%7C+FT+Working+It&lang=en&timestamp=1787610789&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1140" alt="Are graduates prepared for the AI era? | FT Working It" title="Are graduates prepared for the AI era? | FT Working It">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=sQdKJamsilE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=W6fJqiAVB7k" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sQdKJamsilE&title=Amazon+BUSTED+Burning+Rare+Books+After+Feeding+Them+Into+Ai&lang=en&timestamp=1787607243&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=821">
-          <img src="https://ytcards.demolab.com/?id=sQdKJamsilE&title=Amazon+BUSTED+Burning+Rare+Books+After+Feeding+Them+Into+Ai&lang=en&timestamp=1787607243&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=821" alt="Amazon BUSTED Burning Rare Books After Feeding Them Into Ai" title="Amazon BUSTED Burning Rare Books After Feeding Them Into Ai">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=YgGtZoCKrbg" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=YgGtZoCKrbg&title=The+Future+is+for+Everyone&lang=en&timestamp=1787607243&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1201">
-          <img src="https://ytcards.demolab.com/?id=YgGtZoCKrbg&title=The+Future+is+for+Everyone&lang=en&timestamp=1787607243&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1201" alt="The Future is for Everyone" title="The Future is for Everyone">
-        </picture>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=DYbTzE92jbE" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=DYbTzE92jbE&title=AI+Investing+in+2026%3A+The+Next+Phase+of+Artificial+Intelligence&lang=en&timestamp=1787672043&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=288">
-          <img src="https://ytcards.demolab.com/?id=DYbTzE92jbE&title=AI+Investing+in+2026%3A+The+Next+Phase+of+Artificial+Intelligence&lang=en&timestamp=1787672043&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=288" alt="AI Investing in 2026: The Next Phase of Artificial Intelligence" title="AI Investing in 2026: The Next Phase of Artificial Intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=W6fJqiAVB7k&title=Focus+On+AI+Summit+2026%3A+Artificial+Intelligence+for+Societal+Impact&lang=en&timestamp=1787664789&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=828">
+          <img src="https://ytcards.demolab.com/?id=W6fJqiAVB7k&title=Focus+On+AI+Summit+2026%3A+Artificial+Intelligence+for+Societal+Impact&lang=en&timestamp=1787664789&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=828" alt="Focus On AI Summit 2026: Artificial Intelligence for Societal Impact" title="Focus On AI Summit 2026: Artificial Intelligence for Societal Impact">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=sZW6q8Wit38" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sZW6q8Wit38&title=AI+costs+are+rising+for+businesses.+Does+it+compute%3F+%7C+The+Business+%7C+ABC+NEWS&lang=en&timestamp=1787607243&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=231">
-          <img src="https://ytcards.demolab.com/?id=sZW6q8Wit38&title=AI+costs+are+rising+for+businesses.+Does+it+compute%3F+%7C+The+Business+%7C+ABC+NEWS&lang=en&timestamp=1787607243&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=231" alt="AI costs are rising for businesses. Does it compute? | The Business | ABC NEWS" title="AI costs are rising for businesses. Does it compute? | The Business | ABC NEWS">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sZW6q8Wit38&title=AI+costs+are+rising+for+businesses.+Does+it+compute%3F+%7C+The+Business+%7C+ABC+NEWS&lang=en&timestamp=1787610789&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=231">
+          <img src="https://ytcards.demolab.com/?id=sZW6q8Wit38&title=AI+costs+are+rising+for+businesses.+Does+it+compute%3F+%7C+The+Business+%7C+ABC+NEWS&lang=en&timestamp=1787610789&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=231" alt="AI costs are rising for businesses. Does it compute? | The Business | ABC NEWS" title="AI costs are rising for businesses. Does it compute? | The Business | ABC NEWS">
+        </picture>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=QQ4mttkotu4" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QQ4mttkotu4&title=How+you+can+Make+Money+Online+with+AI+-+Complete+Roadmap%E2%9C%85&lang=en&timestamp=1787661189&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1042">
+          <img src="https://ytcards.demolab.com/?id=QQ4mttkotu4&title=How+you+can+Make+Money+Online+with+AI+-+Complete+Roadmap%E2%9C%85&lang=en&timestamp=1787661189&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1042" alt="How you can Make Money Online with AI - Complete Roadmap✅" title="How you can Make Money Online with AI - Complete Roadmap✅">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=QQ4mttkotu4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=YgGtZoCKrbg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QQ4mttkotu4&title=How+you+can+Make+Money+Online+with+AI+-+Complete+Roadmap%E2%9C%85&lang=en&timestamp=1787661243&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1042">
-          <img src="https://ytcards.demolab.com/?id=QQ4mttkotu4&title=How+you+can+Make+Money+Online+with+AI+-+Complete+Roadmap%E2%9C%85&lang=en&timestamp=1787661243&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1042" alt="How you can Make Money Online with AI - Complete Roadmap✅" title="How you can Make Money Online with AI - Complete Roadmap✅">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=YgGtZoCKrbg&title=The+Future+is+for+Everyone&lang=en&timestamp=1787610789&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1201">
+          <img src="https://ytcards.demolab.com/?id=YgGtZoCKrbg&title=The+Future+is+for+Everyone&lang=en&timestamp=1787610789&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1201" alt="The Future is for Everyone" title="The Future is for Everyone">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=EjGsPuO5gUc" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EjGsPuO5gUc&title=Tech+trailblazer+helps+small+business+tackle+tasks+with+artificial+intelligence&lang=en&timestamp=1787694069&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=198">
+          <img src="https://ytcards.demolab.com/?id=EjGsPuO5gUc&title=Tech+trailblazer+helps+small+business+tackle+tasks+with+artificial+intelligence&lang=en&timestamp=1787694069&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=198" alt="Tech trailblazer helps small business tackle tasks with artificial intelligence" title="Tech trailblazer helps small business tackle tasks with artificial intelligence">
         </picture>
       </a>
     </td>
