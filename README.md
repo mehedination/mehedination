@@ -490,30 +490,31 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=hJSo7UV6hBA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hJSo7UV6hBA&title=USA+Bonds+Artificial+Intelligence+Shock&lang=en&timestamp=1787753031&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1107">
-          <img src="https://ytcards.demolab.com/?id=hJSo7UV6hBA&title=USA+Bonds+Artificial+Intelligence+Shock&lang=en&timestamp=1787753031&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1107" alt="USA Bonds Artificial Intelligence Shock" title="USA Bonds Artificial Intelligence Shock">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hJSo7UV6hBA&title=USA+Bonds+Artificial+Intelligence+Shock&lang=en&timestamp=1787753353&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1107">
+          <img src="https://ytcards.demolab.com/?id=hJSo7UV6hBA&title=USA+Bonds+Artificial+Intelligence+Shock&lang=en&timestamp=1787753353&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1107" alt="USA Bonds Artificial Intelligence Shock" title="USA Bonds Artificial Intelligence Shock">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=3Otga0nxrDU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=e4ioXbtQrm4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3Otga0nxrDU&title=I+read+Mark+Zuckerberg%27s+dumb+AI+manifesto%2C+so+you+don%27t+have+to.&lang=en&timestamp=1787694591&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1828">
-          <img src="https://ytcards.demolab.com/?id=3Otga0nxrDU&title=I+read+Mark+Zuckerberg%27s+dumb+AI+manifesto%2C+so+you+don%27t+have+to.&lang=en&timestamp=1787694591&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1828" alt="I read Mark Zuckerberg's dumb AI manifesto, so you don't have to." title="I read Mark Zuckerberg's dumb AI manifesto, so you don't have to.">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=e4ioXbtQrm4&title=Dowsing+Rod+Q%26A+%7C+AI+%2F+Artificial+Intelligence+and+Data+Centers&lang=en&timestamp=1787684953&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1914">
+          <img src="https://ytcards.demolab.com/?id=e4ioXbtQrm4&title=Dowsing+Rod+Q%26A+%7C+AI+%2F+Artificial+Intelligence+and+Data+Centers&lang=en&timestamp=1787684953&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1914" alt="Dowsing Rod Q&A | AI / Artificial Intelligence and Data Centers" title="Dowsing Rod Q&A | AI / Artificial Intelligence and Data Centers">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=q9NLTbSczIk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=b7IryPMK8tQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=q9NLTbSczIk&title=Brain+Expert+Reveals+Bill+Clinton%27s+Memory+Secret&lang=en&timestamp=1787672991&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5826">
-          <img src="https://ytcards.demolab.com/?id=q9NLTbSczIk&title=Brain+Expert+Reveals+Bill+Clinton%27s+Memory+Secret&lang=en&timestamp=1787672991&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5826" alt="Brain Expert Reveals Bill Clinton's Memory Secret" title="Brain Expert Reveals Bill Clinton's Memory Secret">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=b7IryPMK8tQ&title=Experts+weigh+costs%2C+benefits+of+using+artificial+intelligence+in+education&lang=en&timestamp=1787692153&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=135">
+          <img src="https://ytcards.demolab.com/?id=b7IryPMK8tQ&title=Experts+weigh+costs%2C+benefits+of+using+artificial+intelligence+in+education&lang=en&timestamp=1787692153&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=135" alt="Experts weigh costs, benefits of using artificial intelligence in education" title="Experts weigh costs, benefits of using artificial intelligence in education">
         </picture>
       </a>
     </td>
@@ -522,24 +523,24 @@
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=MnJ43gIuiC8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=MnJ43gIuiC8&title=Ep.+233%3A+OpenAI+Pauses+Some+AI+Training%2C+Anthropic+Controversy+%26+AI+Job+Loss+Among+Young+Workers&lang=en&timestamp=1787669391&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5256">
-          <img src="https://ytcards.demolab.com/?id=MnJ43gIuiC8&title=Ep.+233%3A+OpenAI+Pauses+Some+AI+Training%2C+Anthropic+Controversy+%26+AI+Job+Loss+Among+Young+Workers&lang=en&timestamp=1787669391&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5256" alt="Ep. 233: OpenAI Pauses Some AI Training, Anthropic Controversy & AI Job Loss Among Young Workers" title="Ep. 233: OpenAI Pauses Some AI Training, Anthropic Controversy & AI Job Loss Among Young Workers">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=MnJ43gIuiC8&title=Ep.+233%3A+OpenAI+Pauses+Some+AI+Training%2C+Anthropic+Controversy+%26+AI+Job+Loss+Among+Young+Workers&lang=en&timestamp=1787684953&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5256">
+          <img src="https://ytcards.demolab.com/?id=MnJ43gIuiC8&title=Ep.+233%3A+OpenAI+Pauses+Some+AI+Training%2C+Anthropic+Controversy+%26+AI+Job+Loss+Among+Young+Workers&lang=en&timestamp=1787684953&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5256" alt="Ep. 233: OpenAI Pauses Some AI Training, Anthropic Controversy & AI Job Loss Among Young Workers" title="Ep. 233: OpenAI Pauses Some AI Training, Anthropic Controversy & AI Job Loss Among Young Workers">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=e4ioXbtQrm4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=DYbTzE92jbE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=e4ioXbtQrm4&title=Dowsing+Rod+Q%26A+%7C+AI+%2F+Artificial+Intelligence+and+Data+Centers&lang=en&timestamp=1787687391&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1914">
-          <img src="https://ytcards.demolab.com/?id=e4ioXbtQrm4&title=Dowsing+Rod+Q%26A+%7C+AI+%2F+Artificial+Intelligence+and+Data+Centers&lang=en&timestamp=1787687391&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1914" alt="Dowsing Rod Q&A | AI / Artificial Intelligence and Data Centers" title="Dowsing Rod Q&A | AI / Artificial Intelligence and Data Centers">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=DYbTzE92jbE&title=AI+Investing+in+2026%3A+The+Next+Phase+of+Artificial+Intelligence&lang=en&timestamp=1787684953&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=288">
+          <img src="https://ytcards.demolab.com/?id=DYbTzE92jbE&title=AI+Investing+in+2026%3A+The+Next+Phase+of+Artificial+Intelligence&lang=en&timestamp=1787684953&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=288" alt="AI Investing in 2026: The Next Phase of Artificial Intelligence" title="AI Investing in 2026: The Next Phase of Artificial Intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=b7IryPMK8tQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=EjGsPuO5gUc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=b7IryPMK8tQ&title=Experts+weigh+costs%2C+benefits+of+using+artificial+intelligence+in+education&lang=en&timestamp=1787694591&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=135">
-          <img src="https://ytcards.demolab.com/?id=b7IryPMK8tQ&title=Experts+weigh+costs%2C+benefits+of+using+artificial+intelligence+in+education&lang=en&timestamp=1787694591&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=135" alt="Experts weigh costs, benefits of using artificial intelligence in education" title="Experts weigh costs, benefits of using artificial intelligence in education">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EjGsPuO5gUc&title=Tech+trailblazer+helps+small+business+tackle+tasks+with+artificial+intelligence&lang=en&timestamp=1787695753&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=198">
+          <img src="https://ytcards.demolab.com/?id=EjGsPuO5gUc&title=Tech+trailblazer+helps+small+business+tackle+tasks+with+artificial+intelligence&lang=en&timestamp=1787695753&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=198" alt="Tech trailblazer helps small business tackle tasks with artificial intelligence" title="Tech trailblazer helps small business tackle tasks with artificial intelligence">
         </picture>
       </a>
     </td>
