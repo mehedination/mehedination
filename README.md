@@ -488,56 +488,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=W6fJqiAVB7k" target="_blank">
+      <a href="https://www.youtube.com/watch?v=b7IryPMK8tQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=W6fJqiAVB7k&title=Focus+On+AI+Summit+2026%3A+Artificial+Intelligence+for+Societal+Impact&lang=en&timestamp=1787664888&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=828">
-          <img src="https://ytcards.demolab.com/?id=W6fJqiAVB7k&title=Focus+On+AI+Summit+2026%3A+Artificial+Intelligence+for+Societal+Impact&lang=en&timestamp=1787664888&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=828" alt="Focus On AI Summit 2026: Artificial Intelligence for Societal Impact" title="Focus On AI Summit 2026: Artificial Intelligence for Societal Impact">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=q9NLTbSczIk" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=q9NLTbSczIk&title=Brain+Expert+Reveals+Bill+Clinton%27s+Memory+Secret&lang=en&timestamp=1787672088&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5826">
-          <img src="https://ytcards.demolab.com/?id=q9NLTbSczIk&title=Brain+Expert+Reveals+Bill+Clinton%27s+Memory+Secret&lang=en&timestamp=1787672088&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5826" alt="Brain Expert Reveals Bill Clinton's Memory Secret" title="Brain Expert Reveals Bill Clinton's Memory Secret">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=b7IryPMK8tQ&title=Experts+weigh+costs%2C+benefits+of+using+artificial+intelligence+in+education&lang=en&timestamp=1787691777&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=135">
+          <img src="https://ytcards.demolab.com/?id=b7IryPMK8tQ&title=Experts+weigh+costs%2C+benefits+of+using+artificial+intelligence+in+education&lang=en&timestamp=1787691777&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=135" alt="Experts weigh costs, benefits of using artificial intelligence in education" title="Experts weigh costs, benefits of using artificial intelligence in education">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=3Otga0nxrDU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3Otga0nxrDU&title=I+read+Mark+Zuckerberg%27s+dumb+manifesto%2C+so+you+don%27t+have+to.&lang=en&timestamp=1787693688&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1828">
-          <img src="https://ytcards.demolab.com/?id=3Otga0nxrDU&title=I+read+Mark+Zuckerberg%27s+dumb+manifesto%2C+so+you+don%27t+have+to.&lang=en&timestamp=1787693688&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1828" alt="I read Mark Zuckerberg's dumb manifesto, so you don't have to." title="I read Mark Zuckerberg's dumb manifesto, so you don't have to.">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3Otga0nxrDU&title=I+read+Mark+Zuckerberg%27s+dumb+AI+manifesto%2C+so+you+don%27t+have+to.&lang=en&timestamp=1787691777&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1828">
+          <img src="https://ytcards.demolab.com/?id=3Otga0nxrDU&title=I+read+Mark+Zuckerberg%27s+dumb+AI+manifesto%2C+so+you+don%27t+have+to.&lang=en&timestamp=1787691777&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1828" alt="I read Mark Zuckerberg's dumb AI manifesto, so you don't have to." title="I read Mark Zuckerberg's dumb AI manifesto, so you don't have to.">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=q9NLTbSczIk" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=q9NLTbSczIk&title=Brain+Expert+Exposes+How+Chat+GPT+Is+Rewiring+Your+Brain...&lang=en&timestamp=1787673777&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5826">
+          <img src="https://ytcards.demolab.com/?id=q9NLTbSczIk&title=Brain+Expert+Exposes+How+Chat+GPT+Is+Rewiring+Your+Brain...&lang=en&timestamp=1787673777&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5826" alt="Brain Expert Exposes How Chat GPT Is Rewiring Your Brain..." title="Brain Expert Exposes How Chat GPT Is Rewiring Your Brain...">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=MnJ43gIuiC8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=vnGQIQlBja4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=MnJ43gIuiC8&title=Ep.+233%3A+OpenAI+Pauses+Some+AI+Training%2C+Anthropic+Controversy+%26+State+Opposition+to+Data+Centers&lang=en&timestamp=1787657688&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5256">
-          <img src="https://ytcards.demolab.com/?id=MnJ43gIuiC8&title=Ep.+233%3A+OpenAI+Pauses+Some+AI+Training%2C+Anthropic+Controversy+%26+State+Opposition+to+Data+Centers&lang=en&timestamp=1787657688&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5256" alt="Ep. 233: OpenAI Pauses Some AI Training, Anthropic Controversy & State Opposition to Data Centers" title="Ep. 233: OpenAI Pauses Some AI Training, Anthropic Controversy & State Opposition to Data Centers">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vnGQIQlBja4&title=Expert+Answers+How+Schools+Work+Around+The+World&lang=en&timestamp=1787673777&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1132">
+          <img src="https://ytcards.demolab.com/?id=vnGQIQlBja4&title=Expert+Answers+How+Schools+Work+Around+The+World&lang=en&timestamp=1787673777&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1132" alt="Expert Answers How Schools Work Around The World" title="Expert Answers How Schools Work Around The World">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=b7IryPMK8tQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=lkWK0Yc0OxE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=b7IryPMK8tQ&title=Experts+weigh+costs%2C+benefits+of+using+artificial+intelligence+in+education&lang=en&timestamp=1787693688&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=135">
-          <img src="https://ytcards.demolab.com/?id=b7IryPMK8tQ&title=Experts+weigh+costs%2C+benefits+of+using+artificial+intelligence+in+education&lang=en&timestamp=1787693688&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=135" alt="Experts weigh costs, benefits of using artificial intelligence in education" title="Experts weigh costs, benefits of using artificial intelligence in education">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lkWK0Yc0OxE&title=%E2%80%98Sell-offs+in+software%E2%80%99%3A+Trader+explains+rotational+nature+of+tech+stocks&lang=en&timestamp=1787706177&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=433">
+          <img src="https://ytcards.demolab.com/?id=lkWK0Yc0OxE&title=%E2%80%98Sell-offs+in+software%E2%80%99%3A+Trader+explains+rotational+nature+of+tech+stocks&lang=en&timestamp=1787706177&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=433" alt="‘Sell-offs in software’: Trader explains rotational nature of tech stocks" title="‘Sell-offs in software’: Trader explains rotational nature of tech stocks">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=QQ4mttkotu4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=3HXFXpvJvNU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QQ4mttkotu4&title=How+you+can+Make+Money+Online+with+AI+-+Complete+Roadmap%E2%9C%85&lang=en&timestamp=1787661288&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1042">
-          <img src="https://ytcards.demolab.com/?id=QQ4mttkotu4&title=How+you+can+Make+Money+Online+with+AI+-+Complete+Roadmap%E2%9C%85&lang=en&timestamp=1787661288&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1042" alt="How you can Make Money Online with AI - Complete Roadmap✅" title="How you can Make Money Online with AI - Complete Roadmap✅">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3HXFXpvJvNU&title=Silicon+Valley%E2%80%99s+AI+God%3A+Transhumanism+%26+The+Death+of+Humanity+with+C.R.+Wiley&lang=en&timestamp=1787702577&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3833">
+          <img src="https://ytcards.demolab.com/?id=3HXFXpvJvNU&title=Silicon+Valley%E2%80%99s+AI+God%3A+Transhumanism+%26+The+Death+of+Humanity+with+C.R.+Wiley&lang=en&timestamp=1787702577&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3833" alt="Silicon Valley’s AI God: Transhumanism & The Death of Humanity with C.R. Wiley" title="Silicon Valley’s AI God: Transhumanism & The Death of Humanity with C.R. Wiley">
         </picture>
       </a>
     </td>
