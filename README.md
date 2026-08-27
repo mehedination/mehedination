@@ -492,56 +492,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=hJSo7UV6hBA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=MLeTQWQiOvg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hJSo7UV6hBA&title=USA+Bonds+Artificial+Intelligence+Shock&lang=en&timestamp=1787753477&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1107">
-          <img src="https://ytcards.demolab.com/?id=hJSo7UV6hBA&title=USA+Bonds+Artificial+Intelligence+Shock&lang=en&timestamp=1787753477&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1107" alt="USA Bonds Artificial Intelligence Shock" title="USA Bonds Artificial Intelligence Shock">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=MLeTQWQiOvg&title=The+turbulent+era+of+artificial+intelligence+is+here&lang=en&timestamp=1787794803&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=112">
+          <img src="https://ytcards.demolab.com/?id=MLeTQWQiOvg&title=The+turbulent+era+of+artificial+intelligence+is+here&lang=en&timestamp=1787794803&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=112" alt="The turbulent era of artificial intelligence is here" title="The turbulent era of artificial intelligence is here">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=3Otga0nxrDU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=pJ-TBE7HaiA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3Otga0nxrDU&title=I+read+Mark+Zuckerberg%27s+dumb+manifesto%2C+so+you+don%27t+have+to.&lang=en&timestamp=1787699477&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1828">
-          <img src="https://ytcards.demolab.com/?id=3Otga0nxrDU&title=I+read+Mark+Zuckerberg%27s+dumb+manifesto%2C+so+you+don%27t+have+to.&lang=en&timestamp=1787699477&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1828" alt="I read Mark Zuckerberg's dumb manifesto, so you don't have to." title="I read Mark Zuckerberg's dumb manifesto, so you don't have to.">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=pJ-TBE7HaiA&title=%27The+turbulent+AI+era+is+here%27%3A+Bill+Gates+gives+his+three+AI+risks&lang=en&timestamp=1787798403&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=562">
+          <img src="https://ytcards.demolab.com/?id=pJ-TBE7HaiA&title=%27The+turbulent+AI+era+is+here%27%3A+Bill+Gates+gives+his+three+AI+risks&lang=en&timestamp=1787798403&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=562" alt="'The turbulent AI era is here': Bill Gates gives his three AI risks" title="'The turbulent AI era is here': Bill Gates gives his three AI risks">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=3HXFXpvJvNU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ksVnN27yzSg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3HXFXpvJvNU&title=Silicon+Valley%E2%80%99s+AI+God%3A+Transhumanism+%26+The+Death+of+Humanity+with+C.R.+Wiley&lang=en&timestamp=1787703077&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3833">
-          <img src="https://ytcards.demolab.com/?id=3HXFXpvJvNU&title=Silicon+Valley%E2%80%99s+AI+God%3A+Transhumanism+%26+The+Death+of+Humanity+with+C.R.+Wiley&lang=en&timestamp=1787703077&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3833" alt="Silicon Valley’s AI God: Transhumanism & The Death of Humanity with C.R. Wiley" title="Silicon Valley’s AI God: Transhumanism & The Death of Humanity with C.R. Wiley">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ksVnN27yzSg&title=Bill+Gates+Sounds+Alarm+On+AI%3A+Jobs%2C+Bioterrorism+%26+Human+Life+At+Risk+%7C+Tech+News+%7C+N18G&lang=en&timestamp=1787773203&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=98">
+          <img src="https://ytcards.demolab.com/?id=ksVnN27yzSg&title=Bill+Gates+Sounds+Alarm+On+AI%3A+Jobs%2C+Bioterrorism+%26+Human+Life+At+Risk+%7C+Tech+News+%7C+N18G&lang=en&timestamp=1787773203&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=98" alt="Bill Gates Sounds Alarm On AI: Jobs, Bioterrorism & Human Life At Risk | Tech News | N18G" title="Bill Gates Sounds Alarm On AI: Jobs, Bioterrorism & Human Life At Risk | Tech News | N18G">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=e4ioXbtQrm4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=hJSo7UV6hBA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=e4ioXbtQrm4&title=Dowsing+Rod+Q%26A+%7C+AI+%2F+Artificial+Intelligence+and+Data+Centers&lang=en&timestamp=1787699477&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1914">
-          <img src="https://ytcards.demolab.com/?id=e4ioXbtQrm4&title=Dowsing+Rod+Q%26A+%7C+AI+%2F+Artificial+Intelligence+and+Data+Centers&lang=en&timestamp=1787699477&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1914" alt="Dowsing Rod Q&A | AI / Artificial Intelligence and Data Centers" title="Dowsing Rod Q&A | AI / Artificial Intelligence and Data Centers">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hJSo7UV6hBA&title=USA+Bonds+Artificial+Intelligence+Shock&lang=en&timestamp=1787755203&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1107">
+          <img src="https://ytcards.demolab.com/?id=hJSo7UV6hBA&title=USA+Bonds+Artificial+Intelligence+Shock&lang=en&timestamp=1787755203&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1107" alt="USA Bonds Artificial Intelligence Shock" title="USA Bonds Artificial Intelligence Shock">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=s8oaxj8niTE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=M1eT7MJmFl8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=s8oaxj8niTE&title=Becoming+BYU+in+an+Age+of+Artificial+Intelligence+%7C+Gerrit+W.+Gong+%7C+August+2026&lang=en&timestamp=1787775077&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2227">
-          <img src="https://ytcards.demolab.com/?id=s8oaxj8niTE&title=Becoming+BYU+in+an+Age+of+Artificial+Intelligence+%7C+Gerrit+W.+Gong+%7C+August+2026&lang=en&timestamp=1787775077&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2227" alt="Becoming BYU in an Age of Artificial Intelligence | Gerrit W. Gong | August 2026" title="Becoming BYU in an Age of Artificial Intelligence | Gerrit W. Gong | August 2026">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=M1eT7MJmFl8&title=He+Put+Half+His+Portfolio+Into+AI%3A+What+This+Gen+Z+Investor+Learnt+%7C+Money+Mind&lang=en&timestamp=1787755203&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=366">
+          <img src="https://ytcards.demolab.com/?id=M1eT7MJmFl8&title=He+Put+Half+His+Portfolio+Into+AI%3A+What+This+Gen+Z+Investor+Learnt+%7C+Money+Mind&lang=en&timestamp=1787755203&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=366" alt="He Put Half His Portfolio Into AI: What This Gen Z Investor Learnt | Money Mind" title="He Put Half His Portfolio Into AI: What This Gen Z Investor Learnt | Money Mind">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=q9NLTbSczIk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=z_M4_IV4vk8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=q9NLTbSczIk&title=Brain+Expert%3A+How+A.I.+Is+Rewiring+Your+Brain&lang=en&timestamp=1787699477&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5826">
-          <img src="https://ytcards.demolab.com/?id=q9NLTbSczIk&title=Brain+Expert%3A+How+A.I.+Is+Rewiring+Your+Brain&lang=en&timestamp=1787699477&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5826" alt="Brain Expert: How A.I. Is Rewiring Your Brain" title="Brain Expert: How A.I. Is Rewiring Your Brain">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=z_M4_IV4vk8&title=Artificial+intelligence+is+reshaping+cybersecurity+at+an+unprecedented+pace+%7C+Cognizant&lang=en&timestamp=1787812803&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=293">
+          <img src="https://ytcards.demolab.com/?id=z_M4_IV4vk8&title=Artificial+intelligence+is+reshaping+cybersecurity+at+an+unprecedented+pace+%7C+Cognizant&lang=en&timestamp=1787812803&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=293" alt="Artificial intelligence is reshaping cybersecurity at an unprecedented pace | Cognizant" title="Artificial intelligence is reshaping cybersecurity at an unprecedented pace | Cognizant">
         </picture>
       </a>
     </td>
