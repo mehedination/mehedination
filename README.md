@@ -494,56 +494,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
+      <a href="https://www.youtube.com/watch?v=oUuEL9a3WNE" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=oUuEL9a3WNE&title=AGI+Just+Got+Uncomfortably+Close&lang=en&timestamp=1787858097&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1758">
+          <img src="https://ytcards.demolab.com/?id=oUuEL9a3WNE&title=AGI+Just+Got+Uncomfortably+Close&lang=en&timestamp=1787858097&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1758" alt="AGI Just Got Uncomfortably Close" title="AGI Just Got Uncomfortably Close">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
       <a href="https://www.youtube.com/watch?v=aAm3B83_4u8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aAm3B83_4u8&title=Bill+Gates+issues+CHILLING+warning+on+AI%27s+dangerous+risks&lang=en&timestamp=1787882879&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=265">
-          <img src="https://ytcards.demolab.com/?id=aAm3B83_4u8&title=Bill+Gates+issues+CHILLING+warning+on+AI%27s+dangerous+risks&lang=en&timestamp=1787882879&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=265" alt="Bill Gates issues CHILLING warning on AI's dangerous risks" title="Bill Gates issues CHILLING warning on AI's dangerous risks">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aAm3B83_4u8&title=Bill+Gates+issues+CHILLING+warning+on+AI%27s+dangerous+risks&lang=en&timestamp=1787883297&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=265">
+          <img src="https://ytcards.demolab.com/?id=aAm3B83_4u8&title=Bill+Gates+issues+CHILLING+warning+on+AI%27s+dangerous+risks&lang=en&timestamp=1787883297&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=265" alt="Bill Gates issues CHILLING warning on AI's dangerous risks" title="Bill Gates issues CHILLING warning on AI's dangerous risks">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=pO367nx0yaI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=o1tQJMjA7YQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=pO367nx0yaI&title=PaperHub+%7C+AI+Must+Embrace+Specialization+via+SuperhumanAdaptableIntelligence+%28Goldfeder+et+al%2C2026%29&lang=en&timestamp=1787850479&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=433">
-          <img src="https://ytcards.demolab.com/?id=pO367nx0yaI&title=PaperHub+%7C+AI+Must+Embrace+Specialization+via+SuperhumanAdaptableIntelligence+%28Goldfeder+et+al%2C2026%29&lang=en&timestamp=1787850479&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=433" alt="PaperHub | AI Must Embrace Specialization via SuperhumanAdaptableIntelligence (Goldfeder et al,2026)" title="PaperHub | AI Must Embrace Specialization via SuperhumanAdaptableIntelligence (Goldfeder et al,2026)">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=GFcTZoTV4ig" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=GFcTZoTV4ig&title=Entrusting+Our+Learners+with+Artificial+Intelligence&lang=en&timestamp=1787850479&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2496">
-          <img src="https://ytcards.demolab.com/?id=GFcTZoTV4ig&title=Entrusting+Our+Learners+with+Artificial+Intelligence&lang=en&timestamp=1787850479&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2496" alt="Entrusting Our Learners with Artificial Intelligence" title="Entrusting Our Learners with Artificial Intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=o1tQJMjA7YQ&title=The+Very+Human+History+of+AI+%7C+Understanding+Artificial+Intelligence%3A+Of+Minds+and+Machines&lang=en&timestamp=1787936457&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1980">
+          <img src="https://ytcards.demolab.com/?id=o1tQJMjA7YQ&title=The+Very+Human+History+of+AI+%7C+Understanding+Artificial+Intelligence%3A+Of+Minds+and+Machines&lang=en&timestamp=1787936457&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1980" alt="The Very Human History of AI | Understanding Artificial Intelligence: Of Minds and Machines" title="The Very Human History of AI | Understanding Artificial Intelligence: Of Minds and Machines">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=rV8OMvsAUVU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=jZ-Wvc8lwcc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=rV8OMvsAUVU&title=%E2%80%98JOBS+EVERYWHERE%E2%80%99%3A+Nvidia+CEO+touts+MASSIVE+job+creation&lang=en&timestamp=1787825279&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=24">
-          <img src="https://ytcards.demolab.com/?id=rV8OMvsAUVU&title=%E2%80%98JOBS+EVERYWHERE%E2%80%99%3A+Nvidia+CEO+touts+MASSIVE+job+creation&lang=en&timestamp=1787825279&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=24" alt="‘JOBS EVERYWHERE’: Nvidia CEO touts MASSIVE job creation" title="‘JOBS EVERYWHERE’: Nvidia CEO touts MASSIVE job creation">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jZ-Wvc8lwcc&title=OpenAI%E2%80%99s+New+AI+Chip+Just+Got+Real+%28Beats+NVIDIA%29&lang=en&timestamp=1787883297&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=963">
+          <img src="https://ytcards.demolab.com/?id=jZ-Wvc8lwcc&title=OpenAI%E2%80%99s+New+AI+Chip+Just+Got+Real+%28Beats+NVIDIA%29&lang=en&timestamp=1787883297&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=963" alt="OpenAI’s New AI Chip Just Got Real (Beats NVIDIA)" title="OpenAI’s New AI Chip Just Got Real (Beats NVIDIA)">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=vHlyy2iH-DY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=CtEz2YGC2JU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vHlyy2iH-DY&title=Navigating+artificial+intelligence+in+school+and+at+home&lang=en&timestamp=1787839679&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=207">
-          <img src="https://ytcards.demolab.com/?id=vHlyy2iH-DY&title=Navigating+artificial+intelligence+in+school+and+at+home&lang=en&timestamp=1787839679&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=207" alt="Navigating artificial intelligence in school and at home" title="Navigating artificial intelligence in school and at home">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=CtEz2YGC2JU&title=SINGULARITY+%7C+3+Minute+Trailer+%7C+%23FutureVisionXPRIZE&lang=en&timestamp=1787850897&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=195">
+          <img src="https://ytcards.demolab.com/?id=CtEz2YGC2JU&title=SINGULARITY+%7C+3+Minute+Trailer+%7C+%23FutureVisionXPRIZE&lang=en&timestamp=1787850897&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=195" alt="SINGULARITY | 3 Minute Trailer | #FutureVisionXPRIZE" title="SINGULARITY | 3 Minute Trailer | #FutureVisionXPRIZE">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=AXBLHwAoLjs" target="_blank">
+      <a href="https://www.youtube.com/watch?v=66QOj7Ykeoo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=AXBLHwAoLjs&title=August+27%2C+2026%3A+The+Day+AI+Entered+the+Physical+World+%E2%80%94+Full+Breakdown+%F0%9F%8C%8D%F0%9F%A7%A0+%40AI_Vanguard_AI&lang=en&timestamp=1787850479&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=545">
-          <img src="https://ytcards.demolab.com/?id=AXBLHwAoLjs&title=August+27%2C+2026%3A+The+Day+AI+Entered+the+Physical+World+%E2%80%94+Full+Breakdown+%F0%9F%8C%8D%F0%9F%A7%A0+%40AI_Vanguard_AI&lang=en&timestamp=1787850479&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=545" alt="August 27, 2026: The Day AI Entered the Physical World — Full Breakdown 🌍🧠 @AI_Vanguard_AI" title="August 27, 2026: The Day AI Entered the Physical World — Full Breakdown 🌍🧠 @AI_Vanguard_AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=66QOj7Ykeoo&title=Bill+Gates+ushered+in+a+technological+revolution.+He+warns+AI+may+doom+society+as+we+know+it.&lang=en&timestamp=1787850897&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=295">
+          <img src="https://ytcards.demolab.com/?id=66QOj7Ykeoo&title=Bill+Gates+ushered+in+a+technological+revolution.+He+warns+AI+may+doom+society+as+we+know+it.&lang=en&timestamp=1787850897&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=295" alt="Bill Gates ushered in a technological revolution. He warns AI may doom society as we know it." title="Bill Gates ushered in a technological revolution. He warns AI may doom society as we know it.">
         </picture>
       </a>
     </td>
