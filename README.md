@@ -495,56 +495,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=oUuEL9a3WNE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=o-wv_szZ0V0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=oUuEL9a3WNE&title=AGI+Just+Got+Uncomfortably+Close&lang=en&timestamp=1787858097&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1758">
-          <img src="https://ytcards.demolab.com/?id=oUuEL9a3WNE&title=AGI+Just+Got+Uncomfortably+Close&lang=en&timestamp=1787858097&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1758" alt="AGI Just Got Uncomfortably Close" title="AGI Just Got Uncomfortably Close">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=o-wv_szZ0V0&title=Andrew+Ng%3A+The+Biggest+Opportunities+in+AI+Aren%27t+Where+You+Think&lang=en&timestamp=1787924234&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2271">
+          <img src="https://ytcards.demolab.com/?id=o-wv_szZ0V0&title=Andrew+Ng%3A+The+Biggest+Opportunities+in+AI+Aren%27t+Where+You+Think&lang=en&timestamp=1787924234&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2271" alt="Andrew Ng: The Biggest Opportunities in AI Aren't Where You Think" title="Andrew Ng: The Biggest Opportunities in AI Aren't Where You Think">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=aAm3B83_4u8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Cs96EmmnDOo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aAm3B83_4u8&title=Bill+Gates+issues+CHILLING+warning+on+AI%27s+dangerous+risks&lang=en&timestamp=1787883297&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=265">
-          <img src="https://ytcards.demolab.com/?id=aAm3B83_4u8&title=Bill+Gates+issues+CHILLING+warning+on+AI%27s+dangerous+risks&lang=en&timestamp=1787883297&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=265" alt="Bill Gates issues CHILLING warning on AI's dangerous risks" title="Bill Gates issues CHILLING warning on AI's dangerous risks">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Cs96EmmnDOo&title=Tech+firms%2C+Bill+Gates+sound+new+alarm+over+AI+dangers&lang=en&timestamp=1787917034&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=109">
+          <img src="https://ytcards.demolab.com/?id=Cs96EmmnDOo&title=Tech+firms%2C+Bill+Gates+sound+new+alarm+over+AI+dangers&lang=en&timestamp=1787917034&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=109" alt="Tech firms, Bill Gates sound new alarm over AI dangers" title="Tech firms, Bill Gates sound new alarm over AI dangers">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=o1tQJMjA7YQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=LRxGrKD_GY0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=o1tQJMjA7YQ&title=The+Very+Human+History+of+AI+%7C+Understanding+Artificial+Intelligence%3A+Of+Minds+and+Machines&lang=en&timestamp=1787936457&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1980">
-          <img src="https://ytcards.demolab.com/?id=o1tQJMjA7YQ&title=The+Very+Human+History+of+AI+%7C+Understanding+Artificial+Intelligence%3A+Of+Minds+and+Machines&lang=en&timestamp=1787936457&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1980" alt="The Very Human History of AI | Understanding Artificial Intelligence: Of Minds and Machines" title="The Very Human History of AI | Understanding Artificial Intelligence: Of Minds and Machines">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=LRxGrKD_GY0&title=RLA+Artificial+Intelligence+%22right+now%22+vs+CRS+Artificial+Intelligence+%28in+the+future%29THE+PLAYLIST&lang=en&timestamp=1787949434&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6966">
+          <img src="https://ytcards.demolab.com/?id=LRxGrKD_GY0&title=RLA+Artificial+Intelligence+%22right+now%22+vs+CRS+Artificial+Intelligence+%28in+the+future%29THE+PLAYLIST&lang=en&timestamp=1787949434&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6966" alt="RLA Artificial Intelligence &quot;right now&quot; vs CRS Artificial Intelligence (in the future)THE PLAYLIST" title="RLA Artificial Intelligence &quot;right now&quot; vs CRS Artificial Intelligence (in the future)THE PLAYLIST">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=jZ-Wvc8lwcc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=cV7vtr9kA4E" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jZ-Wvc8lwcc&title=OpenAI%E2%80%99s+New+AI+Chip+Just+Got+Real+%28Beats+NVIDIA%29&lang=en&timestamp=1787883297&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=963">
-          <img src="https://ytcards.demolab.com/?id=jZ-Wvc8lwcc&title=OpenAI%E2%80%99s+New+AI+Chip+Just+Got+Real+%28Beats+NVIDIA%29&lang=en&timestamp=1787883297&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=963" alt="OpenAI’s New AI Chip Just Got Real (Beats NVIDIA)" title="OpenAI’s New AI Chip Just Got Real (Beats NVIDIA)">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=cV7vtr9kA4E&title=Bill+Gates+Warns+AI+Could+Permanently+Displace+Millions+Of+Jobs+%7C+WION+News&lang=en&timestamp=1787924234&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=331">
+          <img src="https://ytcards.demolab.com/?id=cV7vtr9kA4E&title=Bill+Gates+Warns+AI+Could+Permanently+Displace+Millions+Of+Jobs+%7C+WION+News&lang=en&timestamp=1787924234&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=331" alt="Bill Gates Warns AI Could Permanently Displace Millions Of Jobs | WION News" title="Bill Gates Warns AI Could Permanently Displace Millions Of Jobs | WION News">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=CtEz2YGC2JU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=oOIJ8m2rSC4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=CtEz2YGC2JU&title=SINGULARITY+%7C+3+Minute+Trailer+%7C+%23FutureVisionXPRIZE&lang=en&timestamp=1787850897&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=195">
-          <img src="https://ytcards.demolab.com/?id=CtEz2YGC2JU&title=SINGULARITY+%7C+3+Minute+Trailer+%7C+%23FutureVisionXPRIZE&lang=en&timestamp=1787850897&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=195" alt="SINGULARITY | 3 Minute Trailer | #FutureVisionXPRIZE" title="SINGULARITY | 3 Minute Trailer | #FutureVisionXPRIZE">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=oOIJ8m2rSC4&title=Ex-AI+CEO%3A+%22Your+Economic+Life+Expectancy+Ends+In+2+Years%22+%7C+Emad+Mostaque&lang=en&timestamp=1787942234&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6319">
+          <img src="https://ytcards.demolab.com/?id=oOIJ8m2rSC4&title=Ex-AI+CEO%3A+%22Your+Economic+Life+Expectancy+Ends+In+2+Years%22+%7C+Emad+Mostaque&lang=en&timestamp=1787942234&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6319" alt="Ex-AI CEO: &quot;Your Economic Life Expectancy Ends In 2 Years&quot; | Emad Mostaque" title="Ex-AI CEO: &quot;Your Economic Life Expectancy Ends In 2 Years&quot; | Emad Mostaque">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=66QOj7Ykeoo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=o1tQJMjA7YQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=66QOj7Ykeoo&title=Bill+Gates+ushered+in+a+technological+revolution.+He+warns+AI+may+doom+society+as+we+know+it.&lang=en&timestamp=1787850897&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=295">
-          <img src="https://ytcards.demolab.com/?id=66QOj7Ykeoo&title=Bill+Gates+ushered+in+a+technological+revolution.+He+warns+AI+may+doom+society+as+we+know+it.&lang=en&timestamp=1787850897&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=295" alt="Bill Gates ushered in a technological revolution. He warns AI may doom society as we know it." title="Bill Gates ushered in a technological revolution. He warns AI may doom society as we know it.">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=o1tQJMjA7YQ&title=The+Very+Human+History+of+AI+%7C+Understanding+Artificial+Intelligence%3A+Of+Minds+and+Machines&lang=en&timestamp=1787938634&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1980">
+          <img src="https://ytcards.demolab.com/?id=o1tQJMjA7YQ&title=The+Very+Human+History+of+AI+%7C+Understanding+Artificial+Intelligence%3A+Of+Minds+and+Machines&lang=en&timestamp=1787938634&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1980" alt="The Very Human History of AI | Understanding Artificial Intelligence: Of Minds and Machines" title="The Very Human History of AI | Understanding Artificial Intelligence: Of Minds and Machines">
         </picture>
       </a>
     </td>
