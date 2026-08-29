@@ -497,56 +497,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=o-wv_szZ0V0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=o-wv_szZ0V0&title=Andrew+Ng%3A+The+Biggest+Opportunities+in+AI+Aren%27t+Where+You+Think&lang=en&timestamp=1787925072&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2271">
-          <img src="https://ytcards.demolab.com/?id=o-wv_szZ0V0&title=Andrew+Ng%3A+The+Biggest+Opportunities+in+AI+Aren%27t+Where+You+Think&lang=en&timestamp=1787925072&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2271" alt="Andrew Ng: The Biggest Opportunities in AI Aren't Where You Think" title="Andrew Ng: The Biggest Opportunities in AI Aren't Where You Think">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=o-wv_szZ0V0&title=Andrew+Ng%3A+The+Biggest+Opportunities+in+AI+Aren%27t+Where+You+Think&lang=en&timestamp=1787926717&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2271">
+          <img src="https://ytcards.demolab.com/?id=o-wv_szZ0V0&title=Andrew+Ng%3A+The+Biggest+Opportunities+in+AI+Aren%27t+Where+You+Think&lang=en&timestamp=1787926717&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2271" alt="Andrew Ng: The Biggest Opportunities in AI Aren't Where You Think" title="Andrew Ng: The Biggest Opportunities in AI Aren't Where You Think">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=lt6SnAxRopQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lt6SnAxRopQ&title=AI+Psychosis%3A+Chatbots+and+Delusion&lang=en&timestamp=1787943072&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1132">
-          <img src="https://ytcards.demolab.com/?id=lt6SnAxRopQ&title=AI+Psychosis%3A+Chatbots+and+Delusion&lang=en&timestamp=1787943072&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1132" alt="AI Psychosis: Chatbots and Delusion" title="AI Psychosis: Chatbots and Delusion">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lt6SnAxRopQ&title=AI+Psychosis%3A+Chatbots+and+Delusion&lang=en&timestamp=1787944717&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1132">
+          <img src="https://ytcards.demolab.com/?id=lt6SnAxRopQ&title=AI+Psychosis%3A+Chatbots+and+Delusion&lang=en&timestamp=1787944717&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1132" alt="AI Psychosis: Chatbots and Delusion" title="AI Psychosis: Chatbots and Delusion">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Cs96EmmnDOo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=eWC47agaKpk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Cs96EmmnDOo&title=Tech+firms%2C+Bill+Gates+sound+new+alarm+over+AI+dangers&lang=en&timestamp=1787914272&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=109">
-          <img src="https://ytcards.demolab.com/?id=Cs96EmmnDOo&title=Tech+firms%2C+Bill+Gates+sound+new+alarm+over+AI+dangers&lang=en&timestamp=1787914272&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=109" alt="Tech firms, Bill Gates sound new alarm over AI dangers" title="Tech firms, Bill Gates sound new alarm over AI dangers">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=eWC47agaKpk&title=Harvard+Professor%3A+Tech+Billionaires+Are+Lying+To+Us+About+AI%21+%28Here+Is+The+Truth%29+-+Steven+Pinker&lang=en&timestamp=1787926717&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4622">
+          <img src="https://ytcards.demolab.com/?id=eWC47agaKpk&title=Harvard+Professor%3A+Tech+Billionaires+Are+Lying+To+Us+About+AI%21+%28Here+Is+The+Truth%29+-+Steven+Pinker&lang=en&timestamp=1787926717&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4622" alt="Harvard Professor: Tech Billionaires Are Lying To Us About AI! (Here Is The Truth) - Steven Pinker" title="Harvard Professor: Tech Billionaires Are Lying To Us About AI! (Here Is The Truth) - Steven Pinker">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=eWC47agaKpk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=9Huy61piajs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=eWC47agaKpk&title=Harvard+Professor%3A+Tech+Billionaires+Are+Lying+To+Us+About+AI%21+%28Here+Is+The+Truth%29+-+Steven+Pinker&lang=en&timestamp=1787914272&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4622">
-          <img src="https://ytcards.demolab.com/?id=eWC47agaKpk&title=Harvard+Professor%3A+Tech+Billionaires+Are+Lying+To+Us+About+AI%21+%28Here+Is+The+Truth%29+-+Steven+Pinker&lang=en&timestamp=1787914272&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4622" alt="Harvard Professor: Tech Billionaires Are Lying To Us About AI! (Here Is The Truth) - Steven Pinker" title="Harvard Professor: Tech Billionaires Are Lying To Us About AI! (Here Is The Truth) - Steven Pinker">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9Huy61piajs&title=The+Truth+about+AI+and+D%26D.&lang=en&timestamp=1787948317&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1115">
+          <img src="https://ytcards.demolab.com/?id=9Huy61piajs&title=The+Truth+about+AI+and+D%26D.&lang=en&timestamp=1787948317&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1115" alt="The Truth about AI and D&D." title="The Truth about AI and D&D.">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=oOIJ8m2rSC4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=nIgPMC7sGvA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=oOIJ8m2rSC4&title=AI+CEO%3A+%22Your+Economic+Life+Expectancy+Ends+In+2+Years%22+%7C+Emad+Mostaque&lang=en&timestamp=1787943072&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6319">
-          <img src="https://ytcards.demolab.com/?id=oOIJ8m2rSC4&title=AI+CEO%3A+%22Your+Economic+Life+Expectancy+Ends+In+2+Years%22+%7C+Emad+Mostaque&lang=en&timestamp=1787943072&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6319" alt="AI CEO: &quot;Your Economic Life Expectancy Ends In 2 Years&quot; | Emad Mostaque" title="AI CEO: &quot;Your Economic Life Expectancy Ends In 2 Years&quot; | Emad Mostaque">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nIgPMC7sGvA&title=THE+ARMY+OF+SATAN+-+PART+34+-+Satan%27s+Digital+Altar+%28Artificial+Intelligence%29&lang=en&timestamp=1787995117&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1116">
+          <img src="https://ytcards.demolab.com/?id=nIgPMC7sGvA&title=THE+ARMY+OF+SATAN+-+PART+34+-+Satan%27s+Digital+Altar+%28Artificial+Intelligence%29&lang=en&timestamp=1787995117&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1116" alt="THE ARMY OF SATAN - PART 34 - Satan's Digital Altar (Artificial Intelligence)" title="THE ARMY OF SATAN - PART 34 - Satan's Digital Altar (Artificial Intelligence)">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=cV7vtr9kA4E" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Cs96EmmnDOo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=cV7vtr9kA4E&title=Bill+Gates+Warns+AI+Could+Permanently+Displace+Millions+Of+Jobs+%7C+WION+News&lang=en&timestamp=1787921472&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=331">
-          <img src="https://ytcards.demolab.com/?id=cV7vtr9kA4E&title=Bill+Gates+Warns+AI+Could+Permanently+Displace+Millions+Of+Jobs+%7C+WION+News&lang=en&timestamp=1787921472&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=331" alt="Bill Gates Warns AI Could Permanently Displace Millions Of Jobs | WION News" title="Bill Gates Warns AI Could Permanently Displace Millions Of Jobs | WION News">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Cs96EmmnDOo&title=Tech+firms%2C+Bill+Gates+sound+new+alarm+over+AI+dangers&lang=en&timestamp=1787926717&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=109">
+          <img src="https://ytcards.demolab.com/?id=Cs96EmmnDOo&title=Tech+firms%2C+Bill+Gates+sound+new+alarm+over+AI+dangers&lang=en&timestamp=1787926717&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=109" alt="Tech firms, Bill Gates sound new alarm over AI dangers" title="Tech firms, Bill Gates sound new alarm over AI dangers">
         </picture>
       </a>
     </td>
