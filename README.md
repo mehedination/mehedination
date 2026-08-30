@@ -500,56 +500,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=eWC47agaKpk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Wr_tz54sSPY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=eWC47agaKpk&title=Harvard+Professor%3A+Tech+Billionaires+Are+Lying+To+Us+About+AI%21+%28Here+Is+The+Truth%29+-+Steven+Pinker&lang=en&timestamp=1787952918&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4622">
-          <img src="https://ytcards.demolab.com/?id=eWC47agaKpk&title=Harvard+Professor%3A+Tech+Billionaires+Are+Lying+To+Us+About+AI%21+%28Here+Is+The+Truth%29+-+Steven+Pinker&lang=en&timestamp=1787952918&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4622" alt="Harvard Professor: Tech Billionaires Are Lying To Us About AI! (Here Is The Truth) - Steven Pinker" title="Harvard Professor: Tech Billionaires Are Lying To Us About AI! (Here Is The Truth) - Steven Pinker">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Wr_tz54sSPY&title=The+AI+revolution+didn%E2%80%99t+happen+overnight%E2%80%94here%E2%80%99s+why+%7C+Michael+Wooldridge+%7C+TEDxManchester&lang=en&timestamp=1788010847&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1000">
+          <img src="https://ytcards.demolab.com/?id=Wr_tz54sSPY&title=The+AI+revolution+didn%E2%80%99t+happen+overnight%E2%80%94here%E2%80%99s+why+%7C+Michael+Wooldridge+%7C+TEDxManchester&lang=en&timestamp=1788010847&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1000" alt="The AI revolution didn’t happen overnight—here’s why | Michael Wooldridge | TEDxManchester" title="The AI revolution didn’t happen overnight—here’s why | Michael Wooldridge | TEDxManchester">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=o-wv_szZ0V0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=lytJutmFX54" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=o-wv_szZ0V0&title=Andrew+Ng%3A+The+Biggest+Opportunities+in+AI+Aren%27t+Where+You+Think&lang=en&timestamp=1787952918&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2271">
-          <img src="https://ytcards.demolab.com/?id=o-wv_szZ0V0&title=Andrew+Ng%3A+The+Biggest+Opportunities+in+AI+Aren%27t+Where+You+Think&lang=en&timestamp=1787952918&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2271" alt="Andrew Ng: The Biggest Opportunities in AI Aren't Where You Think" title="Andrew Ng: The Biggest Opportunities in AI Aren't Where You Think">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=lt6SnAxRopQ" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lt6SnAxRopQ&title=AI+Psychosis%3A+Chatbots+and+Delusion&lang=en&timestamp=1787952918&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1132">
-          <img src="https://ytcards.demolab.com/?id=lt6SnAxRopQ&title=AI+Psychosis%3A+Chatbots+and+Delusion&lang=en&timestamp=1787952918&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1132" alt="AI Psychosis: Chatbots and Delusion" title="AI Psychosis: Chatbots and Delusion">
-        </picture>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Cs96EmmnDOo" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Cs96EmmnDOo&title=Tech+firms%2C+Bill+Gates+sound+new+alarm+over+AI+dangers&lang=en&timestamp=1787952918&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=109">
-          <img src="https://ytcards.demolab.com/?id=Cs96EmmnDOo&title=Tech+firms%2C+Bill+Gates+sound+new+alarm+over+AI+dangers&lang=en&timestamp=1787952918&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=109" alt="Tech firms, Bill Gates sound new alarm over AI dangers" title="Tech firms, Bill Gates sound new alarm over AI dangers">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=9Huy61piajs" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9Huy61piajs&title=The+Truth+about+AI+and+D%26D.&lang=en&timestamp=1787952918&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1115">
-          <img src="https://ytcards.demolab.com/?id=9Huy61piajs&title=The+Truth+about+AI+and+D%26D.&lang=en&timestamp=1787952918&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1115" alt="The Truth about AI and D&D." title="The Truth about AI and D&D.">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lytJutmFX54&title=AI+Will+Crash+the+Economy+%7C+The+New+World+Order&lang=en&timestamp=1788043247&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1832">
+          <img src="https://ytcards.demolab.com/?id=lytJutmFX54&title=AI+Will+Crash+the+Economy+%7C+The+New+World+Order&lang=en&timestamp=1788043247&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1832" alt="AI Will Crash the Economy | The New World Order" title="AI Will Crash the Economy | The New World Order">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=nIgPMC7sGvA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nIgPMC7sGvA&title=THE+ARMY+OF+SATAN+-+PART+34+-+Satan%27s+Digital+Altar+%28Artificial+Intelligence%29&lang=en&timestamp=1787996118&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1116">
-          <img src="https://ytcards.demolab.com/?id=nIgPMC7sGvA&title=THE+ARMY+OF+SATAN+-+PART+34+-+Satan%27s+Digital+Altar+%28Artificial+Intelligence%29&lang=en&timestamp=1787996118&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1116" alt="THE ARMY OF SATAN - PART 34 - Satan's Digital Altar (Artificial Intelligence)" title="THE ARMY OF SATAN - PART 34 - Satan's Digital Altar (Artificial Intelligence)">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nIgPMC7sGvA&title=THE+ARMY+OF+SATAN+-+PART+34+-+Satan%27s+Digital+Altar+%28Artificial+Intelligence%29&lang=en&timestamp=1788003647&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1116">
+          <img src="https://ytcards.demolab.com/?id=nIgPMC7sGvA&title=THE+ARMY+OF+SATAN+-+PART+34+-+Satan%27s+Digital+Altar+%28Artificial+Intelligence%29&lang=en&timestamp=1788003647&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1116" alt="THE ARMY OF SATAN - PART 34 - Satan's Digital Altar (Artificial Intelligence)" title="THE ARMY OF SATAN - PART 34 - Satan's Digital Altar (Artificial Intelligence)">
+        </picture>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=BKBmgNE_fuw" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BKBmgNE_fuw&title=Scientists+Used+AI+to+Reexamine+Easter+Island%E2%80%94What+the+Statues+Concealed+Was+Chilling&lang=en&timestamp=1788039647&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1791">
+          <img src="https://ytcards.demolab.com/?id=BKBmgNE_fuw&title=Scientists+Used+AI+to+Reexamine+Easter+Island%E2%80%94What+the+Statues+Concealed+Was+Chilling&lang=en&timestamp=1788039647&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1791" alt="Scientists Used AI to Reexamine Easter Island—What the Statues Concealed Was Chilling" title="Scientists Used AI to Reexamine Easter Island—What the Statues Concealed Was Chilling">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=W6w5ur0WLQk" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=W6w5ur0WLQk&title=They%E2%80%99re+CONDITIONING+Us+for+the+WORST%E2%80%A6&lang=en&timestamp=1788021647&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1232">
+          <img src="https://ytcards.demolab.com/?id=W6w5ur0WLQk&title=They%E2%80%99re+CONDITIONING+Us+for+the+WORST%E2%80%A6&lang=en&timestamp=1788021647&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1232" alt="They’re CONDITIONING Us for the WORST…" title="They’re CONDITIONING Us for the WORST…">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=uUWTeEvqiQI" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=uUWTeEvqiQI&title=How+AI+changed+programming+%7C+DHH+and+Lex+Fridman&lang=en&timestamp=1788003647&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=941">
+          <img src="https://ytcards.demolab.com/?id=uUWTeEvqiQI&title=How+AI+changed+programming+%7C+DHH+and+Lex+Fridman&lang=en&timestamp=1788003647&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=941" alt="How AI changed programming | DHH and Lex Fridman" title="How AI changed programming | DHH and Lex Fridman">
         </picture>
       </a>
     </td>
