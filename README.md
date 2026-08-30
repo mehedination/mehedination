@@ -503,56 +503,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=Wr_tz54sSPY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Wr_tz54sSPY&title=The+AI+revolution+didn%E2%80%99t+happen+overnight%E2%80%94here%E2%80%99s+why+%7C+Michael+Wooldridge+%7C+TEDxManchester&lang=en&timestamp=1788032491&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1000">
-          <img src="https://ytcards.demolab.com/?id=Wr_tz54sSPY&title=The+AI+revolution+didn%E2%80%99t+happen+overnight%E2%80%94here%E2%80%99s+why+%7C+Michael+Wooldridge+%7C+TEDxManchester&lang=en&timestamp=1788032491&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1000" alt="The AI revolution didn’t happen overnight—here’s why | Michael Wooldridge | TEDxManchester" title="The AI revolution didn’t happen overnight—here’s why | Michael Wooldridge | TEDxManchester">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Wr_tz54sSPY&title=The+AI+revolution+didn%E2%80%99t+happen+overnight%E2%80%94here%E2%80%99s+why+%7C+Michael+Wooldridge+%7C+TEDxManchester&lang=en&timestamp=1788042935&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1000">
+          <img src="https://ytcards.demolab.com/?id=Wr_tz54sSPY&title=The+AI+revolution+didn%E2%80%99t+happen+overnight%E2%80%94here%E2%80%99s+why+%7C+Michael+Wooldridge+%7C+TEDxManchester&lang=en&timestamp=1788042935&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1000" alt="The AI revolution didn’t happen overnight—here’s why | Michael Wooldridge | TEDxManchester" title="The AI revolution didn’t happen overnight—here’s why | Michael Wooldridge | TEDxManchester">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=5We-YU8KArs" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5We-YU8KArs&title=Her+Students+Are+Confiding+in+AI%2C+and+It+Worries+Her+%7C+D.W.+Pasulka&lang=en&timestamp=1788127235&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=362">
+          <img src="https://ytcards.demolab.com/?id=5We-YU8KArs&title=Her+Students+Are+Confiding+in+AI%2C+and+It+Worries+Her+%7C+D.W.+Pasulka&lang=en&timestamp=1788127235&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=362" alt="Her Students Are Confiding in AI, and It Worries Her | D.W. Pasulka" title="Her Students Are Confiding in AI, and It Worries Her | D.W. Pasulka">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=BKBmgNE_fuw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BKBmgNE_fuw&title=Scientists+Used+AI+to+Reexamine+Easter+Island%E2%80%94What+the+Statues+Concealed+Was+Chilling&lang=en&timestamp=1788039691&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1791">
-          <img src="https://ytcards.demolab.com/?id=BKBmgNE_fuw&title=Scientists+Used+AI+to+Reexamine+Easter+Island%E2%80%94What+the+Statues+Concealed+Was+Chilling&lang=en&timestamp=1788039691&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1791" alt="Scientists Used AI to Reexamine Easter Island—What the Statues Concealed Was Chilling" title="Scientists Used AI to Reexamine Easter Island—What the Statues Concealed Was Chilling">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=nIgPMC7sGvA" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nIgPMC7sGvA&title=THE+ARMY+OF+SATAN+-+PART+34+-+Satan%27s+Digital+Altar+%28Artificial+Intelligence%29&lang=en&timestamp=1788032491&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1116">
-          <img src="https://ytcards.demolab.com/?id=nIgPMC7sGvA&title=THE+ARMY+OF+SATAN+-+PART+34+-+Satan%27s+Digital+Altar+%28Artificial+Intelligence%29&lang=en&timestamp=1788032491&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1116" alt="THE ARMY OF SATAN - PART 34 - Satan's Digital Altar (Artificial Intelligence)" title="THE ARMY OF SATAN - PART 34 - Satan's Digital Altar (Artificial Intelligence)">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BKBmgNE_fuw&title=Scientists+Used+AI+to+Reexamine+Easter+Island%E2%80%94What+the+Statues+Concealed+Was+Chilling&lang=en&timestamp=1788042935&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1791">
+          <img src="https://ytcards.demolab.com/?id=BKBmgNE_fuw&title=Scientists+Used+AI+to+Reexamine+Easter+Island%E2%80%94What+the+Statues+Concealed+Was+Chilling&lang=en&timestamp=1788042935&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1791" alt="Scientists Used AI to Reexamine Easter Island—What the Statues Concealed Was Chilling" title="Scientists Used AI to Reexamine Easter Island—What the Statues Concealed Was Chilling">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=uUWTeEvqiQI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=L4vqq6tA7_o" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=uUWTeEvqiQI&title=How+AI+changed+programming+%7C+DHH+and+Lex+Fridman&lang=en&timestamp=1788032491&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=941">
-          <img src="https://ytcards.demolab.com/?id=uUWTeEvqiQI&title=How+AI+changed+programming+%7C+DHH+and+Lex+Fridman&lang=en&timestamp=1788032491&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=941" alt="How AI changed programming | DHH and Lex Fridman" title="How AI changed programming | DHH and Lex Fridman">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=L4vqq6tA7_o&title=If+AI+Takes+Our+Jobs%2C+What+Are+We+Actually+Here+For%3F+%7C+Theological+with+Shabbos+Kestenbaum&lang=en&timestamp=1788104135&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2918">
+          <img src="https://ytcards.demolab.com/?id=L4vqq6tA7_o&title=If+AI+Takes+Our+Jobs%2C+What+Are+We+Actually+Here+For%3F+%7C+Theological+with+Shabbos+Kestenbaum&lang=en&timestamp=1788104135&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2918" alt="If AI Takes Our Jobs, What Are We Actually Here For? | Theological with Shabbos Kestenbaum" title="If AI Takes Our Jobs, What Are We Actually Here For? | Theological with Shabbos Kestenbaum">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=nIgPMC7sGvA" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nIgPMC7sGvA&title=THE+ARMY+OF+SATAN+-+PART+34+-+Satan%27s+Digital+Altar+%28Artificial+Intelligence%29&lang=en&timestamp=1788042935&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1116">
+          <img src="https://ytcards.demolab.com/?id=nIgPMC7sGvA&title=THE+ARMY+OF+SATAN+-+PART+34+-+Satan%27s+Digital+Altar+%28Artificial+Intelligence%29&lang=en&timestamp=1788042935&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1116" alt="THE ARMY OF SATAN - PART 34 - Satan's Digital Altar (Artificial Intelligence)" title="THE ARMY OF SATAN - PART 34 - Satan's Digital Altar (Artificial Intelligence)">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=W6w5ur0WLQk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=W6w5ur0WLQk&title=They%E2%80%99re+CONDITIONING+Us+for+the+WORST%E2%80%A6&lang=en&timestamp=1788032491&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1232">
-          <img src="https://ytcards.demolab.com/?id=W6w5ur0WLQk&title=They%E2%80%99re+CONDITIONING+Us+for+the+WORST%E2%80%A6&lang=en&timestamp=1788032491&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1232" alt="They’re CONDITIONING Us for the WORST…" title="They’re CONDITIONING Us for the WORST…">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=d-aTewfBk8Y" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=d-aTewfBk8Y&title=BOMBSHELL+Report+EXPOSES+OpenAI+Insanity&lang=en&timestamp=1788032491&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1952">
-          <img src="https://ytcards.demolab.com/?id=d-aTewfBk8Y&title=BOMBSHELL+Report+EXPOSES+OpenAI+Insanity&lang=en&timestamp=1788032491&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1952" alt="BOMBSHELL Report EXPOSES OpenAI Insanity" title="BOMBSHELL Report EXPOSES OpenAI Insanity">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=W6w5ur0WLQk&title=They%E2%80%99re+CONDITIONING+Us+for+the+WORST%E2%80%A6&lang=en&timestamp=1788042935&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1232">
+          <img src="https://ytcards.demolab.com/?id=W6w5ur0WLQk&title=They%E2%80%99re+CONDITIONING+Us+for+the+WORST%E2%80%A6&lang=en&timestamp=1788042935&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1232" alt="They’re CONDITIONING Us for the WORST…" title="They’re CONDITIONING Us for the WORST…">
         </picture>
       </a>
     </td>
