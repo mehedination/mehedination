@@ -504,56 +504,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Wr_tz54sSPY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=LiLeW23RsZo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Wr_tz54sSPY&title=The+AI+revolution+didn%E2%80%99t+happen+overnight%E2%80%94here%E2%80%99s+why+%7C+Michael+Wooldridge+%7C+TEDxManchester&lang=en&timestamp=1788042935&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1000">
-          <img src="https://ytcards.demolab.com/?id=Wr_tz54sSPY&title=The+AI+revolution+didn%E2%80%99t+happen+overnight%E2%80%94here%E2%80%99s+why+%7C+Michael+Wooldridge+%7C+TEDxManchester&lang=en&timestamp=1788042935&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1000" alt="The AI revolution didn’t happen overnight—here’s why | Michael Wooldridge | TEDxManchester" title="The AI revolution didn’t happen overnight—here’s why | Michael Wooldridge | TEDxManchester">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=LiLeW23RsZo&title=How+AI+is+changing+job+hunting&lang=en&timestamp=1788114576&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=299">
+          <img src="https://ytcards.demolab.com/?id=LiLeW23RsZo&title=How+AI+is+changing+job+hunting&lang=en&timestamp=1788114576&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=299" alt="How AI is changing job hunting" title="How AI is changing job hunting">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=5We-YU8KArs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5We-YU8KArs&title=Her+Students+Are+Confiding+in+AI%2C+and+It+Worries+Her+%7C+D.W.+Pasulka&lang=en&timestamp=1788127235&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=362">
-          <img src="https://ytcards.demolab.com/?id=5We-YU8KArs&title=Her+Students+Are+Confiding+in+AI%2C+and+It+Worries+Her+%7C+D.W.+Pasulka&lang=en&timestamp=1788127235&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=362" alt="Her Students Are Confiding in AI, and It Worries Her | D.W. Pasulka" title="Her Students Are Confiding in AI, and It Worries Her | D.W. Pasulka">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5We-YU8KArs&title=Her+Students+Are+Confiding+in+AI%2C+and+It+Worries+Her+%7C+D.W.+Pasulka&lang=en&timestamp=1788128976&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=362">
+          <img src="https://ytcards.demolab.com/?id=5We-YU8KArs&title=Her+Students+Are+Confiding+in+AI%2C+and+It+Worries+Her+%7C+D.W.+Pasulka&lang=en&timestamp=1788128976&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=362" alt="Her Students Are Confiding in AI, and It Worries Her | D.W. Pasulka" title="Her Students Are Confiding in AI, and It Worries Her | D.W. Pasulka">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=BKBmgNE_fuw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=OL1epW5hoO0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BKBmgNE_fuw&title=Scientists+Used+AI+to+Reexamine+Easter+Island%E2%80%94What+the+Statues+Concealed+Was+Chilling&lang=en&timestamp=1788042935&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1791">
-          <img src="https://ytcards.demolab.com/?id=BKBmgNE_fuw&title=Scientists+Used+AI+to+Reexamine+Easter+Island%E2%80%94What+the+Statues+Concealed+Was+Chilling&lang=en&timestamp=1788042935&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1791" alt="Scientists Used AI to Reexamine Easter Island—What the Statues Concealed Was Chilling" title="Scientists Used AI to Reexamine Easter Island—What the Statues Concealed Was Chilling">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=OL1epW5hoO0&title=ChatGPT+is+Soylent+Green+%3A+the+enclosure+of+Collective+Intelligence&lang=en&timestamp=1788089376&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1654">
+          <img src="https://ytcards.demolab.com/?id=OL1epW5hoO0&title=ChatGPT+is+Soylent+Green+%3A+the+enclosure+of+Collective+Intelligence&lang=en&timestamp=1788089376&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1654" alt="ChatGPT is Soylent Green : the enclosure of Collective Intelligence" title="ChatGPT is Soylent Green : the enclosure of Collective Intelligence">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
+      <a href="https://www.youtube.com/watch?v=xv875XFyzEY" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xv875XFyzEY&title=A+Response+to+Ed+Zitron%3A+Rebutting+37+AI+Skeptic+Claims+with+Data&lang=en&timestamp=1788096576&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6278">
+          <img src="https://ytcards.demolab.com/?id=xv875XFyzEY&title=A+Response+to+Ed+Zitron%3A+Rebutting+37+AI+Skeptic+Claims+with+Data&lang=en&timestamp=1788096576&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6278" alt="A Response to Ed Zitron: Rebutting 37 AI Skeptic Claims with Data" title="A Response to Ed Zitron: Rebutting 37 AI Skeptic Claims with Data">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
       <a href="https://www.youtube.com/watch?v=L4vqq6tA7_o" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=L4vqq6tA7_o&title=If+AI+Takes+Our+Jobs%2C+What+Are+We+Actually+Here+For%3F+%7C+Theological+with+Shabbos+Kestenbaum&lang=en&timestamp=1788104135&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2918">
-          <img src="https://ytcards.demolab.com/?id=L4vqq6tA7_o&title=If+AI+Takes+Our+Jobs%2C+What+Are+We+Actually+Here+For%3F+%7C+Theological+with+Shabbos+Kestenbaum&lang=en&timestamp=1788104135&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2918" alt="If AI Takes Our Jobs, What Are We Actually Here For? | Theological with Shabbos Kestenbaum" title="If AI Takes Our Jobs, What Are We Actually Here For? | Theological with Shabbos Kestenbaum">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=L4vqq6tA7_o&title=If+AI+Takes+Our+Jobs%2C+What+Are+We+Actually+Here+For%3F+%7C+Theological+with+Shabbos+Kestenbaum&lang=en&timestamp=1788103776&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2918">
+          <img src="https://ytcards.demolab.com/?id=L4vqq6tA7_o&title=If+AI+Takes+Our+Jobs%2C+What+Are+We+Actually+Here+For%3F+%7C+Theological+with+Shabbos+Kestenbaum&lang=en&timestamp=1788103776&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2918" alt="If AI Takes Our Jobs, What Are We Actually Here For? | Theological with Shabbos Kestenbaum" title="If AI Takes Our Jobs, What Are We Actually Here For? | Theological with Shabbos Kestenbaum">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=nIgPMC7sGvA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=dAiKHMKqg48" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nIgPMC7sGvA&title=THE+ARMY+OF+SATAN+-+PART+34+-+Satan%27s+Digital+Altar+%28Artificial+Intelligence%29&lang=en&timestamp=1788042935&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1116">
-          <img src="https://ytcards.demolab.com/?id=nIgPMC7sGvA&title=THE+ARMY+OF+SATAN+-+PART+34+-+Satan%27s+Digital+Altar+%28Artificial+Intelligence%29&lang=en&timestamp=1788042935&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1116" alt="THE ARMY OF SATAN - PART 34 - Satan's Digital Altar (Artificial Intelligence)" title="THE ARMY OF SATAN - PART 34 - Satan's Digital Altar (Artificial Intelligence)">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=W6w5ur0WLQk" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=W6w5ur0WLQk&title=They%E2%80%99re+CONDITIONING+Us+for+the+WORST%E2%80%A6&lang=en&timestamp=1788042935&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1232">
-          <img src="https://ytcards.demolab.com/?id=W6w5ur0WLQk&title=They%E2%80%99re+CONDITIONING+Us+for+the+WORST%E2%80%A6&lang=en&timestamp=1788042935&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1232" alt="They’re CONDITIONING Us for the WORST…" title="They’re CONDITIONING Us for the WORST…">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=dAiKHMKqg48&title=SOLAR+CENTERS%3A+AI+infrastructure+could+move+into+ORBIT&lang=en&timestamp=1788136176&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=355">
+          <img src="https://ytcards.demolab.com/?id=dAiKHMKqg48&title=SOLAR+CENTERS%3A+AI+infrastructure+could+move+into+ORBIT&lang=en&timestamp=1788136176&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=355" alt="SOLAR CENTERS: AI infrastructure could move into ORBIT" title="SOLAR CENTERS: AI infrastructure could move into ORBIT">
         </picture>
       </a>
     </td>
