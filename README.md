@@ -505,56 +505,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=LiLeW23RsZo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=tpK7TVTOTfg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=LiLeW23RsZo&title=How+AI+is+changing+job+hunting&lang=en&timestamp=1788114576&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=299">
-          <img src="https://ytcards.demolab.com/?id=LiLeW23RsZo&title=How+AI+is+changing+job+hunting&lang=en&timestamp=1788114576&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=299" alt="How AI is changing job hunting" title="How AI is changing job hunting">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tpK7TVTOTfg&title=AI+expert+analyzes+Bill+Gates%27+essay+on+dangers+of+artificial+intelligence&lang=en&timestamp=1788181038&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=345">
+          <img src="https://ytcards.demolab.com/?id=tpK7TVTOTfg&title=AI+expert+analyzes+Bill+Gates%27+essay+on+dangers+of+artificial+intelligence&lang=en&timestamp=1788181038&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=345" alt="AI expert analyzes Bill Gates' essay on dangers of artificial intelligence" title="AI expert analyzes Bill Gates' essay on dangers of artificial intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=5We-YU8KArs" target="_blank">
+      <a href="https://www.youtube.com/watch?v=LiLeW23RsZo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5We-YU8KArs&title=Her+Students+Are+Confiding+in+AI%2C+and+It+Worries+Her+%7C+D.W.+Pasulka&lang=en&timestamp=1788128976&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=362">
-          <img src="https://ytcards.demolab.com/?id=5We-YU8KArs&title=Her+Students+Are+Confiding+in+AI%2C+and+It+Worries+Her+%7C+D.W.+Pasulka&lang=en&timestamp=1788128976&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=362" alt="Her Students Are Confiding in AI, and It Worries Her | D.W. Pasulka" title="Her Students Are Confiding in AI, and It Worries Her | D.W. Pasulka">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=LiLeW23RsZo&title=How+AI+is+changing+job+hunting&lang=en&timestamp=1788112638&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=299">
+          <img src="https://ytcards.demolab.com/?id=LiLeW23RsZo&title=How+AI+is+changing+job+hunting&lang=en&timestamp=1788112638&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=299" alt="How AI is changing job hunting" title="How AI is changing job hunting">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=OL1epW5hoO0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=OL1epW5hoO0&title=ChatGPT+is+Soylent+Green+%3A+the+enclosure+of+Collective+Intelligence&lang=en&timestamp=1788089376&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1654">
-          <img src="https://ytcards.demolab.com/?id=OL1epW5hoO0&title=ChatGPT+is+Soylent+Green+%3A+the+enclosure+of+Collective+Intelligence&lang=en&timestamp=1788089376&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1654" alt="ChatGPT is Soylent Green : the enclosure of Collective Intelligence" title="ChatGPT is Soylent Green : the enclosure of Collective Intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=OL1epW5hoO0&title=Soylent+Green+and+the+enclosure+of+Collective+Intelligence&lang=en&timestamp=1788109038&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1654">
+          <img src="https://ytcards.demolab.com/?id=OL1epW5hoO0&title=Soylent+Green+and+the+enclosure+of+Collective+Intelligence&lang=en&timestamp=1788109038&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1654" alt="Soylent Green and the enclosure of Collective Intelligence" title="Soylent Green and the enclosure of Collective Intelligence">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
+      <a href="https://www.youtube.com/watch?v=5We-YU8KArs" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5We-YU8KArs&title=Why+a+Relationship+With+AI+Is+a+One-Sided+Relationship+%7C+D.W.+Pasulka&lang=en&timestamp=1788130638&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=362">
+          <img src="https://ytcards.demolab.com/?id=5We-YU8KArs&title=Why+a+Relationship+With+AI+Is+a+One-Sided+Relationship+%7C+D.W.+Pasulka&lang=en&timestamp=1788130638&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=362" alt="Why a Relationship With AI Is a One-Sided Relationship | D.W. Pasulka" title="Why a Relationship With AI Is a One-Sided Relationship | D.W. Pasulka">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
       <a href="https://www.youtube.com/watch?v=xv875XFyzEY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xv875XFyzEY&title=A+Response+to+Ed+Zitron%3A+Rebutting+37+AI+Skeptic+Claims+with+Data&lang=en&timestamp=1788096576&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6278">
-          <img src="https://ytcards.demolab.com/?id=xv875XFyzEY&title=A+Response+to+Ed+Zitron%3A+Rebutting+37+AI+Skeptic+Claims+with+Data&lang=en&timestamp=1788096576&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6278" alt="A Response to Ed Zitron: Rebutting 37 AI Skeptic Claims with Data" title="A Response to Ed Zitron: Rebutting 37 AI Skeptic Claims with Data">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xv875XFyzEY&title=A+Response+to+Ed+Zitron%3A+Rebutting+37+AI+Skeptic+Claims+with+Data&lang=en&timestamp=1788109038&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6278">
+          <img src="https://ytcards.demolab.com/?id=xv875XFyzEY&title=A+Response+to+Ed+Zitron%3A+Rebutting+37+AI+Skeptic+Claims+with+Data&lang=en&timestamp=1788109038&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6278" alt="A Response to Ed Zitron: Rebutting 37 AI Skeptic Claims with Data" title="A Response to Ed Zitron: Rebutting 37 AI Skeptic Claims with Data">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=L4vqq6tA7_o" target="_blank">
+      <a href="https://www.youtube.com/watch?v=muS0FwqL96E" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=L4vqq6tA7_o&title=If+AI+Takes+Our+Jobs%2C+What+Are+We+Actually+Here+For%3F+%7C+Theological+with+Shabbos+Kestenbaum&lang=en&timestamp=1788103776&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2918">
-          <img src="https://ytcards.demolab.com/?id=L4vqq6tA7_o&title=If+AI+Takes+Our+Jobs%2C+What+Are+We+Actually+Here+For%3F+%7C+Theological+with+Shabbos+Kestenbaum&lang=en&timestamp=1788103776&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2918" alt="If AI Takes Our Jobs, What Are We Actually Here For? | Theological with Shabbos Kestenbaum" title="If AI Takes Our Jobs, What Are We Actually Here For? | Theological with Shabbos Kestenbaum">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=dAiKHMKqg48" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=dAiKHMKqg48&title=SOLAR+CENTERS%3A+AI+infrastructure+could+move+into+ORBIT&lang=en&timestamp=1788136176&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=355">
-          <img src="https://ytcards.demolab.com/?id=dAiKHMKqg48&title=SOLAR+CENTERS%3A+AI+infrastructure+could+move+into+ORBIT&lang=en&timestamp=1788136176&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=355" alt="SOLAR CENTERS: AI infrastructure could move into ORBIT" title="SOLAR CENTERS: AI infrastructure could move into ORBIT">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=muS0FwqL96E&title=%27We+Need+To+Have+A+Vision%27%3A+Ro+Khanna+Demands+Incentives+To+Promote+Human+Hiring+Over+AI+Use&lang=en&timestamp=1788145038&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=96">
+          <img src="https://ytcards.demolab.com/?id=muS0FwqL96E&title=%27We+Need+To+Have+A+Vision%27%3A+Ro+Khanna+Demands+Incentives+To+Promote+Human+Hiring+Over+AI+Use&lang=en&timestamp=1788145038&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=96" alt="'We Need To Have A Vision': Ro Khanna Demands Incentives To Promote Human Hiring Over AI Use" title="'We Need To Have A Vision': Ro Khanna Demands Incentives To Promote Human Hiring Over AI Use">
         </picture>
       </a>
     </td>
