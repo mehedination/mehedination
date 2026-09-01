@@ -509,56 +509,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=fDDch9r1gXk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=fDDch9r1gXk&title=Artificial+intelligence+agents+going+rogue+fuel+calls+for+regulation&lang=en&timestamp=1788218532&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=391">
-          <img src="https://ytcards.demolab.com/?id=fDDch9r1gXk&title=Artificial+intelligence+agents+going+rogue+fuel+calls+for+regulation&lang=en&timestamp=1788218532&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=391" alt="Artificial intelligence agents going rogue fuel calls for regulation" title="Artificial intelligence agents going rogue fuel calls for regulation">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=zIu5fxLlK3w" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zIu5fxLlK3w&title=Lack+of+AI+governance+is+a+real+threat+%7C+Ian+Bremmer%E2%80%99s+Quick+Take&lang=en&timestamp=1788207732&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=587">
-          <img src="https://ytcards.demolab.com/?id=zIu5fxLlK3w&title=Lack+of+AI+governance+is+a+real+threat+%7C+Ian+Bremmer%E2%80%99s+Quick+Take&lang=en&timestamp=1788207732&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=587" alt="Lack of AI governance is a real threat | Ian Bremmer’s Quick Take" title="Lack of AI governance is a real threat | Ian Bremmer’s Quick Take">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=fDDch9r1gXk&title=Artificial+intelligence+agents+going+rogue+fuel+calls+for+regulation&lang=en&timestamp=1788216766&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=391">
+          <img src="https://ytcards.demolab.com/?id=fDDch9r1gXk&title=Artificial+intelligence+agents+going+rogue+fuel+calls+for+regulation&lang=en&timestamp=1788216766&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=391" alt="Artificial intelligence agents going rogue fuel calls for regulation" title="Artificial intelligence agents going rogue fuel calls for regulation">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=YL3FAM4rfy8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=YL3FAM4rfy8&title=Shocking+details+of+OpenAI+models%27+Hugging+Face+hack&lang=en&timestamp=1788189732&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=341">
-          <img src="https://ytcards.demolab.com/?id=YL3FAM4rfy8&title=Shocking+details+of+OpenAI+models%27+Hugging+Face+hack&lang=en&timestamp=1788189732&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=341" alt="Shocking details of OpenAI models' Hugging Face hack" title="Shocking details of OpenAI models' Hugging Face hack">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=YL3FAM4rfy8&title=Shocking+details+of+OpenAI+models%27+Hugging+Face+hack&lang=en&timestamp=1788209566&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=341">
+          <img src="https://ytcards.demolab.com/?id=YL3FAM4rfy8&title=Shocking+details+of+OpenAI+models%27+Hugging+Face+hack&lang=en&timestamp=1788209566&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=341" alt="Shocking details of OpenAI models' Hugging Face hack" title="Shocking details of OpenAI models' Hugging Face hack">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=zIu5fxLlK3w" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zIu5fxLlK3w&title=Lack+of+AI+governance+is+a+real+threat+%7C+Ian+Bremmer%E2%80%99s+Quick+Take&lang=en&timestamp=1788209566&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=587">
+          <img src="https://ytcards.demolab.com/?id=zIu5fxLlK3w&title=Lack+of+AI+governance+is+a+real+threat+%7C+Ian+Bremmer%E2%80%99s+Quick+Take&lang=en&timestamp=1788209566&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=587" alt="Lack of AI governance is a real threat | Ian Bremmer’s Quick Take" title="Lack of AI governance is a real threat | Ian Bremmer’s Quick Take">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=9avRZ0yCKIE" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9avRZ0yCKIE&title=An+AI+Crash%3F&lang=en&timestamp=1788196932&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=573">
-          <img src="https://ytcards.demolab.com/?id=9avRZ0yCKIE&title=An+AI+Crash%3F&lang=en&timestamp=1788196932&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=573" alt="An AI Crash?" title="An AI Crash?">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
       <a href="https://www.youtube.com/watch?v=tpK7TVTOTfg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tpK7TVTOTfg&title=AI+expert+analyzes+Bill+Gates%27+essay+on+dangers+of+artificial+intelligence&lang=en&timestamp=1788182532&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=345">
-          <img src="https://ytcards.demolab.com/?id=tpK7TVTOTfg&title=AI+expert+analyzes+Bill+Gates%27+essay+on+dangers+of+artificial+intelligence&lang=en&timestamp=1788182532&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=345" alt="AI expert analyzes Bill Gates' essay on dangers of artificial intelligence" title="AI expert analyzes Bill Gates' essay on dangers of artificial intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tpK7TVTOTfg&title=AI+expert+analyzes+Bill+Gates%27+essay+on+dangers+of+artificial+intelligence&lang=en&timestamp=1788209566&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=345">
+          <img src="https://ytcards.demolab.com/?id=tpK7TVTOTfg&title=AI+expert+analyzes+Bill+Gates%27+essay+on+dangers+of+artificial+intelligence&lang=en&timestamp=1788209566&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=345" alt="AI expert analyzes Bill Gates' essay on dangers of artificial intelligence" title="AI expert analyzes Bill Gates' essay on dangers of artificial intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=3AhIcqDOOOI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=8_n3GF89fKQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3AhIcqDOOOI&title=Ed+Zitron%E2%80%99s+AI+Bubble+Warning+Goes+Mainstream+%28Tech+Bros+Panic%29&lang=en&timestamp=1788182532&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=910">
-          <img src="https://ytcards.demolab.com/?id=3AhIcqDOOOI&title=Ed+Zitron%E2%80%99s+AI+Bubble+Warning+Goes+Mainstream+%28Tech+Bros+Panic%29&lang=en&timestamp=1788182532&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=910" alt="Ed Zitron’s AI Bubble Warning Goes Mainstream (Tech Bros Panic)" title="Ed Zitron’s AI Bubble Warning Goes Mainstream (Tech Bros Panic)">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8_n3GF89fKQ&title=Online+Course+for+Artificial+Intelligence+Assistant&lang=en&timestamp=1788263566&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3896">
+          <img src="https://ytcards.demolab.com/?id=8_n3GF89fKQ&title=Online+Course+for+Artificial+Intelligence+Assistant&lang=en&timestamp=1788263566&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3896" alt="Online Course for Artificial Intelligence Assistant" title="Online Course for Artificial Intelligence Assistant">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=YXbIMI1aI64" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=YXbIMI1aI64&title=7+Free+AI+Courses+Everyone+Is+Searching+For+in+%282026%29&lang=en&timestamp=1788245566&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=420">
+          <img src="https://ytcards.demolab.com/?id=YXbIMI1aI64&title=7+Free+AI+Courses+Everyone+Is+Searching+For+in+%282026%29&lang=en&timestamp=1788245566&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=420" alt="7 Free AI Courses Everyone Is Searching For in (2026)" title="7 Free AI Courses Everyone Is Searching For in (2026)">
         </picture>
       </a>
     </td>
