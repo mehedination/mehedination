@@ -510,56 +510,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=fDDch9r1gXk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=utu5YACZbPE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=fDDch9r1gXk&title=Artificial+intelligence+agents+going+rogue+fuel+calls+for+regulation&lang=en&timestamp=1788216766&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=391">
-          <img src="https://ytcards.demolab.com/?id=fDDch9r1gXk&title=Artificial+intelligence+agents+going+rogue+fuel+calls+for+regulation&lang=en&timestamp=1788216766&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=391" alt="Artificial intelligence agents going rogue fuel calls for regulation" title="Artificial intelligence agents going rogue fuel calls for regulation">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=utu5YACZbPE&title=AI+Has+Eaten+Maths.+Physics+Is+Next&lang=en&timestamp=1788278265&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=422">
+          <img src="https://ytcards.demolab.com/?id=utu5YACZbPE&title=AI+Has+Eaten+Maths.+Physics+Is+Next&lang=en&timestamp=1788278265&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=422" alt="AI Has Eaten Maths. Physics Is Next" title="AI Has Eaten Maths. Physics Is Next">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=YL3FAM4rfy8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Y5bxleubfzI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=YL3FAM4rfy8&title=Shocking+details+of+OpenAI+models%27+Hugging+Face+hack&lang=en&timestamp=1788209566&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=341">
-          <img src="https://ytcards.demolab.com/?id=YL3FAM4rfy8&title=Shocking+details+of+OpenAI+models%27+Hugging+Face+hack&lang=en&timestamp=1788209566&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=341" alt="Shocking details of OpenAI models' Hugging Face hack" title="Shocking details of OpenAI models' Hugging Face hack">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Y5bxleubfzI&title=Oracle+May+Cut+Thousands+More+Jobs+as+AI+Spending+Surges+%7C+Spotlight&lang=en&timestamp=1788267465&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=675">
+          <img src="https://ytcards.demolab.com/?id=Y5bxleubfzI&title=Oracle+May+Cut+Thousands+More+Jobs+as+AI+Spending+Surges+%7C+Spotlight&lang=en&timestamp=1788267465&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=675" alt="Oracle May Cut Thousands More Jobs as AI Spending Surges | Spotlight" title="Oracle May Cut Thousands More Jobs as AI Spending Surges | Spotlight">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=zIu5fxLlK3w" target="_blank">
+      <a href="https://www.youtube.com/watch?v=99F0OkPxj4Q" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zIu5fxLlK3w&title=Lack+of+AI+governance+is+a+real+threat+%7C+Ian+Bremmer%E2%80%99s+Quick+Take&lang=en&timestamp=1788209566&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=587">
-          <img src="https://ytcards.demolab.com/?id=zIu5fxLlK3w&title=Lack+of+AI+governance+is+a+real+threat+%7C+Ian+Bremmer%E2%80%99s+Quick+Take&lang=en&timestamp=1788209566&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=587" alt="Lack of AI governance is a real threat | Ian Bremmer’s Quick Take" title="Lack of AI governance is a real threat | Ian Bremmer’s Quick Take">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=99F0OkPxj4Q&title=Was+Our+AI+Bull+Case+Too+Conservative%3F+%7C+Big+Ideas+2026+Mid-Year+Review&lang=en&timestamp=1788296265&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1360">
+          <img src="https://ytcards.demolab.com/?id=99F0OkPxj4Q&title=Was+Our+AI+Bull+Case+Too+Conservative%3F+%7C+Big+Ideas+2026+Mid-Year+Review&lang=en&timestamp=1788296265&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1360" alt="Was Our AI Bull Case Too Conservative? | Big Ideas 2026 Mid-Year Review" title="Was Our AI Bull Case Too Conservative? | Big Ideas 2026 Mid-Year Review">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=tpK7TVTOTfg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=S8301cjjyTw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tpK7TVTOTfg&title=AI+expert+analyzes+Bill+Gates%27+essay+on+dangers+of+artificial+intelligence&lang=en&timestamp=1788209566&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=345">
-          <img src="https://ytcards.demolab.com/?id=tpK7TVTOTfg&title=AI+expert+analyzes+Bill+Gates%27+essay+on+dangers+of+artificial+intelligence&lang=en&timestamp=1788209566&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=345" alt="AI expert analyzes Bill Gates' essay on dangers of artificial intelligence" title="AI expert analyzes Bill Gates' essay on dangers of artificial intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=S8301cjjyTw&title=AI+costs+drop+while+demand+surges&lang=en&timestamp=1788281865&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=195">
+          <img src="https://ytcards.demolab.com/?id=S8301cjjyTw&title=AI+costs+drop+while+demand+surges&lang=en&timestamp=1788281865&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=195" alt="AI costs drop while demand surges" title="AI costs drop while demand surges">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=8_n3GF89fKQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=dBedPOPotyo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8_n3GF89fKQ&title=Online+Course+for+Artificial+Intelligence+Assistant&lang=en&timestamp=1788263566&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3896">
-          <img src="https://ytcards.demolab.com/?id=8_n3GF89fKQ&title=Online+Course+for+Artificial+Intelligence+Assistant&lang=en&timestamp=1788263566&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3896" alt="Online Course for Artificial Intelligence Assistant" title="Online Course for Artificial Intelligence Assistant">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=dBedPOPotyo&title=Ep.+235%3A+OpenAI-Hugging+Face+Hack%2C+Bill+Gates+Pessimistic+on+Jobs%2C+%26+Nvidia+Doubles+Revenue&lang=en&timestamp=1788256665&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5672">
+          <img src="https://ytcards.demolab.com/?id=dBedPOPotyo&title=Ep.+235%3A+OpenAI-Hugging+Face+Hack%2C+Bill+Gates+Pessimistic+on+Jobs%2C+%26+Nvidia+Doubles+Revenue&lang=en&timestamp=1788256665&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5672" alt="Ep. 235: OpenAI-Hugging Face Hack, Bill Gates Pessimistic on Jobs, & Nvidia Doubles Revenue" title="Ep. 235: OpenAI-Hugging Face Hack, Bill Gates Pessimistic on Jobs, & Nvidia Doubles Revenue">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=YXbIMI1aI64" target="_blank">
+      <a href="https://www.youtube.com/watch?v=vbwQByTOoz8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=YXbIMI1aI64&title=7+Free+AI+Courses+Everyone+Is+Searching+For+in+%282026%29&lang=en&timestamp=1788245566&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=420">
-          <img src="https://ytcards.demolab.com/?id=YXbIMI1aI64&title=7+Free+AI+Courses+Everyone+Is+Searching+For+in+%282026%29&lang=en&timestamp=1788245566&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=420" alt="7 Free AI Courses Everyone Is Searching For in (2026)" title="7 Free AI Courses Everyone Is Searching For in (2026)">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vbwQByTOoz8&title=Elon+Musk+Warns+Against+AI+Regulation%2C+Predicts+1+Billion+Humanoid+Robots+at+G20+Ministerial+%7C+AI1N&lang=en&timestamp=1788274665&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=755">
+          <img src="https://ytcards.demolab.com/?id=vbwQByTOoz8&title=Elon+Musk+Warns+Against+AI+Regulation%2C+Predicts+1+Billion+Humanoid+Robots+at+G20+Ministerial+%7C+AI1N&lang=en&timestamp=1788274665&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=755" alt="Elon Musk Warns Against AI Regulation, Predicts 1 Billion Humanoid Robots at G20 Ministerial | AI1N" title="Elon Musk Warns Against AI Regulation, Predicts 1 Billion Humanoid Robots at G20 Ministerial | AI1N">
         </picture>
       </a>
     </td>
