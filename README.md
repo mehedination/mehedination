@@ -512,56 +512,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=utu5YACZbPE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=utu5YACZbPE&title=AI+Is+Taking+Over+Physics+and+Nobody+Talks+About+It&lang=en&timestamp=1788277361&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=422">
-          <img src="https://ytcards.demolab.com/?id=utu5YACZbPE&title=AI+Is+Taking+Over+Physics+and+Nobody+Talks+About+It&lang=en&timestamp=1788277361&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=422" alt="AI Is Taking Over Physics and Nobody Talks About It" title="AI Is Taking Over Physics and Nobody Talks About It">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=utu5YACZbPE&title=AI+Has+Eaten+Maths.+Physics+Is+Next&lang=en&timestamp=1788284872&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=422">
+          <img src="https://ytcards.demolab.com/?id=utu5YACZbPE&title=AI+Has+Eaten+Maths.+Physics+Is+Next&lang=en&timestamp=1788284872&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=422" alt="AI Has Eaten Maths. Physics Is Next" title="AI Has Eaten Maths. Physics Is Next">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=d84mtbzRA8w" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=d84mtbzRA8w&title=The+AI+Midwit+Epidemic&lang=en&timestamp=1788280961&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=827">
-          <img src="https://ytcards.demolab.com/?id=d84mtbzRA8w&title=The+AI+Midwit+Epidemic&lang=en&timestamp=1788280961&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=827" alt="The AI Midwit Epidemic" title="The AI Midwit Epidemic">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=d84mtbzRA8w&title=The+AI+Midwit+Epidemic&lang=en&timestamp=1788284872&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=827">
+          <img src="https://ytcards.demolab.com/?id=d84mtbzRA8w&title=The+AI+Midwit+Epidemic&lang=en&timestamp=1788284872&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=827" alt="The AI Midwit Epidemic" title="The AI Midwit Epidemic">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=S8301cjjyTw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=H9QvbtcF5bA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=S8301cjjyTw&title=AI+costs+drop+while+demand+surges&lang=en&timestamp=1788280961&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=195">
-          <img src="https://ytcards.demolab.com/?id=S8301cjjyTw&title=AI+costs+drop+while+demand+surges&lang=en&timestamp=1788280961&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=195" alt="AI costs drop while demand surges" title="AI costs drop while demand surges">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=H9QvbtcF5bA&title=Elon+Musk+at+G20%3A+AI+will+probably+increase+the+global+economy+by+20+to+30%25&lang=en&timestamp=1788284872&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=132">
+          <img src="https://ytcards.demolab.com/?id=H9QvbtcF5bA&title=Elon+Musk+at+G20%3A+AI+will+probably+increase+the+global+economy+by+20+to+30%25&lang=en&timestamp=1788284872&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=132" alt="Elon Musk at G20: AI will probably increase the global economy by 20 to 30%" title="Elon Musk at G20: AI will probably increase the global economy by 20 to 30%">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=99F0OkPxj4Q" target="_blank">
+      <a href="https://www.youtube.com/watch?v=dnSpKF5pWNQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=99F0OkPxj4Q&title=Was+Our+AI+Bull+Case+Too+Conservative%3F+%7C+Big+Ideas+2026+Mid-Year+Review&lang=en&timestamp=1788295361&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1360">
-          <img src="https://ytcards.demolab.com/?id=99F0OkPxj4Q&title=Was+Our+AI+Bull+Case+Too+Conservative%3F+%7C+Big+Ideas+2026+Mid-Year+Review&lang=en&timestamp=1788295361&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1360" alt="Was Our AI Bull Case Too Conservative? | Big Ideas 2026 Mid-Year Review" title="Was Our AI Bull Case Too Conservative? | Big Ideas 2026 Mid-Year Review">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=VQzK3cPWYTQ" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=VQzK3cPWYTQ&title=AI+ethics+and+the+future+of+safety+%7C+Dr.+Roman+Yampolskiy+%7C+TEDxMiami&lang=en&timestamp=1788280961&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=868">
-          <img src="https://ytcards.demolab.com/?id=VQzK3cPWYTQ&title=AI+ethics+and+the+future+of+safety+%7C+Dr.+Roman+Yampolskiy+%7C+TEDxMiami&lang=en&timestamp=1788280961&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=868" alt="AI ethics and the future of safety | Dr. Roman Yampolskiy | TEDxMiami" title="AI ethics and the future of safety | Dr. Roman Yampolskiy | TEDxMiami">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=dnSpKF5pWNQ&title=How+Close+Are+We+to+True+Artificial+General+Intelligence%3F+%7C+OpenAI%E2%80%99s+Greg+Brockman+Speaks+to+TIME&lang=en&timestamp=1788367672&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3278">
+          <img src="https://ytcards.demolab.com/?id=dnSpKF5pWNQ&title=How+Close+Are+We+to+True+Artificial+General+Intelligence%3F+%7C+OpenAI%E2%80%99s+Greg+Brockman+Speaks+to+TIME&lang=en&timestamp=1788367672&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3278" alt="How Close Are We to True Artificial General Intelligence? | OpenAI’s Greg Brockman Speaks to TIME" title="How Close Are We to True Artificial General Intelligence? | OpenAI’s Greg Brockman Speaks to TIME">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=8Kf1Q0yOhSo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8Kf1Q0yOhSo&title=Sam+Altman+Reveals+OpenAI%E2%80%99s+Plan+to+Regain+Its+Lead+in+AI&lang=en&timestamp=1788280961&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=853">
-          <img src="https://ytcards.demolab.com/?id=8Kf1Q0yOhSo&title=Sam+Altman+Reveals+OpenAI%E2%80%99s+Plan+to+Regain+Its+Lead+in+AI&lang=en&timestamp=1788280961&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=853" alt="Sam Altman Reveals OpenAI’s Plan to Regain Its Lead in AI" title="Sam Altman Reveals OpenAI’s Plan to Regain Its Lead in AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8Kf1Q0yOhSo&title=Sam+Altman+Reveals+OpenAI%E2%80%99s+Plan+to+Regain+Its+Lead+in+AI&lang=en&timestamp=1788284872&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=853">
+          <img src="https://ytcards.demolab.com/?id=8Kf1Q0yOhSo&title=Sam+Altman+Reveals+OpenAI%E2%80%99s+Plan+to+Regain+Its+Lead+in+AI&lang=en&timestamp=1788284872&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=853" alt="Sam Altman Reveals OpenAI’s Plan to Regain Its Lead in AI" title="Sam Altman Reveals OpenAI’s Plan to Regain Its Lead in AI">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=h9123XybN_Q" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=h9123XybN_Q&title=Christopher+Nolan+on+AI+%26+the+Future+of+Humanity+%7C+A+STARMUS+Exclusive&lang=en&timestamp=1788295672&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1257">
+          <img src="https://ytcards.demolab.com/?id=h9123XybN_Q&title=Christopher+Nolan+on+AI+%26+the+Future+of+Humanity+%7C+A+STARMUS+Exclusive&lang=en&timestamp=1788295672&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1257" alt="Christopher Nolan on AI & the Future of Humanity | A STARMUS Exclusive" title="Christopher Nolan on AI & the Future of Humanity | A STARMUS Exclusive">
         </picture>
       </a>
     </td>
