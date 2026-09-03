@@ -517,56 +517,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=kkXp8q2FHV0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=kkXp8q2FHV0&title=Open+AI%27s+Sam+Altman+Makes+Big+Prediction+On+Artificial+Intelligence&lang=en&timestamp=1788428644&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=227">
-          <img src="https://ytcards.demolab.com/?id=kkXp8q2FHV0&title=Open+AI%27s+Sam+Altman+Makes+Big+Prediction+On+Artificial+Intelligence&lang=en&timestamp=1788428644&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=227" alt="Open AI's Sam Altman Makes Big Prediction On Artificial Intelligence" title="Open AI's Sam Altman Makes Big Prediction On Artificial Intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=kkXp8q2FHV0&title=Open+AI%27s+Sam+Altman+Makes+Big+Prediction+On+Artificial+Intelligence&lang=en&timestamp=1788425404&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=227">
+          <img src="https://ytcards.demolab.com/?id=kkXp8q2FHV0&title=Open+AI%27s+Sam+Altman+Makes+Big+Prediction+On+Artificial+Intelligence&lang=en&timestamp=1788425404&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=227" alt="Open AI's Sam Altman Makes Big Prediction On Artificial Intelligence" title="Open AI's Sam Altman Makes Big Prediction On Artificial Intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=9HMilPwD3hY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=LcgXRzR1ix8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9HMilPwD3hY&title=Commerce+Secretary+Lutnick+on+AI%2C+Anthropic+and+Canada+Talks&lang=en&timestamp=1788378244&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=811">
-          <img src="https://ytcards.demolab.com/?id=9HMilPwD3hY&title=Commerce+Secretary+Lutnick+on+AI%2C+Anthropic+and+Canada+Talks&lang=en&timestamp=1788378244&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=811" alt="Commerce Secretary Lutnick on AI, Anthropic and Canada Talks" title="Commerce Secretary Lutnick on AI, Anthropic and Canada Talks">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=LcgXRzR1ix8&title=New+York+City+bans+artificial+intelligence+in+schools+through+eighth+grade+%7C+Inside+City+Hall&lang=en&timestamp=1788396604&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3522">
+          <img src="https://ytcards.demolab.com/?id=LcgXRzR1ix8&title=New+York+City+bans+artificial+intelligence+in+schools+through+eighth+grade+%7C+Inside+City+Hall&lang=en&timestamp=1788396604&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3522" alt="New York City bans artificial intelligence in schools through eighth grade | Inside City Hall" title="New York City bans artificial intelligence in schools through eighth grade | Inside City Hall">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=MiAl9CNZUuo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=dxghuf-iZ_I" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=MiAl9CNZUuo&title=FULL+REMARKS%3A+Nvidia+CEO+Jensen+Huang+Outlines+AI+Future+As+Global+Economic+Game+Changer+%7C+AI14&lang=en&timestamp=1788371044&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1405">
-          <img src="https://ytcards.demolab.com/?id=MiAl9CNZUuo&title=FULL+REMARKS%3A+Nvidia+CEO+Jensen+Huang+Outlines+AI+Future+As+Global+Economic+Game+Changer+%7C+AI14&lang=en&timestamp=1788371044&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1405" alt="FULL REMARKS: Nvidia CEO Jensen Huang Outlines AI Future As Global Economic Game Changer | AI14" title="FULL REMARKS: Nvidia CEO Jensen Huang Outlines AI Future As Global Economic Game Changer | AI14">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=dxghuf-iZ_I&title=Elon+Predicts+ONE+BILLION+Humanoid+Robot+AI+TAKEOVER&lang=en&timestamp=1788382204&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=531">
+          <img src="https://ytcards.demolab.com/?id=dxghuf-iZ_I&title=Elon+Predicts+ONE+BILLION+Humanoid+Robot+AI+TAKEOVER&lang=en&timestamp=1788382204&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=531" alt="Elon Predicts ONE BILLION Humanoid Robot AI TAKEOVER" title="Elon Predicts ONE BILLION Humanoid Robot AI TAKEOVER">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=LcgXRzR1ix8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=9HMilPwD3hY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=LcgXRzR1ix8&title=New+York+City+bans+artificial+intelligence+in+schools+through+eighth+grade+%7C+Inside+City+Hall&lang=en&timestamp=1788396244&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3522">
-          <img src="https://ytcards.demolab.com/?id=LcgXRzR1ix8&title=New+York+City+bans+artificial+intelligence+in+schools+through+eighth+grade+%7C+Inside+City+Hall&lang=en&timestamp=1788396244&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3522" alt="New York City bans artificial intelligence in schools through eighth grade | Inside City Hall" title="New York City bans artificial intelligence in schools through eighth grade | Inside City Hall">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9HMilPwD3hY&title=Commerce+Secretary+Lutnick+on+AI%2C+Anthropic+and+Canada+Talks&lang=en&timestamp=1788382204&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=811">
+          <img src="https://ytcards.demolab.com/?id=9HMilPwD3hY&title=Commerce+Secretary+Lutnick+on+AI%2C+Anthropic+and+Canada+Talks&lang=en&timestamp=1788382204&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=811" alt="Commerce Secretary Lutnick on AI, Anthropic and Canada Talks" title="Commerce Secretary Lutnick on AI, Anthropic and Canada Talks">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=eD5g6rLb3Hc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=LyP4y_5LBuI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=eD5g6rLb3Hc&title=%E2%80%9CYou+Have+to+Use+AI%E2%80%9D%3A+OpenAI+CEO+Altman+Urges+G20+Countries+to+Embrace+Artificial+Intelligence+%7CAI1E&lang=en&timestamp=1788371044&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1245">
-          <img src="https://ytcards.demolab.com/?id=eD5g6rLb3Hc&title=%E2%80%9CYou+Have+to+Use+AI%E2%80%9D%3A+OpenAI+CEO+Altman+Urges+G20+Countries+to+Embrace+Artificial+Intelligence+%7CAI1E&lang=en&timestamp=1788371044&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1245" alt="“You Have to Use AI”: OpenAI CEO Altman Urges G20 Countries to Embrace Artificial Intelligence |AI1E" title="“You Have to Use AI”: OpenAI CEO Altman Urges G20 Countries to Embrace Artificial Intelligence |AI1E">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=LyP4y_5LBuI&title=Sam+Altman%27s+BIG+AI+PREDICTION%3A+the+greatest+BOOM+in+GLOBAL+COMMERCE+%7C+FULL+G20+SPEECH&lang=en&timestamp=1788382204&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1929">
+          <img src="https://ytcards.demolab.com/?id=LyP4y_5LBuI&title=Sam+Altman%27s+BIG+AI+PREDICTION%3A+the+greatest+BOOM+in+GLOBAL+COMMERCE+%7C+FULL+G20+SPEECH&lang=en&timestamp=1788382204&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1929" alt="Sam Altman's BIG AI PREDICTION: the greatest BOOM in GLOBAL COMMERCE | FULL G20 SPEECH" title="Sam Altman's BIG AI PREDICTION: the greatest BOOM in GLOBAL COMMERCE | FULL G20 SPEECH">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=s8hpHSKKE2U" target="_blank">
+      <a href="https://www.youtube.com/watch?v=li8WWcaKZIA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=s8hpHSKKE2U&title=At+G20+event%2C+Sam+Altman+says+AI+use+is+%27nonnegotiable%27+and+argues+for+more+data+centers&lang=en&timestamp=1788381844&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1917">
-          <img src="https://ytcards.demolab.com/?id=s8hpHSKKE2U&title=At+G20+event%2C+Sam+Altman+says+AI+use+is+%27nonnegotiable%27+and+argues+for+more+data+centers&lang=en&timestamp=1788381844&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1917" alt="At G20 event, Sam Altman says AI use is 'nonnegotiable' and argues for more data centers" title="At G20 event, Sam Altman says AI use is 'nonnegotiable' and argues for more data centers">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=li8WWcaKZIA&title=UP+Police+Computer+Operator+2026+%7C+Computer+%3A+Artificial+Intelligence+%7C+Practice+Class+%2329%2C+Ravi+Sir&lang=en&timestamp=1788418204&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3411">
+          <img src="https://ytcards.demolab.com/?id=li8WWcaKZIA&title=UP+Police+Computer+Operator+2026+%7C+Computer+%3A+Artificial+Intelligence+%7C+Practice+Class+%2329%2C+Ravi+Sir&lang=en&timestamp=1788418204&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3411" alt="UP Police Computer Operator 2026 | Computer : Artificial Intelligence | Practice Class #29, Ravi Sir" title="UP Police Computer Operator 2026 | Computer : Artificial Intelligence | Practice Class #29, Ravi Sir">
         </picture>
       </a>
     </td>
