@@ -514,56 +514,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=eD5g6rLb3Hc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=9HMilPwD3hY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=eD5g6rLb3Hc&title=%E2%80%9CYou+Have+to+Use+AI%E2%80%9D%3A+OpenAI+CEO+Altman+Urges+G20+Countries+to+Embrace+Artificial+Intelligence+%7CAI1E&lang=en&timestamp=1788371821&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1245">
-          <img src="https://ytcards.demolab.com/?id=eD5g6rLb3Hc&title=%E2%80%9CYou+Have+to+Use+AI%E2%80%9D%3A+OpenAI+CEO+Altman+Urges+G20+Countries+to+Embrace+Artificial+Intelligence+%7CAI1E&lang=en&timestamp=1788371821&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1245" alt="“You Have to Use AI”: OpenAI CEO Altman Urges G20 Countries to Embrace Artificial Intelligence |AI1E" title="“You Have to Use AI”: OpenAI CEO Altman Urges G20 Countries to Embrace Artificial Intelligence |AI1E">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9HMilPwD3hY&title=Commerce+Secretary+Lutnick+on+AI%2C+Anthropic+and+Canada+Talks&lang=en&timestamp=1788378692&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=811">
+          <img src="https://ytcards.demolab.com/?id=9HMilPwD3hY&title=Commerce+Secretary+Lutnick+on+AI%2C+Anthropic+and+Canada+Talks&lang=en&timestamp=1788378692&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=811" alt="Commerce Secretary Lutnick on AI, Anthropic and Canada Talks" title="Commerce Secretary Lutnick on AI, Anthropic and Canada Talks">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=vS5bLsHEE3g" target="_blank">
+      <a href="https://www.youtube.com/watch?v=MiAl9CNZUuo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vS5bLsHEE3g&title=Beyond+Fear%3A+A+Catholic+Vision+for+Artificial+Intelligence+EWTN+News+Special&lang=en&timestamp=1788389821&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=31">
-          <img src="https://ytcards.demolab.com/?id=vS5bLsHEE3g&title=Beyond+Fear%3A+A+Catholic+Vision+for+Artificial+Intelligence+EWTN+News+Special&lang=en&timestamp=1788389821&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=31" alt="Beyond Fear: A Catholic Vision for Artificial Intelligence EWTN News Special" title="Beyond Fear: A Catholic Vision for Artificial Intelligence EWTN News Special">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=MiAl9CNZUuo&title=FULL+REMARKS%3A+Nvidia+CEO+Jensen+Huang+Outlines+AI+Future+As+Global+Economic+Game+Changer+%7C+AI14&lang=en&timestamp=1788357092&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1405">
+          <img src="https://ytcards.demolab.com/?id=MiAl9CNZUuo&title=FULL+REMARKS%3A+Nvidia+CEO+Jensen+Huang+Outlines+AI+Future+As+Global+Economic+Game+Changer+%7C+AI14&lang=en&timestamp=1788357092&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1405" alt="FULL REMARKS: Nvidia CEO Jensen Huang Outlines AI Future As Global Economic Game Changer | AI14" title="FULL REMARKS: Nvidia CEO Jensen Huang Outlines AI Future As Global Economic Game Changer | AI14">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=AaEJpKYcxt8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=pQAUKDCbU7U" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=AaEJpKYcxt8&title=FULL%3A+Anthropic%E2%80%99s+Tom+Brown+Discusses+AI%E2%80%99s+Explosive+Growth%2C+AGI+%26+Medical+Impact+at+G20+%7C+AI1G&lang=en&timestamp=1788361021&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1746">
-          <img src="https://ytcards.demolab.com/?id=AaEJpKYcxt8&title=FULL%3A+Anthropic%E2%80%99s+Tom+Brown+Discusses+AI%E2%80%99s+Explosive+Growth%2C+AGI+%26+Medical+Impact+at+G20+%7C+AI1G&lang=en&timestamp=1788361021&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1746" alt="FULL: Anthropic’s Tom Brown Discusses AI’s Explosive Growth, AGI & Medical Impact at G20 | AI1G" title="FULL: Anthropic’s Tom Brown Discusses AI’s Explosive Growth, AGI & Medical Impact at G20 | AI1G">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=pQAUKDCbU7U&title=LIVE%3A+New+York+City+bans+artificial+intelligence+in+schools+through+eighth+grade+%7C+Inside+City+Hall&lang=en&timestamp=1788396692&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3533">
+          <img src="https://ytcards.demolab.com/?id=pQAUKDCbU7U&title=LIVE%3A+New+York+City+bans+artificial+intelligence+in+schools+through+eighth+grade+%7C+Inside+City+Hall&lang=en&timestamp=1788396692&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3533" alt="LIVE: New York City bans artificial intelligence in schools through eighth grade | Inside City Hall" title="LIVE: New York City bans artificial intelligence in schools through eighth grade | Inside City Hall">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=FxoLA425QbM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=TT7aO87C6ws" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=FxoLA425QbM&title=AI+Can+Reproduce.+Now+It%E2%80%99s+Starting+to+Mate&lang=en&timestamp=1788335821&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=312">
-          <img src="https://ytcards.demolab.com/?id=FxoLA425QbM&title=AI+Can+Reproduce.+Now+It%E2%80%99s+Starting+to+Mate&lang=en&timestamp=1788335821&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=312" alt="AI Can Reproduce. Now It’s Starting to Mate" title="AI Can Reproduce. Now It’s Starting to Mate">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=TT7aO87C6ws&title=LIVE%3A+OpenAI%27s+Sam+Altman+speaks+at+G20+Innovation+Ministerial&lang=en&timestamp=1788371492&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1959">
+          <img src="https://ytcards.demolab.com/?id=TT7aO87C6ws&title=LIVE%3A+OpenAI%27s+Sam+Altman+speaks+at+G20+Innovation+Ministerial&lang=en&timestamp=1788371492&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1959" alt="LIVE: OpenAI's Sam Altman speaks at G20 Innovation Ministerial" title="LIVE: OpenAI's Sam Altman speaks at G20 Innovation Ministerial">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=LyP4y_5LBuI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=eD5g6rLb3Hc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=LyP4y_5LBuI&title=Sam+Altman%27s+BIG+AI+PREDICTION%3A+the+greatest+BOOM+in+GLOBAL+COMMERCE+%7C+FULL+G20+SPEECH&lang=en&timestamp=1788371821&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1929">
-          <img src="https://ytcards.demolab.com/?id=LyP4y_5LBuI&title=Sam+Altman%27s+BIG+AI+PREDICTION%3A+the+greatest+BOOM+in+GLOBAL+COMMERCE+%7C+FULL+G20+SPEECH&lang=en&timestamp=1788371821&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1929" alt="Sam Altman's BIG AI PREDICTION: the greatest BOOM in GLOBAL COMMERCE | FULL G20 SPEECH" title="Sam Altman's BIG AI PREDICTION: the greatest BOOM in GLOBAL COMMERCE | FULL G20 SPEECH">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=eD5g6rLb3Hc&title=%E2%80%9CYou+Have+to+Use+AI%E2%80%9D%3A+OpenAI+CEO+Altman+Urges+G20+Countries+to+Embrace+Artificial+Intelligence+%7CAI1E&lang=en&timestamp=1788371492&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1245">
+          <img src="https://ytcards.demolab.com/?id=eD5g6rLb3Hc&title=%E2%80%9CYou+Have+to+Use+AI%E2%80%9D%3A+OpenAI+CEO+Altman+Urges+G20+Countries+to+Embrace+Artificial+Intelligence+%7CAI1E&lang=en&timestamp=1788371492&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1245" alt="“You Have to Use AI”: OpenAI CEO Altman Urges G20 Countries to Embrace Artificial Intelligence |AI1E" title="“You Have to Use AI”: OpenAI CEO Altman Urges G20 Countries to Embrace Artificial Intelligence |AI1E">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=_VE7LHqmaB0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=LcgXRzR1ix8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_VE7LHqmaB0&title=Cloudflare+CEO%3A+We%27re+Ready+To+Block+Millions+of+Websites+From+AI+%E2%80%94+With+Matthew+Prince&lang=en&timestamp=1788368221&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3067">
-          <img src="https://ytcards.demolab.com/?id=_VE7LHqmaB0&title=Cloudflare+CEO%3A+We%27re+Ready+To+Block+Millions+of+Websites+From+AI+%E2%80%94+With+Matthew+Prince&lang=en&timestamp=1788368221&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3067" alt="Cloudflare CEO: We're Ready To Block Millions of Websites From AI — With Matthew Prince" title="Cloudflare CEO: We're Ready To Block Millions of Websites From AI — With Matthew Prince">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=LcgXRzR1ix8&title=LIVE%3A+New+York+City+bans+artificial+intelligence+in+schools+through+eighth+grade+%7C+Inside+City+Hall&lang=en&timestamp=1788396692&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3532">
+          <img src="https://ytcards.demolab.com/?id=LcgXRzR1ix8&title=LIVE%3A+New+York+City+bans+artificial+intelligence+in+schools+through+eighth+grade+%7C+Inside+City+Hall&lang=en&timestamp=1788396692&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3532" alt="LIVE: New York City bans artificial intelligence in schools through eighth grade | Inside City Hall" title="LIVE: New York City bans artificial intelligence in schools through eighth grade | Inside City Hall">
         </picture>
       </a>
     </td>
