@@ -518,56 +518,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=kkXp8q2FHV0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=kkXp8q2FHV0&title=Open+AI%27s+Sam+Altman+Makes+Big+Prediction+On+Artificial+Intelligence&lang=en&timestamp=1788425404&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=227">
-          <img src="https://ytcards.demolab.com/?id=kkXp8q2FHV0&title=Open+AI%27s+Sam+Altman+Makes+Big+Prediction+On+Artificial+Intelligence&lang=en&timestamp=1788425404&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=227" alt="Open AI's Sam Altman Makes Big Prediction On Artificial Intelligence" title="Open AI's Sam Altman Makes Big Prediction On Artificial Intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=kkXp8q2FHV0&title=Open+AI%27s+Sam+Altman+Makes+Big+Prediction+On+Artificial+Intelligence&lang=en&timestamp=1788467821&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=227">
+          <img src="https://ytcards.demolab.com/?id=kkXp8q2FHV0&title=Open+AI%27s+Sam+Altman+Makes+Big+Prediction+On+Artificial+Intelligence&lang=en&timestamp=1788467821&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=227" alt="Open AI's Sam Altman Makes Big Prediction On Artificial Intelligence" title="Open AI's Sam Altman Makes Big Prediction On Artificial Intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=LcgXRzR1ix8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=-OeXgrY3bss" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=LcgXRzR1ix8&title=New+York+City+bans+artificial+intelligence+in+schools+through+eighth+grade+%7C+Inside+City+Hall&lang=en&timestamp=1788396604&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3522">
-          <img src="https://ytcards.demolab.com/?id=LcgXRzR1ix8&title=New+York+City+bans+artificial+intelligence+in+schools+through+eighth+grade+%7C+Inside+City+Hall&lang=en&timestamp=1788396604&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3522" alt="New York City bans artificial intelligence in schools through eighth grade | Inside City Hall" title="New York City bans artificial intelligence in schools through eighth grade | Inside City Hall">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-OeXgrY3bss&title=A.I.+Is+Outsmarting+Its+Creators&lang=en&timestamp=1788467821&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2437">
+          <img src="https://ytcards.demolab.com/?id=-OeXgrY3bss&title=A.I.+Is+Outsmarting+Its+Creators&lang=en&timestamp=1788467821&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2437" alt="A.I. Is Outsmarting Its Creators" title="A.I. Is Outsmarting Its Creators">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=dxghuf-iZ_I" target="_blank">
+      <a href="https://www.youtube.com/watch?v=bzPFl-Ixqe0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=dxghuf-iZ_I&title=Elon+Predicts+ONE+BILLION+Humanoid+Robot+AI+TAKEOVER&lang=en&timestamp=1788382204&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=531">
-          <img src="https://ytcards.demolab.com/?id=dxghuf-iZ_I&title=Elon+Predicts+ONE+BILLION+Humanoid+Robot+AI+TAKEOVER&lang=en&timestamp=1788382204&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=531" alt="Elon Predicts ONE BILLION Humanoid Robot AI TAKEOVER" title="Elon Predicts ONE BILLION Humanoid Robot AI TAKEOVER">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=bzPFl-Ixqe0&title=Tech+execs+%22don%27t+have+their+kids+learning+AI%2C%22+educational+organizer+on+push+to+remove+AI+teaching&lang=en&timestamp=1788467821&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=306">
+          <img src="https://ytcards.demolab.com/?id=bzPFl-Ixqe0&title=Tech+execs+%22don%27t+have+their+kids+learning+AI%2C%22+educational+organizer+on+push+to+remove+AI+teaching&lang=en&timestamp=1788467821&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=306" alt="Tech execs &quot;don't have their kids learning AI,&quot; educational organizer on push to remove AI teaching" title="Tech execs &quot;don't have their kids learning AI,&quot; educational organizer on push to remove AI teaching">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=9HMilPwD3hY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=1bFSLmcX438" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9HMilPwD3hY&title=Commerce+Secretary+Lutnick+on+AI%2C+Anthropic+and+Canada+Talks&lang=en&timestamp=1788382204&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=811">
-          <img src="https://ytcards.demolab.com/?id=9HMilPwD3hY&title=Commerce+Secretary+Lutnick+on+AI%2C+Anthropic+and+Canada+Talks&lang=en&timestamp=1788382204&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=811" alt="Commerce Secretary Lutnick on AI, Anthropic and Canada Talks" title="Commerce Secretary Lutnick on AI, Anthropic and Canada Talks">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1bFSLmcX438&title=AI-%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%81+%E0%AE%A4%E0%AE%BF%E0%AE%9F%E0%AF%80%E0%AE%B0%E0%AF%8D+%E0%AE%A4%E0%AE%9F%E0%AF%88&lang=en&timestamp=1788514621&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=38">
+          <img src="https://ytcards.demolab.com/?id=1bFSLmcX438&title=AI-%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%81+%E0%AE%A4%E0%AE%BF%E0%AE%9F%E0%AF%80%E0%AE%B0%E0%AF%8D+%E0%AE%A4%E0%AE%9F%E0%AF%88&lang=en&timestamp=1788514621&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=38" alt="AI-க்கு திடீர் தடை" title="AI-க்கு திடீர் தடை">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=LyP4y_5LBuI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=SgRPP9WHBqE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=LyP4y_5LBuI&title=Sam+Altman%27s+BIG+AI+PREDICTION%3A+the+greatest+BOOM+in+GLOBAL+COMMERCE+%7C+FULL+G20+SPEECH&lang=en&timestamp=1788382204&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1929">
-          <img src="https://ytcards.demolab.com/?id=LyP4y_5LBuI&title=Sam+Altman%27s+BIG+AI+PREDICTION%3A+the+greatest+BOOM+in+GLOBAL+COMMERCE+%7C+FULL+G20+SPEECH&lang=en&timestamp=1788382204&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1929" alt="Sam Altman's BIG AI PREDICTION: the greatest BOOM in GLOBAL COMMERCE | FULL G20 SPEECH" title="Sam Altman's BIG AI PREDICTION: the greatest BOOM in GLOBAL COMMERCE | FULL G20 SPEECH">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SgRPP9WHBqE&title=%5B3%C2%BA+Semin%C3%A1rio+do+OBIA%5D+%E2%81%A0Keynote+-+Artificial+Intelligence+and+Climate+Change+-+EN&lang=en&timestamp=1788467821&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2770">
+          <img src="https://ytcards.demolab.com/?id=SgRPP9WHBqE&title=%5B3%C2%BA+Semin%C3%A1rio+do+OBIA%5D+%E2%81%A0Keynote+-+Artificial+Intelligence+and+Climate+Change+-+EN&lang=en&timestamp=1788467821&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2770" alt="[3º Seminário do OBIA] ⁠Keynote - Artificial Intelligence and Climate Change - EN" title="[3º Seminário do OBIA] ⁠Keynote - Artificial Intelligence and Climate Change - EN">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=li8WWcaKZIA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=eFecvP6J_x0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=li8WWcaKZIA&title=UP+Police+Computer+Operator+2026+%7C+Computer+%3A+Artificial+Intelligence+%7C+Practice+Class+%2329%2C+Ravi+Sir&lang=en&timestamp=1788418204&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3411">
-          <img src="https://ytcards.demolab.com/?id=li8WWcaKZIA&title=UP+Police+Computer+Operator+2026+%7C+Computer+%3A+Artificial+Intelligence+%7C+Practice+Class+%2329%2C+Ravi+Sir&lang=en&timestamp=1788418204&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3411" alt="UP Police Computer Operator 2026 | Computer : Artificial Intelligence | Practice Class #29, Ravi Sir" title="UP Police Computer Operator 2026 | Computer : Artificial Intelligence | Practice Class #29, Ravi Sir">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=eFecvP6J_x0&title=7-Stage+Python+Roadmap+in+2026+%28Beginner+to+AI+Engineer%29&lang=en&timestamp=1788467821&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1144">
+          <img src="https://ytcards.demolab.com/?id=eFecvP6J_x0&title=7-Stage+Python+Roadmap+in+2026+%28Beginner+to+AI+Engineer%29&lang=en&timestamp=1788467821&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1144" alt="7-Stage Python Roadmap in 2026 (Beginner to AI Engineer)" title="7-Stage Python Roadmap in 2026 (Beginner to AI Engineer)">
         </picture>
       </a>
     </td>
