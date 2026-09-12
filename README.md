@@ -543,56 +543,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=v0F3txOKbkk" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=v0F3txOKbkk&title=Urgent+regulation+needed+to+prevent+AI%E2%80%99s+%27Chernobyl+moment%27%3A+UN+advisor+%7C+ABC+NEWS&lang=en&timestamp=1789179379&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=432">
-          <img src="https://ytcards.demolab.com/?id=v0F3txOKbkk&title=Urgent+regulation+needed+to+prevent+AI%E2%80%99s+%27Chernobyl+moment%27%3A+UN+advisor+%7C+ABC+NEWS&lang=en&timestamp=1789179379&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=432" alt="Urgent regulation needed to prevent AI’s 'Chernobyl moment': UN advisor | ABC NEWS" title="Urgent regulation needed to prevent AI’s 'Chernobyl moment': UN advisor | ABC NEWS">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=PepwZ1bUhAU" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PepwZ1bUhAU&title=The+biggest+real-world+risks+of+AI&lang=en&timestamp=1789161379&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=399">
-          <img src="https://ytcards.demolab.com/?id=PepwZ1bUhAU&title=The+biggest+real-world+risks+of+AI&lang=en&timestamp=1789161379&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=399" alt="The biggest real-world risks of AI" title="The biggest real-world risks of AI">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=yc-Y6oqG6yc" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=yc-Y6oqG6yc&title=Elon+Musk%2C+Trans+Human+and+the+2030+Reset+.+.+.&lang=en&timestamp=1789168579&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5499">
-          <img src="https://ytcards.demolab.com/?id=yc-Y6oqG6yc&title=Elon+Musk%2C+Trans+Human+and+the+2030+Reset+.+.+.&lang=en&timestamp=1789168579&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5499" alt="Elon Musk, Trans Human and the 2030 Reset . . ." title="Elon Musk, Trans Human and the 2030 Reset . . .">
-        </picture>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
       <a href="https://www.youtube.com/watch?v=xyb7XATRI2M" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xyb7XATRI2M&title=Does+rogue+AI+back+the+need+for+a+%27kill+switch%27%3F+%7C+BBC+News&lang=en&timestamp=1789161379&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=801">
-          <img src="https://ytcards.demolab.com/?id=xyb7XATRI2M&title=Does+rogue+AI+back+the+need+for+a+%27kill+switch%27%3F+%7C+BBC+News&lang=en&timestamp=1789161379&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=801" alt="Does rogue AI back the need for a 'kill switch'? | BBC News" title="Does rogue AI back the need for a 'kill switch'? | BBC News">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xyb7XATRI2M&title=Does+rogue+AI+back+the+need+for+a+%27kill+switch%27%3F+%7C+BBC+News&lang=en&timestamp=1789170543&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=801">
+          <img src="https://ytcards.demolab.com/?id=xyb7XATRI2M&title=Does+rogue+AI+back+the+need+for+a+%27kill+switch%27%3F+%7C+BBC+News&lang=en&timestamp=1789170543&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=801" alt="Does rogue AI back the need for a 'kill switch'? | BBC News" title="Does rogue AI back the need for a 'kill switch'? | BBC News">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=v0F3txOKbkk" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=v0F3txOKbkk&title=Unregulated+AI+could+end+mankind+within+decade%3A+Former+Anthropic+researcher+%7C+ABC+NEWS&lang=en&timestamp=1789181343&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=432">
+          <img src="https://ytcards.demolab.com/?id=v0F3txOKbkk&title=Unregulated+AI+could+end+mankind+within+decade%3A+Former+Anthropic+researcher+%7C+ABC+NEWS&lang=en&timestamp=1789181343&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=432" alt="Unregulated AI could end mankind within decade: Former Anthropic researcher | ABC NEWS" title="Unregulated AI could end mankind within decade: Former Anthropic researcher | ABC NEWS">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=E2eHvDp4nyI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=E2eHvDp4nyI&title=Are+bioweapons+a+looming+AI+threat%3F&lang=en&timestamp=1789161379&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=124">
-          <img src="https://ytcards.demolab.com/?id=E2eHvDp4nyI&title=Are+bioweapons+a+looming+AI+threat%3F&lang=en&timestamp=1789161379&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=124" alt="Are bioweapons a looming AI threat?" title="Are bioweapons a looming AI threat?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=E2eHvDp4nyI&title=Are+bioweapons+a+looming+AI+threat%3F&lang=en&timestamp=1789170543&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=124">
+          <img src="https://ytcards.demolab.com/?id=E2eHvDp4nyI&title=Are+bioweapons+a+looming+AI+threat%3F&lang=en&timestamp=1789170543&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=124" alt="Are bioweapons a looming AI threat?" title="Are bioweapons a looming AI threat?">
+        </picture>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=vPXCm74-nNY" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vPXCm74-nNY&title=Why+artificial+intelligence+is+overhyped+%7C+Simon+Baron-Cohen&lang=en&timestamp=1789228143&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1436">
+          <img src="https://ytcards.demolab.com/?id=vPXCm74-nNY&title=Why+artificial+intelligence+is+overhyped+%7C+Simon+Baron-Cohen&lang=en&timestamp=1789228143&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1436" alt="Why artificial intelligence is overhyped | Simon Baron-Cohen" title="Why artificial intelligence is overhyped | Simon Baron-Cohen">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=rDteJAuKiBI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Vudle_FY_kg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=rDteJAuKiBI&title=Sir+Demis+Hassabis+on+the+AI+Revolution%2C+the+Future+of+AI+and+Human+Creativity+%7C+Hannah+Fry&lang=en&timestamp=1789161379&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3774">
-          <img src="https://ytcards.demolab.com/?id=rDteJAuKiBI&title=Sir+Demis+Hassabis+on+the+AI+Revolution%2C+the+Future+of+AI+and+Human+Creativity+%7C+Hannah+Fry&lang=en&timestamp=1789161379&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3774" alt="Sir Demis Hassabis on the AI Revolution, the Future of AI and Human Creativity | Hannah Fry" title="Sir Demis Hassabis on the AI Revolution, the Future of AI and Human Creativity | Hannah Fry">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Vudle_FY_kg&title=Anthropic+CEO+Dario+Amodei+Sounds+AI+Safety+Alarm+As+Artificial+Intelligence+Race+Moves+Too+Fast&lang=en&timestamp=1789246143&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=581">
+          <img src="https://ytcards.demolab.com/?id=Vudle_FY_kg&title=Anthropic+CEO+Dario+Amodei+Sounds+AI+Safety+Alarm+As+Artificial+Intelligence+Race+Moves+Too+Fast&lang=en&timestamp=1789246143&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=581" alt="Anthropic CEO Dario Amodei Sounds AI Safety Alarm As Artificial Intelligence Race Moves Too Fast" title="Anthropic CEO Dario Amodei Sounds AI Safety Alarm As Artificial Intelligence Race Moves Too Fast">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=tsfVq6MU9Zo" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tsfVq6MU9Zo&title=Victor+Davis+Hanson%3A+The+Terrifying+Power+of+Artificial+Intelligence&lang=en&timestamp=1789210143&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5135">
+          <img src="https://ytcards.demolab.com/?id=tsfVq6MU9Zo&title=Victor+Davis+Hanson%3A+The+Terrifying+Power+of+Artificial+Intelligence&lang=en&timestamp=1789210143&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5135" alt="Victor Davis Hanson: The Terrifying Power of Artificial Intelligence" title="Victor Davis Hanson: The Terrifying Power of Artificial Intelligence">
         </picture>
       </a>
     </td>
