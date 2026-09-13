@@ -545,56 +545,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=w6ksjerbwd4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=v8rL2Pu_2VY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=w6ksjerbwd4&title=New+AI+warnings+cast+shadow+over+Anthropic%27s+expansion+in+Mass.&lang=en&timestamp=1789227546&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=172">
-          <img src="https://ytcards.demolab.com/?id=w6ksjerbwd4&title=New+AI+warnings+cast+shadow+over+Anthropic%27s+expansion+in+Mass.&lang=en&timestamp=1789227546&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=172" alt="New AI warnings cast shadow over Anthropic's expansion in Mass." title="New AI warnings cast shadow over Anthropic's expansion in Mass.">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=v8rL2Pu_2VY&title=BREAKING%3A+CEO+Sam+Altman+Says+OpenAI+Is+Delaying+It%27s+Projected+%241%2B+Trillion+IPO+Amid+AI+Warnings&lang=en&timestamp=1789247428&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=104">
+          <img src="https://ytcards.demolab.com/?id=v8rL2Pu_2VY&title=BREAKING%3A+CEO+Sam+Altman+Says+OpenAI+Is+Delaying+It%27s+Projected+%241%2B+Trillion+IPO+Amid+AI+Warnings&lang=en&timestamp=1789247428&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=104" alt="BREAKING: CEO Sam Altman Says OpenAI Is Delaying It's Projected $1+ Trillion IPO Amid AI Warnings" title="BREAKING: CEO Sam Altman Says OpenAI Is Delaying It's Projected $1+ Trillion IPO Amid AI Warnings">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=Mg0Ya2VtIFw" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Mg0Ya2VtIFw&title=Anthropic+CEO+Dario+Amodei+calls+for+Musk%2C+Altman%2C+others+to+work+together+toward+AI+safety&lang=en&timestamp=1789261828&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=62">
+          <img src="https://ytcards.demolab.com/?id=Mg0Ya2VtIFw&title=Anthropic+CEO+Dario+Amodei+calls+for+Musk%2C+Altman%2C+others+to+work+together+toward+AI+safety&lang=en&timestamp=1789261828&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=62" alt="Anthropic CEO Dario Amodei calls for Musk, Altman, others to work together toward AI safety" title="Anthropic CEO Dario Amodei calls for Musk, Altman, others to work together toward AI safety">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=vPXCm74-nNY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vPXCm74-nNY&title=Why+artificial+intelligence+is+overhyped+%7C+Simon+Baron-Cohen&lang=en&timestamp=1789227546&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1436">
-          <img src="https://ytcards.demolab.com/?id=vPXCm74-nNY&title=Why+artificial+intelligence+is+overhyped+%7C+Simon+Baron-Cohen&lang=en&timestamp=1789227546&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1436" alt="Why artificial intelligence is overhyped | Simon Baron-Cohen" title="Why artificial intelligence is overhyped | Simon Baron-Cohen">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=CRhPapC4bss" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=CRhPapC4bss&title=AI+Experts+Warn+It+Could+Kill+Us.+Here%E2%80%99s+How.&lang=en&timestamp=1789220346&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=958">
-          <img src="https://ytcards.demolab.com/?id=CRhPapC4bss&title=AI+Experts+Warn+It+Could+Kill+Us.+Here%E2%80%99s+How.&lang=en&timestamp=1789220346&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=958" alt="AI Experts Warn It Could Kill Us. Here’s How." title="AI Experts Warn It Could Kill Us. Here’s How.">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vPXCm74-nNY&title=Why+A.I.+isn%27t+as+intelligent+as+it+appears+%7C+Simon+Baron-Cohen&lang=en&timestamp=1789225828&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1436">
+          <img src="https://ytcards.demolab.com/?id=vPXCm74-nNY&title=Why+A.I.+isn%27t+as+intelligent+as+it+appears+%7C+Simon+Baron-Cohen&lang=en&timestamp=1789225828&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1436" alt="Why A.I. isn't as intelligent as it appears | Simon Baron-Cohen" title="Why A.I. isn't as intelligent as it appears | Simon Baron-Cohen">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=e6i75Qpwpkg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=CRhPapC4bss" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=e6i75Qpwpkg&title=Trump+on+fear+of+AI+killing+humans+after+scientists+warn+of+its+threats&lang=en&timestamp=1789227546&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=126">
-          <img src="https://ytcards.demolab.com/?id=e6i75Qpwpkg&title=Trump+on+fear+of+AI+killing+humans+after+scientists+warn+of+its+threats&lang=en&timestamp=1789227546&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=126" alt="Trump on fear of AI killing humans after scientists warn of its threats" title="Trump on fear of AI killing humans after scientists warn of its threats">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=CRhPapC4bss&title=AI+Experts+Warn+It+Could+Kill+Us.+Here%E2%80%99s+How.&lang=en&timestamp=1789222228&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=958">
+          <img src="https://ytcards.demolab.com/?id=CRhPapC4bss&title=AI+Experts+Warn+It+Could+Kill+Us.+Here%E2%80%99s+How.&lang=en&timestamp=1789222228&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=958" alt="AI Experts Warn It Could Kill Us. Here’s How." title="AI Experts Warn It Could Kill Us. Here’s How.">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=XrL-e_svXA4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=S06wUUVW_3Y" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XrL-e_svXA4&title=A+10%25+chance+AI+ends+us&lang=en&timestamp=1789231146&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=201">
-          <img src="https://ytcards.demolab.com/?id=XrL-e_svXA4&title=A+10%25+chance+AI+ends+us&lang=en&timestamp=1789231146&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=201" alt="A 10% chance AI ends us" title="A 10% chance AI ends us">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=S06wUUVW_3Y&title=Anthropic+CEO+says+rapid+AI+progress+%22doesn%27t+mean+we+need+to+panic%22+or+%22shut+it+all+down%22&lang=en&timestamp=1789258228&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=59">
+          <img src="https://ytcards.demolab.com/?id=S06wUUVW_3Y&title=Anthropic+CEO+says+rapid+AI+progress+%22doesn%27t+mean+we+need+to+panic%22+or+%22shut+it+all+down%22&lang=en&timestamp=1789258228&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=59" alt="Anthropic CEO says rapid AI progress &quot;doesn't mean we need to panic&quot; or &quot;shut it all down&quot;" title="Anthropic CEO says rapid AI progress &quot;doesn't mean we need to panic&quot; or &quot;shut it all down&quot;">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=k7XlZkqgr7M" target="_blank">
+      <a href="https://www.youtube.com/watch?v=tsfVq6MU9Zo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=k7XlZkqgr7M&title=BREAKING+NEWS%3A+Anthropic+CEO+Issues+Public+Message+To+AI+Competitors+Following+Jacob+Coxon%27s+Warning&lang=en&timestamp=1789231146&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=60">
-          <img src="https://ytcards.demolab.com/?id=k7XlZkqgr7M&title=BREAKING+NEWS%3A+Anthropic+CEO+Issues+Public+Message+To+AI+Competitors+Following+Jacob+Coxon%27s+Warning&lang=en&timestamp=1789231146&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=60" alt="BREAKING NEWS: Anthropic CEO Issues Public Message To AI Competitors Following Jacob Coxon's Warning" title="BREAKING NEWS: Anthropic CEO Issues Public Message To AI Competitors Following Jacob Coxon's Warning">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tsfVq6MU9Zo&title=Victor+Davis+Hanson%3A+The+Terrifying+Power+of+Artificial+Intelligence&lang=en&timestamp=1789207828&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5135">
+          <img src="https://ytcards.demolab.com/?id=tsfVq6MU9Zo&title=Victor+Davis+Hanson%3A+The+Terrifying+Power+of+Artificial+Intelligence&lang=en&timestamp=1789207828&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5135" alt="Victor Davis Hanson: The Terrifying Power of Artificial Intelligence" title="Victor Davis Hanson: The Terrifying Power of Artificial Intelligence">
         </picture>
       </a>
     </td>
