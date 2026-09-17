@@ -548,56 +548,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=l3L6X18PJ9Q" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Pr_yITwBOLo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=l3L6X18PJ9Q&title=AI+Engineer+Full+Course+2026++%7C+Complete+Artificial+Intelligence+Course+%7C+Simplilearn&lang=en&timestamp=1789600390&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=39858">
-          <img src="https://ytcards.demolab.com/?id=l3L6X18PJ9Q&title=AI+Engineer+Full+Course+2026++%7C+Complete+Artificial+Intelligence+Course+%7C+Simplilearn&lang=en&timestamp=1789600390&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=39858" alt="AI Engineer Full Course 2026  | Complete Artificial Intelligence Course | Simplilearn" title="AI Engineer Full Course 2026  | Complete Artificial Intelligence Course | Simplilearn">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Pr_yITwBOLo&title=Artificial+Intelligence+in+the+Military+Domain%3A+Implications+for+Human+Rights&lang=en&timestamp=1789590358&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6915">
+          <img src="https://ytcards.demolab.com/?id=Pr_yITwBOLo&title=Artificial+Intelligence+in+the+Military+Domain%3A+Implications+for+Human+Rights&lang=en&timestamp=1789590358&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6915" alt="Artificial Intelligence in the Military Domain: Implications for Human Rights" title="Artificial Intelligence in the Military Domain: Implications for Human Rights">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=bkAIA5uXTRg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=qhP4QmvbAPY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=bkAIA5uXTRg&title=Researcher+who+hosted+Sanders+and+Bannon+at+%22Pro-Human%22+conference+weighs+in+on+AI+regulation&lang=en&timestamp=1789575190&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=357">
-          <img src="https://ytcards.demolab.com/?id=bkAIA5uXTRg&title=Researcher+who+hosted+Sanders+and+Bannon+at+%22Pro-Human%22+conference+weighs+in+on+AI+regulation&lang=en&timestamp=1789575190&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=357" alt="Researcher who hosted Sanders and Bannon at &quot;Pro-Human&quot; conference weighs in on AI regulation" title="Researcher who hosted Sanders and Bannon at &quot;Pro-Human&quot; conference weighs in on AI regulation">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qhP4QmvbAPY&title=Lawmakers+discuss+bipartisan+push+for+AI+action&lang=en&timestamp=1789575958&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1134">
+          <img src="https://ytcards.demolab.com/?id=qhP4QmvbAPY&title=Lawmakers+discuss+bipartisan+push+for+AI+action&lang=en&timestamp=1789575958&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1134" alt="Lawmakers discuss bipartisan push for AI action" title="Lawmakers discuss bipartisan push for AI action">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=w4cEsaaeWIY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Qe2YcbvXKe0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=w4cEsaaeWIY&title=LIVE%3A+US+lawmakers+call+for+bipartisan+action+on+AI&lang=en&timestamp=1789567990&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=464">
-          <img src="https://ytcards.demolab.com/?id=w4cEsaaeWIY&title=LIVE%3A+US+lawmakers+call+for+bipartisan+action+on+AI&lang=en&timestamp=1789567990&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=464" alt="LIVE: US lawmakers call for bipartisan action on AI" title="LIVE: US lawmakers call for bipartisan action on AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Qe2YcbvXKe0&title=Could+AI+really+kill+us%3F+%7C+The+Current&lang=en&timestamp=1789590358&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1134">
+          <img src="https://ytcards.demolab.com/?id=Qe2YcbvXKe0&title=Could+AI+really+kill+us%3F+%7C+The+Current&lang=en&timestamp=1789590358&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1134" alt="Could AI really kill us? | The Current" title="Could AI really kill us? | The Current">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=p48-ziwEWPE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=-7LqOIye794" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=p48-ziwEWPE&title=Beyer%2C+Trahan+and+Lieu+Push+Congress+to+Act+Now+on+Risks+From+Powerful+AI+Systems+%7C+AI1G&lang=en&timestamp=1789567990&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=576">
-          <img src="https://ytcards.demolab.com/?id=p48-ziwEWPE&title=Beyer%2C+Trahan+and+Lieu+Push+Congress+to+Act+Now+on+Risks+From+Powerful+AI+Systems+%7C+AI1G&lang=en&timestamp=1789567990&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=576" alt="Beyer, Trahan and Lieu Push Congress to Act Now on Risks From Powerful AI Systems | AI1G" title="Beyer, Trahan and Lieu Push Congress to Act Now on Risks From Powerful AI Systems | AI1G">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-7LqOIye794&title=Jesse+Watters%3A+They%27re+SCREWED&lang=en&timestamp=1789608358&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=669">
+          <img src="https://ytcards.demolab.com/?id=-7LqOIye794&title=Jesse+Watters%3A+They%27re+SCREWED&lang=en&timestamp=1789608358&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=669" alt="Jesse Watters: They're SCREWED" title="Jesse Watters: They're SCREWED">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=IWcLoBS9uZs" target="_blank">
+      <a href="https://www.youtube.com/watch?v=SBWp5e1WERw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=IWcLoBS9uZs&title=The+growing+revolt+against+AI&lang=en&timestamp=1789564390&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=467">
-          <img src="https://ytcards.demolab.com/?id=IWcLoBS9uZs&title=The+growing+revolt+against+AI&lang=en&timestamp=1789564390&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=467" alt="The growing revolt against AI" title="The growing revolt against AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SBWp5e1WERw&title=AI+Safety+Fears+Push+Sam+Altman+Toward+Slower+Development+%7C+WION+Podcast&lang=en&timestamp=1789608358&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=167">
+          <img src="https://ytcards.demolab.com/?id=SBWp5e1WERw&title=AI+Safety+Fears+Push+Sam+Altman+Toward+Slower+Development+%7C+WION+Podcast&lang=en&timestamp=1789608358&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=167" alt="AI Safety Fears Push Sam Altman Toward Slower Development | WION Podcast" title="AI Safety Fears Push Sam Altman Toward Slower Development | WION Podcast">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=k8WGFCu7pn0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Y95ZzXy2F2s" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=k8WGFCu7pn0&title=CEOs+double+down+on+warnings+as+calls+to+slow+AI+cross+party+lines&lang=en&timestamp=1789560790&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=115">
-          <img src="https://ytcards.demolab.com/?id=k8WGFCu7pn0&title=CEOs+double+down+on+warnings+as+calls+to+slow+AI+cross+party+lines&lang=en&timestamp=1789560790&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=115" alt="CEOs double down on warnings as calls to slow AI cross party lines" title="CEOs double down on warnings as calls to slow AI cross party lines">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Y95ZzXy2F2s&title=The+AI+Panic+Comes+to+Washington&lang=en&timestamp=1789597558&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1525">
+          <img src="https://ytcards.demolab.com/?id=Y95ZzXy2F2s&title=The+AI+Panic+Comes+to+Washington&lang=en&timestamp=1789597558&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1525" alt="The AI Panic Comes to Washington" title="The AI Panic Comes to Washington">
         </picture>
       </a>
     </td>
