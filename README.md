@@ -549,56 +549,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Pr_yITwBOLo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=RWMwjggBZNA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Pr_yITwBOLo&title=Artificial+Intelligence+in+the+Military+Domain%3A+Implications+for+Human+Rights&lang=en&timestamp=1789590358&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6915">
-          <img src="https://ytcards.demolab.com/?id=Pr_yITwBOLo&title=Artificial+Intelligence+in+the+Military+Domain%3A+Implications+for+Human+Rights&lang=en&timestamp=1789590358&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6915" alt="Artificial Intelligence in the Military Domain: Implications for Human Rights" title="Artificial Intelligence in the Military Domain: Implications for Human Rights">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=RWMwjggBZNA&title=As+AI+behavior+raises+concerns%2C+ex-researcher+Jacob+Coxon+warns+what+may+lie+ahead&lang=en&timestamp=1789687681&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=613">
+          <img src="https://ytcards.demolab.com/?id=RWMwjggBZNA&title=As+AI+behavior+raises+concerns%2C+ex-researcher+Jacob+Coxon+warns+what+may+lie+ahead&lang=en&timestamp=1789687681&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=613" alt="As AI behavior raises concerns, ex-researcher Jacob Coxon warns what may lie ahead" title="As AI behavior raises concerns, ex-researcher Jacob Coxon warns what may lie ahead">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=qhP4QmvbAPY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=rF8Um_mPoiw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qhP4QmvbAPY&title=Lawmakers+discuss+bipartisan+push+for+AI+action&lang=en&timestamp=1789575958&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1134">
-          <img src="https://ytcards.demolab.com/?id=qhP4QmvbAPY&title=Lawmakers+discuss+bipartisan+push+for+AI+action&lang=en&timestamp=1789575958&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1134" alt="Lawmakers discuss bipartisan push for AI action" title="Lawmakers discuss bipartisan push for AI action">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=rF8Um_mPoiw&title=AI+safety+concerns+grow+after+models+show+unexpected+behavior&lang=en&timestamp=1789684081&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=422">
+          <img src="https://ytcards.demolab.com/?id=rF8Um_mPoiw&title=AI+safety+concerns+grow+after+models+show+unexpected+behavior&lang=en&timestamp=1789684081&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=422" alt="AI safety concerns grow after models show unexpected behavior" title="AI safety concerns grow after models show unexpected behavior">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Qe2YcbvXKe0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=lbJcCYVwXJQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Qe2YcbvXKe0&title=Could+AI+really+kill+us%3F+%7C+The+Current&lang=en&timestamp=1789590358&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1134">
-          <img src="https://ytcards.demolab.com/?id=Qe2YcbvXKe0&title=Could+AI+really+kill+us%3F+%7C+The+Current&lang=en&timestamp=1789590358&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1134" alt="Could AI really kill us? | The Current" title="Could AI really kill us? | The Current">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lbJcCYVwXJQ&title=AI+creations+could+become+%27new+silicon+species%27+says+head+of+Microsoft+AI+%7C+BBC+News&lang=en&timestamp=1789651681&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1298">
+          <img src="https://ytcards.demolab.com/?id=lbJcCYVwXJQ&title=AI+creations+could+become+%27new+silicon+species%27+says+head+of+Microsoft+AI+%7C+BBC+News&lang=en&timestamp=1789651681&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1298" alt="AI creations could become 'new silicon species' says head of Microsoft AI | BBC News" title="AI creations could become 'new silicon species' says head of Microsoft AI | BBC News">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=-7LqOIye794" target="_blank">
+      <a href="https://www.youtube.com/watch?v=xiKOZ0aPe38" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-7LqOIye794&title=Jesse+Watters%3A+They%27re+SCREWED&lang=en&timestamp=1789608358&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=669">
-          <img src="https://ytcards.demolab.com/?id=-7LqOIye794&title=Jesse+Watters%3A+They%27re+SCREWED&lang=en&timestamp=1789608358&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=669" alt="Jesse Watters: They're SCREWED" title="Jesse Watters: They're SCREWED">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xiKOZ0aPe38&title=%22Godfather+of+AI%22+Geoffrey+Hinton+calls+Hugging+Face+incident+%22little+Chernobyl%22&lang=en&timestamp=1789669681&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=580">
+          <img src="https://ytcards.demolab.com/?id=xiKOZ0aPe38&title=%22Godfather+of+AI%22+Geoffrey+Hinton+calls+Hugging+Face+incident+%22little+Chernobyl%22&lang=en&timestamp=1789669681&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=580" alt="&quot;Godfather of AI&quot; Geoffrey Hinton calls Hugging Face incident &quot;little Chernobyl&quot;" title="&quot;Godfather of AI&quot; Geoffrey Hinton calls Hugging Face incident &quot;little Chernobyl&quot;">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=SBWp5e1WERw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=YM3YSTtGtV4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SBWp5e1WERw&title=AI+Safety+Fears+Push+Sam+Altman+Toward+Slower+Development+%7C+WION+Podcast&lang=en&timestamp=1789608358&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=167">
-          <img src="https://ytcards.demolab.com/?id=SBWp5e1WERw&title=AI+Safety+Fears+Push+Sam+Altman+Toward+Slower+Development+%7C+WION+Podcast&lang=en&timestamp=1789608358&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=167" alt="AI Safety Fears Push Sam Altman Toward Slower Development | WION Podcast" title="AI Safety Fears Push Sam Altman Toward Slower Development | WION Podcast">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=YM3YSTtGtV4&title=King+Charles+III+urges+tech+leaders+to+ensure+AI+remains+under+human+control&lang=en&timestamp=1789669681&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=91">
+          <img src="https://ytcards.demolab.com/?id=YM3YSTtGtV4&title=King+Charles+III+urges+tech+leaders+to+ensure+AI+remains+under+human+control&lang=en&timestamp=1789669681&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=91" alt="King Charles III urges tech leaders to ensure AI remains under human control" title="King Charles III urges tech leaders to ensure AI remains under human control">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Y95ZzXy2F2s" target="_blank">
+      <a href="https://www.youtube.com/watch?v=4qV5WWgFTS8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Y95ZzXy2F2s&title=The+AI+Panic+Comes+to+Washington&lang=en&timestamp=1789597558&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1525">
-          <img src="https://ytcards.demolab.com/?id=Y95ZzXy2F2s&title=The+AI+Panic+Comes+to+Washington&lang=en&timestamp=1789597558&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1525" alt="The AI Panic Comes to Washington" title="The AI Panic Comes to Washington">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4qV5WWgFTS8&title=%27Big+Short%27+investor+Steve+Eisman+on+AI%3A+The+companies+are+trying+to+manufacture+a+crisis&lang=en&timestamp=1789651681&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=417">
+          <img src="https://ytcards.demolab.com/?id=4qV5WWgFTS8&title=%27Big+Short%27+investor+Steve+Eisman+on+AI%3A+The+companies+are+trying+to+manufacture+a+crisis&lang=en&timestamp=1789651681&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=417" alt="'Big Short' investor Steve Eisman on AI: The companies are trying to manufacture a crisis" title="'Big Short' investor Steve Eisman on AI: The companies are trying to manufacture a crisis">
         </picture>
       </a>
     </td>
