@@ -554,30 +554,31 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=TpkhwmNXq5k" target="_blank">
+      <a href="https://www.youtube.com/watch?v=rvxfcmloDhU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=TpkhwmNXq5k&title=AI+researcher+warns+about+dangers+of+%E2%80%9Csuperintelligence%E2%80%9D+amid+Google+Gemini+hack&lang=en&timestamp=1789852367&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=458">
-          <img src="https://ytcards.demolab.com/?id=TpkhwmNXq5k&title=AI+researcher+warns+about+dangers+of+%E2%80%9Csuperintelligence%E2%80%9D+amid+Google+Gemini+hack&lang=en&timestamp=1789852367&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=458" alt="AI researcher warns about dangers of “superintelligence” amid Google Gemini hack" title="AI researcher warns about dangers of “superintelligence” amid Google Gemini hack">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=rvxfcmloDhU&title=AI+experts+on+doomsday+fears%3A+It%27s+too+late+to+stop+the+AI+threat&lang=en&timestamp=1789862072&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=705">
+          <img src="https://ytcards.demolab.com/?id=rvxfcmloDhU&title=AI+experts+on+doomsday+fears%3A+It%27s+too+late+to+stop+the+AI+threat&lang=en&timestamp=1789862072&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=705" alt="AI experts on doomsday fears: It's too late to stop the AI threat" title="AI experts on doomsday fears: It's too late to stop the AI threat">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=Ask5wzUo9kQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Ask5wzUo9kQ&title=Obama+on+Artificial+Intelligence&lang=en&timestamp=1789870367&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=254">
-          <img src="https://ytcards.demolab.com/?id=Ask5wzUo9kQ&title=Obama+on+Artificial+Intelligence&lang=en&timestamp=1789870367&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=254" alt="Obama on Artificial Intelligence" title="Obama on Artificial Intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Ask5wzUo9kQ&title=Obama+on+Artificial+Intelligence&lang=en&timestamp=1789869272&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=254">
+          <img src="https://ytcards.demolab.com/?id=Ask5wzUo9kQ&title=Obama+on+Artificial+Intelligence&lang=en&timestamp=1789869272&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=254" alt="Obama on Artificial Intelligence" title="Obama on Artificial Intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=rvxfcmloDhU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=TpkhwmNXq5k" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=rvxfcmloDhU&title=AI+experts+on+doomsday+fears%3A+It%27s+too+late+to+stop+the+AI+threat&lang=en&timestamp=1789852367&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=705">
-          <img src="https://ytcards.demolab.com/?id=rvxfcmloDhU&title=AI+experts+on+doomsday+fears%3A+It%27s+too+late+to+stop+the+AI+threat&lang=en&timestamp=1789852367&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=705" alt="AI experts on doomsday fears: It's too late to stop the AI threat" title="AI experts on doomsday fears: It's too late to stop the AI threat">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=TpkhwmNXq5k&title=AI+researcher+warns+about+dangers+of+%E2%80%9Csuperintelligence%E2%80%9D+amid+Google+Gemini+hack&lang=en&timestamp=1789862072&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=458">
+          <img src="https://ytcards.demolab.com/?id=TpkhwmNXq5k&title=AI+researcher+warns+about+dangers+of+%E2%80%9Csuperintelligence%E2%80%9D+amid+Google+Gemini+hack&lang=en&timestamp=1789862072&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=458" alt="AI researcher warns about dangers of “superintelligence” amid Google Gemini hack" title="AI researcher warns about dangers of “superintelligence” amid Google Gemini hack">
         </picture>
       </a>
     </td>
@@ -586,24 +587,24 @@
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=0DvZobv87Dw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=0DvZobv87Dw&title=BREAKING+NEWS%3A+President+Trump+Floats+New+Names+For+Artificial+Intelligence&lang=en&timestamp=1789852367&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=71">
-          <img src="https://ytcards.demolab.com/?id=0DvZobv87Dw&title=BREAKING+NEWS%3A+President+Trump+Floats+New+Names+For+Artificial+Intelligence&lang=en&timestamp=1789852367&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=71" alt="BREAKING NEWS: President Trump Floats New Names For Artificial Intelligence" title="BREAKING NEWS: President Trump Floats New Names For Artificial Intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=0DvZobv87Dw&title=BREAKING+NEWS%3A+President+Trump+Floats+New+Names+For+Artificial+Intelligence&lang=en&timestamp=1789862072&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=71">
+          <img src="https://ytcards.demolab.com/?id=0DvZobv87Dw&title=BREAKING+NEWS%3A+President+Trump+Floats+New+Names+For+Artificial+Intelligence&lang=en&timestamp=1789862072&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=71" alt="BREAKING NEWS: President Trump Floats New Names For Artificial Intelligence" title="BREAKING NEWS: President Trump Floats New Names For Artificial Intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ABEvQj1VlyQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=c4sJen6s6vI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ABEvQj1VlyQ&title=%E2%80%98YOUR+JOB+COULD+BE+NEXT%E2%80%A6%E2%80%99%3A+Obama%E2%80%99s+Brutal+Warning+On+Artificial+Intelligence%3B+Trump+Still+Silent&lang=en&timestamp=1789938047&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=736">
-          <img src="https://ytcards.demolab.com/?id=ABEvQj1VlyQ&title=%E2%80%98YOUR+JOB+COULD+BE+NEXT%E2%80%A6%E2%80%99%3A+Obama%E2%80%99s+Brutal+Warning+On+Artificial+Intelligence%3B+Trump+Still+Silent&lang=en&timestamp=1789938047&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=736" alt="‘YOUR JOB COULD BE NEXT…’: Obama’s Brutal Warning On Artificial Intelligence; Trump Still Silent" title="‘YOUR JOB COULD BE NEXT…’: Obama’s Brutal Warning On Artificial Intelligence; Trump Still Silent">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=c4sJen6s6vI&title=Growing+Fears+Over+Threats+of+AI%3A+What+Can+Be+Done+About+it%3F&lang=en&timestamp=1789912472&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=300">
+          <img src="https://ytcards.demolab.com/?id=c4sJen6s6vI&title=Growing+Fears+Over+Threats+of+AI%3A+What+Can+Be+Done+About+it%3F&lang=en&timestamp=1789912472&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=300" alt="Growing Fears Over Threats of AI: What Can Be Done About it?" title="Growing Fears Over Threats of AI: What Can Be Done About it?">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=1PFmIUs-_FQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1PFmIUs-_FQ&title=Senator+reveals+why+Congress+NOW+has+an+%E2%80%98impetus+to+act%E2%80%99+on+AI&lang=en&timestamp=1789884767&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=126">
-          <img src="https://ytcards.demolab.com/?id=1PFmIUs-_FQ&title=Senator+reveals+why+Congress+NOW+has+an+%E2%80%98impetus+to+act%E2%80%99+on+AI&lang=en&timestamp=1789884767&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=126" alt="Senator reveals why Congress NOW has an ‘impetus to act’ on AI" title="Senator reveals why Congress NOW has an ‘impetus to act’ on AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1PFmIUs-_FQ&title=Senator+reveals+why+Congress+NOW+has+an+%E2%80%98impetus+to+act%E2%80%99+on+AI&lang=en&timestamp=1789887272&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=126">
+          <img src="https://ytcards.demolab.com/?id=1PFmIUs-_FQ&title=Senator+reveals+why+Congress+NOW+has+an+%E2%80%98impetus+to+act%E2%80%99+on+AI&lang=en&timestamp=1789887272&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=126" alt="Senator reveals why Congress NOW has an ‘impetus to act’ on AI" title="Senator reveals why Congress NOW has an ‘impetus to act’ on AI">
         </picture>
       </a>
     </td>
