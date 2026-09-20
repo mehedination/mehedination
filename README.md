@@ -551,56 +551,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=tJr8RA2FK6g" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Ask5wzUo9kQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tJr8RA2FK6g&title=Is+it+too+late+for+humanity+to+take+back+control+of+AI%3F+%7C+BBC+News&lang=en&timestamp=1789755553&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1576">
-          <img src="https://ytcards.demolab.com/?id=tJr8RA2FK6g&title=Is+it+too+late+for+humanity+to+take+back+control+of+AI%3F+%7C+BBC+News&lang=en&timestamp=1789755553&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1576" alt="Is it too late for humanity to take back control of AI? | BBC News" title="Is it too late for humanity to take back control of AI? | BBC News">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Ask5wzUo9kQ&title=Obama+on+Artificial+Intelligence&lang=en&timestamp=1789868018&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=254">
+          <img src="https://ytcards.demolab.com/?id=Ask5wzUo9kQ&title=Obama+on+Artificial+Intelligence&lang=en&timestamp=1789868018&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=254" alt="Obama on Artificial Intelligence" title="Obama on Artificial Intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=wObEPy_mgbw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=TpkhwmNXq5k" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wObEPy_mgbw&title=An+Urgent+Message+on+Artificial+Intelligence&lang=en&timestamp=1789748353&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=223">
-          <img src="https://ytcards.demolab.com/?id=wObEPy_mgbw&title=An+Urgent+Message+on+Artificial+Intelligence&lang=en&timestamp=1789748353&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=223" alt="An Urgent Message on Artificial Intelligence" title="An Urgent Message on Artificial Intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=TpkhwmNXq5k&title=AI+researcher+warns+about+dangers+of+%E2%80%9Csuperintelligence%E2%80%9D+amid+Google+Gemini+hack&lang=en&timestamp=1789839218&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=458">
+          <img src="https://ytcards.demolab.com/?id=TpkhwmNXq5k&title=AI+researcher+warns+about+dangers+of+%E2%80%9Csuperintelligence%E2%80%9D+amid+Google+Gemini+hack&lang=en&timestamp=1789839218&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=458" alt="AI researcher warns about dangers of “superintelligence” amid Google Gemini hack" title="AI researcher warns about dangers of “superintelligence” amid Google Gemini hack">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=D5WpeJEwO18" target="_blank">
+      <a href="https://www.youtube.com/watch?v=rvxfcmloDhU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=D5WpeJEwO18&title=Newsom+Signs+Order+Requiring+AI+Labs+Develop+%E2%80%98Kill+Switch%E2%80%99+%7C+Balance+of+Power&lang=en&timestamp=1789762753&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2405">
-          <img src="https://ytcards.demolab.com/?id=D5WpeJEwO18&title=Newsom+Signs+Order+Requiring+AI+Labs+Develop+%E2%80%98Kill+Switch%E2%80%99+%7C+Balance+of+Power&lang=en&timestamp=1789762753&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2405" alt="Newsom Signs Order Requiring AI Labs Develop ‘Kill Switch’ | Balance of Power" title="Newsom Signs Order Requiring AI Labs Develop ‘Kill Switch’ | Balance of Power">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=rvxfcmloDhU&title=AI+experts+on+doomsday+fears%3A+It%27s+too+late+to+stop+the+AI+threat&lang=en&timestamp=1789835618&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=705">
+          <img src="https://ytcards.demolab.com/?id=rvxfcmloDhU&title=AI+experts+on+doomsday+fears%3A+It%27s+too+late+to+stop+the+AI+threat&lang=en&timestamp=1789835618&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=705" alt="AI experts on doomsday fears: It's too late to stop the AI threat" title="AI experts on doomsday fears: It's too late to stop the AI threat">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=NaDQpuFQl-4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=0DvZobv87Dw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=NaDQpuFQl-4&title=The+dark+future+of+AI+in+war+%7C+Stephanie+Hare+%7C+TEDxBerlin&lang=en&timestamp=1789751953&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=868">
-          <img src="https://ytcards.demolab.com/?id=NaDQpuFQl-4&title=The+dark+future+of+AI+in+war+%7C+Stephanie+Hare+%7C+TEDxBerlin&lang=en&timestamp=1789751953&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=868" alt="The dark future of AI in war | Stephanie Hare | TEDxBerlin" title="The dark future of AI in war | Stephanie Hare | TEDxBerlin">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=0DvZobv87Dw&title=BREAKING+NEWS%3A+President+Trump+Floats+New+Names+For+Artificial+Intelligence&lang=en&timestamp=1789842818&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=71">
+          <img src="https://ytcards.demolab.com/?id=0DvZobv87Dw&title=BREAKING+NEWS%3A+President+Trump+Floats+New+Names+For+Artificial+Intelligence&lang=en&timestamp=1789842818&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=71" alt="BREAKING NEWS: President Trump Floats New Names For Artificial Intelligence" title="BREAKING NEWS: President Trump Floats New Names For Artificial Intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=NusFeq4mnOY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=FQ0QM_TfErs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=NusFeq4mnOY&title=AI+Will+Kill+Us%3F+That%27s+The+Wrong+Fear+%7C%7C+Acharya+Prashant+%282026%29&lang=en&timestamp=1789748353&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2523">
-          <img src="https://ytcards.demolab.com/?id=NusFeq4mnOY&title=AI+Will+Kill+Us%3F+That%27s+The+Wrong+Fear+%7C%7C+Acharya+Prashant+%282026%29&lang=en&timestamp=1789748353&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2523" alt="AI Will Kill Us? That's The Wrong Fear || Acharya Prashant (2026)" title="AI Will Kill Us? That's The Wrong Fear || Acharya Prashant (2026)">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=FQ0QM_TfErs&title=Trump+To+Create+%E2%80%98AI+Force%E2%80%99%2C+Names+AI+Czar+To+Oversee+Artificial+Intelligence+%7C+N18G+%7C+CNBC-TV18&lang=en&timestamp=1789907618&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=181">
+          <img src="https://ytcards.demolab.com/?id=FQ0QM_TfErs&title=Trump+To+Create+%E2%80%98AI+Force%E2%80%99%2C+Names+AI+Czar+To+Oversee+Artificial+Intelligence+%7C+N18G+%7C+CNBC-TV18&lang=en&timestamp=1789907618&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=181" alt="Trump To Create ‘AI Force’, Names AI Czar To Oversee Artificial Intelligence | N18G | CNBC-TV18" title="Trump To Create ‘AI Force’, Names AI Czar To Oversee Artificial Intelligence | N18G | CNBC-TV18">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=xR3FSdd4BjM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=3m17Rsixb5U" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xR3FSdd4BjM&title=Boogie+Woogie+Vs.+Artificial+Intelligence+&lang=en&timestamp=1789831153&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=187">
-          <img src="https://ytcards.demolab.com/?id=xR3FSdd4BjM&title=Boogie+Woogie+Vs.+Artificial+Intelligence+&lang=en&timestamp=1789831153&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=187" alt="Boogie Woogie Vs. Artificial Intelligence " title="Boogie Woogie Vs. Artificial Intelligence ">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3m17Rsixb5U&title=Trump+announces+%E2%80%98AI+Force%E2%80%99+to+oversee+artificial+intelligence+industry&lang=en&timestamp=1789853618&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=75">
+          <img src="https://ytcards.demolab.com/?id=3m17Rsixb5U&title=Trump+announces+%E2%80%98AI+Force%E2%80%99+to+oversee+artificial+intelligence+industry&lang=en&timestamp=1789853618&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=75" alt="Trump announces ‘AI Force’ to oversee artificial intelligence industry" title="Trump announces ‘AI Force’ to oversee artificial intelligence industry">
         </picture>
       </a>
     </td>
