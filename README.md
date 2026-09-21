@@ -555,56 +555,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=rvxfcmloDhU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=USz5wwfQg8w" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=rvxfcmloDhU&title=AI+experts+on+doomsday+fears%3A+It%27s+too+late+to+stop+the+AI+threat&lang=en&timestamp=1789862072&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=705">
-          <img src="https://ytcards.demolab.com/?id=rvxfcmloDhU&title=AI+experts+on+doomsday+fears%3A+It%27s+too+late+to+stop+the+AI+threat&lang=en&timestamp=1789862072&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=705" alt="AI experts on doomsday fears: It's too late to stop the AI threat" title="AI experts on doomsday fears: It's too late to stop the AI threat">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=USz5wwfQg8w&title=China+wants+to+CONTROL+AI%3A+Expert&lang=en&timestamp=1789894019&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=281">
+          <img src="https://ytcards.demolab.com/?id=USz5wwfQg8w&title=China+wants+to+CONTROL+AI%3A+Expert&lang=en&timestamp=1789894019&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=281" alt="China wants to CONTROL AI: Expert" title="China wants to CONTROL AI: Expert">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Ask5wzUo9kQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=1QsWb5wDS0Y" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Ask5wzUo9kQ&title=Obama+on+Artificial+Intelligence&lang=en&timestamp=1789869272&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=254">
-          <img src="https://ytcards.demolab.com/?id=Ask5wzUo9kQ&title=Obama+on+Artificial+Intelligence&lang=en&timestamp=1789869272&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=254" alt="Obama on Artificial Intelligence" title="Obama on Artificial Intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1QsWb5wDS0Y&title=GROWING+concerns+about+US+stockpiles+as+Taiwan+invasion+worries+linger&lang=en&timestamp=1789937219&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=464">
+          <img src="https://ytcards.demolab.com/?id=1QsWb5wDS0Y&title=GROWING+concerns+about+US+stockpiles+as+Taiwan+invasion+worries+linger&lang=en&timestamp=1789937219&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=464" alt="GROWING concerns about US stockpiles as Taiwan invasion worries linger" title="GROWING concerns about US stockpiles as Taiwan invasion worries linger">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=TpkhwmNXq5k" target="_blank">
+      <a href="https://www.youtube.com/watch?v=lZ74RhUsrMs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=TpkhwmNXq5k&title=AI+researcher+warns+about+dangers+of+%E2%80%9Csuperintelligence%E2%80%9D+amid+Google+Gemini+hack&lang=en&timestamp=1789862072&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=458">
-          <img src="https://ytcards.demolab.com/?id=TpkhwmNXq5k&title=AI+researcher+warns+about+dangers+of+%E2%80%9Csuperintelligence%E2%80%9D+amid+Google+Gemini+hack&lang=en&timestamp=1789862072&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=458" alt="AI researcher warns about dangers of “superintelligence” amid Google Gemini hack" title="AI researcher warns about dangers of “superintelligence” amid Google Gemini hack">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lZ74RhUsrMs&title=Nvidia+CEO+rejects+AI+extinction+warnings+as+%22doomsday+narratives%22&lang=en&timestamp=1789926419&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2779">
+          <img src="https://ytcards.demolab.com/?id=lZ74RhUsrMs&title=Nvidia+CEO+rejects+AI+extinction+warnings+as+%22doomsday+narratives%22&lang=en&timestamp=1789926419&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2779" alt="Nvidia CEO rejects AI extinction warnings as &quot;doomsday narratives&quot;" title="Nvidia CEO rejects AI extinction warnings as &quot;doomsday narratives&quot;">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=0DvZobv87Dw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=jiY4WSYtIfw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=0DvZobv87Dw&title=BREAKING+NEWS%3A+President+Trump+Floats+New+Names+For+Artificial+Intelligence&lang=en&timestamp=1789862072&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=71">
-          <img src="https://ytcards.demolab.com/?id=0DvZobv87Dw&title=BREAKING+NEWS%3A+President+Trump+Floats+New+Names+For+Artificial+Intelligence&lang=en&timestamp=1789862072&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=71" alt="BREAKING NEWS: President Trump Floats New Names For Artificial Intelligence" title="BREAKING NEWS: President Trump Floats New Names For Artificial Intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jiY4WSYtIfw&title=Is+AI+Evolving+Beyond+Human+Control%3F+%7C+WION+News&lang=en&timestamp=1789908419&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=189">
+          <img src="https://ytcards.demolab.com/?id=jiY4WSYtIfw&title=Is+AI+Evolving+Beyond+Human+Control%3F+%7C+WION+News&lang=en&timestamp=1789908419&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=189" alt="Is AI Evolving Beyond Human Control? | WION News" title="Is AI Evolving Beyond Human Control? | WION News">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=c4sJen6s6vI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ABEvQj1VlyQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=c4sJen6s6vI&title=Growing+Fears+Over+Threats+of+AI%3A+What+Can+Be+Done+About+it%3F&lang=en&timestamp=1789912472&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=300">
-          <img src="https://ytcards.demolab.com/?id=c4sJen6s6vI&title=Growing+Fears+Over+Threats+of+AI%3A+What+Can+Be+Done+About+it%3F&lang=en&timestamp=1789912472&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=300" alt="Growing Fears Over Threats of AI: What Can Be Done About it?" title="Growing Fears Over Threats of AI: What Can Be Done About it?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ABEvQj1VlyQ&title=%E2%80%98YOUR+JOB+COULD+BE+NEXT%E2%80%A6%E2%80%99%3A+Obama%E2%80%99s+Brutal+Warning+On+Artificial+Intelligence%3B+Trump+Still+Silent&lang=en&timestamp=1789940819&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=736">
+          <img src="https://ytcards.demolab.com/?id=ABEvQj1VlyQ&title=%E2%80%98YOUR+JOB+COULD+BE+NEXT%E2%80%A6%E2%80%99%3A+Obama%E2%80%99s+Brutal+Warning+On+Artificial+Intelligence%3B+Trump+Still+Silent&lang=en&timestamp=1789940819&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=736" alt="‘YOUR JOB COULD BE NEXT…’: Obama’s Brutal Warning On Artificial Intelligence; Trump Still Silent" title="‘YOUR JOB COULD BE NEXT…’: Obama’s Brutal Warning On Artificial Intelligence; Trump Still Silent">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=1PFmIUs-_FQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=FSI-cC0v5VQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1PFmIUs-_FQ&title=Senator+reveals+why+Congress+NOW+has+an+%E2%80%98impetus+to+act%E2%80%99+on+AI&lang=en&timestamp=1789887272&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=126">
-          <img src="https://ytcards.demolab.com/?id=1PFmIUs-_FQ&title=Senator+reveals+why+Congress+NOW+has+an+%E2%80%98impetus+to+act%E2%80%99+on+AI&lang=en&timestamp=1789887272&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=126" alt="Senator reveals why Congress NOW has an ‘impetus to act’ on AI" title="Senator reveals why Congress NOW has an ‘impetus to act’ on AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=FSI-cC0v5VQ&title=Far-left+Dems+DOUBLE+DOWN+on+push+to+regulate+AI&lang=en&timestamp=1789915619&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=710">
+          <img src="https://ytcards.demolab.com/?id=FSI-cC0v5VQ&title=Far-left+Dems+DOUBLE+DOWN+on+push+to+regulate+AI&lang=en&timestamp=1789915619&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=710" alt="Far-left Dems DOUBLE DOWN on push to regulate AI" title="Far-left Dems DOUBLE DOWN on push to regulate AI">
         </picture>
       </a>
     </td>
