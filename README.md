@@ -558,56 +558,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=XcpmCvLvp6A" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XcpmCvLvp6A&title=Artificial+Intelligence+Full+Course+Free+%7C+AI+Course+2026+%7C+Intellipaat&lang=en&timestamp=1790005789&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=38193">
-          <img src="https://ytcards.demolab.com/?id=XcpmCvLvp6A&title=Artificial+Intelligence+Full+Course+Free+%7C+AI+Course+2026+%7C+Intellipaat&lang=en&timestamp=1790005789&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=38193" alt="Artificial Intelligence Full Course Free | AI Course 2026 | Intellipaat" title="Artificial Intelligence Full Course Free | AI Course 2026 | Intellipaat">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=G4fQZwdcPPg" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=G4fQZwdcPPg&title=Republican%2C+Democratic+strategists+react+to+AI+becoming+an+issue+for+midterm+voters&lang=en&timestamp=1789998589&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=479">
-          <img src="https://ytcards.demolab.com/?id=G4fQZwdcPPg&title=Republican%2C+Democratic+strategists+react+to+AI+becoming+an+issue+for+midterm+voters&lang=en&timestamp=1789998589&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=479" alt="Republican, Democratic strategists react to AI becoming an issue for midterm voters" title="Republican, Democratic strategists react to AI becoming an issue for midterm voters">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
       <a href="https://www.youtube.com/watch?v=4S9BjeBxe1M" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4S9BjeBxe1M&title=Trump+has+%27ENORMOUS+LEVERAGE%27+over+China%3A+Gordon+Chang&lang=en&timestamp=1789994989&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=457">
-          <img src="https://ytcards.demolab.com/?id=4S9BjeBxe1M&title=Trump+has+%27ENORMOUS+LEVERAGE%27+over+China%3A+Gordon+Chang&lang=en&timestamp=1789994989&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=457" alt="Trump has 'ENORMOUS LEVERAGE' over China: Gordon Chang" title="Trump has 'ENORMOUS LEVERAGE' over China: Gordon Chang">
-        </picture>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=D_JABbHQMl8" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=D_JABbHQMl8&title=Artificial+Intelligence+Premium+Paid+Lecture+No+1&lang=en&timestamp=1789998589&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2280">
-          <img src="https://ytcards.demolab.com/?id=D_JABbHQMl8&title=Artificial+Intelligence+Premium+Paid+Lecture+No+1&lang=en&timestamp=1789998589&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2280" alt="Artificial Intelligence Premium Paid Lecture No 1" title="Artificial Intelligence Premium Paid Lecture No 1">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4S9BjeBxe1M&title=Trump+has+%27ENORMOUS+LEVERAGE%27+over+China%3A+Gordon+Chang&lang=en&timestamp=1789995145&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=457">
+          <img src="https://ytcards.demolab.com/?id=4S9BjeBxe1M&title=Trump+has+%27ENORMOUS+LEVERAGE%27+over+China%3A+Gordon+Chang&lang=en&timestamp=1789995145&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=457" alt="Trump has 'ENORMOUS LEVERAGE' over China: Gordon Chang" title="Trump has 'ENORMOUS LEVERAGE' over China: Gordon Chang">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=xCUala5j7aQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xCUala5j7aQ&title=Extended+interview%3A+Nvidia+CEO+Jensen+Huang+on+fears+about+AI&lang=en&timestamp=1789937389&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2779">
-          <img src="https://ytcards.demolab.com/?id=xCUala5j7aQ&title=Extended+interview%3A+Nvidia+CEO+Jensen+Huang+on+fears+about+AI&lang=en&timestamp=1789937389&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2779" alt="Extended interview: Nvidia CEO Jensen Huang on fears about AI" title="Extended interview: Nvidia CEO Jensen Huang on fears about AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xCUala5j7aQ&title=Extended+interview%3A+Nvidia+CEO+Jensen+Huang+on+fears+about+AI&lang=en&timestamp=1789948345&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2779">
+          <img src="https://ytcards.demolab.com/?id=xCUala5j7aQ&title=Extended+interview%3A+Nvidia+CEO+Jensen+Huang+on+fears+about+AI&lang=en&timestamp=1789948345&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2779" alt="Extended interview: Nvidia CEO Jensen Huang on fears about AI" title="Extended interview: Nvidia CEO Jensen Huang on fears about AI">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=G4fQZwdcPPg" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=G4fQZwdcPPg&title=Republican%2C+Democratic+strategists+react+to+AI+becoming+an+issue+for+midterm+voters&lang=en&timestamp=1789998745&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=479">
+          <img src="https://ytcards.demolab.com/?id=G4fQZwdcPPg&title=Republican%2C+Democratic+strategists+react+to+AI+becoming+an+issue+for+midterm+voters&lang=en&timestamp=1789998745&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=479" alt="Republican, Democratic strategists react to AI becoming an issue for midterm voters" title="Republican, Democratic strategists react to AI becoming an issue for midterm voters">
+        </picture>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=J9gNBptIFBc" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=J9gNBptIFBc&title=US%2C+China+discuss+AI+dialogue+mechanism+and+trade+ahead+of+Trump-XI+summit+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1789980745&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=368">
+          <img src="https://ytcards.demolab.com/?id=J9gNBptIFBc&title=US%2C+China+discuss+AI+dialogue+mechanism+and+trade+ahead+of+Trump-XI+summit+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1789980745&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=368" alt="US, China discuss AI dialogue mechanism and trade ahead of Trump-XI summit • FRANCE 24 English" title="US, China discuss AI dialogue mechanism and trade ahead of Trump-XI summit • FRANCE 24 English">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=ULeI9SICeks" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ULeI9SICeks&title=Lawmakers+push+for+artificial+intelligence+regulations&lang=en&timestamp=1789991389&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=85">
-          <img src="https://ytcards.demolab.com/?id=ULeI9SICeks&title=Lawmakers+push+for+artificial+intelligence+regulations&lang=en&timestamp=1789991389&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=85" alt="Lawmakers push for artificial intelligence regulations" title="Lawmakers push for artificial intelligence regulations">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ULeI9SICeks&title=Lawmakers+push+for+artificial+intelligence+regulations&lang=en&timestamp=1789991545&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=85">
+          <img src="https://ytcards.demolab.com/?id=ULeI9SICeks&title=Lawmakers+push+for+artificial+intelligence+regulations&lang=en&timestamp=1789991545&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=85" alt="Lawmakers push for artificial intelligence regulations" title="Lawmakers push for artificial intelligence regulations">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=lJr42wzYQtw" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lJr42wzYQtw&title=Trump+rejects+AI+slowdown+as+Google+reveals+Gemini+hacking+incident&lang=en&timestamp=1789948345&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=89">
+          <img src="https://ytcards.demolab.com/?id=lJr42wzYQtw&title=Trump+rejects+AI+slowdown+as+Google+reveals+Gemini+hacking+incident&lang=en&timestamp=1789948345&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=89" alt="Trump rejects AI slowdown as Google reveals Gemini hacking incident" title="Trump rejects AI slowdown as Google reveals Gemini hacking incident">
         </picture>
       </a>
     </td>
