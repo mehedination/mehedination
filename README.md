@@ -560,56 +560,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=wDiihXDorIY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=worlFWRU3X4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wDiihXDorIY&title=The+AI+Challenges+Businesses+Are+Actually+Focused+On+Right+Now&lang=en&timestamp=1790001874&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1617">
-          <img src="https://ytcards.demolab.com/?id=wDiihXDorIY&title=The+AI+Challenges+Businesses+Are+Actually+Focused+On+Right+Now&lang=en&timestamp=1790001874&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1617" alt="The AI Challenges Businesses Are Actually Focused On Right Now" title="The AI Challenges Businesses Are Actually Focused On Right Now">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=worlFWRU3X4&title=AI+is+starting+to+look+more+disturbing+than+sci-fi+%7C+Fareed%27s+Take&lang=en&timestamp=1790037228&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=658">
+          <img src="https://ytcards.demolab.com/?id=worlFWRU3X4&title=AI+is+starting+to+look+more+disturbing+than+sci-fi+%7C+Fareed%27s+Take&lang=en&timestamp=1790037228&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=658" alt="AI is starting to look more disturbing than sci-fi | Fareed's Take" title="AI is starting to look more disturbing than sci-fi | Fareed's Take">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=W4HuvlDca_s" target="_blank">
+      <a href="https://www.youtube.com/watch?v=6Q8dzYS-LZY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=W4HuvlDca_s&title=Another+AI+agent+went+rogue+days+before+Trump+meets+with+Xi&lang=en&timestamp=1789994674&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=303">
-          <img src="https://ytcards.demolab.com/?id=W4HuvlDca_s&title=Another+AI+agent+went+rogue+days+before+Trump+meets+with+Xi&lang=en&timestamp=1789994674&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=303" alt="Another AI agent went rogue days before Trump meets with Xi" title="Another AI agent went rogue days before Trump meets with Xi">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6Q8dzYS-LZY&title=Alibaba+Unveils+Powerful+AI+Chip+as+Meta+Revives+AI+Optimism&lang=en&timestamp=1790073228&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2999">
+          <img src="https://ytcards.demolab.com/?id=6Q8dzYS-LZY&title=Alibaba+Unveils+Powerful+AI+Chip+as+Meta+Revives+AI+Optimism&lang=en&timestamp=1790073228&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2999" alt="Alibaba Unveils Powerful AI Chip as Meta Revives AI Optimism" title="Alibaba Unveils Powerful AI Chip as Meta Revives AI Optimism">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ty0nfXbeuHw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=qpwwuOJUjmo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ty0nfXbeuHw&title=Bill+Gates+announces+new+coalition+for+global+AI+access&lang=en&timestamp=1790001874&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=589">
-          <img src="https://ytcards.demolab.com/?id=ty0nfXbeuHw&title=Bill+Gates+announces+new+coalition+for+global+AI+access&lang=en&timestamp=1790001874&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=589" alt="Bill Gates announces new coalition for global AI access" title="Bill Gates announces new coalition for global AI access">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qpwwuOJUjmo&title=Artificial+Intelligence%3A+The+risks+of+AI+taking+control+-+Es+la+Hora+de+Opinar&lang=en&timestamp=1790058828&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=733">
+          <img src="https://ytcards.demolab.com/?id=qpwwuOJUjmo&title=Artificial+Intelligence%3A+The+risks+of+AI+taking+control+-+Es+la+Hora+de+Opinar&lang=en&timestamp=1790058828&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=733" alt="Artificial Intelligence: The risks of AI taking control - Es la Hora de Opinar" title="Artificial Intelligence: The risks of AI taking control - Es la Hora de Opinar">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=4S9BjeBxe1M" target="_blank">
+      <a href="https://www.youtube.com/watch?v=wDiihXDorIY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4S9BjeBxe1M&title=Trump+has+%27ENORMOUS+LEVERAGE%27+over+China%3A+Gordon+Chang&lang=en&timestamp=1789994674&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=457">
-          <img src="https://ytcards.demolab.com/?id=4S9BjeBxe1M&title=Trump+has+%27ENORMOUS+LEVERAGE%27+over+China%3A+Gordon+Chang&lang=en&timestamp=1789994674&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=457" alt="Trump has 'ENORMOUS LEVERAGE' over China: Gordon Chang" title="Trump has 'ENORMOUS LEVERAGE' over China: Gordon Chang">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wDiihXDorIY&title=The+AI+Challenges+Businesses+Are+Actually+Focused+On+Right+Now&lang=en&timestamp=1790015628&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1617">
+          <img src="https://ytcards.demolab.com/?id=wDiihXDorIY&title=The+AI+Challenges+Businesses+Are+Actually+Focused+On+Right+Now&lang=en&timestamp=1790015628&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1617" alt="The AI Challenges Businesses Are Actually Focused On Right Now" title="The AI Challenges Businesses Are Actually Focused On Right Now">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=kN00WX14kdw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=6Y7bz4fgFgI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=kN00WX14kdw&title=Trump+in+Deciding+Mode+on+Iran+%7C+CBN+NewsWatch+-+September+21%2C+2026&lang=en&timestamp=1790009074&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1350">
-          <img src="https://ytcards.demolab.com/?id=kN00WX14kdw&title=Trump+in+Deciding+Mode+on+Iran+%7C+CBN+NewsWatch+-+September+21%2C+2026&lang=en&timestamp=1790009074&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1350" alt="Trump in Deciding Mode on Iran | CBN NewsWatch - September 21, 2026" title="Trump in Deciding Mode on Iran | CBN NewsWatch - September 21, 2026">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6Y7bz4fgFgI&title=Tech+companies+hit+with+lawsuit+over+alleged+AI+slowdown&lang=en&timestamp=1790030028&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=297">
+          <img src="https://ytcards.demolab.com/?id=6Y7bz4fgFgI&title=Tech+companies+hit+with+lawsuit+over+alleged+AI+slowdown&lang=en&timestamp=1790030028&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=297" alt="Tech companies hit with lawsuit over alleged AI slowdown" title="Tech companies hit with lawsuit over alleged AI slowdown">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=G4fQZwdcPPg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=An_1bscDtKE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=G4fQZwdcPPg&title=Republican%2C+Democratic+strategists+react+to+AI+becoming+an+issue+for+midterm+voters&lang=en&timestamp=1789998274&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=479">
-          <img src="https://ytcards.demolab.com/?id=G4fQZwdcPPg&title=Republican%2C+Democratic+strategists+react+to+AI+becoming+an+issue+for+midterm+voters&lang=en&timestamp=1789998274&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=479" alt="Republican, Democratic strategists react to AI becoming an issue for midterm voters" title="Republican, Democratic strategists react to AI becoming an issue for midterm voters">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=An_1bscDtKE&title=Artificial+Intelligence+News+%7C+AI%27s+%22Boiling+Point%22%3A+Are+Humans+Losing+Control%3F&lang=en&timestamp=1790100588&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=214">
+          <img src="https://ytcards.demolab.com/?id=An_1bscDtKE&title=Artificial+Intelligence+News+%7C+AI%27s+%22Boiling+Point%22%3A+Are+Humans+Losing+Control%3F&lang=en&timestamp=1790100588&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=214" alt="Artificial Intelligence News | AI's &quot;Boiling Point&quot;: Are Humans Losing Control?" title="Artificial Intelligence News | AI's &quot;Boiling Point&quot;: Are Humans Losing Control?">
         </picture>
       </a>
     </td>
