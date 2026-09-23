@@ -563,56 +563,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
+      <a href="https://www.youtube.com/watch?v=kHZPbjZ8WkA" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=kHZPbjZ8WkA&title=AI+becomes+focal+point+at+the+United+Nations&lang=en&timestamp=1790099790&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=241">
+          <img src="https://ytcards.demolab.com/?id=kHZPbjZ8WkA&title=AI+becomes+focal+point+at+the+United+Nations&lang=en&timestamp=1790099790&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=241" alt="AI becomes focal point at the United Nations" title="AI becomes focal point at the United Nations">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=4VyhApb5PHU" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4VyhApb5PHU&title=Trump+to+U.N.%3A+Whoever+wins+AI%2C+wins&lang=en&timestamp=1790106990&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=120">
+          <img src="https://ytcards.demolab.com/?id=4VyhApb5PHU&title=Trump+to+U.N.%3A+Whoever+wins+AI%2C+wins&lang=en&timestamp=1790106990&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=120" alt="Trump to U.N.: Whoever wins AI, wins" title="Trump to U.N.: Whoever wins AI, wins">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
       <a href="https://www.youtube.com/watch?v=8YLMguupHU8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8YLMguupHU8&title=Trump+Proposes+Officially+Changing+Term+for+AI+to+%27Super+Intelligence%27&lang=en&timestamp=1790094863&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=185">
-          <img src="https://ytcards.demolab.com/?id=8YLMguupHU8&title=Trump+Proposes+Officially+Changing+Term+for+AI+to+%27Super+Intelligence%27&lang=en&timestamp=1790094863&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=185" alt="Trump Proposes Officially Changing Term for AI to 'Super Intelligence'" title="Trump Proposes Officially Changing Term for AI to 'Super Intelligence'">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=hE1lqkj8Wco" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hE1lqkj8Wco&title=Trump+pushes+for+AI+development+in+U.N.+address&lang=en&timestamp=1790116463&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=314">
-          <img src="https://ytcards.demolab.com/?id=hE1lqkj8Wco&title=Trump+pushes+for+AI+development+in+U.N.+address&lang=en&timestamp=1790116463&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=314" alt="Trump pushes for AI development in U.N. address" title="Trump pushes for AI development in U.N. address">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=oMbiA98GD44" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=oMbiA98GD44&title=Trump+touts+AI+leadership%2C+rejects+new+safety+regulations&lang=en&timestamp=1790116463&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=152">
-          <img src="https://ytcards.demolab.com/?id=oMbiA98GD44&title=Trump+touts+AI+leadership%2C+rejects+new+safety+regulations&lang=en&timestamp=1790116463&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=152" alt="Trump touts AI leadership, rejects new safety regulations" title="Trump touts AI leadership, rejects new safety regulations">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8YLMguupHU8&title=Trump+Proposes+Officially+Changing+Term+for+AI+to+%27Super+Intelligence%27&lang=en&timestamp=1790092590&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=185">
+          <img src="https://ytcards.demolab.com/?id=8YLMguupHU8&title=Trump+Proposes+Officially+Changing+Term+for+AI+to+%27Super+Intelligence%27&lang=en&timestamp=1790092590&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=185" alt="Trump Proposes Officially Changing Term for AI to 'Super Intelligence'" title="Trump Proposes Officially Changing Term for AI to 'Super Intelligence'">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=6Q8dzYS-LZY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=oMbiA98GD44" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6Q8dzYS-LZY&title=Alibaba+Unveils+Powerful+AI+Chip+as+Meta+Revives+AI+Optimism&lang=en&timestamp=1790073263&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2999">
-          <img src="https://ytcards.demolab.com/?id=6Q8dzYS-LZY&title=Alibaba+Unveils+Powerful+AI+Chip+as+Meta+Revives+AI+Optimism&lang=en&timestamp=1790073263&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2999" alt="Alibaba Unveils Powerful AI Chip as Meta Revives AI Optimism" title="Alibaba Unveils Powerful AI Chip as Meta Revives AI Optimism">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=oMbiA98GD44&title=Trump+touts+AI+leadership%2C+rejects+new+safety+regulations&lang=en&timestamp=1790114190&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=152">
+          <img src="https://ytcards.demolab.com/?id=oMbiA98GD44&title=Trump+touts+AI+leadership%2C+rejects+new+safety+regulations&lang=en&timestamp=1790114190&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=152" alt="Trump touts AI leadership, rejects new safety regulations" title="Trump touts AI leadership, rejects new safety regulations">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=0E1GamQhyI8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=vFiJijelR_c" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=0E1GamQhyI8&title=Trump+says+the+US+is+renaming+AI+to+%E2%80%98super+intelligence%E2%80%99&lang=en&timestamp=1790116463&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=82">
-          <img src="https://ytcards.demolab.com/?id=0E1GamQhyI8&title=Trump+says+the+US+is+renaming+AI+to+%E2%80%98super+intelligence%E2%80%99&lang=en&timestamp=1790116463&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=82" alt="Trump says the US is renaming AI to ‘super intelligence’" title="Trump says the US is renaming AI to ‘super intelligence’">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vFiJijelR_c&title=Nasdaq+notches+a+second+straight+record+as+Trump+renames+AI+%22super+intelligence%22++Yahoo+Finance+Live&lang=en&timestamp=1790110590&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5394">
+          <img src="https://ytcards.demolab.com/?id=vFiJijelR_c&title=Nasdaq+notches+a+second+straight+record+as+Trump+renames+AI+%22super+intelligence%22++Yahoo+Finance+Live&lang=en&timestamp=1790110590&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5394" alt="Nasdaq notches a second straight record as Trump renames AI &quot;super intelligence&quot;  Yahoo Finance Live" title="Nasdaq notches a second straight record as Trump renames AI &quot;super intelligence&quot;  Yahoo Finance Live">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=qdngy3kXop0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=hSP0TDa9cNE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qdngy3kXop0&title=Sandra+Smith%3A+This+is+a+very+real+problem&lang=en&timestamp=1790109263&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1037">
-          <img src="https://ytcards.demolab.com/?id=qdngy3kXop0&title=Sandra+Smith%3A+This+is+a+very+real+problem&lang=en&timestamp=1790109263&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1037" alt="Sandra Smith: This is a very real problem" title="Sandra Smith: This is a very real problem">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hSP0TDa9cNE&title=Our+superpower+is+letting+entrepreneurs+build+great+products%2C+AI+expert+says&lang=en&timestamp=1790124990&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=230">
+          <img src="https://ytcards.demolab.com/?id=hSP0TDa9cNE&title=Our+superpower+is+letting+entrepreneurs+build+great+products%2C+AI+expert+says&lang=en&timestamp=1790124990&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=230" alt="Our superpower is letting entrepreneurs build great products, AI expert says" title="Our superpower is letting entrepreneurs build great products, AI expert says">
         </picture>
       </a>
     </td>
