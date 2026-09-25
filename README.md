@@ -568,56 +568,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
+      <a href="https://www.youtube.com/watch?v=3zcaezFYGds" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3zcaezFYGds&title=Bill+Gates+says+AI+%27powerful+enough%27+to+cause+%27a+billion+deaths%27&lang=en&timestamp=1790334063&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=79">
+          <img src="https://ytcards.demolab.com/?id=3zcaezFYGds&title=Bill+Gates+says+AI+%27powerful+enough%27+to+cause+%27a+billion+deaths%27&lang=en&timestamp=1790334063&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=79" alt="Bill Gates says AI 'powerful enough' to cause 'a billion deaths'" title="Bill Gates says AI 'powerful enough' to cause 'a billion deaths'">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=dO6wytBx7dQ" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=dO6wytBx7dQ&title=Artificial+Intelligence+%7C+Why+Is+AI+Now+A+Threat+To+Global+Peace+And+Security%3F&lang=en&timestamp=1790362863&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1177">
+          <img src="https://ytcards.demolab.com/?id=dO6wytBx7dQ&title=Artificial+Intelligence+%7C+Why+Is+AI+Now+A+Threat+To+Global+Peace+And+Security%3F&lang=en&timestamp=1790362863&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1177" alt="Artificial Intelligence | Why Is AI Now A Threat To Global Peace And Security?" title="Artificial Intelligence | Why Is AI Now A Threat To Global Peace And Security?">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
       <a href="https://www.youtube.com/watch?v=CR04QUoLX5I" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=CR04QUoLX5I&title=Trump-Xi+AI+Talks%3A+US-China+Leaders+Push+Cooperation+On+Artificial+Intelligence+%7C+NewsX&lang=en&timestamp=1790358049&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=106">
-          <img src="https://ytcards.demolab.com/?id=CR04QUoLX5I&title=Trump-Xi+AI+Talks%3A+US-China+Leaders+Push+Cooperation+On+Artificial+Intelligence+%7C+NewsX&lang=en&timestamp=1790358049&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=106" alt="Trump-Xi AI Talks: US-China Leaders Push Cooperation On Artificial Intelligence | NewsX" title="Trump-Xi AI Talks: US-China Leaders Push Cooperation On Artificial Intelligence | NewsX">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=WDUx29fOy1g" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WDUx29fOy1g&title=AI+Expert+Reveals+The+Exploitation+Behind+AI&lang=en&timestamp=1790273809&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1843">
-          <img src="https://ytcards.demolab.com/?id=WDUx29fOy1g&title=AI+Expert+Reveals+The+Exploitation+Behind+AI&lang=en&timestamp=1790273809&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1843" alt="AI Expert Reveals The Exploitation Behind AI" title="AI Expert Reveals The Exploitation Behind AI">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=JIQoL0F_rb4" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JIQoL0F_rb4&title=Should+U.N.+Help+Set+Global+AI+Rules%3F+AI+Tech+Billionaires+Address+Security+Council&lang=en&timestamp=1790273809&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=998">
-          <img src="https://ytcards.demolab.com/?id=JIQoL0F_rb4&title=Should+U.N.+Help+Set+Global+AI+Rules%3F+AI+Tech+Billionaires+Address+Security+Council&lang=en&timestamp=1790273809&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=998" alt="Should U.N. Help Set Global AI Rules? AI Tech Billionaires Address Security Council" title="Should U.N. Help Set Global AI Rules? AI Tech Billionaires Address Security Council">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=CR04QUoLX5I&title=Trump-Xi+AI+Talks%3A+US-China+Leaders+Push+Cooperation+On+Artificial+Intelligence+%7C+NewsX&lang=en&timestamp=1790359263&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=106">
+          <img src="https://ytcards.demolab.com/?id=CR04QUoLX5I&title=Trump-Xi+AI+Talks%3A+US-China+Leaders+Push+Cooperation+On+Artificial+Intelligence+%7C+NewsX&lang=en&timestamp=1790359263&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=106" alt="Trump-Xi AI Talks: US-China Leaders Push Cooperation On Artificial Intelligence | NewsX" title="Trump-Xi AI Talks: US-China Leaders Push Cooperation On Artificial Intelligence | NewsX">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=8cqRUc0W7Sc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=JIQoL0F_rb4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8cqRUc0W7Sc&title=NBER+Economics+of+Artificial+Intelligence&lang=en&timestamp=1790273809&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=12462">
-          <img src="https://ytcards.demolab.com/?id=8cqRUc0W7Sc&title=NBER+Economics+of+Artificial+Intelligence&lang=en&timestamp=1790273809&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=12462" alt="NBER Economics of Artificial Intelligence" title="NBER Economics of Artificial Intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JIQoL0F_rb4&title=Should+U.N.+Help+Set+Global+AI+Rules%3F+AI+Tech+Billionaires+Address+Security+Council&lang=en&timestamp=1790287263&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=998">
+          <img src="https://ytcards.demolab.com/?id=JIQoL0F_rb4&title=Should+U.N.+Help+Set+Global+AI+Rules%3F+AI+Tech+Billionaires+Address+Security+Council&lang=en&timestamp=1790287263&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=998" alt="Should U.N. Help Set Global AI Rules? AI Tech Billionaires Address Security Council" title="Should U.N. Help Set Global AI Rules? AI Tech Billionaires Address Security Council">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=-RNz0xfpVs4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=gRs7hj4upQQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-RNz0xfpVs4&title=%27They%27re+catching+up+fast%27%3A+Rattner%27s+REALITY+CHECK+on+China%27s+AI&lang=en&timestamp=1790273809&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=421">
-          <img src="https://ytcards.demolab.com/?id=-RNz0xfpVs4&title=%27They%27re+catching+up+fast%27%3A+Rattner%27s+REALITY+CHECK+on+China%27s+AI&lang=en&timestamp=1790273809&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=421" alt="'They're catching up fast': Rattner's REALITY CHECK on China's AI" title="'They're catching up fast': Rattner's REALITY CHECK on China's AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=gRs7hj4upQQ&title=Trump-Xi+summit+tackles+trade%2C+Taiwan+and+artificial+intelligence+%7C+East+Asia+Tonight+Sep+25%2C+2026&lang=en&timestamp=1790344863&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2960">
+          <img src="https://ytcards.demolab.com/?id=gRs7hj4upQQ&title=Trump-Xi+summit+tackles+trade%2C+Taiwan+and+artificial+intelligence+%7C+East+Asia+Tonight+Sep+25%2C+2026&lang=en&timestamp=1790344863&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2960" alt="Trump-Xi summit tackles trade, Taiwan and artificial intelligence | East Asia Tonight Sep 25, 2026" title="Trump-Xi summit tackles trade, Taiwan and artificial intelligence | East Asia Tonight Sep 25, 2026">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=QkwKn1qhTtQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=oWbjwzYtEKo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QkwKn1qhTtQ&title=What+the+%27Godfather+of+AI%27+Thinks+Humanity+Should+Do&lang=en&timestamp=1790273809&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1870">
-          <img src="https://ytcards.demolab.com/?id=QkwKn1qhTtQ&title=What+the+%27Godfather+of+AI%27+Thinks+Humanity+Should+Do&lang=en&timestamp=1790273809&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1870" alt="What the 'Godfather of AI' Thinks Humanity Should Do" title="What the 'Godfather of AI' Thinks Humanity Should Do">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=oWbjwzYtEKo&title=Trump-Xi+summit%3A+US+and+Chinese+presidents+hold+closed-door+talks+in+Washington+DC&lang=en&timestamp=1790341263&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=559">
+          <img src="https://ytcards.demolab.com/?id=oWbjwzYtEKo&title=Trump-Xi+summit%3A+US+and+Chinese+presidents+hold+closed-door+talks+in+Washington+DC&lang=en&timestamp=1790341263&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=559" alt="Trump-Xi summit: US and Chinese presidents hold closed-door talks in Washington DC" title="Trump-Xi summit: US and Chinese presidents hold closed-door talks in Washington DC">
         </picture>
       </a>
     </td>
