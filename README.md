@@ -570,30 +570,31 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
+      <a href="https://www.youtube.com/watch?v=zW2GaUwDQyA" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zW2GaUwDQyA&title=AI+risks%3A+Will+artificial+intelligence+really+kill+us+all%3F&lang=en&timestamp=1790517113&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=514">
+          <img src="https://ytcards.demolab.com/?id=zW2GaUwDQyA&title=AI+risks%3A+Will+artificial+intelligence+really+kill+us+all%3F&lang=en&timestamp=1790517113&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=514" alt="AI risks: Will artificial intelligence really kill us all?" title="AI risks: Will artificial intelligence really kill us all?">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
       <a href="https://www.youtube.com/watch?v=jqnIbBEmBWM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jqnIbBEmBWM&title=Global+National%3A+Sept.+26%2C+2026+%7C+New+concerns+over+artificial+intelligence+as+more+agents+go+rogue&lang=en&timestamp=1790476902&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1288">
-          <img src="https://ytcards.demolab.com/?id=jqnIbBEmBWM&title=Global+National%3A+Sept.+26%2C+2026+%7C+New+concerns+over+artificial+intelligence+as+more+agents+go+rogue&lang=en&timestamp=1790476902&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1288" alt="Global National: Sept. 26, 2026 | New concerns over artificial intelligence as more agents go rogue" title="Global National: Sept. 26, 2026 | New concerns over artificial intelligence as more agents go rogue">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jqnIbBEmBWM&title=Global+National%3A+Sept.+26%2C+2026+%7C+New+concerns+over+artificial+intelligence+as+more+agents+go+rogue&lang=en&timestamp=1790477513&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1288">
+          <img src="https://ytcards.demolab.com/?id=jqnIbBEmBWM&title=Global+National%3A+Sept.+26%2C+2026+%7C+New+concerns+over+artificial+intelligence+as+more+agents+go+rogue&lang=en&timestamp=1790477513&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1288" alt="Global National: Sept. 26, 2026 | New concerns over artificial intelligence as more agents go rogue" title="Global National: Sept. 26, 2026 | New concerns over artificial intelligence as more agents go rogue">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=MI9gnRBM3Qo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=NWLs-COtdXY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=MI9gnRBM3Qo&title=Bill+Gates+Warns+AI+Could+Cause+Catastrophic+Harm+%7C+WION&lang=en&timestamp=1790426502&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=193">
-          <img src="https://ytcards.demolab.com/?id=MI9gnRBM3Qo&title=Bill+Gates+Warns+AI+Could+Cause+Catastrophic+Harm+%7C+WION&lang=en&timestamp=1790426502&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=193" alt="Bill Gates Warns AI Could Cause Catastrophic Harm | WION" title="Bill Gates Warns AI Could Cause Catastrophic Harm | WION">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=-UH-lkwUSTk" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-UH-lkwUSTk&title=%E2%80%98We%E2%80%99re+leading+by+a+lot%E2%80%99%3A+Trump+refuses+to+integrate+AI+tech+with+China&lang=en&timestamp=1790480502&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=36">
-          <img src="https://ytcards.demolab.com/?id=-UH-lkwUSTk&title=%E2%80%98We%E2%80%99re+leading+by+a+lot%E2%80%99%3A+Trump+refuses+to+integrate+AI+tech+with+China&lang=en&timestamp=1790480502&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=36" alt="‘We’re leading by a lot’: Trump refuses to integrate AI tech with China" title="‘We’re leading by a lot’: Trump refuses to integrate AI tech with China">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=NWLs-COtdXY&title=Can+Quantum+AI+Destroy+Human+Beings%3F+%7C+Artificial+Intelligence+%7C+Quantum+Physics+%7C+Amit+Dubey&lang=en&timestamp=1790459513&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4050">
+          <img src="https://ytcards.demolab.com/?id=NWLs-COtdXY&title=Can+Quantum+AI+Destroy+Human+Beings%3F+%7C+Artificial+Intelligence+%7C+Quantum+Physics+%7C+Amit+Dubey&lang=en&timestamp=1790459513&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4050" alt="Can Quantum AI Destroy Human Beings? | Artificial Intelligence | Quantum Physics | Amit Dubey" title="Can Quantum AI Destroy Human Beings? | Artificial Intelligence | Quantum Physics | Amit Dubey">
         </picture>
       </a>
     </td>
@@ -602,24 +603,24 @@
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=8atC65dfSm4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8atC65dfSm4&title=Gates+under+fire+for+%E2%80%98scaremongering%E2%80%99+over+artificial+intelligence&lang=en&timestamp=1790476902&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=55">
-          <img src="https://ytcards.demolab.com/?id=8atC65dfSm4&title=Gates+under+fire+for+%E2%80%98scaremongering%E2%80%99+over+artificial+intelligence&lang=en&timestamp=1790476902&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=55" alt="Gates under fire for ‘scaremongering’ over artificial intelligence" title="Gates under fire for ‘scaremongering’ over artificial intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8atC65dfSm4&title=Gates+under+fire+for+%E2%80%98scaremongering%E2%80%99+over+artificial+intelligence&lang=en&timestamp=1790477513&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=55">
+          <img src="https://ytcards.demolab.com/?id=8atC65dfSm4&title=Gates+under+fire+for+%E2%80%98scaremongering%E2%80%99+over+artificial+intelligence&lang=en&timestamp=1790477513&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=55" alt="Gates under fire for ‘scaremongering’ over artificial intelligence" title="Gates under fire for ‘scaremongering’ over artificial intelligence">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=PMlsdenhrwo" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PMlsdenhrwo&title=Oh+here+we+go+-+%22Artificial+Intelligence%22+-+AKA+The+Big+Facade%21&lang=en&timestamp=1790542313&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2426">
+          <img src="https://ytcards.demolab.com/?id=PMlsdenhrwo&title=Oh+here+we+go+-+%22Artificial+Intelligence%22+-+AKA+The+Big+Facade%21&lang=en&timestamp=1790542313&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2426" alt="Oh here we go - &quot;Artificial Intelligence&quot; - AKA The Big Facade!" title="Oh here we go - &quot;Artificial Intelligence&quot; - AKA The Big Facade!">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=nZO5pF-GTIQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nZO5pF-GTIQ&title=%27It%27s+Actually+Much+More+Elegant%27%3A+Trump+Says+He+Spoke+To+Xi+About+Renaming+AI+To+Super+Intelligence&lang=en&timestamp=1790444502&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=109">
-          <img src="https://ytcards.demolab.com/?id=nZO5pF-GTIQ&title=%27It%27s+Actually+Much+More+Elegant%27%3A+Trump+Says+He+Spoke+To+Xi+About+Renaming+AI+To+Super+Intelligence&lang=en&timestamp=1790444502&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=109" alt="'It's Actually Much More Elegant': Trump Says He Spoke To Xi About Renaming AI To Super Intelligence" title="'It's Actually Much More Elegant': Trump Says He Spoke To Xi About Renaming AI To Super Intelligence">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=LKMrnmCrX-Y" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=LKMrnmCrX-Y&title=Microsoft+Co-Founder+Bill+Gates+Warns+AI+Could+Be+Dangerous+%7C+Major+Warning+About+AI+Risks&lang=en&timestamp=1790462502&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=41">
-          <img src="https://ytcards.demolab.com/?id=LKMrnmCrX-Y&title=Microsoft+Co-Founder+Bill+Gates+Warns+AI+Could+Be+Dangerous+%7C+Major+Warning+About+AI+Risks&lang=en&timestamp=1790462502&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=41" alt="Microsoft Co-Founder Bill Gates Warns AI Could Be Dangerous | Major Warning About AI Risks" title="Microsoft Co-Founder Bill Gates Warns AI Could Be Dangerous | Major Warning About AI Risks">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nZO5pF-GTIQ&title=%27It%27s+Actually+Much+More+Elegant%27%3A+Trump+Says+He+Spoke+To+Xi+About+Renaming+AI+To+Super+Intelligence&lang=en&timestamp=1790459513&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=109">
+          <img src="https://ytcards.demolab.com/?id=nZO5pF-GTIQ&title=%27It%27s+Actually+Much+More+Elegant%27%3A+Trump+Says+He+Spoke+To+Xi+About+Renaming+AI+To+Super+Intelligence&lang=en&timestamp=1790459513&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=109" alt="'It's Actually Much More Elegant': Trump Says He Spoke To Xi About Renaming AI To Super Intelligence" title="'It's Actually Much More Elegant': Trump Says He Spoke To Xi About Renaming AI To Super Intelligence">
         </picture>
       </a>
     </td>
