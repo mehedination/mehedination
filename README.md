@@ -572,56 +572,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=zW2GaUwDQyA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zW2GaUwDQyA&title=AI+risks%3A+Will+artificial+intelligence+really+kill+us+all%3F&lang=en&timestamp=1790521266&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=514">
-          <img src="https://ytcards.demolab.com/?id=zW2GaUwDQyA&title=AI+risks%3A+Will+artificial+intelligence+really+kill+us+all%3F&lang=en&timestamp=1790521266&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=514" alt="AI risks: Will artificial intelligence really kill us all?" title="AI risks: Will artificial intelligence really kill us all?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zW2GaUwDQyA&title=AI+risks%3A+Will+artificial+intelligence+really+kill+us+all%3F&lang=en&timestamp=1790545039&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=514">
+          <img src="https://ytcards.demolab.com/?id=zW2GaUwDQyA&title=AI+risks%3A+Will+artificial+intelligence+really+kill+us+all%3F&lang=en&timestamp=1790545039&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=514" alt="AI risks: Will artificial intelligence really kill us all?" title="AI risks: Will artificial intelligence really kill us all?">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=406w1iSAKOE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=LI4dzDlC6uo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=406w1iSAKOE&title=Albanese+takes+aim+at+AI+to+%E2%80%98score+political+points%E2%80%99&lang=en&timestamp=1790571666&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=462">
-          <img src="https://ytcards.demolab.com/?id=406w1iSAKOE&title=Albanese+takes+aim+at+AI+to+%E2%80%98score+political+points%E2%80%99&lang=en&timestamp=1790571666&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=462" alt="Albanese takes aim at AI to ‘score political points’" title="Albanese takes aim at AI to ‘score political points’">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=LI4dzDlC6uo&title=Contradicting+Trump%2C+Pope+Leo+says+artificial+intelligence+safety+concerns+not+%27fake+news%27&lang=en&timestamp=1790629519&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=87">
+          <img src="https://ytcards.demolab.com/?id=LI4dzDlC6uo&title=Contradicting+Trump%2C+Pope+Leo+says+artificial+intelligence+safety+concerns+not+%27fake+news%27&lang=en&timestamp=1790629519&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=87" alt="Contradicting Trump, Pope Leo says artificial intelligence safety concerns not 'fake news'" title="Contradicting Trump, Pope Leo says artificial intelligence safety concerns not 'fake news'">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=UwZL-QAfA0Q" target="_blank">
+      <a href="https://www.youtube.com/watch?v=30WqG3ljRA0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=UwZL-QAfA0Q&title=Bill+Gates+warns+artificial+intelligence+could+cause+%E2%80%98a+billion+deaths%E2%80%99&lang=en&timestamp=1790604066&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=281">
-          <img src="https://ytcards.demolab.com/?id=UwZL-QAfA0Q&title=Bill+Gates+warns+artificial+intelligence+could+cause+%E2%80%98a+billion+deaths%E2%80%99&lang=en&timestamp=1790604066&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=281" alt="Bill Gates warns artificial intelligence could cause ‘a billion deaths’" title="Bill Gates warns artificial intelligence could cause ‘a billion deaths’">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=30WqG3ljRA0&title=Bill+Gates+warns+unchecked+AI+could+%E2%80%98cause+a+billion+deaths%E2%80%99&lang=en&timestamp=1790545039&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=529">
+          <img src="https://ytcards.demolab.com/?id=30WqG3ljRA0&title=Bill+Gates+warns+unchecked+AI+could+%E2%80%98cause+a+billion+deaths%E2%80%99&lang=en&timestamp=1790545039&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=529" alt="Bill Gates warns unchecked AI could ‘cause a billion deaths’" title="Bill Gates warns unchecked AI could ‘cause a billion deaths’">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=30WqG3ljRA0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=406w1iSAKOE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=30WqG3ljRA0&title=Bill+Gates+warns+unchecked+AI+could+%E2%80%98cause+a+billion+deaths%E2%80%99&lang=en&timestamp=1790539266&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=529">
-          <img src="https://ytcards.demolab.com/?id=30WqG3ljRA0&title=Bill+Gates+warns+unchecked+AI+could+%E2%80%98cause+a+billion+deaths%E2%80%99&lang=en&timestamp=1790539266&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=529" alt="Bill Gates warns unchecked AI could ‘cause a billion deaths’" title="Bill Gates warns unchecked AI could ‘cause a billion deaths’">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=406w1iSAKOE&title=Albanese+takes+aim+at+AI+to+%E2%80%98score+political+points%E2%80%99&lang=en&timestamp=1790570239&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=462">
+          <img src="https://ytcards.demolab.com/?id=406w1iSAKOE&title=Albanese+takes+aim+at+AI+to+%E2%80%98score+political+points%E2%80%99&lang=en&timestamp=1790570239&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=462" alt="Albanese takes aim at AI to ‘score political points’" title="Albanese takes aim at AI to ‘score political points’">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=bY9WAesMTcE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=iOCirYYc4No" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=bY9WAesMTcE&title=Donald+Trump+declares+%E2%80%98winner+takes+all%E2%80%99+on+the+artificial+intelligence+race&lang=en&timestamp=1790600466&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=391">
-          <img src="https://ytcards.demolab.com/?id=bY9WAesMTcE&title=Donald+Trump+declares+%E2%80%98winner+takes+all%E2%80%99+on+the+artificial+intelligence+race&lang=en&timestamp=1790600466&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=391" alt="Donald Trump declares ‘winner takes all’ on the artificial intelligence race" title="Donald Trump declares ‘winner takes all’ on the artificial intelligence race">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=iOCirYYc4No&title=The+Evolution+Of+Artificial+Intelligence%2C+This+West+Virginia+Morning&lang=en&timestamp=1790609839&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=551">
+          <img src="https://ytcards.demolab.com/?id=iOCirYYc4No&title=The+Evolution+Of+Artificial+Intelligence%2C+This+West+Virginia+Morning&lang=en&timestamp=1790609839&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=551" alt="The Evolution Of Artificial Intelligence, This West Virginia Morning" title="The Evolution Of Artificial Intelligence, This West Virginia Morning">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=pwr0w7Ou6_c" target="_blank">
+      <a href="https://www.youtube.com/watch?v=UwZL-QAfA0Q" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=pwr0w7Ou6_c&title=Bill+Gates+warns+billions+may+die+if+AI+remains+unchecked&lang=en&timestamp=1790546466&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=55">
-          <img src="https://ytcards.demolab.com/?id=pwr0w7Ou6_c&title=Bill+Gates+warns+billions+may+die+if+AI+remains+unchecked&lang=en&timestamp=1790546466&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=55" alt="Bill Gates warns billions may die if AI remains unchecked" title="Bill Gates warns billions may die if AI remains unchecked">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=UwZL-QAfA0Q&title=Bill+Gates+warns+artificial+intelligence+could+cause+%E2%80%98a+billion+deaths%E2%80%99&lang=en&timestamp=1790602639&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=281">
+          <img src="https://ytcards.demolab.com/?id=UwZL-QAfA0Q&title=Bill+Gates+warns+artificial+intelligence+could+cause+%E2%80%98a+billion+deaths%E2%80%99&lang=en&timestamp=1790602639&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=281" alt="Bill Gates warns artificial intelligence could cause ‘a billion deaths’" title="Bill Gates warns artificial intelligence could cause ‘a billion deaths’">
         </picture>
       </a>
     </td>
