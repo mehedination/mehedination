@@ -575,56 +575,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=m9QVgJufSEg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=m9QVgJufSEg&title=AI+expert+Dr.+Chris+Mattmann+breaks+down+the+future+of+artificial+intelligence&lang=en&timestamp=1790722609&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=612">
-          <img src="https://ytcards.demolab.com/?id=m9QVgJufSEg&title=AI+expert+Dr.+Chris+Mattmann+breaks+down+the+future+of+artificial+intelligence&lang=en&timestamp=1790722609&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=612" alt="AI expert Dr. Chris Mattmann breaks down the future of artificial intelligence" title="AI expert Dr. Chris Mattmann breaks down the future of artificial intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=m9QVgJufSEg&title=AI+expert+Dr.+Chris+Mattmann+breaks+down+the+future+of+artificial+intelligence&lang=en&timestamp=1790721905&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=612">
+          <img src="https://ytcards.demolab.com/?id=m9QVgJufSEg&title=AI+expert+Dr.+Chris+Mattmann+breaks+down+the+future+of+artificial+intelligence&lang=en&timestamp=1790721905&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=612" alt="AI expert Dr. Chris Mattmann breaks down the future of artificial intelligence" title="AI expert Dr. Chris Mattmann breaks down the future of artificial intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=D8lDoI4yLLA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=fyRVwKEK508" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=D8lDoI4yLLA&title=Anthropic%27s+Dario+Amodei%2C+Meta%27s+Mark+Zuckerberg+%26+Google%27s+Sundar+Pichai+talk+AI+with+Donald+Trump&lang=en&timestamp=1790715409&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=261">
-          <img src="https://ytcards.demolab.com/?id=D8lDoI4yLLA&title=Anthropic%27s+Dario+Amodei%2C+Meta%27s+Mark+Zuckerberg+%26+Google%27s+Sundar+Pichai+talk+AI+with+Donald+Trump&lang=en&timestamp=1790715409&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=261" alt="Anthropic's Dario Amodei, Meta's Mark Zuckerberg & Google's Sundar Pichai talk AI with Donald Trump" title="Anthropic's Dario Amodei, Meta's Mark Zuckerberg & Google's Sundar Pichai talk AI with Donald Trump">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=fyRVwKEK508&title=Artificial+intelligence+backlash+is+%E2%80%98largely+misplaced%E2%80%99&lang=en&timestamp=1790761505&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=845">
+          <img src="https://ytcards.demolab.com/?id=fyRVwKEK508&title=Artificial+intelligence+backlash+is+%E2%80%98largely+misplaced%E2%80%99&lang=en&timestamp=1790761505&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=845" alt="Artificial intelligence backlash is ‘largely misplaced’" title="Artificial intelligence backlash is ‘largely misplaced’">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=hWFoeLRTqeU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=qL5mM_QqTZU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hWFoeLRTqeU&title=Trump+says+AI+companies+can+self-police+after+White+House+meeting&lang=en&timestamp=1790726209&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=114">
-          <img src="https://ytcards.demolab.com/?id=hWFoeLRTqeU&title=Trump+says+AI+companies+can+self-police+after+White+House+meeting&lang=en&timestamp=1790726209&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=114" alt="Trump says AI companies can self-police after White House meeting" title="Trump says AI companies can self-police after White House meeting">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qL5mM_QqTZU&title=The+Big+AI+Debate%3A+As+Artificial+Intelligence+Becomes+Too+Powerful%2C+Can+We+Win+It+Safely%3F&lang=en&timestamp=1790775905&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1217">
+          <img src="https://ytcards.demolab.com/?id=qL5mM_QqTZU&title=The+Big+AI+Debate%3A+As+Artificial+Intelligence+Becomes+Too+Powerful%2C+Can+We+Win+It+Safely%3F&lang=en&timestamp=1790775905&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1217" alt="The Big AI Debate: As Artificial Intelligence Becomes Too Powerful, Can We Win It Safely?" title="The Big AI Debate: As Artificial Intelligence Becomes Too Powerful, Can We Win It Safely?">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Hn-CoXhZImw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Xmsii0UgGzc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Hn-CoXhZImw&title=Meet+the+Press+NOW+%E2%80%94+September+29&lang=en&timestamp=1790719009&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2394">
-          <img src="https://ytcards.demolab.com/?id=Hn-CoXhZImw&title=Meet+the+Press+NOW+%E2%80%94+September+29&lang=en&timestamp=1790719009&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2394" alt="Meet the Press NOW — September 29" title="Meet the Press NOW — September 29">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Xmsii0UgGzc&title=AT%26T+CEO%3A+Upstream+data+demand+has+DOUBLED&lang=en&timestamp=1790736305&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=866">
+          <img src="https://ytcards.demolab.com/?id=Xmsii0UgGzc&title=AT%26T+CEO%3A+Upstream+data+demand+has+DOUBLED&lang=en&timestamp=1790736305&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=866" alt="AT&T CEO: Upstream data demand has DOUBLED" title="AT&T CEO: Upstream data demand has DOUBLED">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=xPn-QaI1Fmo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=D8lDoI4yLLA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xPn-QaI1Fmo&title=President+Trump+signs+new+artificial+intelligence+commitment+with+AI-powered+government+website&lang=en&timestamp=1790726209&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=92">
-          <img src="https://ytcards.demolab.com/?id=xPn-QaI1Fmo&title=President+Trump+signs+new+artificial+intelligence+commitment+with+AI-powered+government+website&lang=en&timestamp=1790726209&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=92" alt="President Trump signs new artificial intelligence commitment with AI-powered government website" title="President Trump signs new artificial intelligence commitment with AI-powered government website">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=D8lDoI4yLLA&title=Anthropic%27s+Dario+Amodei%2C+Meta%27s+Mark+Zuckerberg+%26+Google%27s+Sundar+Pichai+talk+AI+with+Donald+Trump&lang=en&timestamp=1790714705&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=261">
+          <img src="https://ytcards.demolab.com/?id=D8lDoI4yLLA&title=Anthropic%27s+Dario+Amodei%2C+Meta%27s+Mark+Zuckerberg+%26+Google%27s+Sundar+Pichai+talk+AI+with+Donald+Trump&lang=en&timestamp=1790714705&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=261" alt="Anthropic's Dario Amodei, Meta's Mark Zuckerberg & Google's Sundar Pichai talk AI with Donald Trump" title="Anthropic's Dario Amodei, Meta's Mark Zuckerberg & Google's Sundar Pichai talk AI with Donald Trump">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=qR9N6AVxud8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=XiE5az5xW-w" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qR9N6AVxud8&title=Trump%E2%80%99s+AI+deal%3A+Can+government+and+tech+regulate+artificial+intelligence%3F+%7C+On+Balance&lang=en&timestamp=1790755009&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=455">
-          <img src="https://ytcards.demolab.com/?id=qR9N6AVxud8&title=Trump%E2%80%99s+AI+deal%3A+Can+government+and+tech+regulate+artificial+intelligence%3F+%7C+On+Balance&lang=en&timestamp=1790755009&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=455" alt="Trump’s AI deal: Can government and tech regulate artificial intelligence? | On Balance" title="Trump’s AI deal: Can government and tech regulate artificial intelligence? | On Balance">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XiE5az5xW-w&title=Unstable+Market+%26+Job+Anxiety%3A+Human+Intelligence+%2B+Artificial+Intelligence+%7C+AI+Live+04&lang=en&timestamp=1790750705&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3623">
+          <img src="https://ytcards.demolab.com/?id=XiE5az5xW-w&title=Unstable+Market+%26+Job+Anxiety%3A+Human+Intelligence+%2B+Artificial+Intelligence+%7C+AI+Live+04&lang=en&timestamp=1790750705&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3623" alt="Unstable Market & Job Anxiety: Human Intelligence + Artificial Intelligence | AI Live 04" title="Unstable Market & Job Anxiety: Human Intelligence + Artificial Intelligence | AI Live 04">
         </picture>
       </a>
     </td>
