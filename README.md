@@ -574,56 +574,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=m9QVgJufSEg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=m9QVgJufSEg&title=AI+expert+Dr.+Chris+Mattmann+breaks+down+the+future+of+artificial+intelligence&lang=en&timestamp=1790720758&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=612">
-          <img src="https://ytcards.demolab.com/?id=m9QVgJufSEg&title=AI+expert+Dr.+Chris+Mattmann+breaks+down+the+future+of+artificial+intelligence&lang=en&timestamp=1790720758&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=612" alt="AI expert Dr. Chris Mattmann breaks down the future of artificial intelligence" title="AI expert Dr. Chris Mattmann breaks down the future of artificial intelligence">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=hWFoeLRTqeU" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hWFoeLRTqeU&title=Trump+agrees+to+let+AI+leaders+police+themselves&lang=en&timestamp=1790727958&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=114">
-          <img src="https://ytcards.demolab.com/?id=hWFoeLRTqeU&title=Trump+agrees+to+let+AI+leaders+police+themselves&lang=en&timestamp=1790727958&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=114" alt="Trump agrees to let AI leaders police themselves" title="Trump agrees to let AI leaders police themselves">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=m9QVgJufSEg&title=AI+expert+Dr.+Chris+Mattmann+breaks+down+the+future+of+artificial+intelligence&lang=en&timestamp=1790722609&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=612">
+          <img src="https://ytcards.demolab.com/?id=m9QVgJufSEg&title=AI+expert+Dr.+Chris+Mattmann+breaks+down+the+future+of+artificial+intelligence&lang=en&timestamp=1790722609&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=612" alt="AI expert Dr. Chris Mattmann breaks down the future of artificial intelligence" title="AI expert Dr. Chris Mattmann breaks down the future of artificial intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=D8lDoI4yLLA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=D8lDoI4yLLA&title=Anthropic%27s+Dario+Amodei%2C+Meta%27s+Mark+Zuckerberg+%26+Google%27s+Sundar+Pichai+talk+AI+with+Donald+Trump&lang=en&timestamp=1790717158&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=261">
-          <img src="https://ytcards.demolab.com/?id=D8lDoI4yLLA&title=Anthropic%27s+Dario+Amodei%2C+Meta%27s+Mark+Zuckerberg+%26+Google%27s+Sundar+Pichai+talk+AI+with+Donald+Trump&lang=en&timestamp=1790717158&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=261" alt="Anthropic's Dario Amodei, Meta's Mark Zuckerberg & Google's Sundar Pichai talk AI with Donald Trump" title="Anthropic's Dario Amodei, Meta's Mark Zuckerberg & Google's Sundar Pichai talk AI with Donald Trump">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=D8lDoI4yLLA&title=Anthropic%27s+Dario+Amodei%2C+Meta%27s+Mark+Zuckerberg+%26+Google%27s+Sundar+Pichai+talk+AI+with+Donald+Trump&lang=en&timestamp=1790715409&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=261">
+          <img src="https://ytcards.demolab.com/?id=D8lDoI4yLLA&title=Anthropic%27s+Dario+Amodei%2C+Meta%27s+Mark+Zuckerberg+%26+Google%27s+Sundar+Pichai+talk+AI+with+Donald+Trump&lang=en&timestamp=1790715409&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=261" alt="Anthropic's Dario Amodei, Meta's Mark Zuckerberg & Google's Sundar Pichai talk AI with Donald Trump" title="Anthropic's Dario Amodei, Meta's Mark Zuckerberg & Google's Sundar Pichai talk AI with Donald Trump">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=hWFoeLRTqeU" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hWFoeLRTqeU&title=Trump+says+AI+companies+can+self-police+after+White+House+meeting&lang=en&timestamp=1790726209&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=114">
+          <img src="https://ytcards.demolab.com/?id=hWFoeLRTqeU&title=Trump+says+AI+companies+can+self-police+after+White+House+meeting&lang=en&timestamp=1790726209&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=114" alt="Trump says AI companies can self-police after White House meeting" title="Trump says AI companies can self-police after White House meeting">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
+      <a href="https://www.youtube.com/watch?v=Hn-CoXhZImw" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Hn-CoXhZImw&title=Meet+the+Press+NOW+%E2%80%94+September+29&lang=en&timestamp=1790719009&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2394">
+          <img src="https://ytcards.demolab.com/?id=Hn-CoXhZImw&title=Meet+the+Press+NOW+%E2%80%94+September+29&lang=en&timestamp=1790719009&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2394" alt="Meet the Press NOW — September 29" title="Meet the Press NOW — September 29">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
       <a href="https://www.youtube.com/watch?v=xPn-QaI1Fmo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xPn-QaI1Fmo&title=President+Trump+signs+new+artificial+intelligence+commitment+with+AI-powered+government+website&lang=en&timestamp=1790727958&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=92">
-          <img src="https://ytcards.demolab.com/?id=xPn-QaI1Fmo&title=President+Trump+signs+new+artificial+intelligence+commitment+with+AI-powered+government+website&lang=en&timestamp=1790727958&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=92" alt="President Trump signs new artificial intelligence commitment with AI-powered government website" title="President Trump signs new artificial intelligence commitment with AI-powered government website">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xPn-QaI1Fmo&title=President+Trump+signs+new+artificial+intelligence+commitment+with+AI-powered+government+website&lang=en&timestamp=1790726209&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=92">
+          <img src="https://ytcards.demolab.com/?id=xPn-QaI1Fmo&title=President+Trump+signs+new+artificial+intelligence+commitment+with+AI-powered+government+website&lang=en&timestamp=1790726209&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=92" alt="President Trump signs new artificial intelligence commitment with AI-powered government website" title="President Trump signs new artificial intelligence commitment with AI-powered government website">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ZtLTHbzw7_g" target="_blank">
+      <a href="https://www.youtube.com/watch?v=qR9N6AVxud8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ZtLTHbzw7_g&title=LIVE%3A+Trump+Speaks+After+Meeting+Musk%2C+Zuckerberg%2C+Huang+and+AI+Leaders+at+White+House+%7C+AC1N&lang=en&timestamp=1790713558&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1995">
-          <img src="https://ytcards.demolab.com/?id=ZtLTHbzw7_g&title=LIVE%3A+Trump+Speaks+After+Meeting+Musk%2C+Zuckerberg%2C+Huang+and+AI+Leaders+at+White+House+%7C+AC1N&lang=en&timestamp=1790713558&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1995" alt="LIVE: Trump Speaks After Meeting Musk, Zuckerberg, Huang and AI Leaders at White House | AC1N" title="LIVE: Trump Speaks After Meeting Musk, Zuckerberg, Huang and AI Leaders at White House | AC1N">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=G8n4O_KsFc8" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=G8n4O_KsFc8&title=AI+meeting+at+White+House+on+Tuesday&lang=en&timestamp=1790695558&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=59">
-          <img src="https://ytcards.demolab.com/?id=G8n4O_KsFc8&title=AI+meeting+at+White+House+on+Tuesday&lang=en&timestamp=1790695558&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=59" alt="AI meeting at White House on Tuesday" title="AI meeting at White House on Tuesday">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qR9N6AVxud8&title=Trump%E2%80%99s+AI+deal%3A+Can+government+and+tech+regulate+artificial+intelligence%3F+%7C+On+Balance&lang=en&timestamp=1790755009&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=455">
+          <img src="https://ytcards.demolab.com/?id=qR9N6AVxud8&title=Trump%E2%80%99s+AI+deal%3A+Can+government+and+tech+regulate+artificial+intelligence%3F+%7C+On+Balance&lang=en&timestamp=1790755009&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=455" alt="Trump’s AI deal: Can government and tech regulate artificial intelligence? | On Balance" title="Trump’s AI deal: Can government and tech regulate artificial intelligence? | On Balance">
         </picture>
       </a>
     </td>
