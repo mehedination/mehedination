@@ -573,56 +573,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=zW2GaUwDQyA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=m9QVgJufSEg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zW2GaUwDQyA&title=AI+risks%3A+Will+artificial+intelligence+really+kill+us+all%3F&lang=en&timestamp=1790545039&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=514">
-          <img src="https://ytcards.demolab.com/?id=zW2GaUwDQyA&title=AI+risks%3A+Will+artificial+intelligence+really+kill+us+all%3F&lang=en&timestamp=1790545039&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=514" alt="AI risks: Will artificial intelligence really kill us all?" title="AI risks: Will artificial intelligence really kill us all?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=m9QVgJufSEg&title=AI+expert+Dr.+Chris+Mattmann+breaks+down+the+future+of+artificial+intelligence&lang=en&timestamp=1790720758&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=612">
+          <img src="https://ytcards.demolab.com/?id=m9QVgJufSEg&title=AI+expert+Dr.+Chris+Mattmann+breaks+down+the+future+of+artificial+intelligence&lang=en&timestamp=1790720758&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=612" alt="AI expert Dr. Chris Mattmann breaks down the future of artificial intelligence" title="AI expert Dr. Chris Mattmann breaks down the future of artificial intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=LI4dzDlC6uo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=hWFoeLRTqeU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=LI4dzDlC6uo&title=Contradicting+Trump%2C+Pope+Leo+says+artificial+intelligence+safety+concerns+not+%27fake+news%27&lang=en&timestamp=1790629519&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=87">
-          <img src="https://ytcards.demolab.com/?id=LI4dzDlC6uo&title=Contradicting+Trump%2C+Pope+Leo+says+artificial+intelligence+safety+concerns+not+%27fake+news%27&lang=en&timestamp=1790629519&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=87" alt="Contradicting Trump, Pope Leo says artificial intelligence safety concerns not 'fake news'" title="Contradicting Trump, Pope Leo says artificial intelligence safety concerns not 'fake news'">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hWFoeLRTqeU&title=Trump+agrees+to+let+AI+leaders+police+themselves&lang=en&timestamp=1790727958&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=114">
+          <img src="https://ytcards.demolab.com/?id=hWFoeLRTqeU&title=Trump+agrees+to+let+AI+leaders+police+themselves&lang=en&timestamp=1790727958&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=114" alt="Trump agrees to let AI leaders police themselves" title="Trump agrees to let AI leaders police themselves">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=30WqG3ljRA0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=D8lDoI4yLLA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=30WqG3ljRA0&title=Bill+Gates+warns+unchecked+AI+could+%E2%80%98cause+a+billion+deaths%E2%80%99&lang=en&timestamp=1790545039&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=529">
-          <img src="https://ytcards.demolab.com/?id=30WqG3ljRA0&title=Bill+Gates+warns+unchecked+AI+could+%E2%80%98cause+a+billion+deaths%E2%80%99&lang=en&timestamp=1790545039&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=529" alt="Bill Gates warns unchecked AI could ‘cause a billion deaths’" title="Bill Gates warns unchecked AI could ‘cause a billion deaths’">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=D8lDoI4yLLA&title=Anthropic%27s+Dario+Amodei%2C+Meta%27s+Mark+Zuckerberg+%26+Google%27s+Sundar+Pichai+talk+AI+with+Donald+Trump&lang=en&timestamp=1790717158&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=261">
+          <img src="https://ytcards.demolab.com/?id=D8lDoI4yLLA&title=Anthropic%27s+Dario+Amodei%2C+Meta%27s+Mark+Zuckerberg+%26+Google%27s+Sundar+Pichai+talk+AI+with+Donald+Trump&lang=en&timestamp=1790717158&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=261" alt="Anthropic's Dario Amodei, Meta's Mark Zuckerberg & Google's Sundar Pichai talk AI with Donald Trump" title="Anthropic's Dario Amodei, Meta's Mark Zuckerberg & Google's Sundar Pichai talk AI with Donald Trump">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=406w1iSAKOE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=xPn-QaI1Fmo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=406w1iSAKOE&title=Albanese+takes+aim+at+AI+to+%E2%80%98score+political+points%E2%80%99&lang=en&timestamp=1790570239&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=462">
-          <img src="https://ytcards.demolab.com/?id=406w1iSAKOE&title=Albanese+takes+aim+at+AI+to+%E2%80%98score+political+points%E2%80%99&lang=en&timestamp=1790570239&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=462" alt="Albanese takes aim at AI to ‘score political points’" title="Albanese takes aim at AI to ‘score political points’">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xPn-QaI1Fmo&title=President+Trump+signs+new+artificial+intelligence+commitment+with+AI-powered+government+website&lang=en&timestamp=1790727958&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=92">
+          <img src="https://ytcards.demolab.com/?id=xPn-QaI1Fmo&title=President+Trump+signs+new+artificial+intelligence+commitment+with+AI-powered+government+website&lang=en&timestamp=1790727958&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=92" alt="President Trump signs new artificial intelligence commitment with AI-powered government website" title="President Trump signs new artificial intelligence commitment with AI-powered government website">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=iOCirYYc4No" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ZtLTHbzw7_g" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=iOCirYYc4No&title=The+Evolution+Of+Artificial+Intelligence%2C+This+West+Virginia+Morning&lang=en&timestamp=1790609839&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=551">
-          <img src="https://ytcards.demolab.com/?id=iOCirYYc4No&title=The+Evolution+Of+Artificial+Intelligence%2C+This+West+Virginia+Morning&lang=en&timestamp=1790609839&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=551" alt="The Evolution Of Artificial Intelligence, This West Virginia Morning" title="The Evolution Of Artificial Intelligence, This West Virginia Morning">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ZtLTHbzw7_g&title=LIVE%3A+Trump+Speaks+After+Meeting+Musk%2C+Zuckerberg%2C+Huang+and+AI+Leaders+at+White+House+%7C+AC1N&lang=en&timestamp=1790713558&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1995">
+          <img src="https://ytcards.demolab.com/?id=ZtLTHbzw7_g&title=LIVE%3A+Trump+Speaks+After+Meeting+Musk%2C+Zuckerberg%2C+Huang+and+AI+Leaders+at+White+House+%7C+AC1N&lang=en&timestamp=1790713558&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1995" alt="LIVE: Trump Speaks After Meeting Musk, Zuckerberg, Huang and AI Leaders at White House | AC1N" title="LIVE: Trump Speaks After Meeting Musk, Zuckerberg, Huang and AI Leaders at White House | AC1N">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=UwZL-QAfA0Q" target="_blank">
+      <a href="https://www.youtube.com/watch?v=G8n4O_KsFc8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=UwZL-QAfA0Q&title=Bill+Gates+warns+artificial+intelligence+could+cause+%E2%80%98a+billion+deaths%E2%80%99&lang=en&timestamp=1790602639&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=281">
-          <img src="https://ytcards.demolab.com/?id=UwZL-QAfA0Q&title=Bill+Gates+warns+artificial+intelligence+could+cause+%E2%80%98a+billion+deaths%E2%80%99&lang=en&timestamp=1790602639&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=281" alt="Bill Gates warns artificial intelligence could cause ‘a billion deaths’" title="Bill Gates warns artificial intelligence could cause ‘a billion deaths’">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=G8n4O_KsFc8&title=AI+meeting+at+White+House+on+Tuesday&lang=en&timestamp=1790695558&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=59">
+          <img src="https://ytcards.demolab.com/?id=G8n4O_KsFc8&title=AI+meeting+at+White+House+on+Tuesday&lang=en&timestamp=1790695558&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=59" alt="AI meeting at White House on Tuesday" title="AI meeting at White House on Tuesday">
         </picture>
       </a>
     </td>
