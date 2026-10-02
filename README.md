@@ -578,56 +578,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=te6V2-q9dk4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=WsdcF7EEvhM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=te6V2-q9dk4&title=Trump+says+AI+leaders+signed+a+%27constitution%27+to+police+themselves&lang=en&timestamp=1790766403&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=122">
-          <img src="https://ytcards.demolab.com/?id=te6V2-q9dk4&title=Trump+says+AI+leaders+signed+a+%27constitution%27+to+police+themselves&lang=en&timestamp=1790766403&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=122" alt="Trump says AI leaders signed a 'constitution' to police themselves" title="Trump says AI leaders signed a 'constitution' to police themselves">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WsdcF7EEvhM&title=AI+is+So+Good+They%E2%80%99ll+Pay+You+to+Get+Out+of+the+Way&lang=en&timestamp=1790860815&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6294">
+          <img src="https://ytcards.demolab.com/?id=WsdcF7EEvhM&title=AI+is+So+Good+They%E2%80%99ll+Pay+You+to+Get+Out+of+the+Way&lang=en&timestamp=1790860815&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6294" alt="AI is So Good They’ll Pay You to Get Out of the Way" title="AI is So Good They’ll Pay You to Get Out of the Way">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=jN0mjyEZaTE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=XQNNFCJLchQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jN0mjyEZaTE&title=Musk%2C+Zuckerberg+and+Amodei+react+to+Trump%27s+self-policing+AI+pact&lang=en&timestamp=1790777203&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=165">
-          <img src="https://ytcards.demolab.com/?id=jN0mjyEZaTE&title=Musk%2C+Zuckerberg+and+Amodei+react+to+Trump%27s+self-policing+AI+pact&lang=en&timestamp=1790777203&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=165" alt="Musk, Zuckerberg and Amodei react to Trump's self-policing AI pact" title="Musk, Zuckerberg and Amodei react to Trump's self-policing AI pact">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XQNNFCJLchQ&title=Governor+Wes+Moore%27s+approach+to+Artificial+Intelligence&lang=en&timestamp=1790878815&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1360">
+          <img src="https://ytcards.demolab.com/?id=XQNNFCJLchQ&title=Governor+Wes+Moore%27s+approach+to+Artificial+Intelligence&lang=en&timestamp=1790878815&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1360" alt="Governor Wes Moore's approach to Artificial Intelligence" title="Governor Wes Moore's approach to Artificial Intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=qPo5326fg5o" target="_blank">
+      <a href="https://www.youtube.com/watch?v=7hJHZzXAoEM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qPo5326fg5o&title=President+Trump+permits+tech+companies+to+%27self-regulate%27+AI+expansion&lang=en&timestamp=1790791603&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=120">
-          <img src="https://ytcards.demolab.com/?id=qPo5326fg5o&title=President+Trump+permits+tech+companies+to+%27self-regulate%27+AI+expansion&lang=en&timestamp=1790791603&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=120" alt="President Trump permits tech companies to 'self-regulate' AI expansion" title="President Trump permits tech companies to 'self-regulate' AI expansion">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=7hJHZzXAoEM&title=US+Senate+LIVE+%7C+Rogue+AI+Threat%3F+Senate+Probes+Danger+Of+Artificial+Intelligence+Amid+Iran+War&lang=en&timestamp=1790853615&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=42896">
+          <img src="https://ytcards.demolab.com/?id=7hJHZzXAoEM&title=US+Senate+LIVE+%7C+Rogue+AI+Threat%3F+Senate+Probes+Danger+Of+Artificial+Intelligence+Amid+Iran+War&lang=en&timestamp=1790853615&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=42896" alt="US Senate LIVE | Rogue AI Threat? Senate Probes Danger Of Artificial Intelligence Amid Iran War" title="US Senate LIVE | Rogue AI Threat? Senate Probes Danger Of Artificial Intelligence Amid Iran War">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=wDAjehkO--k" target="_blank">
+      <a href="https://www.youtube.com/watch?v=BpdipP_Tk2s" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wDAjehkO--k&title=Trump+signs+order%2C+rebranding+AI+as+%E2%80%98super+intelligence%E2%80%99&lang=en&timestamp=1790773603&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=58">
-          <img src="https://ytcards.demolab.com/?id=wDAjehkO--k&title=Trump+signs+order%2C+rebranding+AI+as+%E2%80%98super+intelligence%E2%80%99&lang=en&timestamp=1790773603&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=58" alt="Trump signs order, rebranding AI as ‘super intelligence’" title="Trump signs order, rebranding AI as ‘super intelligence’">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BpdipP_Tk2s&title=Human+Language%2C+Artificial+Intelligence+%7C+Vera+Gruscevic&lang=en&timestamp=1790868015&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=99">
+          <img src="https://ytcards.demolab.com/?id=BpdipP_Tk2s&title=Human+Language%2C+Artificial+Intelligence+%7C+Vera+Gruscevic&lang=en&timestamp=1790868015&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=99" alt="Human Language, Artificial Intelligence | Vera Gruscevic" title="Human Language, Artificial Intelligence | Vera Gruscevic">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=rLC1iAMr36E" target="_blank">
+      <a href="https://www.youtube.com/watch?v=NNB0Zu34ttE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=rLC1iAMr36E&title=President+Trump+and+major+AI+executives+sign+voluntary+controls&lang=en&timestamp=1790770003&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=155">
-          <img src="https://ytcards.demolab.com/?id=rLC1iAMr36E&title=President+Trump+and+major+AI+executives+sign+voluntary+controls&lang=en&timestamp=1790770003&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=155" alt="President Trump and major AI executives sign voluntary controls" title="President Trump and major AI executives sign voluntary controls">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=NNB0Zu34ttE&title=What+Is+AI%3F+Artificial+Intelligence+Explained+Simply+%F0%9F%A4%96+%7C+Day+1+Series+%7C+%40CodlerCore&lang=en&timestamp=1790850015&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=285">
+          <img src="https://ytcards.demolab.com/?id=NNB0Zu34ttE&title=What+Is+AI%3F+Artificial+Intelligence+Explained+Simply+%F0%9F%A4%96+%7C+Day+1+Series+%7C+%40CodlerCore&lang=en&timestamp=1790850015&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=285" alt="What Is AI? Artificial Intelligence Explained Simply 🤖 | Day 1 Series | @CodlerCore" title="What Is AI? Artificial Intelligence Explained Simply 🤖 | Day 1 Series | @CodlerCore">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=8prHXLJcCHU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=_FFnHTfHmGk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8prHXLJcCHU&title=President+Trump+announces+AI+safety+accord+with+tech+leaders&lang=en&timestamp=1790773603&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=37">
-          <img src="https://ytcards.demolab.com/?id=8prHXLJcCHU&title=President+Trump+announces+AI+safety+accord+with+tech+leaders&lang=en&timestamp=1790773603&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=37" alt="President Trump announces AI safety accord with tech leaders" title="President Trump announces AI safety accord with tech leaders">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_FFnHTfHmGk&title=Artificial+Intelligence+Full+Course+Free+%7C+AI+Course+2026+%7C+Intellipaat&lang=en&timestamp=1790875215&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=37757">
+          <img src="https://ytcards.demolab.com/?id=_FFnHTfHmGk&title=Artificial+Intelligence+Full+Course+Free+%7C+AI+Course+2026+%7C+Intellipaat&lang=en&timestamp=1790875215&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=37757" alt="Artificial Intelligence Full Course Free | AI Course 2026 | Intellipaat" title="Artificial Intelligence Full Course Free | AI Course 2026 | Intellipaat">
         </picture>
       </a>
     </td>
