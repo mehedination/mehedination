@@ -583,56 +583,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=283-FIF7s40" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=283-FIF7s40&title=AI+Gone+Rogue+-+The+Terrifying+Truth+About+Artificial+Intelligence+%7C+Billy+Carson&lang=en&timestamp=1791074582&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6982">
-          <img src="https://ytcards.demolab.com/?id=283-FIF7s40&title=AI+Gone+Rogue+-+The+Terrifying+Truth+About+Artificial+Intelligence+%7C+Billy+Carson&lang=en&timestamp=1791074582&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6982" alt="AI Gone Rogue - The Terrifying Truth About Artificial Intelligence | Billy Carson" title="AI Gone Rogue - The Terrifying Truth About Artificial Intelligence | Billy Carson">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=JZuCrK1qt0k" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JZuCrK1qt0k&title=Randy+Ai+on+the+Future+of+Artificial+Intelligence+%7C+%22Ever-Changing+Technology%22+Jim+Bradfield+Podcast&lang=en&timestamp=1791124982&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2980">
-          <img src="https://ytcards.demolab.com/?id=JZuCrK1qt0k&title=Randy+Ai+on+the+Future+of+Artificial+Intelligence+%7C+%22Ever-Changing+Technology%22+Jim+Bradfield+Podcast&lang=en&timestamp=1791124982&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2980" alt="Randy Ai on the Future of Artificial Intelligence | &quot;Ever-Changing Technology&quot; Jim Bradfield Podcast" title="Randy Ai on the Future of Artificial Intelligence | &quot;Ever-Changing Technology&quot; Jim Bradfield Podcast">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=8VetwUUlnK0" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8VetwUUlnK0&title=AI+Just+Solved+the+Herculaneum+Scrolls+%E2%80%94+After+2%2C000+Years&lang=en&timestamp=1791063782&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=676">
-          <img src="https://ytcards.demolab.com/?id=8VetwUUlnK0&title=AI+Just+Solved+the+Herculaneum+Scrolls+%E2%80%94+After+2%2C000+Years&lang=en&timestamp=1791063782&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=676" alt="AI Just Solved the Herculaneum Scrolls — After 2,000 Years" title="AI Just Solved the Herculaneum Scrolls — After 2,000 Years">
-        </picture>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=pGlRF14KQgs" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=pGlRF14KQgs&title=The+world+is+spending+trillions+of+dollars+on+AI.+Will+it+pay+off%3F&lang=en&timestamp=1791042182&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=113">
-          <img src="https://ytcards.demolab.com/?id=pGlRF14KQgs&title=The+world+is+spending+trillions+of+dollars+on+AI.+Will+it+pay+off%3F&lang=en&timestamp=1791042182&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=113" alt="The world is spending trillions of dollars on AI. Will it pay off?" title="The world is spending trillions of dollars on AI. Will it pay off?">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=CfBdVIYV9qg" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=CfBdVIYV9qg&title=The+Misconception+of+Artificial+Intelligence+in+the+Workplace&lang=en&timestamp=1791063782&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=271">
-          <img src="https://ytcards.demolab.com/?id=CfBdVIYV9qg&title=The+Misconception+of+Artificial+Intelligence+in+the+Workplace&lang=en&timestamp=1791063782&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=271" alt="The Misconception of Artificial Intelligence in the Workplace" title="The Misconception of Artificial Intelligence in the Workplace">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=283-FIF7s40&title=AI+Gone+Rogue+-+The+Terrifying+Truth+About+Artificial+Intelligence+%7C+Billy+Carson&lang=en&timestamp=1791072960&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6982">
+          <img src="https://ytcards.demolab.com/?id=283-FIF7s40&title=AI+Gone+Rogue+-+The+Terrifying+Truth+About+Artificial+Intelligence+%7C+Billy+Carson&lang=en&timestamp=1791072960&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6982" alt="AI Gone Rogue - The Terrifying Truth About Artificial Intelligence | Billy Carson" title="AI Gone Rogue - The Terrifying Truth About Artificial Intelligence | Billy Carson">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=BXZrEM-_MLw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BXZrEM-_MLw&title=Trump+signs+executive+order+to+replace+%27artificial+intelligence%27+with+%27super+intelligence%27&lang=en&timestamp=1791049382&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2288">
-          <img src="https://ytcards.demolab.com/?id=BXZrEM-_MLw&title=Trump+signs+executive+order+to+replace+%27artificial+intelligence%27+with+%27super+intelligence%27&lang=en&timestamp=1791049382&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2288" alt="Trump signs executive order to replace 'artificial intelligence' with 'super intelligence'" title="Trump signs executive order to replace 'artificial intelligence' with 'super intelligence'">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BXZrEM-_MLw&title=Trump+signs+executive+order+to+replace+%27artificial+intelligence%27+with+%27super+intelligence%27&lang=en&timestamp=1791054960&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2288">
+          <img src="https://ytcards.demolab.com/?id=BXZrEM-_MLw&title=Trump+signs+executive+order+to+replace+%27artificial+intelligence%27+with+%27super+intelligence%27&lang=en&timestamp=1791054960&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2288" alt="Trump signs executive order to replace 'artificial intelligence' with 'super intelligence'" title="Trump signs executive order to replace 'artificial intelligence' with 'super intelligence'">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=lkuxhX580Wo" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lkuxhX580Wo&title=The+Chris+Voss+Show+Podcast+%E2%80%93+The+AI-Human+Paradox%3A+What+Artificial+Intelligence+Reveals+About+Co...&lang=en&timestamp=1791094560&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2080">
+          <img src="https://ytcards.demolab.com/?id=lkuxhX580Wo&title=The+Chris+Voss+Show+Podcast+%E2%80%93+The+AI-Human+Paradox%3A+What+Artificial+Intelligence+Reveals+About+Co...&lang=en&timestamp=1791094560&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2080" alt="The Chris Voss Show Podcast – The AI-Human Paradox: What Artificial Intelligence Reveals About Co..." title="The Chris Voss Show Podcast – The AI-Human Paradox: What Artificial Intelligence Reveals About Co...">
+        </picture>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=Nb9of8oTUeo" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Nb9of8oTUeo&title=Artificial+intelligence+takes+over+Command+%26+Conquer%3A+Red+Alert+2+&lang=en&timestamp=1791123360&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2938">
+          <img src="https://ytcards.demolab.com/?id=Nb9of8oTUeo&title=Artificial+intelligence+takes+over+Command+%26+Conquer%3A+Red+Alert+2+&lang=en&timestamp=1791123360&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2938" alt="Artificial intelligence takes over Command & Conquer: Red Alert 2 " title="Artificial intelligence takes over Command & Conquer: Red Alert 2 ">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=lNdTvtPvNGk" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lNdTvtPvNGk&title=Contradicting+Trump%2C+Pope+Leo+says+artificial+intelligence+safety+concerns+not+%27fake+news%27&lang=en&timestamp=1791080160&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=47">
+          <img src="https://ytcards.demolab.com/?id=lNdTvtPvNGk&title=Contradicting+Trump%2C+Pope+Leo+says+artificial+intelligence+safety+concerns+not+%27fake+news%27&lang=en&timestamp=1791080160&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=47" alt="Contradicting Trump, Pope Leo says artificial intelligence safety concerns not 'fake news'" title="Contradicting Trump, Pope Leo says artificial intelligence safety concerns not 'fake news'">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=LOPq-aIuCR4" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=LOPq-aIuCR4&title=%E2%80%98Artificial+Is+Fake%2C+Like+The+Press%21%E2%80%99+Trump+Defends+New+%E2%80%98Super+Intelligence%E2%80%99+Label+For+AI+%7C+Watch&lang=en&timestamp=1791112560&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=584">
+          <img src="https://ytcards.demolab.com/?id=LOPq-aIuCR4&title=%E2%80%98Artificial+Is+Fake%2C+Like+The+Press%21%E2%80%99+Trump+Defends+New+%E2%80%98Super+Intelligence%E2%80%99+Label+For+AI+%7C+Watch&lang=en&timestamp=1791112560&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=584" alt="‘Artificial Is Fake, Like The Press!’ Trump Defends New ‘Super Intelligence’ Label For AI | Watch" title="‘Artificial Is Fake, Like The Press!’ Trump Defends New ‘Super Intelligence’ Label For AI | Watch">
         </picture>
       </a>
     </td>
