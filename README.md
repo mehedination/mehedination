@@ -580,56 +580,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=WsdcF7EEvhM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=mUoChnvp6sE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WsdcF7EEvhM&title=AI+Is+Now+So+Good+They%E2%80%99ll+Pay+You+to+Quit&lang=en&timestamp=1790886256&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6294">
-          <img src="https://ytcards.demolab.com/?id=WsdcF7EEvhM&title=AI+Is+Now+So+Good+They%E2%80%99ll+Pay+You+to+Quit&lang=en&timestamp=1790886256&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6294" alt="AI Is Now So Good They’ll Pay You to Quit" title="AI Is Now So Good They’ll Pay You to Quit">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mUoChnvp6sE&title=Why+Philosophers+Are+Worried+About+AI&lang=en&timestamp=1791038661&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=760">
+          <img src="https://ytcards.demolab.com/?id=mUoChnvp6sE&title=Why+Philosophers+Are+Worried+About+AI&lang=en&timestamp=1791038661&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=760" alt="Why Philosophers Are Worried About AI" title="Why Philosophers Are Worried About AI">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=-fo7gN5qoDA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=BXZrEM-_MLw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-fo7gN5qoDA&title=Newsom+declares+Trump%E2%80%99s+%E2%80%98Super+Intelligence%E2%80%99+is+NOT+coming+to+California&lang=en&timestamp=1790936656&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=348">
-          <img src="https://ytcards.demolab.com/?id=-fo7gN5qoDA&title=Newsom+declares+Trump%E2%80%99s+%E2%80%98Super+Intelligence%E2%80%99+is+NOT+coming+to+California&lang=en&timestamp=1790936656&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=348" alt="Newsom declares Trump’s ‘Super Intelligence’ is NOT coming to California" title="Newsom declares Trump’s ‘Super Intelligence’ is NOT coming to California">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BXZrEM-_MLw&title=Trump+signs+executive+order+to+replace+%27artificial+intelligence%27+with+%27super+intelligence%27&lang=en&timestamp=1791049461&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2288">
+          <img src="https://ytcards.demolab.com/?id=BXZrEM-_MLw&title=Trump+signs+executive+order+to+replace+%27artificial+intelligence%27+with+%27super+intelligence%27&lang=en&timestamp=1791049461&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2288" alt="Trump signs executive order to replace 'artificial intelligence' with 'super intelligence'" title="Trump signs executive order to replace 'artificial intelligence' with 'super intelligence'">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=8mJge48EO1A" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Hz4AMy5vdwA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8mJge48EO1A&title=Promise+%26+Pitfalls%3A+Using+Artificial+Intelligence+%28AI%29+Wisely+in+Your+Brain+Tumor+Experience&lang=en&timestamp=1790969056&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5284">
-          <img src="https://ytcards.demolab.com/?id=8mJge48EO1A&title=Promise+%26+Pitfalls%3A+Using+Artificial+Intelligence+%28AI%29+Wisely+in+Your+Brain+Tumor+Experience&lang=en&timestamp=1790969056&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5284" alt="Promise & Pitfalls: Using Artificial Intelligence (AI) Wisely in Your Brain Tumor Experience" title="Promise & Pitfalls: Using Artificial Intelligence (AI) Wisely in Your Brain Tumor Experience">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Hz4AMy5vdwA&title=Citizen+weekend+interview+%7C+Artificial+Intelligence%3A+Promise%2C+Peril+and+the+Future+of+Humanity&lang=en&timestamp=1791056661&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1239">
+          <img src="https://ytcards.demolab.com/?id=Hz4AMy5vdwA&title=Citizen+weekend+interview+%7C+Artificial+Intelligence%3A+Promise%2C+Peril+and+the+Future+of+Humanity&lang=en&timestamp=1791056661&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1239" alt="Citizen weekend interview | Artificial Intelligence: Promise, Peril and the Future of Humanity" title="Citizen weekend interview | Artificial Intelligence: Promise, Peril and the Future of Humanity">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Dc1i9gNypnE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=xGf7kglapR8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Dc1i9gNypnE&title=Authentic+Truth+about+Artificial+Intelligence&lang=en&timestamp=1790904256&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=559">
-          <img src="https://ytcards.demolab.com/?id=Dc1i9gNypnE&title=Authentic+Truth+about+Artificial+Intelligence&lang=en&timestamp=1790904256&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=559" alt="Authentic Truth about Artificial Intelligence" title="Authentic Truth about Artificial Intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xGf7kglapR8&title=AI+expert+pokes+fun+at+%E2%80%98APOCALYPTIC+pessimism%E2%80%99&lang=en&timestamp=1791056661&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=193">
+          <img src="https://ytcards.demolab.com/?id=xGf7kglapR8&title=AI+expert+pokes+fun+at+%E2%80%98APOCALYPTIC+pessimism%E2%80%99&lang=en&timestamp=1791056661&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=193" alt="AI expert pokes fun at ‘APOCALYPTIC pessimism’" title="AI expert pokes fun at ‘APOCALYPTIC pessimism’">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=T-QbVX8NKak" target="_blank">
+      <a href="https://www.youtube.com/watch?v=CHZ1KxpvAuU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=T-QbVX8NKak&title=On+AI%2C+Trump+Calls+for+%27Self-Regulation%27&lang=en&timestamp=1790886256&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1266">
-          <img src="https://ytcards.demolab.com/?id=T-QbVX8NKak&title=On+AI%2C+Trump+Calls+for+%27Self-Regulation%27&lang=en&timestamp=1790886256&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1266" alt="On AI, Trump Calls for 'Self-Regulation'" title="On AI, Trump Calls for 'Self-Regulation'">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=CHZ1KxpvAuU&title=Rogue+AI+concerns+hearing&lang=en&timestamp=1791035061&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=99">
+          <img src="https://ytcards.demolab.com/?id=CHZ1KxpvAuU&title=Rogue+AI+concerns+hearing&lang=en&timestamp=1791035061&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=99" alt="Rogue AI concerns hearing" title="Rogue AI concerns hearing">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=0qmZqoS5rcI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=qAohmlakIa4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=0qmZqoS5rcI&title=Row+over+bestseller+fuels+fear+over+future+of+literature+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1790889856&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2647">
-          <img src="https://ytcards.demolab.com/?id=0qmZqoS5rcI&title=Row+over+bestseller+fuels+fear+over+future+of+literature+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1790889856&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2647" alt="Row over bestseller fuels fear over future of literature • FRANCE 24 English" title="Row over bestseller fuels fear over future of literature • FRANCE 24 English">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qAohmlakIa4&title=AI+%26+Your+Future+%7C+SolaTeach+Webinar&lang=en&timestamp=1791056661&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1761">
+          <img src="https://ytcards.demolab.com/?id=qAohmlakIa4&title=AI+%26+Your+Future+%7C+SolaTeach+Webinar&lang=en&timestamp=1791056661&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1761" alt="AI & Your Future | SolaTeach Webinar" title="AI & Your Future | SolaTeach Webinar">
         </picture>
       </a>
     </td>
