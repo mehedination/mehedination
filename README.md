@@ -581,56 +581,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
+      <a href="https://www.youtube.com/watch?v=283-FIF7s40" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=283-FIF7s40&title=AI+Gone+Rogue+-+The+Terrifying+Truth+About+Artificial+Intelligence+%7C+Billy+Carson&lang=en&timestamp=1791075419&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6982">
+          <img src="https://ytcards.demolab.com/?id=283-FIF7s40&title=AI+Gone+Rogue+-+The+Terrifying+Truth+About+Artificial+Intelligence+%7C+Billy+Carson&lang=en&timestamp=1791075419&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6982" alt="AI Gone Rogue - The Terrifying Truth About Artificial Intelligence | Billy Carson" title="AI Gone Rogue - The Terrifying Truth About Artificial Intelligence | Billy Carson">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
       <a href="https://www.youtube.com/watch?v=mUoChnvp6sE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mUoChnvp6sE&title=Why+Philosophers+Are+Worried+About+AI&lang=en&timestamp=1791038661&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=760">
-          <img src="https://ytcards.demolab.com/?id=mUoChnvp6sE&title=Why+Philosophers+Are+Worried+About+AI&lang=en&timestamp=1791038661&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=760" alt="Why Philosophers Are Worried About AI" title="Why Philosophers Are Worried About AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mUoChnvp6sE&title=Why+Philosophers+Are+Worried+About+AI&lang=en&timestamp=1791039419&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=760">
+          <img src="https://ytcards.demolab.com/?id=mUoChnvp6sE&title=Why+Philosophers+Are+Worried+About+AI&lang=en&timestamp=1791039419&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=760" alt="Why Philosophers Are Worried About AI" title="Why Philosophers Are Worried About AI">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=BXZrEM-_MLw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BXZrEM-_MLw&title=Trump+signs+executive+order+to+replace+%27artificial+intelligence%27+with+%27super+intelligence%27&lang=en&timestamp=1791049461&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2288">
-          <img src="https://ytcards.demolab.com/?id=BXZrEM-_MLw&title=Trump+signs+executive+order+to+replace+%27artificial+intelligence%27+with+%27super+intelligence%27&lang=en&timestamp=1791049461&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2288" alt="Trump signs executive order to replace 'artificial intelligence' with 'super intelligence'" title="Trump signs executive order to replace 'artificial intelligence' with 'super intelligence'">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Hz4AMy5vdwA" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Hz4AMy5vdwA&title=Citizen+weekend+interview+%7C+Artificial+Intelligence%3A+Promise%2C+Peril+and+the+Future+of+Humanity&lang=en&timestamp=1791056661&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1239">
-          <img src="https://ytcards.demolab.com/?id=Hz4AMy5vdwA&title=Citizen+weekend+interview+%7C+Artificial+Intelligence%3A+Promise%2C+Peril+and+the+Future+of+Humanity&lang=en&timestamp=1791056661&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1239" alt="Citizen weekend interview | Artificial Intelligence: Promise, Peril and the Future of Humanity" title="Citizen weekend interview | Artificial Intelligence: Promise, Peril and the Future of Humanity">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BXZrEM-_MLw&title=Trump+signs+executive+order+to+replace+%27artificial+intelligence%27+with+%27super+intelligence%27&lang=en&timestamp=1791050219&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2288">
+          <img src="https://ytcards.demolab.com/?id=BXZrEM-_MLw&title=Trump+signs+executive+order+to+replace+%27artificial+intelligence%27+with+%27super+intelligence%27&lang=en&timestamp=1791050219&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2288" alt="Trump signs executive order to replace 'artificial intelligence' with 'super intelligence'" title="Trump signs executive order to replace 'artificial intelligence' with 'super intelligence'">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
+      <a href="https://www.youtube.com/watch?v=Hz4AMy5vdwA" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Hz4AMy5vdwA&title=Citizen+weekend+interview+%7C+Artificial+Intelligence%3A+Promise%2C+Peril+and+the+Future+of+Humanity&lang=en&timestamp=1791057419&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1239">
+          <img src="https://ytcards.demolab.com/?id=Hz4AMy5vdwA&title=Citizen+weekend+interview+%7C+Artificial+Intelligence%3A+Promise%2C+Peril+and+the+Future+of+Humanity&lang=en&timestamp=1791057419&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1239" alt="Citizen weekend interview | Artificial Intelligence: Promise, Peril and the Future of Humanity" title="Citizen weekend interview | Artificial Intelligence: Promise, Peril and the Future of Humanity">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=g7oQ4_9yqJo" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=g7oQ4_9yqJo&title=Artificial+Intelligence+and+Nuclear+Weapons%3A+Who+Decides%3F&lang=en&timestamp=1791068219&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=793">
+          <img src="https://ytcards.demolab.com/?id=g7oQ4_9yqJo&title=Artificial+Intelligence+and+Nuclear+Weapons%3A+Who+Decides%3F&lang=en&timestamp=1791068219&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=793" alt="Artificial Intelligence and Nuclear Weapons: Who Decides?" title="Artificial Intelligence and Nuclear Weapons: Who Decides?">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
       <a href="https://www.youtube.com/watch?v=xGf7kglapR8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xGf7kglapR8&title=AI+expert+pokes+fun+at+%E2%80%98APOCALYPTIC+pessimism%E2%80%99&lang=en&timestamp=1791056661&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=193">
-          <img src="https://ytcards.demolab.com/?id=xGf7kglapR8&title=AI+expert+pokes+fun+at+%E2%80%98APOCALYPTIC+pessimism%E2%80%99&lang=en&timestamp=1791056661&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=193" alt="AI expert pokes fun at ‘APOCALYPTIC pessimism’" title="AI expert pokes fun at ‘APOCALYPTIC pessimism’">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=CHZ1KxpvAuU" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=CHZ1KxpvAuU&title=Rogue+AI+concerns+hearing&lang=en&timestamp=1791035061&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=99">
-          <img src="https://ytcards.demolab.com/?id=CHZ1KxpvAuU&title=Rogue+AI+concerns+hearing&lang=en&timestamp=1791035061&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=99" alt="Rogue AI concerns hearing" title="Rogue AI concerns hearing">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=qAohmlakIa4" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qAohmlakIa4&title=AI+%26+Your+Future+%7C+SolaTeach+Webinar&lang=en&timestamp=1791056661&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1761">
-          <img src="https://ytcards.demolab.com/?id=qAohmlakIa4&title=AI+%26+Your+Future+%7C+SolaTeach+Webinar&lang=en&timestamp=1791056661&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1761" alt="AI & Your Future | SolaTeach Webinar" title="AI & Your Future | SolaTeach Webinar">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xGf7kglapR8&title=AI+expert+pokes+fun+at+%E2%80%98APOCALYPTIC+pessimism%E2%80%99&lang=en&timestamp=1791057419&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=193">
+          <img src="https://ytcards.demolab.com/?id=xGf7kglapR8&title=AI+expert+pokes+fun+at+%E2%80%98APOCALYPTIC+pessimism%E2%80%99&lang=en&timestamp=1791057419&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=193" alt="AI expert pokes fun at ‘APOCALYPTIC pessimism’" title="AI expert pokes fun at ‘APOCALYPTIC pessimism’">
         </picture>
       </a>
     </td>
