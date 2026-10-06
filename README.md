@@ -588,56 +588,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=peNzGhlAeZw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=veP6jdvy7j8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=peNzGhlAeZw&title=Will+AI+take+your+job%3F+Or+will+it+transform+the+way+you+work%3F+%7C+60+Minutes&lang=en&timestamp=1791172868&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=796">
-          <img src="https://ytcards.demolab.com/?id=peNzGhlAeZw&title=Will+AI+take+your+job%3F+Or+will+it+transform+the+way+you+work%3F+%7C+60+Minutes&lang=en&timestamp=1791172868&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=796" alt="Will AI take your job? Or will it transform the way you work? | 60 Minutes" title="Will AI take your job? Or will it transform the way you work? | 60 Minutes">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=veP6jdvy7j8&title=BREAKING%3A+OpenAI+Whistleblower+Jacob+Coxon+Warns+Of+%E2%80%98Human+Extinction%E2%80%99+At+NYC+Council+Hearing&lang=en&timestamp=1791218234&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=345">
+          <img src="https://ytcards.demolab.com/?id=veP6jdvy7j8&title=BREAKING%3A+OpenAI+Whistleblower+Jacob+Coxon+Warns+Of+%E2%80%98Human+Extinction%E2%80%99+At+NYC+Council+Hearing&lang=en&timestamp=1791218234&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=345" alt="BREAKING: OpenAI Whistleblower Jacob Coxon Warns Of ‘Human Extinction’ At NYC Council Hearing" title="BREAKING: OpenAI Whistleblower Jacob Coxon Warns Of ‘Human Extinction’ At NYC Council Hearing">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=dk-hx4_cqpk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=w3u7NV0k3h0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=dk-hx4_cqpk&title=AI+Just+Exploded%3A+GPT-7+BEL%2C+99%25+AGI%2C+Gemini+4+RSI%2C+Alien+Mind%2C+JEV&lang=en&timestamp=1791151268&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6221">
-          <img src="https://ytcards.demolab.com/?id=dk-hx4_cqpk&title=AI+Just+Exploded%3A+GPT-7+BEL%2C+99%25+AGI%2C+Gemini+4+RSI%2C+Alien+Mind%2C+JEV&lang=en&timestamp=1791151268&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6221" alt="AI Just Exploded: GPT-7 BEL, 99% AGI, Gemini 4 RSI, Alien Mind, JEV" title="AI Just Exploded: GPT-7 BEL, 99% AGI, Gemini 4 RSI, Alien Mind, JEV">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=w3u7NV0k3h0&title=WEDGE+ISSUE%3A+Democrats+use+AI+to+win+over+blue-collar+voters&lang=en&timestamp=1791185834&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=537">
+          <img src="https://ytcards.demolab.com/?id=w3u7NV0k3h0&title=WEDGE+ISSUE%3A+Democrats+use+AI+to+win+over+blue-collar+voters&lang=en&timestamp=1791185834&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=537" alt="WEDGE ISSUE: Democrats use AI to win over blue-collar voters" title="WEDGE ISSUE: Democrats use AI to win over blue-collar voters">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=-HzHFSxRcro" target="_blank">
+      <a href="https://www.youtube.com/watch?v=tdK9eT1KBmk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-HzHFSxRcro&title=WTF+is+Going+On%3F+%7C+The+%22AI+Constitution%22+%26+Regulation&lang=en&timestamp=1791169268&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1764">
-          <img src="https://ytcards.demolab.com/?id=-HzHFSxRcro&title=WTF+is+Going+On%3F+%7C+The+%22AI+Constitution%22+%26+Regulation&lang=en&timestamp=1791169268&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1764" alt="WTF is Going On? | The &quot;AI Constitution&quot; & Regulation" title="WTF is Going On? | The &quot;AI Constitution&quot; & Regulation">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tdK9eT1KBmk&title=Trump+creates+%27Super+Intelligence%27+AI+task+force+to+keep+US+ahead+of+technology&lang=en&timestamp=1791193034&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=65">
+          <img src="https://ytcards.demolab.com/?id=tdK9eT1KBmk&title=Trump+creates+%27Super+Intelligence%27+AI+task+force+to+keep+US+ahead+of+technology&lang=en&timestamp=1791193034&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=65" alt="Trump creates 'Super Intelligence' AI task force to keep US ahead of technology" title="Trump creates 'Super Intelligence' AI task force to keep US ahead of technology">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=w3u7NV0k3h0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=jq0AfkW-174" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=w3u7NV0k3h0&title=WEDGE+ISSUE%3A+Democrats+use+AI+to+win+over+blue-collar+voters&lang=en&timestamp=1791187268&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=537">
-          <img src="https://ytcards.demolab.com/?id=w3u7NV0k3h0&title=WEDGE+ISSUE%3A+Democrats+use+AI+to+win+over+blue-collar+voters&lang=en&timestamp=1791187268&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=537" alt="WEDGE ISSUE: Democrats use AI to win over blue-collar voters" title="WEDGE ISSUE: Democrats use AI to win over blue-collar voters">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jq0AfkW-174&title=CRVS+%7C+Applications+of+Artificial+Intelligence+in+the+Use+of+ICD-11+for+Morbidity+and+Mortality&lang=en&timestamp=1791229034&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3184">
+          <img src="https://ytcards.demolab.com/?id=jq0AfkW-174&title=CRVS+%7C+Applications+of+Artificial+Intelligence+in+the+Use+of+ICD-11+for+Morbidity+and+Mortality&lang=en&timestamp=1791229034&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3184" alt="CRVS | Applications of Artificial Intelligence in the Use of ICD-11 for Morbidity and Mortality" title="CRVS | Applications of Artificial Intelligence in the Use of ICD-11 for Morbidity and Mortality">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=83HMZrhL_Uw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=2zFQiN5ec4M" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=83HMZrhL_Uw&title=AI+%26+Music%3A+How+AI+Is+Changing+Music+Creation+%26+Creativity&lang=en&timestamp=1791136868&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1038">
-          <img src="https://ytcards.demolab.com/?id=83HMZrhL_Uw&title=AI+%26+Music%3A+How+AI+Is+Changing+Music+Creation+%26+Creativity&lang=en&timestamp=1791136868&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1038" alt="AI & Music: How AI Is Changing Music Creation & Creativity" title="AI & Music: How AI Is Changing Music Creation & Creativity">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2zFQiN5ec4M&title=Inside+the+AI+Safety+Crisis+%7C+Recursive+Self-Improvement+and+the+Threat+of+Superintelligence&lang=en&timestamp=1791203834&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=818">
+          <img src="https://ytcards.demolab.com/?id=2zFQiN5ec4M&title=Inside+the+AI+Safety+Crisis+%7C+Recursive+Self-Improvement+and+the+Threat+of+Superintelligence&lang=en&timestamp=1791203834&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=818" alt="Inside the AI Safety Crisis | Recursive Self-Improvement and the Threat of Superintelligence" title="Inside the AI Safety Crisis | Recursive Self-Improvement and the Threat of Superintelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=TmyGxeuRo6Y" target="_blank">
+      <a href="https://www.youtube.com/watch?v=O886bSx21B0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=TmyGxeuRo6Y&title=Why+I+quit+the+movement+shaping+AI+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1791136868&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=322">
-          <img src="https://ytcards.demolab.com/?id=TmyGxeuRo6Y&title=Why+I+quit+the+movement+shaping+AI+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1791136868&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=322" alt="Why I quit the movement shaping AI • FRANCE 24 English" title="Why I quit the movement shaping AI • FRANCE 24 English">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=O886bSx21B0&title=Blake+and+Artificial+Intelligence&lang=en&timestamp=1791232634&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5715">
+          <img src="https://ytcards.demolab.com/?id=O886bSx21B0&title=Blake+and+Artificial+Intelligence&lang=en&timestamp=1791232634&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5715" alt="Blake and Artificial Intelligence" title="Blake and Artificial Intelligence">
         </picture>
       </a>
     </td>
