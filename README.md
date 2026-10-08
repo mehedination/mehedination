@@ -590,56 +590,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=1HLK5BOH0zU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=jh9LF6Lc3Vs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1HLK5BOH0zU&title=Why+Musk+Is+Renaming+SpaceXAI+After+Trump%E2%80%99s+%E2%80%98Super+Intelligence%E2%80%99+Push&lang=en&timestamp=1791260124&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=484">
-          <img src="https://ytcards.demolab.com/?id=1HLK5BOH0zU&title=Why+Musk+Is+Renaming+SpaceXAI+After+Trump%E2%80%99s+%E2%80%98Super+Intelligence%E2%80%99+Push&lang=en&timestamp=1791260124&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=484" alt="Why Musk Is Renaming SpaceXAI After Trump’s ‘Super Intelligence’ Push" title="Why Musk Is Renaming SpaceXAI After Trump’s ‘Super Intelligence’ Push">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jh9LF6Lc3Vs&title=70+years+of+rebranding+intelligence&lang=en&timestamp=1791377815&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=802">
+          <img src="https://ytcards.demolab.com/?id=jh9LF6Lc3Vs&title=70+years+of+rebranding+intelligence&lang=en&timestamp=1791377815&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=802" alt="70 years of rebranding intelligence" title="70 years of rebranding intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=veP6jdvy7j8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=xSr_IfyNWu0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=veP6jdvy7j8&title=BREAKING%3A+OpenAI+Whistleblower+Jacob+Coxon+Warns+Of+%E2%80%98Human+Extinction%E2%80%99+At+NYC+Council+Hearing&lang=en&timestamp=1791216924&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=345">
-          <img src="https://ytcards.demolab.com/?id=veP6jdvy7j8&title=BREAKING%3A+OpenAI+Whistleblower+Jacob+Coxon+Warns+Of+%E2%80%98Human+Extinction%E2%80%99+At+NYC+Council+Hearing&lang=en&timestamp=1791216924&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=345" alt="BREAKING: OpenAI Whistleblower Jacob Coxon Warns Of ‘Human Extinction’ At NYC Council Hearing" title="BREAKING: OpenAI Whistleblower Jacob Coxon Warns Of ‘Human Extinction’ At NYC Council Hearing">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xSr_IfyNWu0&title=Adding+years+to+your+life%3F+AI+and+your+health&lang=en&timestamp=1791403015&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=123">
+          <img src="https://ytcards.demolab.com/?id=xSr_IfyNWu0&title=Adding+years+to+your+life%3F+AI+and+your+health&lang=en&timestamp=1791403015&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=123" alt="Adding years to your life? AI and your health" title="Adding years to your life? AI and your health">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=w3u7NV0k3h0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Sdsn1Pp9JPs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=w3u7NV0k3h0&title=WEDGE+ISSUE%3A+Democrats+use+AI+to+win+over+blue-collar+voters&lang=en&timestamp=1791188124&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=537">
-          <img src="https://ytcards.demolab.com/?id=w3u7NV0k3h0&title=WEDGE+ISSUE%3A+Democrats+use+AI+to+win+over+blue-collar+voters&lang=en&timestamp=1791188124&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=537" alt="WEDGE ISSUE: Democrats use AI to win over blue-collar voters" title="WEDGE ISSUE: Democrats use AI to win over blue-collar voters">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Sdsn1Pp9JPs&title=Delta+CEO+talks+fuel+cost+and+artificial+intelligence&lang=en&timestamp=1791413815&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=97">
+          <img src="https://ytcards.demolab.com/?id=Sdsn1Pp9JPs&title=Delta+CEO+talks+fuel+cost+and+artificial+intelligence&lang=en&timestamp=1791413815&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=97" alt="Delta CEO talks fuel cost and artificial intelligence" title="Delta CEO talks fuel cost and artificial intelligence">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=jq0AfkW-174" target="_blank">
+      <a href="https://www.youtube.com/watch?v=fLZg1cC_yY4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jq0AfkW-174&title=CRVS+%7C+Applications+of+Artificial+Intelligence+in+the+Use+of+ICD-11+for+Morbidity+and+Mortality&lang=en&timestamp=1791231324&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3184">
-          <img src="https://ytcards.demolab.com/?id=jq0AfkW-174&title=CRVS+%7C+Applications+of+Artificial+Intelligence+in+the+Use+of+ICD-11+for+Morbidity+and+Mortality&lang=en&timestamp=1791231324&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3184" alt="CRVS | Applications of Artificial Intelligence in the Use of ICD-11 for Morbidity and Mortality" title="CRVS | Applications of Artificial Intelligence in the Use of ICD-11 for Morbidity and Mortality">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=fLZg1cC_yY4&title=Traore%27s+AES+Shocks+the+West+with+NEW+AI+and+Robotics+Center&lang=en&timestamp=1791377815&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=877">
+          <img src="https://ytcards.demolab.com/?id=fLZg1cC_yY4&title=Traore%27s+AES+Shocks+the+West+with+NEW+AI+and+Robotics+Center&lang=en&timestamp=1791377815&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=877" alt="Traore's AES Shocks the West with NEW AI and Robotics Center" title="Traore's AES Shocks the West with NEW AI and Robotics Center">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=tdK9eT1KBmk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=eM3lZt3UOcw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tdK9eT1KBmk&title=Trump+creates+%27Super+Intelligence%27+AI+task+force+to+keep+US+ahead+of+technology&lang=en&timestamp=1791195324&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=65">
-          <img src="https://ytcards.demolab.com/?id=tdK9eT1KBmk&title=Trump+creates+%27Super+Intelligence%27+AI+task+force+to+keep+US+ahead+of+technology&lang=en&timestamp=1791195324&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=65" alt="Trump creates 'Super Intelligence' AI task force to keep US ahead of technology" title="Trump creates 'Super Intelligence' AI task force to keep US ahead of technology">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=eM3lZt3UOcw&title=AI+at+work+%7C+Econ+World&lang=en&timestamp=1791381415&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1887">
+          <img src="https://ytcards.demolab.com/?id=eM3lZt3UOcw&title=AI+at+work+%7C+Econ+World&lang=en&timestamp=1791381415&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1887" alt="AI at work | Econ World" title="AI at work | Econ World">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=BUMy-KPGJY4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=utgSpoxxj04" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BUMy-KPGJY4&title=689.+Artificial+Intelligence+and+the+Threat+to+Independent+Thought+with+Bruno+Giussani&lang=en&timestamp=1791213324&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3466">
-          <img src="https://ytcards.demolab.com/?id=BUMy-KPGJY4&title=689.+Artificial+Intelligence+and+the+Threat+to+Independent+Thought+with+Bruno+Giussani&lang=en&timestamp=1791213324&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3466" alt="689. Artificial Intelligence and the Threat to Independent Thought with Bruno Giussani" title="689. Artificial Intelligence and the Threat to Independent Thought with Bruno Giussani">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=utgSpoxxj04&title=Prophetic+Warning%3A+Artificial+Intelligence+and+The+Great+Deception&lang=en&timestamp=1791421015&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=526">
+          <img src="https://ytcards.demolab.com/?id=utgSpoxxj04&title=Prophetic+Warning%3A+Artificial+Intelligence+and+The+Great+Deception&lang=en&timestamp=1791421015&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=526" alt="Prophetic Warning: Artificial Intelligence and The Great Deception" title="Prophetic Warning: Artificial Intelligence and The Great Deception">
         </picture>
       </a>
     </td>
