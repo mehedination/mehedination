@@ -592,56 +592,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
+      <a href="https://www.youtube.com/watch?v=jh9LF6Lc3Vs" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jh9LF6Lc3Vs&title=The+70+years+between+Artificial+and+Super+Intelligence&lang=en&timestamp=1791397981&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=802">
+          <img src="https://ytcards.demolab.com/?id=jh9LF6Lc3Vs&title=The+70+years+between+Artificial+and+Super+Intelligence&lang=en&timestamp=1791397981&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=802" alt="The 70 years between Artificial and Super Intelligence" title="The 70 years between Artificial and Super Intelligence">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
       <a href="https://www.youtube.com/watch?v=xdwFncdu8t0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xdwFncdu8t0&title=The+Experts+Were+Wrong+About+AI.+Again.&lang=en&timestamp=1791388388&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=442">
-          <img src="https://ytcards.demolab.com/?id=xdwFncdu8t0&title=The+Experts+Were+Wrong+About+AI.+Again.&lang=en&timestamp=1791388388&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=442" alt="The Experts Were Wrong About AI. Again." title="The Experts Were Wrong About AI. Again.">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xdwFncdu8t0&title=AI+Keeps+Beating+Experts%27+Predictions&lang=en&timestamp=1791397981&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=442">
+          <img src="https://ytcards.demolab.com/?id=xdwFncdu8t0&title=AI+Keeps+Beating+Experts%27+Predictions&lang=en&timestamp=1791397981&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=442" alt="AI Keeps Beating Experts' Predictions" title="AI Keeps Beating Experts' Predictions">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=XemZ_lq9UpQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=UupLCcMtGzI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XemZ_lq9UpQ&title=AI%27s+God+Syndrome+Won%27t+Help+Humans+In+Future+%7C+Vineet+Nayar+%7C+Human+Intelligence+%26+Creativity+%7C+TSA&lang=en&timestamp=1791381188&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=288">
-          <img src="https://ytcards.demolab.com/?id=XemZ_lq9UpQ&title=AI%27s+God+Syndrome+Won%27t+Help+Humans+In+Future+%7C+Vineet+Nayar+%7C+Human+Intelligence+%26+Creativity+%7C+TSA&lang=en&timestamp=1791381188&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=288" alt="AI's God Syndrome Won't Help Humans In Future | Vineet Nayar | Human Intelligence & Creativity | TSA" title="AI's God Syndrome Won't Help Humans In Future | Vineet Nayar | Human Intelligence & Creativity | TSA">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=lJhT-W_IsVU" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lJhT-W_IsVU&title=It+Is+Called+Artificial+For+life+%7C+Nathan+Macintosh+%7C+Quick+Thought&lang=en&timestamp=1791406388&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=379">
-          <img src="https://ytcards.demolab.com/?id=lJhT-W_IsVU&title=It+Is+Called+Artificial+For+life+%7C+Nathan+Macintosh+%7C+Quick+Thought&lang=en&timestamp=1791406388&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=379" alt="It Is Called Artificial For life | Nathan Macintosh | Quick Thought" title="It Is Called Artificial For life | Nathan Macintosh | Quick Thought">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=UupLCcMtGzI&title=%22They+Are+All+WRONG+About+What%E2%80%99s+Coming+Before+2027...%22+-+Cathie+Wood&lang=en&timestamp=1791415981&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1020">
+          <img src="https://ytcards.demolab.com/?id=UupLCcMtGzI&title=%22They+Are+All+WRONG+About+What%E2%80%99s+Coming+Before+2027...%22+-+Cathie+Wood&lang=en&timestamp=1791415981&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1020" alt="&quot;They Are All WRONG About What’s Coming Before 2027...&quot; - Cathie Wood" title="&quot;They Are All WRONG About What’s Coming Before 2027...&quot; - Cathie Wood">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
+      <a href="https://www.youtube.com/watch?v=7BZwjZerP-A" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=7BZwjZerP-A&title=The+AI+Wave+is+Irreversible%3A+The+World+Rewritten+in+Two+Years%21+%7C+HKEJ+Interview+%7C+AI+%7C+Artificial...&lang=en&timestamp=1791397981&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2131">
+          <img src="https://ytcards.demolab.com/?id=7BZwjZerP-A&title=The+AI+Wave+is+Irreversible%3A+The+World+Rewritten+in+Two+Years%21+%7C+HKEJ+Interview+%7C+AI+%7C+Artificial...&lang=en&timestamp=1791397981&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2131" alt="The AI Wave is Irreversible: The World Rewritten in Two Years! | HKEJ Interview | AI | Artificial..." title="The AI Wave is Irreversible: The World Rewritten in Two Years! | HKEJ Interview | AI | Artificial...">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
       <a href="https://www.youtube.com/watch?v=xSr_IfyNWu0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xSr_IfyNWu0&title=Adding+years+to+your+life%3F+AI+and+your+health&lang=en&timestamp=1791402788&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=123">
-          <img src="https://ytcards.demolab.com/?id=xSr_IfyNWu0&title=Adding+years+to+your+life%3F+AI+and+your+health&lang=en&timestamp=1791402788&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=123" alt="Adding years to your life? AI and your health" title="Adding years to your life? AI and your health">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xSr_IfyNWu0&title=Adding+years+to+your+life%3F+AI+and+your+health&lang=en&timestamp=1791401581&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=123">
+          <img src="https://ytcards.demolab.com/?id=xSr_IfyNWu0&title=Adding+years+to+your+life%3F+AI+and+your+health&lang=en&timestamp=1791401581&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=123" alt="Adding years to your life? AI and your health" title="Adding years to your life? AI and your health">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=jh9LF6Lc3Vs" target="_blank">
+      <a href="https://www.youtube.com/watch?v=2GyCeEEHVPk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jh9LF6Lc3Vs&title=70+years+of+rebranding+intelligence&lang=en&timestamp=1791377588&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=802">
-          <img src="https://ytcards.demolab.com/?id=jh9LF6Lc3Vs&title=70+years+of+rebranding+intelligence&lang=en&timestamp=1791377588&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=802" alt="70 years of rebranding intelligence" title="70 years of rebranding intelligence">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=WmgPAOIhrko" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WmgPAOIhrko&title=World+Development+Report+2026%3A+Fireside+Chat+with+Andrew+Ng+-+Making+AI+Work+for+Development&lang=en&timestamp=1791395588&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2805">
-          <img src="https://ytcards.demolab.com/?id=WmgPAOIhrko&title=World+Development+Report+2026%3A+Fireside+Chat+with+Andrew+Ng+-+Making+AI+Work+for+Development&lang=en&timestamp=1791395588&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2805" alt="World Development Report 2026: Fireside Chat with Andrew Ng - Making AI Work for Development" title="World Development Report 2026: Fireside Chat with Andrew Ng - Making AI Work for Development">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2GyCeEEHVPk&title=Is+artificial+intelligence+an+echo+chamber%3F&lang=en&timestamp=1791477181&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=591">
+          <img src="https://ytcards.demolab.com/?id=2GyCeEEHVPk&title=Is+artificial+intelligence+an+echo+chamber%3F&lang=en&timestamp=1791477181&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=591" alt="Is artificial intelligence an echo chamber?" title="Is artificial intelligence an echo chamber?">
         </picture>
       </a>
     </td>
