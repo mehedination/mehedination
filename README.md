@@ -591,56 +591,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=jh9LF6Lc3Vs" target="_blank">
+      <a href="https://www.youtube.com/watch?v=xdwFncdu8t0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jh9LF6Lc3Vs&title=70+years+of+rebranding+intelligence&lang=en&timestamp=1791377815&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=802">
-          <img src="https://ytcards.demolab.com/?id=jh9LF6Lc3Vs&title=70+years+of+rebranding+intelligence&lang=en&timestamp=1791377815&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=802" alt="70 years of rebranding intelligence" title="70 years of rebranding intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xdwFncdu8t0&title=The+Experts+Were+Wrong+About+AI.+Again.&lang=en&timestamp=1791388388&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=442">
+          <img src="https://ytcards.demolab.com/?id=xdwFncdu8t0&title=The+Experts+Were+Wrong+About+AI.+Again.&lang=en&timestamp=1791388388&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=442" alt="The Experts Were Wrong About AI. Again." title="The Experts Were Wrong About AI. Again.">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=xSr_IfyNWu0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=XemZ_lq9UpQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xSr_IfyNWu0&title=Adding+years+to+your+life%3F+AI+and+your+health&lang=en&timestamp=1791403015&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=123">
-          <img src="https://ytcards.demolab.com/?id=xSr_IfyNWu0&title=Adding+years+to+your+life%3F+AI+and+your+health&lang=en&timestamp=1791403015&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=123" alt="Adding years to your life? AI and your health" title="Adding years to your life? AI and your health">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XemZ_lq9UpQ&title=AI%27s+God+Syndrome+Won%27t+Help+Humans+In+Future+%7C+Vineet+Nayar+%7C+Human+Intelligence+%26+Creativity+%7C+TSA&lang=en&timestamp=1791381188&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=288">
+          <img src="https://ytcards.demolab.com/?id=XemZ_lq9UpQ&title=AI%27s+God+Syndrome+Won%27t+Help+Humans+In+Future+%7C+Vineet+Nayar+%7C+Human+Intelligence+%26+Creativity+%7C+TSA&lang=en&timestamp=1791381188&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=288" alt="AI's God Syndrome Won't Help Humans In Future | Vineet Nayar | Human Intelligence & Creativity | TSA" title="AI's God Syndrome Won't Help Humans In Future | Vineet Nayar | Human Intelligence & Creativity | TSA">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Sdsn1Pp9JPs" target="_blank">
+      <a href="https://www.youtube.com/watch?v=lJhT-W_IsVU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Sdsn1Pp9JPs&title=Delta+CEO+talks+fuel+cost+and+artificial+intelligence&lang=en&timestamp=1791413815&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=97">
-          <img src="https://ytcards.demolab.com/?id=Sdsn1Pp9JPs&title=Delta+CEO+talks+fuel+cost+and+artificial+intelligence&lang=en&timestamp=1791413815&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=97" alt="Delta CEO talks fuel cost and artificial intelligence" title="Delta CEO talks fuel cost and artificial intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lJhT-W_IsVU&title=It+Is+Called+Artificial+For+life+%7C+Nathan+Macintosh+%7C+Quick+Thought&lang=en&timestamp=1791406388&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=379">
+          <img src="https://ytcards.demolab.com/?id=lJhT-W_IsVU&title=It+Is+Called+Artificial+For+life+%7C+Nathan+Macintosh+%7C+Quick+Thought&lang=en&timestamp=1791406388&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=379" alt="It Is Called Artificial For life | Nathan Macintosh | Quick Thought" title="It Is Called Artificial For life | Nathan Macintosh | Quick Thought">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=fLZg1cC_yY4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=xSr_IfyNWu0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=fLZg1cC_yY4&title=Traore%27s+AES+Shocks+the+West+with+NEW+AI+and+Robotics+Center&lang=en&timestamp=1791377815&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=877">
-          <img src="https://ytcards.demolab.com/?id=fLZg1cC_yY4&title=Traore%27s+AES+Shocks+the+West+with+NEW+AI+and+Robotics+Center&lang=en&timestamp=1791377815&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=877" alt="Traore's AES Shocks the West with NEW AI and Robotics Center" title="Traore's AES Shocks the West with NEW AI and Robotics Center">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xSr_IfyNWu0&title=Adding+years+to+your+life%3F+AI+and+your+health&lang=en&timestamp=1791402788&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=123">
+          <img src="https://ytcards.demolab.com/?id=xSr_IfyNWu0&title=Adding+years+to+your+life%3F+AI+and+your+health&lang=en&timestamp=1791402788&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=123" alt="Adding years to your life? AI and your health" title="Adding years to your life? AI and your health">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=eM3lZt3UOcw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=jh9LF6Lc3Vs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=eM3lZt3UOcw&title=AI+at+work+%7C+Econ+World&lang=en&timestamp=1791381415&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1887">
-          <img src="https://ytcards.demolab.com/?id=eM3lZt3UOcw&title=AI+at+work+%7C+Econ+World&lang=en&timestamp=1791381415&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1887" alt="AI at work | Econ World" title="AI at work | Econ World">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jh9LF6Lc3Vs&title=70+years+of+rebranding+intelligence&lang=en&timestamp=1791377588&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=802">
+          <img src="https://ytcards.demolab.com/?id=jh9LF6Lc3Vs&title=70+years+of+rebranding+intelligence&lang=en&timestamp=1791377588&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=802" alt="70 years of rebranding intelligence" title="70 years of rebranding intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=utgSpoxxj04" target="_blank">
+      <a href="https://www.youtube.com/watch?v=WmgPAOIhrko" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=utgSpoxxj04&title=Prophetic+Warning%3A+Artificial+Intelligence+and+The+Great+Deception&lang=en&timestamp=1791421015&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=526">
-          <img src="https://ytcards.demolab.com/?id=utgSpoxxj04&title=Prophetic+Warning%3A+Artificial+Intelligence+and+The+Great+Deception&lang=en&timestamp=1791421015&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=526" alt="Prophetic Warning: Artificial Intelligence and The Great Deception" title="Prophetic Warning: Artificial Intelligence and The Great Deception">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WmgPAOIhrko&title=World+Development+Report+2026%3A+Fireside+Chat+with+Andrew+Ng+-+Making+AI+Work+for+Development&lang=en&timestamp=1791395588&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2805">
+          <img src="https://ytcards.demolab.com/?id=WmgPAOIhrko&title=World+Development+Report+2026%3A+Fireside+Chat+with+Andrew+Ng+-+Making+AI+Work+for+Development&lang=en&timestamp=1791395588&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2805" alt="World Development Report 2026: Fireside Chat with Andrew Ng - Making AI Work for Development" title="World Development Report 2026: Fireside Chat with Andrew Ng - Making AI Work for Development">
         </picture>
       </a>
     </td>
