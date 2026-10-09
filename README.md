@@ -593,56 +593,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=jh9LF6Lc3Vs" target="_blank">
+      <a href="https://www.youtube.com/watch?v=e3OmaFrsB7I" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jh9LF6Lc3Vs&title=The+70+years+between+Artificial+and+Super+Intelligence&lang=en&timestamp=1791397981&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=802">
-          <img src="https://ytcards.demolab.com/?id=jh9LF6Lc3Vs&title=The+70+years+between+Artificial+and+Super+Intelligence&lang=en&timestamp=1791397981&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=802" alt="The 70 years between Artificial and Super Intelligence" title="The 70 years between Artificial and Super Intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=e3OmaFrsB7I&title=Anthropic+Is+Actually+Preparing+for+the+AI+Apocalypse+Now&lang=en&timestamp=1791499718&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=833">
+          <img src="https://ytcards.demolab.com/?id=e3OmaFrsB7I&title=Anthropic+Is+Actually+Preparing+for+the+AI+Apocalypse+Now&lang=en&timestamp=1791499718&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=833" alt="Anthropic Is Actually Preparing for the AI Apocalypse Now" title="Anthropic Is Actually Preparing for the AI Apocalypse Now">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=xdwFncdu8t0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=CqDktOJfwNE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xdwFncdu8t0&title=AI+Keeps+Beating+Experts%27+Predictions&lang=en&timestamp=1791397981&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=442">
-          <img src="https://ytcards.demolab.com/?id=xdwFncdu8t0&title=AI+Keeps+Beating+Experts%27+Predictions&lang=en&timestamp=1791397981&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=442" alt="AI Keeps Beating Experts' Predictions" title="AI Keeps Beating Experts' Predictions">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=CqDktOJfwNE&title=%22The+AI+Doc%3A+Or+How+I+Became+an+Apocaloptimist%22%3A+Daniel+Roher%2C+Tristan+Harris+Discuss+New+Film&lang=en&timestamp=1791470918&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1476">
+          <img src="https://ytcards.demolab.com/?id=CqDktOJfwNE&title=%22The+AI+Doc%3A+Or+How+I+Became+an+Apocaloptimist%22%3A+Daniel+Roher%2C+Tristan+Harris+Discuss+New+Film&lang=en&timestamp=1791470918&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1476" alt="&quot;The AI Doc: Or How I Became an Apocaloptimist&quot;: Daniel Roher, Tristan Harris Discuss New Film" title="&quot;The AI Doc: Or How I Became an Apocaloptimist&quot;: Daniel Roher, Tristan Harris Discuss New Film">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=UupLCcMtGzI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=2ik4kzI2Mts" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=UupLCcMtGzI&title=%22They+Are+All+WRONG+About+What%E2%80%99s+Coming+Before+2027...%22+-+Cathie+Wood&lang=en&timestamp=1791415981&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1020">
-          <img src="https://ytcards.demolab.com/?id=UupLCcMtGzI&title=%22They+Are+All+WRONG+About+What%E2%80%99s+Coming+Before+2027...%22+-+Cathie+Wood&lang=en&timestamp=1791415981&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1020" alt="&quot;They Are All WRONG About What’s Coming Before 2027...&quot; - Cathie Wood" title="&quot;They Are All WRONG About What’s Coming Before 2027...&quot; - Cathie Wood">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2ik4kzI2Mts&title=AI+Could+Allow+For+3-Day+Workweeks+And+Single-Income+Households%2C+Bezos+Claims&lang=en&timestamp=1791485318&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=138">
+          <img src="https://ytcards.demolab.com/?id=2ik4kzI2Mts&title=AI+Could+Allow+For+3-Day+Workweeks+And+Single-Income+Households%2C+Bezos+Claims&lang=en&timestamp=1791485318&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=138" alt="AI Could Allow For 3-Day Workweeks And Single-Income Households, Bezos Claims" title="AI Could Allow For 3-Day Workweeks And Single-Income Households, Bezos Claims">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=7BZwjZerP-A" target="_blank">
+      <a href="https://www.youtube.com/watch?v=eoLRvL8pLIY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=7BZwjZerP-A&title=The+AI+Wave+is+Irreversible%3A+The+World+Rewritten+in+Two+Years%21+%7C+HKEJ+Interview+%7C+AI+%7C+Artificial...&lang=en&timestamp=1791397981&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2131">
-          <img src="https://ytcards.demolab.com/?id=7BZwjZerP-A&title=The+AI+Wave+is+Irreversible%3A+The+World+Rewritten+in+Two+Years%21+%7C+HKEJ+Interview+%7C+AI+%7C+Artificial...&lang=en&timestamp=1791397981&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2131" alt="The AI Wave is Irreversible: The World Rewritten in Two Years! | HKEJ Interview | AI | Artificial..." title="The AI Wave is Irreversible: The World Rewritten in Two Years! | HKEJ Interview | AI | Artificial...">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=eoLRvL8pLIY&title=Charles+Payne%3A+The+math+community+has+GONE+NUTS&lang=en&timestamp=1791503318&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=83">
+          <img src="https://ytcards.demolab.com/?id=eoLRvL8pLIY&title=Charles+Payne%3A+The+math+community+has+GONE+NUTS&lang=en&timestamp=1791503318&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=83" alt="Charles Payne: The math community has GONE NUTS" title="Charles Payne: The math community has GONE NUTS">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=xSr_IfyNWu0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=OxDAMzuO71Q" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xSr_IfyNWu0&title=Adding+years+to+your+life%3F+AI+and+your+health&lang=en&timestamp=1791401581&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=123">
-          <img src="https://ytcards.demolab.com/?id=xSr_IfyNWu0&title=Adding+years+to+your+life%3F+AI+and+your+health&lang=en&timestamp=1791401581&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=123" alt="Adding years to your life? AI and your health" title="Adding years to your life? AI and your health">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=OxDAMzuO71Q&title=Keynote+Speech+%26+Session+3%3A+Artificial+Intelligence+and+the+Global+Economy%3A+Opportunities+and+Risks&lang=en&timestamp=1791470918&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6631">
+          <img src="https://ytcards.demolab.com/?id=OxDAMzuO71Q&title=Keynote+Speech+%26+Session+3%3A+Artificial+Intelligence+and+the+Global+Economy%3A+Opportunities+and+Risks&lang=en&timestamp=1791470918&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6631" alt="Keynote Speech & Session 3: Artificial Intelligence and the Global Economy: Opportunities and Risks" title="Keynote Speech & Session 3: Artificial Intelligence and the Global Economy: Opportunities and Risks">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=2GyCeEEHVPk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=extg9Ucr2tM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2GyCeEEHVPk&title=Is+artificial+intelligence+an+echo+chamber%3F&lang=en&timestamp=1791477181&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=591">
-          <img src="https://ytcards.demolab.com/?id=2GyCeEEHVPk&title=Is+artificial+intelligence+an+echo+chamber%3F&lang=en&timestamp=1791477181&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=591" alt="Is artificial intelligence an echo chamber?" title="Is artificial intelligence an echo chamber?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=extg9Ucr2tM&title=The+future+of+artificial+intelligence+%7C+The+Back+Story&lang=en&timestamp=1791503318&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1381">
+          <img src="https://ytcards.demolab.com/?id=extg9Ucr2tM&title=The+future+of+artificial+intelligence+%7C+The+Back+Story&lang=en&timestamp=1791503318&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1381" alt="The future of artificial intelligence | The Back Story" title="The future of artificial intelligence | The Back Story">
         </picture>
       </a>
     </td>
