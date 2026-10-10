@@ -594,56 +594,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=e3OmaFrsB7I" target="_blank">
+      <a href="https://www.youtube.com/watch?v=jCNYVbin4bw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=e3OmaFrsB7I&title=Anthropic+Is+Actually+Preparing+for+the+AI+Apocalypse+Now&lang=en&timestamp=1791499718&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=833">
-          <img src="https://ytcards.demolab.com/?id=e3OmaFrsB7I&title=Anthropic+Is+Actually+Preparing+for+the+AI+Apocalypse+Now&lang=en&timestamp=1791499718&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=833" alt="Anthropic Is Actually Preparing for the AI Apocalypse Now" title="Anthropic Is Actually Preparing for the AI Apocalypse Now">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jCNYVbin4bw&title=What+if+AI+goes+RIGHT%3F+Expert+talks+positives+of+innovative+tech&lang=en&timestamp=1791583164&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=415">
+          <img src="https://ytcards.demolab.com/?id=jCNYVbin4bw&title=What+if+AI+goes+RIGHT%3F+Expert+talks+positives+of+innovative+tech&lang=en&timestamp=1791583164&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=415" alt="What if AI goes RIGHT? Expert talks positives of innovative tech" title="What if AI goes RIGHT? Expert talks positives of innovative tech">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=CqDktOJfwNE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=62FQu5lFkQs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=CqDktOJfwNE&title=%22The+AI+Doc%3A+Or+How+I+Became+an+Apocaloptimist%22%3A+Daniel+Roher%2C+Tristan+Harris+Discuss+New+Film&lang=en&timestamp=1791470918&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1476">
-          <img src="https://ytcards.demolab.com/?id=CqDktOJfwNE&title=%22The+AI+Doc%3A+Or+How+I+Became+an+Apocaloptimist%22%3A+Daniel+Roher%2C+Tristan+Harris+Discuss+New+Film&lang=en&timestamp=1791470918&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1476" alt="&quot;The AI Doc: Or How I Became an Apocaloptimist&quot;: Daniel Roher, Tristan Harris Discuss New Film" title="&quot;The AI Doc: Or How I Became an Apocaloptimist&quot;: Daniel Roher, Tristan Harris Discuss New Film">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=62FQu5lFkQs&title=Which+AI+Should+You+Pay+For%3F+The+Definitive+Comparison&lang=en&timestamp=1791547164&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4691">
+          <img src="https://ytcards.demolab.com/?id=62FQu5lFkQs&title=Which+AI+Should+You+Pay+For%3F+The+Definitive+Comparison&lang=en&timestamp=1791547164&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4691" alt="Which AI Should You Pay For? The Definitive Comparison" title="Which AI Should You Pay For? The Definitive Comparison">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=2ik4kzI2Mts" target="_blank">
+      <a href="https://www.youtube.com/watch?v=cfS-Lc2xaqo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2ik4kzI2Mts&title=AI+Could+Allow+For+3-Day+Workweeks+And+Single-Income+Households%2C+Bezos+Claims&lang=en&timestamp=1791485318&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=138">
-          <img src="https://ytcards.demolab.com/?id=2ik4kzI2Mts&title=AI+Could+Allow+For+3-Day+Workweeks+And+Single-Income+Households%2C+Bezos+Claims&lang=en&timestamp=1791485318&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=138" alt="AI Could Allow For 3-Day Workweeks And Single-Income Households, Bezos Claims" title="AI Could Allow For 3-Day Workweeks And Single-Income Households, Bezos Claims">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=cfS-Lc2xaqo&title=Can+%27Pain%27+Influence+AI+Behaviour%3F+%7C+BBC+News&lang=en&timestamp=1791572364&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=815">
+          <img src="https://ytcards.demolab.com/?id=cfS-Lc2xaqo&title=Can+%27Pain%27+Influence+AI+Behaviour%3F+%7C+BBC+News&lang=en&timestamp=1791572364&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=815" alt="Can 'Pain' Influence AI Behaviour? | BBC News" title="Can 'Pain' Influence AI Behaviour? | BBC News">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=eoLRvL8pLIY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=cofW0MYm5yU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=eoLRvL8pLIY&title=Charles+Payne%3A+The+math+community+has+GONE+NUTS&lang=en&timestamp=1791503318&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=83">
-          <img src="https://ytcards.demolab.com/?id=eoLRvL8pLIY&title=Charles+Payne%3A+The+math+community+has+GONE+NUTS&lang=en&timestamp=1791503318&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=83" alt="Charles Payne: The math community has GONE NUTS" title="Charles Payne: The math community has GONE NUTS">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=cofW0MYm5yU&title=The+End+Times+Prophecy+Of+Artificial+Intelligence&lang=en&timestamp=1791579564&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1058">
+          <img src="https://ytcards.demolab.com/?id=cofW0MYm5yU&title=The+End+Times+Prophecy+Of+Artificial+Intelligence&lang=en&timestamp=1791579564&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1058" alt="The End Times Prophecy Of Artificial Intelligence" title="The End Times Prophecy Of Artificial Intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=OxDAMzuO71Q" target="_blank">
+      <a href="https://www.youtube.com/watch?v=kRF2OQqF74s" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=OxDAMzuO71Q&title=Keynote+Speech+%26+Session+3%3A+Artificial+Intelligence+and+the+Global+Economy%3A+Opportunities+and+Risks&lang=en&timestamp=1791470918&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6631">
-          <img src="https://ytcards.demolab.com/?id=OxDAMzuO71Q&title=Keynote+Speech+%26+Session+3%3A+Artificial+Intelligence+and+the+Global+Economy%3A+Opportunities+and+Risks&lang=en&timestamp=1791470918&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6631" alt="Keynote Speech & Session 3: Artificial Intelligence and the Global Economy: Opportunities and Risks" title="Keynote Speech & Session 3: Artificial Intelligence and the Global Economy: Opportunities and Risks">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=kRF2OQqF74s&title=KSET+Artificial+intelligence+PYQs+%F0%9F%94%A5+%7C+AI+Numerical+%2BConcepts+%2B+Questions++%7C+All+SET+%26+UGC+NET+CS&lang=en&timestamp=1791557964&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4386">
+          <img src="https://ytcards.demolab.com/?id=kRF2OQqF74s&title=KSET+Artificial+intelligence+PYQs+%F0%9F%94%A5+%7C+AI+Numerical+%2BConcepts+%2B+Questions++%7C+All+SET+%26+UGC+NET+CS&lang=en&timestamp=1791557964&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4386" alt="KSET Artificial intelligence PYQs 🔥 | AI Numerical +Concepts + Questions  | All SET & UGC NET CS" title="KSET Artificial intelligence PYQs 🔥 | AI Numerical +Concepts + Questions  | All SET & UGC NET CS">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=extg9Ucr2tM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Dia6lcz-jQY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=extg9Ucr2tM&title=The+future+of+artificial+intelligence+%7C+The+Back+Story&lang=en&timestamp=1791503318&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1381">
-          <img src="https://ytcards.demolab.com/?id=extg9Ucr2tM&title=The+future+of+artificial+intelligence+%7C+The+Back+Story&lang=en&timestamp=1791503318&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1381" alt="The future of artificial intelligence | The Back Story" title="The future of artificial intelligence | The Back Story">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Dia6lcz-jQY&title=Smith+Master+of+Management+in+Artificial+Intelligence+-+The+HyFlex+Experience+%7C+October+08%2C+2026&lang=en&timestamp=1791572364&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2513">
+          <img src="https://ytcards.demolab.com/?id=Dia6lcz-jQY&title=Smith+Master+of+Management+in+Artificial+Intelligence+-+The+HyFlex+Experience+%7C+October+08%2C+2026&lang=en&timestamp=1791572364&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2513" alt="Smith Master of Management in Artificial Intelligence - The HyFlex Experience | October 08, 2026" title="Smith Master of Management in Artificial Intelligence - The HyFlex Experience | October 08, 2026">
         </picture>
       </a>
     </td>
