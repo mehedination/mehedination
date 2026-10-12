@@ -596,56 +596,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=CUaax5f5hxI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=5kmj2vx60fk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=CUaax5f5hxI&title=Can+Quantum+AI+Destroy+Humanity+by+2030%3F+%7C+Artificial+Intelligence+%7C+Quantum+Physics+%7C+Amit+Dubey&lang=en&timestamp=1791637899&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6897">
-          <img src="https://ytcards.demolab.com/?id=CUaax5f5hxI&title=Can+Quantum+AI+Destroy+Humanity+by+2030%3F+%7C+Artificial+Intelligence+%7C+Quantum+Physics+%7C+Amit+Dubey&lang=en&timestamp=1791637899&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6897" alt="Can Quantum AI Destroy Humanity by 2030? | Artificial Intelligence | Quantum Physics | Amit Dubey" title="Can Quantum AI Destroy Humanity by 2030? | Artificial Intelligence | Quantum Physics | Amit Dubey">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5kmj2vx60fk&title=Is+Humanity+Ready+For+AI%3F+Google+DeepMind%E2%80%99s+Chief+AI+Readiness+Officer+Reveals+All+%7C+NDTV+Exclusive&lang=en&timestamp=1791731270&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1965">
+          <img src="https://ytcards.demolab.com/?id=5kmj2vx60fk&title=Is+Humanity+Ready+For+AI%3F+Google+DeepMind%E2%80%99s+Chief+AI+Readiness+Officer+Reveals+All+%7C+NDTV+Exclusive&lang=en&timestamp=1791731270&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1965" alt="Is Humanity Ready For AI? Google DeepMind’s Chief AI Readiness Officer Reveals All | NDTV Exclusive" title="Is Humanity Ready For AI? Google DeepMind’s Chief AI Readiness Officer Reveals All | NDTV Exclusive">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=cfS-Lc2xaqo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=DA_IhG1ZFl4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=cfS-Lc2xaqo&title=Can+%27Pain%27+Influence+AI+Behaviour%3F+%7C+BBC+News&lang=en&timestamp=1791573099&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=815">
-          <img src="https://ytcards.demolab.com/?id=cfS-Lc2xaqo&title=Can+%27Pain%27+Influence+AI+Behaviour%3F+%7C+BBC+News&lang=en&timestamp=1791573099&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=815" alt="Can 'Pain' Influence AI Behaviour? | BBC News" title="Can 'Pain' Influence AI Behaviour? | BBC News">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=DA_IhG1ZFl4&title=How+AI+is+causing+an+unemployment+crisis+among+middle+aged+job+seekers+%7C+60+Minutes+Australia&lang=en&timestamp=1791713270&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1542">
+          <img src="https://ytcards.demolab.com/?id=DA_IhG1ZFl4&title=How+AI+is+causing+an+unemployment+crisis+among+middle+aged+job+seekers+%7C+60+Minutes+Australia&lang=en&timestamp=1791713270&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1542" alt="How AI is causing an unemployment crisis among middle aged job seekers | 60 Minutes Australia" title="How AI is causing an unemployment crisis among middle aged job seekers | 60 Minutes Australia">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=FW8p3md6v-E" target="_blank">
+      <a href="https://www.youtube.com/watch?v=EwwoKPt4g8c" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=FW8p3md6v-E&title=Artificial+Intelligence+%26+the+Psyche%3A+The+First+Summit+on+Depth+Psychology+and+AI&lang=en&timestamp=1791573099&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7117">
-          <img src="https://ytcards.demolab.com/?id=FW8p3md6v-E&title=Artificial+Intelligence+%26+the+Psyche%3A+The+First+Summit+on+Depth+Psychology+and+AI&lang=en&timestamp=1791573099&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7117" alt="Artificial Intelligence & the Psyche: The First Summit on Depth Psychology and AI" title="Artificial Intelligence & the Psyche: The First Summit on Depth Psychology and AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EwwoKPt4g8c&title=An+AI+9%2F11%27%3A+Britain%E2%80%99s+Intelligence+Chiefs+Warn+AI+Is+Britain%27s+Biggest+Security+Threat&lang=en&timestamp=1791724070&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=595">
+          <img src="https://ytcards.demolab.com/?id=EwwoKPt4g8c&title=An+AI+9%2F11%27%3A+Britain%E2%80%99s+Intelligence+Chiefs+Warn+AI+Is+Britain%27s+Biggest+Security+Threat&lang=en&timestamp=1791724070&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=595" alt="An AI 9/11': Britain’s Intelligence Chiefs Warn AI Is Britain's Biggest Security Threat" title="An AI 9/11': Britain’s Intelligence Chiefs Warn AI Is Britain's Biggest Security Threat">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=jCNYVbin4bw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=QmVzL8647ks" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jCNYVbin4bw&title=What+if+AI+goes+RIGHT%3F+Expert+talks+positives+of+innovative+tech&lang=en&timestamp=1791580299&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=415">
-          <img src="https://ytcards.demolab.com/?id=jCNYVbin4bw&title=What+if+AI+goes+RIGHT%3F+Expert+talks+positives+of+innovative+tech&lang=en&timestamp=1791580299&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=415" alt="What if AI goes RIGHT? Expert talks positives of innovative tech" title="What if AI goes RIGHT? Expert talks positives of innovative tech">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QmVzL8647ks&title=Greens+vow+to+regulate+artificial+intelligence+%7C+RNZ&lang=en&timestamp=1791767270&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1099">
+          <img src="https://ytcards.demolab.com/?id=QmVzL8647ks&title=Greens+vow+to+regulate+artificial+intelligence+%7C+RNZ&lang=en&timestamp=1791767270&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1099" alt="Greens vow to regulate artificial intelligence | RNZ" title="Greens vow to regulate artificial intelligence | RNZ">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=LSYujxh3wYU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=QOyvZxrK_R8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=LSYujxh3wYU&title=AI+executives+planning+%22day+after%22+scenarios+following+possible+catastrophic+event%2C+Axios+reports&lang=en&timestamp=1791594699&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=226">
-          <img src="https://ytcards.demolab.com/?id=LSYujxh3wYU&title=AI+executives+planning+%22day+after%22+scenarios+following+possible+catastrophic+event%2C+Axios+reports&lang=en&timestamp=1791594699&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=226" alt="AI executives planning &quot;day after&quot; scenarios following possible catastrophic event, Axios reports" title="AI executives planning &quot;day after&quot; scenarios following possible catastrophic event, Axios reports">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QOyvZxrK_R8&title=Elon+Musk+CAVES+To+Trump+With+Embarrassing+SpaceX+Announcement&lang=en&timestamp=1791756470&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=343">
+          <img src="https://ytcards.demolab.com/?id=QOyvZxrK_R8&title=Elon+Musk+CAVES+To+Trump+With+Embarrassing+SpaceX+Announcement&lang=en&timestamp=1791756470&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=343" alt="Elon Musk CAVES To Trump With Embarrassing SpaceX Announcement" title="Elon Musk CAVES To Trump With Embarrassing SpaceX Announcement">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=cofW0MYm5yU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=1jfb3KDvS5A" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=cofW0MYm5yU&title=The+End+Times+Prophecy+Of+Artificial+Intelligence&lang=en&timestamp=1791576699&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1058">
-          <img src="https://ytcards.demolab.com/?id=cofW0MYm5yU&title=The+End+Times+Prophecy+Of+Artificial+Intelligence&lang=en&timestamp=1791576699&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1058" alt="The End Times Prophecy Of Artificial Intelligence" title="The End Times Prophecy Of Artificial Intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1jfb3KDvS5A&title=Artificial+Intelligence+Just+Destroyed+SpongeBob+Speedrunning&lang=en&timestamp=1791742070&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=577">
+          <img src="https://ytcards.demolab.com/?id=1jfb3KDvS5A&title=Artificial+Intelligence+Just+Destroyed+SpongeBob+Speedrunning&lang=en&timestamp=1791742070&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=577" alt="Artificial Intelligence Just Destroyed SpongeBob Speedrunning" title="Artificial Intelligence Just Destroyed SpongeBob Speedrunning">
         </picture>
       </a>
     </td>
