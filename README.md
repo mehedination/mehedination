@@ -598,56 +598,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=5kmj2vx60fk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=GoTIt8aPG0Y" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5kmj2vx60fk&title=Is+Humanity+Ready+For+AI%3F+Google+DeepMind%E2%80%99s+Chief+AI+Readiness+Officer+Reveals+All+%7C+NDTV+Exclusive&lang=en&timestamp=1791732143&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1965">
-          <img src="https://ytcards.demolab.com/?id=5kmj2vx60fk&title=Is+Humanity+Ready+For+AI%3F+Google+DeepMind%E2%80%99s+Chief+AI+Readiness+Officer+Reveals+All+%7C+NDTV+Exclusive&lang=en&timestamp=1791732143&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1965" alt="Is Humanity Ready For AI? Google DeepMind’s Chief AI Readiness Officer Reveals All | NDTV Exclusive" title="Is Humanity Ready For AI? Google DeepMind’s Chief AI Readiness Officer Reveals All | NDTV Exclusive">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=GoTIt8aPG0Y&title=AI%E2%80%99s+First+Full+Field-Level+Disruption&lang=en&timestamp=1791749368&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1316">
+          <img src="https://ytcards.demolab.com/?id=GoTIt8aPG0Y&title=AI%E2%80%99s+First+Full+Field-Level+Disruption&lang=en&timestamp=1791749368&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1316" alt="AI’s First Full Field-Level Disruption" title="AI’s First Full Field-Level Disruption">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=p5EOskuEJoI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=4iKUaUmeoWk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=p5EOskuEJoI&title=Is+your+Board+ready+for+Artificial+Intelligence%3F&lang=en&timestamp=1791789743&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=852">
-          <img src="https://ytcards.demolab.com/?id=p5EOskuEJoI&title=Is+your+Board+ready+for+Artificial+Intelligence%3F&lang=en&timestamp=1791789743&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=852" alt="Is your Board ready for Artificial Intelligence?" title="Is your Board ready for Artificial Intelligence?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4iKUaUmeoWk&title=Claude+Opus+6+LEAKED%2C+Gemini+4+Carbon+Leaks%2C+HUGE+OpenAI+Update%2C+Claude+24%2F7+Agent%2C+%26+More%21+AI+NEWS&lang=en&timestamp=1791792568&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1517">
+          <img src="https://ytcards.demolab.com/?id=4iKUaUmeoWk&title=Claude+Opus+6+LEAKED%2C+Gemini+4+Carbon+Leaks%2C+HUGE+OpenAI+Update%2C+Claude+24%2F7+Agent%2C+%26+More%21+AI+NEWS&lang=en&timestamp=1791792568&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1517" alt="Claude Opus 6 LEAKED, Gemini 4 Carbon Leaks, HUGE OpenAI Update, Claude 24/7 Agent, & More! AI NEWS" title="Claude Opus 6 LEAKED, Gemini 4 Carbon Leaks, HUGE OpenAI Update, Claude 24/7 Agent, & More! AI NEWS">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=XlSD42H6El8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=VBlxAP8hGZ8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XlSD42H6El8&title=Are+Artificial+Intelligence+Chatbots+Safe%3F&lang=en&timestamp=1791798023&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1049">
-          <img src="https://ytcards.demolab.com/?id=XlSD42H6El8&title=Are+Artificial+Intelligence+Chatbots+Safe%3F&lang=en&timestamp=1791798023&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1049" alt="Are Artificial Intelligence Chatbots Safe?" title="Are Artificial Intelligence Chatbots Safe?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=VBlxAP8hGZ8&title=End+of+Humanity+%7C+Short+AI+Film&lang=en&timestamp=1791749368&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1081">
+          <img src="https://ytcards.demolab.com/?id=VBlxAP8hGZ8&title=End+of+Humanity+%7C+Short+AI+Film&lang=en&timestamp=1791749368&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1081" alt="End of Humanity | Short AI Film" title="End of Humanity | Short AI Film">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=4YcEHs10dt4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=QOyvZxrK_R8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4YcEHs10dt4&title=Big+Tech+Execs+Asked+About+Ways+To+Prevent+AI+Addiction+In+Children+%7C+New+York+City+Council+Hearing&lang=en&timestamp=1791735743&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=508">
-          <img src="https://ytcards.demolab.com/?id=4YcEHs10dt4&title=Big+Tech+Execs+Asked+About+Ways+To+Prevent+AI+Addiction+In+Children+%7C+New+York+City+Council+Hearing&lang=en&timestamp=1791735743&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=508" alt="Big Tech Execs Asked About Ways To Prevent AI Addiction In Children | New York City Council Hearing" title="Big Tech Execs Asked About Ways To Prevent AI Addiction In Children | New York City Council Hearing">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QOyvZxrK_R8&title=Elon+Musk+CAVES+To+Trump+With+Embarrassing+SpaceX+Announcement&lang=en&timestamp=1791756568&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=343">
+          <img src="https://ytcards.demolab.com/?id=QOyvZxrK_R8&title=Elon+Musk+CAVES+To+Trump+With+Embarrassing+SpaceX+Announcement&lang=en&timestamp=1791756568&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=343" alt="Elon Musk CAVES To Trump With Embarrassing SpaceX Announcement" title="Elon Musk CAVES To Trump With Embarrassing SpaceX Announcement">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=8uOgmgrDD9U" target="_blank">
+      <a href="https://www.youtube.com/watch?v=VgXTPRWuWa4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8uOgmgrDD9U&title=Artificial+intelligence-powered+spatial+analysis+of+tumor+microenvironment+in+patients&lang=en&timestamp=1791798503&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=404">
-          <img src="https://ytcards.demolab.com/?id=8uOgmgrDD9U&title=Artificial+intelligence-powered+spatial+analysis+of+tumor+microenvironment+in+patients&lang=en&timestamp=1791798503&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=404" alt="Artificial intelligence-powered spatial analysis of tumor microenvironment in patients" title="Artificial intelligence-powered spatial analysis of tumor microenvironment in patients">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=VgXTPRWuWa4&title=Mathematicians+Just+Proved+How+to+Prevent+AI+Brain+Rot&lang=en&timestamp=1791799768&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3942">
+          <img src="https://ytcards.demolab.com/?id=VgXTPRWuWa4&title=Mathematicians+Just+Proved+How+to+Prevent+AI+Brain+Rot&lang=en&timestamp=1791799768&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3942" alt="Mathematicians Just Proved How to Prevent AI Brain Rot" title="Mathematicians Just Proved How to Prevent AI Brain Rot">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=1jfb3KDvS5A" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1jfb3KDvS5A&title=Artificial+Intelligence+Just+Destroyed+SpongeBob+Speedrunning&lang=en&timestamp=1791742943&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=577">
-          <img src="https://ytcards.demolab.com/?id=1jfb3KDvS5A&title=Artificial+Intelligence+Just+Destroyed+SpongeBob+Speedrunning&lang=en&timestamp=1791742943&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=577" alt="Artificial Intelligence Just Destroyed SpongeBob Speedrunning" title="Artificial Intelligence Just Destroyed SpongeBob Speedrunning">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1jfb3KDvS5A&title=Artificial+Intelligence+Just+Destroyed+SpongeBob+Speedrunning&lang=en&timestamp=1791749368&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=577">
+          <img src="https://ytcards.demolab.com/?id=1jfb3KDvS5A&title=Artificial+Intelligence+Just+Destroyed+SpongeBob+Speedrunning&lang=en&timestamp=1791749368&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=577" alt="Artificial Intelligence Just Destroyed SpongeBob Speedrunning" title="Artificial Intelligence Just Destroyed SpongeBob Speedrunning">
         </picture>
       </a>
     </td>
