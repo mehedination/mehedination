@@ -599,56 +599,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=GoTIt8aPG0Y" target="_blank">
+      <a href="https://www.youtube.com/watch?v=tj1dFIUAs7A" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=GoTIt8aPG0Y&title=AI%E2%80%99s+First+Full+Field-Level+Disruption&lang=en&timestamp=1791749368&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1316">
-          <img src="https://ytcards.demolab.com/?id=GoTIt8aPG0Y&title=AI%E2%80%99s+First+Full+Field-Level+Disruption&lang=en&timestamp=1791749368&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1316" alt="AI’s First Full Field-Level Disruption" title="AI’s First Full Field-Level Disruption">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tj1dFIUAs7A&title=Bill+Gates+calls+AI+%E2%80%98the+most+dangerous+technology%E2%80%99+ever+invented&lang=en&timestamp=1791846756&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=647">
+          <img src="https://ytcards.demolab.com/?id=tj1dFIUAs7A&title=Bill+Gates+calls+AI+%E2%80%98the+most+dangerous+technology%E2%80%99+ever+invented&lang=en&timestamp=1791846756&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=647" alt="Bill Gates calls AI ‘the most dangerous technology’ ever invented" title="Bill Gates calls AI ‘the most dangerous technology’ ever invented">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=4iKUaUmeoWk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=P7stqAvmfR8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4iKUaUmeoWk&title=Claude+Opus+6+LEAKED%2C+Gemini+4+Carbon+Leaks%2C+HUGE+OpenAI+Update%2C+Claude+24%2F7+Agent%2C+%26+More%21+AI+NEWS&lang=en&timestamp=1791792568&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1517">
-          <img src="https://ytcards.demolab.com/?id=4iKUaUmeoWk&title=Claude+Opus+6+LEAKED%2C+Gemini+4+Carbon+Leaks%2C+HUGE+OpenAI+Update%2C+Claude+24%2F7+Agent%2C+%26+More%21+AI+NEWS&lang=en&timestamp=1791792568&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1517" alt="Claude Opus 6 LEAKED, Gemini 4 Carbon Leaks, HUGE OpenAI Update, Claude 24/7 Agent, & More! AI NEWS" title="Claude Opus 6 LEAKED, Gemini 4 Carbon Leaks, HUGE OpenAI Update, Claude 24/7 Agent, & More! AI NEWS">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=P7stqAvmfR8&title=AI+Doomsday+Fears%2C+Hacking+%26+the+Fight+for+Control+with+Gary+Marcus+%7C+The+Real+Eisman+Playbook+Ep+79&lang=en&timestamp=1791821556&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2796">
+          <img src="https://ytcards.demolab.com/?id=P7stqAvmfR8&title=AI+Doomsday+Fears%2C+Hacking+%26+the+Fight+for+Control+with+Gary+Marcus+%7C+The+Real+Eisman+Playbook+Ep+79&lang=en&timestamp=1791821556&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2796" alt="AI Doomsday Fears, Hacking & the Fight for Control with Gary Marcus | The Real Eisman Playbook Ep 79" title="AI Doomsday Fears, Hacking & the Fight for Control with Gary Marcus | The Real Eisman Playbook Ep 79">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=VBlxAP8hGZ8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=WLChrO51aWM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=VBlxAP8hGZ8&title=End+of+Humanity+%7C+Short+AI+Film&lang=en&timestamp=1791749368&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1081">
-          <img src="https://ytcards.demolab.com/?id=VBlxAP8hGZ8&title=End+of+Humanity+%7C+Short+AI+Film&lang=en&timestamp=1791749368&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1081" alt="End of Humanity | Short AI Film" title="End of Humanity | Short AI Film">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WLChrO51aWM&title=Amazon+and+Nvidia+considering+AI+startup+deals%3A+Reports&lang=en&timestamp=1791828756&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=34">
+          <img src="https://ytcards.demolab.com/?id=WLChrO51aWM&title=Amazon+and+Nvidia+considering+AI+startup+deals%3A+Reports&lang=en&timestamp=1791828756&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=34" alt="Amazon and Nvidia considering AI startup deals: Reports" title="Amazon and Nvidia considering AI startup deals: Reports">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=QOyvZxrK_R8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ScKZ_GM3MDk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QOyvZxrK_R8&title=Elon+Musk+CAVES+To+Trump+With+Embarrassing+SpaceX+Announcement&lang=en&timestamp=1791756568&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=343">
-          <img src="https://ytcards.demolab.com/?id=QOyvZxrK_R8&title=Elon+Musk+CAVES+To+Trump+With+Embarrassing+SpaceX+Announcement&lang=en&timestamp=1791756568&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=343" alt="Elon Musk CAVES To Trump With Embarrassing SpaceX Announcement" title="Elon Musk CAVES To Trump With Embarrassing SpaceX Announcement">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ScKZ_GM3MDk&title=Palantir+Founder+Joe+Lonsdale+Warns+Lawmakers+Could+Break+Innovation+With+Premature+AI+Regulations&lang=en&timestamp=1791832356&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=826">
+          <img src="https://ytcards.demolab.com/?id=ScKZ_GM3MDk&title=Palantir+Founder+Joe+Lonsdale+Warns+Lawmakers+Could+Break+Innovation+With+Premature+AI+Regulations&lang=en&timestamp=1791832356&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=826" alt="Palantir Founder Joe Lonsdale Warns Lawmakers Could Break Innovation With Premature AI Regulations" title="Palantir Founder Joe Lonsdale Warns Lawmakers Could Break Innovation With Premature AI Regulations">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=VgXTPRWuWa4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=rB6IIvwfMIA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=VgXTPRWuWa4&title=Mathematicians+Just+Proved+How+to+Prevent+AI+Brain+Rot&lang=en&timestamp=1791799768&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3942">
-          <img src="https://ytcards.demolab.com/?id=VgXTPRWuWa4&title=Mathematicians+Just+Proved+How+to+Prevent+AI+Brain+Rot&lang=en&timestamp=1791799768&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3942" alt="Mathematicians Just Proved How to Prevent AI Brain Rot" title="Mathematicians Just Proved How to Prevent AI Brain Rot">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=rB6IIvwfMIA&title=Open+Conversation%3A+Artificial+Intelligence%2C+Democracy+and+Territories&lang=en&timestamp=1791885756&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2707">
+          <img src="https://ytcards.demolab.com/?id=rB6IIvwfMIA&title=Open+Conversation%3A+Artificial+Intelligence%2C+Democracy+and+Territories&lang=en&timestamp=1791885756&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2707" alt="Open Conversation: Artificial Intelligence, Democracy and Territories" title="Open Conversation: Artificial Intelligence, Democracy and Territories">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=1jfb3KDvS5A" target="_blank">
+      <a href="https://www.youtube.com/watch?v=dndXOogUjns" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1jfb3KDvS5A&title=Artificial+Intelligence+Just+Destroyed+SpongeBob+Speedrunning&lang=en&timestamp=1791749368&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=577">
-          <img src="https://ytcards.demolab.com/?id=1jfb3KDvS5A&title=Artificial+Intelligence+Just+Destroyed+SpongeBob+Speedrunning&lang=en&timestamp=1791749368&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=577" alt="Artificial Intelligence Just Destroyed SpongeBob Speedrunning" title="Artificial Intelligence Just Destroyed SpongeBob Speedrunning">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=dndXOogUjns&title=The+Ultimate+Hypothetical+AI+PC%2C+Part+By+Part&lang=en&timestamp=1791803556&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1208">
+          <img src="https://ytcards.demolab.com/?id=dndXOogUjns&title=The+Ultimate+Hypothetical+AI+PC%2C+Part+By+Part&lang=en&timestamp=1791803556&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1208" alt="The Ultimate Hypothetical AI PC, Part By Part" title="The Ultimate Hypothetical AI PC, Part By Part">
         </picture>
       </a>
     </td>
