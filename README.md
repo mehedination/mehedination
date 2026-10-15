@@ -600,56 +600,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=tj1dFIUAs7A" target="_blank">
+      <a href="https://www.youtube.com/watch?v=x48At9cOSf8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tj1dFIUAs7A&title=Bill+Gates+calls+AI+%E2%80%98the+most+dangerous+technology%E2%80%99+ever+invented&lang=en&timestamp=1791846756&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=647">
-          <img src="https://ytcards.demolab.com/?id=tj1dFIUAs7A&title=Bill+Gates+calls+AI+%E2%80%98the+most+dangerous+technology%E2%80%99+ever+invented&lang=en&timestamp=1791846756&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=647" alt="Bill Gates calls AI ‘the most dangerous technology’ ever invented" title="Bill Gates calls AI ‘the most dangerous technology’ ever invented">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=x48At9cOSf8&title=%27TECHNOLOGY+REVOLUTION%27%3A+Expert+on+AI+in+the+market&lang=en&timestamp=1792062224&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=428">
+          <img src="https://ytcards.demolab.com/?id=x48At9cOSf8&title=%27TECHNOLOGY+REVOLUTION%27%3A+Expert+on+AI+in+the+market&lang=en&timestamp=1792062224&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=428" alt="'TECHNOLOGY REVOLUTION': Expert on AI in the market" title="'TECHNOLOGY REVOLUTION': Expert on AI in the market">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=P7stqAvmfR8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=zZLsk4Zkag4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=P7stqAvmfR8&title=AI+Doomsday+Fears%2C+Hacking+%26+the+Fight+for+Control+with+Gary+Marcus+%7C+The+Real+Eisman+Playbook+Ep+79&lang=en&timestamp=1791821556&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2796">
-          <img src="https://ytcards.demolab.com/?id=P7stqAvmfR8&title=AI+Doomsday+Fears%2C+Hacking+%26+the+Fight+for+Control+with+Gary+Marcus+%7C+The+Real+Eisman+Playbook+Ep+79&lang=en&timestamp=1791821556&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2796" alt="AI Doomsday Fears, Hacking & the Fight for Control with Gary Marcus | The Real Eisman Playbook Ep 79" title="AI Doomsday Fears, Hacking & the Fight for Control with Gary Marcus | The Real Eisman Playbook Ep 79">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zZLsk4Zkag4&title=The+basics+of+artificial+intelligence&lang=en&timestamp=1792011824&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=139">
+          <img src="https://ytcards.demolab.com/?id=zZLsk4Zkag4&title=The+basics+of+artificial+intelligence&lang=en&timestamp=1792011824&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=139" alt="The basics of artificial intelligence" title="The basics of artificial intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=WLChrO51aWM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Y2hxjy1qHTc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WLChrO51aWM&title=Amazon+and+Nvidia+considering+AI+startup+deals%3A+Reports&lang=en&timestamp=1791828756&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=34">
-          <img src="https://ytcards.demolab.com/?id=WLChrO51aWM&title=Amazon+and+Nvidia+considering+AI+startup+deals%3A+Reports&lang=en&timestamp=1791828756&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=34" alt="Amazon and Nvidia considering AI startup deals: Reports" title="Amazon and Nvidia considering AI startup deals: Reports">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Y2hxjy1qHTc&title=Why+are+experts+warning+us+of+AI%3F++An+interview+with+Connor+Leahy&lang=en&timestamp=1792008224&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6116">
+          <img src="https://ytcards.demolab.com/?id=Y2hxjy1qHTc&title=Why+are+experts+warning+us+of+AI%3F++An+interview+with+Connor+Leahy&lang=en&timestamp=1792008224&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6116" alt="Why are experts warning us of AI?  An interview with Connor Leahy" title="Why are experts warning us of AI?  An interview with Connor Leahy">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ScKZ_GM3MDk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=SX9LQD3yINg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ScKZ_GM3MDk&title=Palantir+Founder+Joe+Lonsdale+Warns+Lawmakers+Could+Break+Innovation+With+Premature+AI+Regulations&lang=en&timestamp=1791832356&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=826">
-          <img src="https://ytcards.demolab.com/?id=ScKZ_GM3MDk&title=Palantir+Founder+Joe+Lonsdale+Warns+Lawmakers+Could+Break+Innovation+With+Premature+AI+Regulations&lang=en&timestamp=1791832356&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=826" alt="Palantir Founder Joe Lonsdale Warns Lawmakers Could Break Innovation With Premature AI Regulations" title="Palantir Founder Joe Lonsdale Warns Lawmakers Could Break Innovation With Premature AI Regulations">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SX9LQD3yINg&title=Google+Is+Back+in+the+Model+Race+With+Gemini+4+Argon&lang=en&timestamp=1792015424&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1620">
+          <img src="https://ytcards.demolab.com/?id=SX9LQD3yINg&title=Google+Is+Back+in+the+Model+Race+With+Gemini+4+Argon&lang=en&timestamp=1792015424&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1620" alt="Google Is Back in the Model Race With Gemini 4 Argon" title="Google Is Back in the Model Race With Gemini 4 Argon">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=rB6IIvwfMIA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=6Sm20pUEb5o" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=rB6IIvwfMIA&title=Open+Conversation%3A+Artificial+Intelligence%2C+Democracy+and+Territories&lang=en&timestamp=1791885756&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2707">
-          <img src="https://ytcards.demolab.com/?id=rB6IIvwfMIA&title=Open+Conversation%3A+Artificial+Intelligence%2C+Democracy+and+Territories&lang=en&timestamp=1791885756&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2707" alt="Open Conversation: Artificial Intelligence, Democracy and Territories" title="Open Conversation: Artificial Intelligence, Democracy and Territories">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6Sm20pUEb5o&title=There%27s+a+Reason+They+Want+It+Named+Super+Intelligence+Instead+of+AI+%7C+Whitney+Webb&lang=en&timestamp=1792001024&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=605">
+          <img src="https://ytcards.demolab.com/?id=6Sm20pUEb5o&title=There%27s+a+Reason+They+Want+It+Named+Super+Intelligence+Instead+of+AI+%7C+Whitney+Webb&lang=en&timestamp=1792001024&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=605" alt="There's a Reason They Want It Named Super Intelligence Instead of AI | Whitney Webb" title="There's a Reason They Want It Named Super Intelligence Instead of AI | Whitney Webb">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=dndXOogUjns" target="_blank">
+      <a href="https://www.youtube.com/watch?v=RSjLosySU6A" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=dndXOogUjns&title=The+Ultimate+Hypothetical+AI+PC%2C+Part+By+Part&lang=en&timestamp=1791803556&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1208">
-          <img src="https://ytcards.demolab.com/?id=dndXOogUjns&title=The+Ultimate+Hypothetical+AI+PC%2C+Part+By+Part&lang=en&timestamp=1791803556&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1208" alt="The Ultimate Hypothetical AI PC, Part By Part" title="The Ultimate Hypothetical AI PC, Part By Part">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=RSjLosySU6A&title=13+Action+News+Big+Story%3A+Artificial+intelligence%2C+real+problems&lang=en&timestamp=1792015424&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=491">
+          <img src="https://ytcards.demolab.com/?id=RSjLosySU6A&title=13+Action+News+Big+Story%3A+Artificial+intelligence%2C+real+problems&lang=en&timestamp=1792015424&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=491" alt="13 Action News Big Story: Artificial intelligence, real problems" title="13 Action News Big Story: Artificial intelligence, real problems">
         </picture>
       </a>
     </td>
