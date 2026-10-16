@@ -602,56 +602,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=TmMYvtp4abI" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=TmMYvtp4abI&title=AI+Leaders+Can%27t+Get+Along.+So+How+Will+They+Keep+Us+Safe%3F+%E2%80%94+With+Kevin+Roose&lang=en&timestamp=1792084526&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3712">
-          <img src="https://ytcards.demolab.com/?id=TmMYvtp4abI&title=AI+Leaders+Can%27t+Get+Along.+So+How+Will+They+Keep+Us+Safe%3F+%E2%80%94+With+Kevin+Roose&lang=en&timestamp=1792084526&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3712" alt="AI Leaders Can't Get Along. So How Will They Keep Us Safe? — With Kevin Roose" title="AI Leaders Can't Get Along. So How Will They Keep Us Safe? — With Kevin Roose">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=8yWd7jQDm3k" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8yWd7jQDm3k&title=Pope%27s+AI+adviser+warns+Australia%27s+copyright+changes+risk+%27new+form+of+colonialism%27+%7C+7.30&lang=en&timestamp=1792062926&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=408">
-          <img src="https://ytcards.demolab.com/?id=8yWd7jQDm3k&title=Pope%27s+AI+adviser+warns+Australia%27s+copyright+changes+risk+%27new+form+of+colonialism%27+%7C+7.30&lang=en&timestamp=1792062926&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=408" alt="Pope's AI adviser warns Australia's copyright changes risk 'new form of colonialism' | 7.30" title="Pope's AI adviser warns Australia's copyright changes risk 'new form of colonialism' | 7.30">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
       <a href="https://www.youtube.com/watch?v=nj0iaUDEO-0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nj0iaUDEO-0&title=AI+scheming+is+a+real+concern%2C+risk+mitigation+expert+warns&lang=en&timestamp=1792073726&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=325">
-          <img src="https://ytcards.demolab.com/?id=nj0iaUDEO-0&title=AI+scheming+is+a+real+concern%2C+risk+mitigation+expert+warns&lang=en&timestamp=1792073726&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=325" alt="AI scheming is a real concern, risk mitigation expert warns" title="AI scheming is a real concern, risk mitigation expert warns">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nj0iaUDEO-0&title=AI+scheming+is+a+real+concern%2C+risk+mitigation+expert+warns&lang=en&timestamp=1792074746&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=325">
+          <img src="https://ytcards.demolab.com/?id=nj0iaUDEO-0&title=AI+scheming+is+a+real+concern%2C+risk+mitigation+expert+warns&lang=en&timestamp=1792074746&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=325" alt="AI scheming is a real concern, risk mitigation expert warns" title="AI scheming is a real concern, risk mitigation expert warns">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=x48At9cOSf8" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=x48At9cOSf8&title=%27TECHNOLOGY+REVOLUTION%27%3A+Expert+on+AI+in+the+market&lang=en&timestamp=1792063946&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=428">
+          <img src="https://ytcards.demolab.com/?id=x48At9cOSf8&title=%27TECHNOLOGY+REVOLUTION%27%3A+Expert+on+AI+in+the+market&lang=en&timestamp=1792063946&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=428" alt="'TECHNOLOGY REVOLUTION': Expert on AI in the market" title="'TECHNOLOGY REVOLUTION': Expert on AI in the market">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=TmMYvtp4abI" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=TmMYvtp4abI&title=AI+Leaders+Can%27t+Get+Along.+So+How+Will+They+Keep+Us+Safe%3F+%E2%80%94+With+Kevin+Roose&lang=en&timestamp=1792081946&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3712">
+          <img src="https://ytcards.demolab.com/?id=TmMYvtp4abI&title=AI+Leaders+Can%27t+Get+Along.+So+How+Will+They+Keep+Us+Safe%3F+%E2%80%94+With+Kevin+Roose&lang=en&timestamp=1792081946&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3712" alt="AI Leaders Can't Get Along. So How Will They Keep Us Safe? — With Kevin Roose" title="AI Leaders Can't Get Along. So How Will They Keep Us Safe? — With Kevin Roose">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=AwuTTOJGEi0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=3qLqsMAUAEo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=AwuTTOJGEi0&title=The+Changing+Physics+of+Cybersecurity+and+Drug+Development+with+OpenAI+President+Greg+Brockman&lang=en&timestamp=1792059326&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2363">
-          <img src="https://ytcards.demolab.com/?id=AwuTTOJGEi0&title=The+Changing+Physics+of+Cybersecurity+and+Drug+Development+with+OpenAI+President+Greg+Brockman&lang=en&timestamp=1792059326&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2363" alt="The Changing Physics of Cybersecurity and Drug Development with OpenAI President Greg Brockman" title="The Changing Physics of Cybersecurity and Drug Development with OpenAI President Greg Brockman">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3qLqsMAUAEo&title=Artificial+Intelligence+%7C+BrainPOP+3-8&lang=en&timestamp=1792099946&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=59">
+          <img src="https://ytcards.demolab.com/?id=3qLqsMAUAEo&title=Artificial+Intelligence+%7C+BrainPOP+3-8&lang=en&timestamp=1792099946&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=59" alt="Artificial Intelligence | BrainPOP 3-8" title="Artificial Intelligence | BrainPOP 3-8">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=rL3sWS_8b-g" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=rL3sWS_8b-g&title=How+does+Java+fit+into+the+world+of+AI%E2%80%94and+how+can+it+become+an+even+better+fit%3F&lang=en&timestamp=1792063946&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3013">
+          <img src="https://ytcards.demolab.com/?id=rL3sWS_8b-g&title=How+does+Java+fit+into+the+world+of+AI%E2%80%94and+how+can+it+become+an+even+better+fit%3F&lang=en&timestamp=1792063946&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3013" alt="How does Java fit into the world of AI—and how can it become an even better fit?" title="How does Java fit into the world of AI—and how can it become an even better fit?">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=fsvWurHpSYI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=fsvWurHpSYI&title=Are+We+Already+Too+Dependent+on+Artificial+Intelligence%3F+With+Jim+VandeHei&lang=en&timestamp=1792095326&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4708">
-          <img src="https://ytcards.demolab.com/?id=fsvWurHpSYI&title=Are+We+Already+Too+Dependent+on+Artificial+Intelligence%3F+With+Jim+VandeHei&lang=en&timestamp=1792095326&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4708" alt="Are We Already Too Dependent on Artificial Intelligence? With Jim VandeHei" title="Are We Already Too Dependent on Artificial Intelligence? With Jim VandeHei">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=2KNWZxzCh7A" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2KNWZxzCh7A&title=Nvidia+CEO+Jensen+Huang+says+US+and+China+must+work+together+for+AI+safety&lang=en&timestamp=1792052126&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=53">
-          <img src="https://ytcards.demolab.com/?id=2KNWZxzCh7A&title=Nvidia+CEO+Jensen+Huang+says+US+and+China+must+work+together+for+AI+safety&lang=en&timestamp=1792052126&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=53" alt="Nvidia CEO Jensen Huang says US and China must work together for AI safety" title="Nvidia CEO Jensen Huang says US and China must work together for AI safety">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=fsvWurHpSYI&title=Are+We+Already+Too+Dependent+on+Artificial+Intelligence%3F+With+Jim+VandeHei&lang=en&timestamp=1792096346&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4708">
+          <img src="https://ytcards.demolab.com/?id=fsvWurHpSYI&title=Are+We+Already+Too+Dependent+on+Artificial+Intelligence%3F+With+Jim+VandeHei&lang=en&timestamp=1792096346&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4708" alt="Are We Already Too Dependent on Artificial Intelligence? With Jim VandeHei" title="Are We Already Too Dependent on Artificial Intelligence? With Jim VandeHei">
         </picture>
       </a>
     </td>
