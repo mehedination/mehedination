@@ -601,56 +601,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=x48At9cOSf8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=TmMYvtp4abI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=x48At9cOSf8&title=%27TECHNOLOGY+REVOLUTION%27%3A+Expert+on+AI+in+the+market&lang=en&timestamp=1792062224&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=428">
-          <img src="https://ytcards.demolab.com/?id=x48At9cOSf8&title=%27TECHNOLOGY+REVOLUTION%27%3A+Expert+on+AI+in+the+market&lang=en&timestamp=1792062224&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=428" alt="'TECHNOLOGY REVOLUTION': Expert on AI in the market" title="'TECHNOLOGY REVOLUTION': Expert on AI in the market">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=TmMYvtp4abI&title=AI+Leaders+Can%27t+Get+Along.+So+How+Will+They+Keep+Us+Safe%3F+%E2%80%94+With+Kevin+Roose&lang=en&timestamp=1792084526&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3712">
+          <img src="https://ytcards.demolab.com/?id=TmMYvtp4abI&title=AI+Leaders+Can%27t+Get+Along.+So+How+Will+They+Keep+Us+Safe%3F+%E2%80%94+With+Kevin+Roose&lang=en&timestamp=1792084526&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3712" alt="AI Leaders Can't Get Along. So How Will They Keep Us Safe? — With Kevin Roose" title="AI Leaders Can't Get Along. So How Will They Keep Us Safe? — With Kevin Roose">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=zZLsk4Zkag4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=8yWd7jQDm3k" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zZLsk4Zkag4&title=The+basics+of+artificial+intelligence&lang=en&timestamp=1792011824&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=139">
-          <img src="https://ytcards.demolab.com/?id=zZLsk4Zkag4&title=The+basics+of+artificial+intelligence&lang=en&timestamp=1792011824&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=139" alt="The basics of artificial intelligence" title="The basics of artificial intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8yWd7jQDm3k&title=Pope%27s+AI+adviser+warns+Australia%27s+copyright+changes+risk+%27new+form+of+colonialism%27+%7C+7.30&lang=en&timestamp=1792062926&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=408">
+          <img src="https://ytcards.demolab.com/?id=8yWd7jQDm3k&title=Pope%27s+AI+adviser+warns+Australia%27s+copyright+changes+risk+%27new+form+of+colonialism%27+%7C+7.30&lang=en&timestamp=1792062926&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=408" alt="Pope's AI adviser warns Australia's copyright changes risk 'new form of colonialism' | 7.30" title="Pope's AI adviser warns Australia's copyright changes risk 'new form of colonialism' | 7.30">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Y2hxjy1qHTc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=nj0iaUDEO-0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Y2hxjy1qHTc&title=Why+are+experts+warning+us+of+AI%3F++An+interview+with+Connor+Leahy&lang=en&timestamp=1792008224&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6116">
-          <img src="https://ytcards.demolab.com/?id=Y2hxjy1qHTc&title=Why+are+experts+warning+us+of+AI%3F++An+interview+with+Connor+Leahy&lang=en&timestamp=1792008224&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6116" alt="Why are experts warning us of AI?  An interview with Connor Leahy" title="Why are experts warning us of AI?  An interview with Connor Leahy">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nj0iaUDEO-0&title=AI+scheming+is+a+real+concern%2C+risk+mitigation+expert+warns&lang=en&timestamp=1792073726&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=325">
+          <img src="https://ytcards.demolab.com/?id=nj0iaUDEO-0&title=AI+scheming+is+a+real+concern%2C+risk+mitigation+expert+warns&lang=en&timestamp=1792073726&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=325" alt="AI scheming is a real concern, risk mitigation expert warns" title="AI scheming is a real concern, risk mitigation expert warns">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=SX9LQD3yINg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=AwuTTOJGEi0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SX9LQD3yINg&title=Google+Is+Back+in+the+Model+Race+With+Gemini+4+Argon&lang=en&timestamp=1792015424&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1620">
-          <img src="https://ytcards.demolab.com/?id=SX9LQD3yINg&title=Google+Is+Back+in+the+Model+Race+With+Gemini+4+Argon&lang=en&timestamp=1792015424&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1620" alt="Google Is Back in the Model Race With Gemini 4 Argon" title="Google Is Back in the Model Race With Gemini 4 Argon">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=AwuTTOJGEi0&title=The+Changing+Physics+of+Cybersecurity+and+Drug+Development+with+OpenAI+President+Greg+Brockman&lang=en&timestamp=1792059326&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2363">
+          <img src="https://ytcards.demolab.com/?id=AwuTTOJGEi0&title=The+Changing+Physics+of+Cybersecurity+and+Drug+Development+with+OpenAI+President+Greg+Brockman&lang=en&timestamp=1792059326&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2363" alt="The Changing Physics of Cybersecurity and Drug Development with OpenAI President Greg Brockman" title="The Changing Physics of Cybersecurity and Drug Development with OpenAI President Greg Brockman">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=6Sm20pUEb5o" target="_blank">
+      <a href="https://www.youtube.com/watch?v=fsvWurHpSYI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6Sm20pUEb5o&title=There%27s+a+Reason+They+Want+It+Named+Super+Intelligence+Instead+of+AI+%7C+Whitney+Webb&lang=en&timestamp=1792001024&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=605">
-          <img src="https://ytcards.demolab.com/?id=6Sm20pUEb5o&title=There%27s+a+Reason+They+Want+It+Named+Super+Intelligence+Instead+of+AI+%7C+Whitney+Webb&lang=en&timestamp=1792001024&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=605" alt="There's a Reason They Want It Named Super Intelligence Instead of AI | Whitney Webb" title="There's a Reason They Want It Named Super Intelligence Instead of AI | Whitney Webb">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=fsvWurHpSYI&title=Are+We+Already+Too+Dependent+on+Artificial+Intelligence%3F+With+Jim+VandeHei&lang=en&timestamp=1792095326&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4708">
+          <img src="https://ytcards.demolab.com/?id=fsvWurHpSYI&title=Are+We+Already+Too+Dependent+on+Artificial+Intelligence%3F+With+Jim+VandeHei&lang=en&timestamp=1792095326&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4708" alt="Are We Already Too Dependent on Artificial Intelligence? With Jim VandeHei" title="Are We Already Too Dependent on Artificial Intelligence? With Jim VandeHei">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=RSjLosySU6A" target="_blank">
+      <a href="https://www.youtube.com/watch?v=2KNWZxzCh7A" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=RSjLosySU6A&title=13+Action+News+Big+Story%3A+Artificial+intelligence%2C+real+problems&lang=en&timestamp=1792015424&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=491">
-          <img src="https://ytcards.demolab.com/?id=RSjLosySU6A&title=13+Action+News+Big+Story%3A+Artificial+intelligence%2C+real+problems&lang=en&timestamp=1792015424&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=491" alt="13 Action News Big Story: Artificial intelligence, real problems" title="13 Action News Big Story: Artificial intelligence, real problems">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2KNWZxzCh7A&title=Nvidia+CEO+Jensen+Huang+says+US+and+China+must+work+together+for+AI+safety&lang=en&timestamp=1792052126&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=53">
+          <img src="https://ytcards.demolab.com/?id=2KNWZxzCh7A&title=Nvidia+CEO+Jensen+Huang+says+US+and+China+must+work+together+for+AI+safety&lang=en&timestamp=1792052126&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=53" alt="Nvidia CEO Jensen Huang says US and China must work together for AI safety" title="Nvidia CEO Jensen Huang says US and China must work together for AI safety">
         </picture>
       </a>
     </td>
