@@ -606,56 +606,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=-Q4Uzw8SG-0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-Q4Uzw8SG-0&title=How+books+are+being+scanned+and+destroyed+to+train+artificial+intelligence+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1792143432&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=253">
-          <img src="https://ytcards.demolab.com/?id=-Q4Uzw8SG-0&title=How+books+are+being+scanned+and+destroyed+to+train+artificial+intelligence+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1792143432&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=253" alt="How books are being scanned and destroyed to train artificial intelligence • FRANCE 24 English" title="How books are being scanned and destroyed to train artificial intelligence • FRANCE 24 English">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-Q4Uzw8SG-0&title=How+books+are+being+scanned+and+destroyed+to+train+artificial+intelligence+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1792145255&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=253">
+          <img src="https://ytcards.demolab.com/?id=-Q4Uzw8SG-0&title=How+books+are+being+scanned+and+destroyed+to+train+artificial+intelligence+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1792145255&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=253" alt="How books are being scanned and destroyed to train artificial intelligence • FRANCE 24 English" title="How books are being scanned and destroyed to train artificial intelligence • FRANCE 24 English">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=tGRB8ECyEJ0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=i9PTcGD1viU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tGRB8ECyEJ0&title=AI+bubble+fears%3A+Could+a+crash+trigger+a+global+financial+crisis%3F+%7C+DW+News&lang=en&timestamp=1792107432&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=813">
-          <img src="https://ytcards.demolab.com/?id=tGRB8ECyEJ0&title=AI+bubble+fears%3A+Could+a+crash+trigger+a+global+financial+crisis%3F+%7C+DW+News&lang=en&timestamp=1792107432&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=813" alt="AI bubble fears: Could a crash trigger a global financial crisis? | DW News" title="AI bubble fears: Could a crash trigger a global financial crisis? | DW News">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=i9PTcGD1viU&title=Will+AI+Really+Wipe+Us+Out+by+2030%3F+-+Nuclear+Engineer+Reacts+to+CNN&lang=en&timestamp=1792170455&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2736">
+          <img src="https://ytcards.demolab.com/?id=i9PTcGD1viU&title=Will+AI+Really+Wipe+Us+Out+by+2030%3F+-+Nuclear+Engineer+Reacts+to+CNN&lang=en&timestamp=1792170455&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2736" alt="Will AI Really Wipe Us Out by 2030? - Nuclear Engineer Reacts to CNN" title="Will AI Really Wipe Us Out by 2030? - Nuclear Engineer Reacts to CNN">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=JUY8NJ7gNAo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JUY8NJ7gNAo&title=What+if+the+skeptics+are+right+about+AI%3F+%7C+DW+News&lang=en&timestamp=1792139832&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=810">
-          <img src="https://ytcards.demolab.com/?id=JUY8NJ7gNAo&title=What+if+the+skeptics+are+right+about+AI%3F+%7C+DW+News&lang=en&timestamp=1792139832&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=810" alt="What if the skeptics are right about AI? | DW News" title="What if the skeptics are right about AI? | DW News">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JUY8NJ7gNAo&title=What+if+the+skeptics+are+right+about+AI%3F+%7C+DW+News&lang=en&timestamp=1792138055&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=810">
+          <img src="https://ytcards.demolab.com/?id=JUY8NJ7gNAo&title=What+if+the+skeptics+are+right+about+AI%3F+%7C+DW+News&lang=en&timestamp=1792138055&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=810" alt="What if the skeptics are right about AI? | DW News" title="What if the skeptics are right about AI? | DW News">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=MhEL9cvLxQE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=4vV5k9sZLb4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=MhEL9cvLxQE&title=Hyperoptimized+Engineer+2026&lang=en&timestamp=1792103832&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=282">
-          <img src="https://ytcards.demolab.com/?id=MhEL9cvLxQE&title=Hyperoptimized+Engineer+2026&lang=en&timestamp=1792103832&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=282" alt="Hyperoptimized Engineer 2026" title="Hyperoptimized Engineer 2026">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4vV5k9sZLb4&title=AI+Panic+Deepens+as+Wall+Street+Warns+CoreWeave+Could+Collapse+to+ZERO&lang=en&timestamp=1792170455&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1044">
+          <img src="https://ytcards.demolab.com/?id=4vV5k9sZLb4&title=AI+Panic+Deepens+as+Wall+Street+Warns+CoreWeave+Could+Collapse+to+ZERO&lang=en&timestamp=1792170455&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1044" alt="AI Panic Deepens as Wall Street Warns CoreWeave Could Collapse to ZERO" title="AI Panic Deepens as Wall Street Warns CoreWeave Could Collapse to ZERO">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=7loKqXPzTcQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=fxGWBZZjRUs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=7loKqXPzTcQ&title=Scientists+WARN+artificial+intelligence+can+DISTORT+human+memories&lang=en&timestamp=1792175832&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=116">
-          <img src="https://ytcards.demolab.com/?id=7loKqXPzTcQ&title=Scientists+WARN+artificial+intelligence+can+DISTORT+human+memories&lang=en&timestamp=1792175832&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=116" alt="Scientists WARN artificial intelligence can DISTORT human memories" title="Scientists WARN artificial intelligence can DISTORT human memories">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=fxGWBZZjRUs&title=The+Military+Is+Giving+AI+a+Body.+We+May+Not+Be+Able+to+Control+Them.&lang=en&timestamp=1792138055&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=344">
+          <img src="https://ytcards.demolab.com/?id=fxGWBZZjRUs&title=The+Military+Is+Giving+AI+a+Body.+We+May+Not+Be+Able+to+Control+Them.&lang=en&timestamp=1792138055&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=344" alt="The Military Is Giving AI a Body. We May Not Be Able to Control Them." title="The Military Is Giving AI a Body. We May Not Be Able to Control Them.">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=TmMYvtp4abI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=TBJ9esNJCjg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=TmMYvtp4abI&title=AI+Leaders+Can%27t+Get+Along.+So+How+Will+They+Keep+Us+Safe%3F+%E2%80%94+With+Kevin+Roose&lang=en&timestamp=1792103832&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3712">
-          <img src="https://ytcards.demolab.com/?id=TmMYvtp4abI&title=AI+Leaders+Can%27t+Get+Along.+So+How+Will+They+Keep+Us+Safe%3F+%E2%80%94+With+Kevin+Roose&lang=en&timestamp=1792103832&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3712" alt="AI Leaders Can't Get Along. So How Will They Keep Us Safe? — With Kevin Roose" title="AI Leaders Can't Get Along. So How Will They Keep Us Safe? — With Kevin Roose">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=TBJ9esNJCjg&title=AI+TAKEOVER+2027%3A+The+Terrifying+Future+of+Human+Brains+%28Realistic+Scenario%29&lang=en&timestamp=1792159655&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1170">
+          <img src="https://ytcards.demolab.com/?id=TBJ9esNJCjg&title=AI+TAKEOVER+2027%3A+The+Terrifying+Future+of+Human+Brains+%28Realistic+Scenario%29&lang=en&timestamp=1792159655&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1170" alt="AI TAKEOVER 2027: The Terrifying Future of Human Brains (Realistic Scenario)" title="AI TAKEOVER 2027: The Terrifying Future of Human Brains (Realistic Scenario)">
         </picture>
       </a>
     </td>
