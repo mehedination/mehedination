@@ -617,56 +617,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=H5KkePO-hIc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=H5KkePO-hIc&title=AI+Just+Went+Too+Far+%E2%80%94+And+What+Happened+Next+Is+Shocking...&lang=en&timestamp=1792267972&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2422">
-          <img src="https://ytcards.demolab.com/?id=H5KkePO-hIc&title=AI+Just+Went+Too+Far+%E2%80%94+And+What+Happened+Next+Is+Shocking...&lang=en&timestamp=1792267972&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2422" alt="AI Just Went Too Far — And What Happened Next Is Shocking..." title="AI Just Went Too Far — And What Happened Next Is Shocking...">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=bWAXazCVi6A" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=bWAXazCVi6A&title=How+AI+Is+Changing+the+Working+World&lang=en&timestamp=1792267972&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=752">
-          <img src="https://ytcards.demolab.com/?id=bWAXazCVi6A&title=How+AI+Is+Changing+the+Working+World&lang=en&timestamp=1792267972&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=752" alt="How AI Is Changing the Working World" title="How AI Is Changing the Working World">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Cd3QM3foiLU" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Cd3QM3foiLU&title=MAXIMUM+OVERDRIVE%3A+Could+Rogue+AI+Turn+Our+Machines+Against+Us+in+the+near+future%3F&lang=en&timestamp=1792282372&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2517">
-          <img src="https://ytcards.demolab.com/?id=Cd3QM3foiLU&title=MAXIMUM+OVERDRIVE%3A+Could+Rogue+AI+Turn+Our+Machines+Against+Us+in+the+near+future%3F&lang=en&timestamp=1792282372&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2517" alt="MAXIMUM OVERDRIVE: Could Rogue AI Turn Our Machines Against Us in the near future?" title="MAXIMUM OVERDRIVE: Could Rogue AI Turn Our Machines Against Us in the near future?">
-        </picture>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=2mE6bbjVazE" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2mE6bbjVazE&title=Former+OpenAI+Researcher+Makes+a+MASSIVE+AI+Discovery&lang=en&timestamp=1792271572&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1494">
-          <img src="https://ytcards.demolab.com/?id=2mE6bbjVazE&title=Former+OpenAI+Researcher+Makes+a+MASSIVE+AI+Discovery&lang=en&timestamp=1792271572&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1494" alt="Former OpenAI Researcher Makes a MASSIVE AI Discovery" title="Former OpenAI Researcher Makes a MASSIVE AI Discovery">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=AwmZTXFEnWY" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=AwmZTXFEnWY&title=Aging+Will+Soon+Be+Solved+by+AI&lang=en&timestamp=1792267972&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1041">
-          <img src="https://ytcards.demolab.com/?id=AwmZTXFEnWY&title=Aging+Will+Soon+Be+Solved+by+AI&lang=en&timestamp=1792267972&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1041" alt="Aging Will Soon Be Solved by AI" title="Aging Will Soon Be Solved by AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=H5KkePO-hIc&title=AI+Just+Went+Too+Far+%E2%80%94+And+What+Happened+Next+Is+Shocking...&lang=en&timestamp=1792277377&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2422">
+          <img src="https://ytcards.demolab.com/?id=H5KkePO-hIc&title=AI+Just+Went+Too+Far+%E2%80%94+And+What+Happened+Next+Is+Shocking...&lang=en&timestamp=1792277377&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2422" alt="AI Just Went Too Far — And What Happened Next Is Shocking..." title="AI Just Went Too Far — And What Happened Next Is Shocking...">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=eE7Ev2q1eRA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=eE7Ev2q1eRA&title=Teenagers+turning+to+artificial+intelligence+for+relationships+and+advice&lang=en&timestamp=1792282372&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=274">
-          <img src="https://ytcards.demolab.com/?id=eE7Ev2q1eRA&title=Teenagers+turning+to+artificial+intelligence+for+relationships+and+advice&lang=en&timestamp=1792282372&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=274" alt="Teenagers turning to artificial intelligence for relationships and advice" title="Teenagers turning to artificial intelligence for relationships and advice">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=eE7Ev2q1eRA&title=Teenagers+turning+to+artificial+intelligence+for+relationships+and+advice&lang=en&timestamp=1792280977&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=274">
+          <img src="https://ytcards.demolab.com/?id=eE7Ev2q1eRA&title=Teenagers+turning+to+artificial+intelligence+for+relationships+and+advice&lang=en&timestamp=1792280977&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=274" alt="Teenagers turning to artificial intelligence for relationships and advice" title="Teenagers turning to artificial intelligence for relationships and advice">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=Cd3QM3foiLU" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Cd3QM3foiLU&title=MAXIMUM+OVERDRIVE%3A+Could+Rogue+AI+Turn+Our+Machines+Against+Us+in+the+near+future%3F&lang=en&timestamp=1792284577&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2517">
+          <img src="https://ytcards.demolab.com/?id=Cd3QM3foiLU&title=MAXIMUM+OVERDRIVE%3A+Could+Rogue+AI+Turn+Our+Machines+Against+Us+in+the+near+future%3F&lang=en&timestamp=1792284577&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2517" alt="MAXIMUM OVERDRIVE: Could Rogue AI Turn Our Machines Against Us in the near future?" title="MAXIMUM OVERDRIVE: Could Rogue AI Turn Our Machines Against Us in the near future?">
+        </picture>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=AwmZTXFEnWY" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=AwmZTXFEnWY&title=Aging+Will+Soon+Be+Solved+by+AI&lang=en&timestamp=1792277377&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1041">
+          <img src="https://ytcards.demolab.com/?id=AwmZTXFEnWY&title=Aging+Will+Soon+Be+Solved+by+AI&lang=en&timestamp=1792277377&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1041" alt="Aging Will Soon Be Solved by AI" title="Aging Will Soon Be Solved by AI">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=v5xLQC0ruEY" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=v5xLQC0ruEY&title=CoreWeave+Plunges+%26+AI+Panic+Spreads+as+Credit+Fears+Grow&lang=en&timestamp=1792338577&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=792">
+          <img src="https://ytcards.demolab.com/?id=v5xLQC0ruEY&title=CoreWeave+Plunges+%26+AI+Panic+Spreads+as+Credit+Fears+Grow&lang=en&timestamp=1792338577&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=792" alt="CoreWeave Plunges & AI Panic Spreads as Credit Fears Grow" title="CoreWeave Plunges & AI Panic Spreads as Credit Fears Grow">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=sqkrAg6cWAk" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sqkrAg6cWAk&title=Everyone+in+AI+Is+Lying%E2%80%94and+They+Know+It&lang=en&timestamp=1792277377&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=790">
+          <img src="https://ytcards.demolab.com/?id=sqkrAg6cWAk&title=Everyone+in+AI+Is+Lying%E2%80%94and+They+Know+It&lang=en&timestamp=1792277377&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=790" alt="Everyone in AI Is Lying—and They Know It" title="Everyone in AI Is Lying—and They Know It">
         </picture>
       </a>
     </td>
