@@ -612,56 +612,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=NYs2rfmMtE0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=2mE6bbjVazE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=NYs2rfmMtE0&title=20+AI+Concepts+Explained+in+30+Minutes+%7C+Artificial+Intelligence+Full+Course+%7C+Intellipaat&lang=en&timestamp=1792244915&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1393">
-          <img src="https://ytcards.demolab.com/?id=NYs2rfmMtE0&title=20+AI+Concepts+Explained+in+30+Minutes+%7C+Artificial+Intelligence+Full+Course+%7C+Intellipaat&lang=en&timestamp=1792244915&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1393" alt="20 AI Concepts Explained in 30 Minutes | Artificial Intelligence Full Course | Intellipaat" title="20 AI Concepts Explained in 30 Minutes | Artificial Intelligence Full Course | Intellipaat">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2mE6bbjVazE&title=Is+This+The+Biggest+AI+Discovery+Of+The+Year%3F&lang=en&timestamp=1792272397&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1494">
+          <img src="https://ytcards.demolab.com/?id=2mE6bbjVazE&title=Is+This+The+Biggest+AI+Discovery+Of+The+Year%3F&lang=en&timestamp=1792272397&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1494" alt="Is This The Biggest AI Discovery Of The Year?" title="Is This The Biggest AI Discovery Of The Year?">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=-Q4Uzw8SG-0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=T633Cf2mXEk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-Q4Uzw8SG-0&title=How+books+are+being+scanned+and+destroyed+to+train+artificial+intelligence+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1792194515&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=253">
-          <img src="https://ytcards.demolab.com/?id=-Q4Uzw8SG-0&title=How+books+are+being+scanned+and+destroyed+to+train+artificial+intelligence+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1792194515&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=253" alt="How books are being scanned and destroyed to train artificial intelligence • FRANCE 24 English" title="How books are being scanned and destroyed to train artificial intelligence • FRANCE 24 English">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=T633Cf2mXEk&title=AI+Expert+Roman+Yampolskiy+WARNS%3A+We%27re+Closer+to+Losing+Control+Than+You+Think&lang=en&timestamp=1792265197&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1837">
+          <img src="https://ytcards.demolab.com/?id=T633Cf2mXEk&title=AI+Expert+Roman+Yampolskiy+WARNS%3A+We%27re+Closer+to+Losing+Control+Than+You+Think&lang=en&timestamp=1792265197&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1837" alt="AI Expert Roman Yampolskiy WARNS: We're Closer to Losing Control Than You Think" title="AI Expert Roman Yampolskiy WARNS: We're Closer to Losing Control Than You Think">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=7loKqXPzTcQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=bHLOMeEoDhk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=7loKqXPzTcQ&title=Scientists+WARN+artificial+intelligence+can+DISTORT+human+memories&lang=en&timestamp=1792194515&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=116">
-          <img src="https://ytcards.demolab.com/?id=7loKqXPzTcQ&title=Scientists+WARN+artificial+intelligence+can+DISTORT+human+memories&lang=en&timestamp=1792194515&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=116" alt="Scientists WARN artificial intelligence can DISTORT human memories" title="Scientists WARN artificial intelligence can DISTORT human memories">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=bHLOMeEoDhk&title=The+West+Is+GASLIGHTING+Everyone+%E2%80%94+Now+With+AI+%7C+Profs.+D.+Riches+%26+J.+Eddebo&lang=en&timestamp=1792243597&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4060">
+          <img src="https://ytcards.demolab.com/?id=bHLOMeEoDhk&title=The+West+Is+GASLIGHTING+Everyone+%E2%80%94+Now+With+AI+%7C+Profs.+D.+Riches+%26+J.+Eddebo&lang=en&timestamp=1792243597&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4060" alt="The West Is GASLIGHTING Everyone — Now With AI | Profs. D. Riches & J. Eddebo" title="The West Is GASLIGHTING Everyone — Now With AI | Profs. D. Riches & J. Eddebo">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=JUY8NJ7gNAo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=wHhDi1Y3Cu8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JUY8NJ7gNAo&title=What+if+the+skeptics+are+right+about+AI%3F+%7C+DW+News&lang=en&timestamp=1792194515&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=810">
-          <img src="https://ytcards.demolab.com/?id=JUY8NJ7gNAo&title=What+if+the+skeptics+are+right+about+AI%3F+%7C+DW+News&lang=en&timestamp=1792194515&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=810" alt="What if the skeptics are right about AI? | DW News" title="What if the skeptics are right about AI? | DW News">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wHhDi1Y3Cu8&title=Are+Gray+Aliens+The+Future+Direction+of+Artificial+Intelligence%3F&lang=en&timestamp=1792290397&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=888">
+          <img src="https://ytcards.demolab.com/?id=wHhDi1Y3Cu8&title=Are+Gray+Aliens+The+Future+Direction+of+Artificial+Intelligence%3F&lang=en&timestamp=1792290397&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=888" alt="Are Gray Aliens The Future Direction of Artificial Intelligence?" title="Are Gray Aliens The Future Direction of Artificial Intelligence?">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=eE7Ev2q1eRA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ietjhC8WBJg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=eE7Ev2q1eRA&title=Teenagers+turning+to+artificial+intelligence+for+relationships+and+advice&lang=en&timestamp=1792280675&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=274">
-          <img src="https://ytcards.demolab.com/?id=eE7Ev2q1eRA&title=Teenagers+turning+to+artificial+intelligence+for+relationships+and+advice&lang=en&timestamp=1792280675&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=274" alt="Teenagers turning to artificial intelligence for relationships and advice" title="Teenagers turning to artificial intelligence for relationships and advice">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ietjhC8WBJg&title=The+Real+Reason+Character+AI+Is+Shutting+Down&lang=en&timestamp=1792257997&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1486">
+          <img src="https://ytcards.demolab.com/?id=ietjhC8WBJg&title=The+Real+Reason+Character+AI+Is+Shutting+Down&lang=en&timestamp=1792257997&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1486" alt="The Real Reason Character AI Is Shutting Down" title="The Real Reason Character AI Is Shutting Down">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=RWSQgoqBo0A" target="_blank">
+      <a href="https://www.youtube.com/watch?v=bWAXazCVi6A" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=RWSQgoqBo0A&title=A.I.+Artificial+Intelligence+%7C+Flesh+Fair+%7C+Warner+Bros.+Rewind&lang=en&timestamp=1792248515&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=518">
-          <img src="https://ytcards.demolab.com/?id=RWSQgoqBo0A&title=A.I.+Artificial+Intelligence+%7C+Flesh+Fair+%7C+Warner+Bros.+Rewind&lang=en&timestamp=1792248515&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=518" alt="A.I. Artificial Intelligence | Flesh Fair | Warner Bros. Rewind" title="A.I. Artificial Intelligence | Flesh Fair | Warner Bros. Rewind">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=bWAXazCVi6A&title=How+AI+Is+Changing+the+Working+World&lang=en&timestamp=1792250797&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=752">
+          <img src="https://ytcards.demolab.com/?id=bWAXazCVi6A&title=How+AI+Is+Changing+the+Working+World&lang=en&timestamp=1792250797&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=752" alt="How AI Is Changing the Working World" title="How AI Is Changing the Working World">
         </picture>
       </a>
     </td>
