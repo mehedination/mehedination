@@ -613,56 +613,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
+      <a href="https://www.youtube.com/watch?v=l5A1WvhnCwI" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=l5A1WvhnCwI&title=Will+autonomous+weapons+obey+the+laws+of+war%3F%7C+DW+News&lang=en&timestamp=1792251485&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=565">
+          <img src="https://ytcards.demolab.com/?id=l5A1WvhnCwI&title=Will+autonomous+weapons+obey+the+laws+of+war%3F%7C+DW+News&lang=en&timestamp=1792251485&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=565" alt="Will autonomous weapons obey the laws of war?| DW News" title="Will autonomous weapons obey the laws of war?| DW News">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=H5KkePO-hIc" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=H5KkePO-hIc&title=AI+Just+Went+Too+Far+%E2%80%94+And+What+Happened+Next+Is+Shocking...&lang=en&timestamp=1792265885&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2422">
+          <img src="https://ytcards.demolab.com/?id=H5KkePO-hIc&title=AI+Just+Went+Too+Far+%E2%80%94+And+What+Happened+Next+Is+Shocking...&lang=en&timestamp=1792265885&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2422" alt="AI Just Went Too Far — And What Happened Next Is Shocking..." title="AI Just Went Too Far — And What Happened Next Is Shocking...">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
       <a href="https://www.youtube.com/watch?v=2mE6bbjVazE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2mE6bbjVazE&title=Is+This+The+Biggest+AI+Discovery+Of+The+Year%3F&lang=en&timestamp=1792272397&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1494">
-          <img src="https://ytcards.demolab.com/?id=2mE6bbjVazE&title=Is+This+The+Biggest+AI+Discovery+Of+The+Year%3F&lang=en&timestamp=1792272397&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1494" alt="Is This The Biggest AI Discovery Of The Year?" title="Is This The Biggest AI Discovery Of The Year?">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=T633Cf2mXEk" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=T633Cf2mXEk&title=AI+Expert+Roman+Yampolskiy+WARNS%3A+We%27re+Closer+to+Losing+Control+Than+You+Think&lang=en&timestamp=1792265197&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1837">
-          <img src="https://ytcards.demolab.com/?id=T633Cf2mXEk&title=AI+Expert+Roman+Yampolskiy+WARNS%3A+We%27re+Closer+to+Losing+Control+Than+You+Think&lang=en&timestamp=1792265197&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1837" alt="AI Expert Roman Yampolskiy WARNS: We're Closer to Losing Control Than You Think" title="AI Expert Roman Yampolskiy WARNS: We're Closer to Losing Control Than You Think">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=bHLOMeEoDhk" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=bHLOMeEoDhk&title=The+West+Is+GASLIGHTING+Everyone+%E2%80%94+Now+With+AI+%7C+Profs.+D.+Riches+%26+J.+Eddebo&lang=en&timestamp=1792243597&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4060">
-          <img src="https://ytcards.demolab.com/?id=bHLOMeEoDhk&title=The+West+Is+GASLIGHTING+Everyone+%E2%80%94+Now+With+AI+%7C+Profs.+D.+Riches+%26+J.+Eddebo&lang=en&timestamp=1792243597&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4060" alt="The West Is GASLIGHTING Everyone — Now With AI | Profs. D. Riches & J. Eddebo" title="The West Is GASLIGHTING Everyone — Now With AI | Profs. D. Riches & J. Eddebo">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2mE6bbjVazE&title=Former+OpenAI+Researcher+Makes+a+MASSIVE+AI+Discovery&lang=en&timestamp=1792269485&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1494">
+          <img src="https://ytcards.demolab.com/?id=2mE6bbjVazE&title=Former+OpenAI+Researcher+Makes+a+MASSIVE+AI+Discovery&lang=en&timestamp=1792269485&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1494" alt="Former OpenAI Researcher Makes a MASSIVE AI Discovery" title="Former OpenAI Researcher Makes a MASSIVE AI Discovery">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=wHhDi1Y3Cu8" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wHhDi1Y3Cu8&title=Are+Gray+Aliens+The+Future+Direction+of+Artificial+Intelligence%3F&lang=en&timestamp=1792290397&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=888">
-          <img src="https://ytcards.demolab.com/?id=wHhDi1Y3Cu8&title=Are+Gray+Aliens+The+Future+Direction+of+Artificial+Intelligence%3F&lang=en&timestamp=1792290397&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=888" alt="Are Gray Aliens The Future Direction of Artificial Intelligence?" title="Are Gray Aliens The Future Direction of Artificial Intelligence?">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ietjhC8WBJg" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ietjhC8WBJg&title=The+Real+Reason+Character+AI+Is+Shutting+Down&lang=en&timestamp=1792257997&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1486">
-          <img src="https://ytcards.demolab.com/?id=ietjhC8WBJg&title=The+Real+Reason+Character+AI+Is+Shutting+Down&lang=en&timestamp=1792257997&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1486" alt="The Real Reason Character AI Is Shutting Down" title="The Real Reason Character AI Is Shutting Down">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
       <a href="https://www.youtube.com/watch?v=bWAXazCVi6A" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=bWAXazCVi6A&title=How+AI+Is+Changing+the+Working+World&lang=en&timestamp=1792250797&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=752">
-          <img src="https://ytcards.demolab.com/?id=bWAXazCVi6A&title=How+AI+Is+Changing+the+Working+World&lang=en&timestamp=1792250797&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=752" alt="How AI Is Changing the Working World" title="How AI Is Changing the Working World">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=bWAXazCVi6A&title=How+AI+Is+Changing+the+Working+World&lang=en&timestamp=1792247885&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=752">
+          <img src="https://ytcards.demolab.com/?id=bWAXazCVi6A&title=How+AI+Is+Changing+the+Working+World&lang=en&timestamp=1792247885&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=752" alt="How AI Is Changing the Working World" title="How AI Is Changing the Working World">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=-EgpdTFa31g" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-EgpdTFa31g&title=Running+Out+Of+Work&lang=en&timestamp=1792258685&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1537">
+          <img src="https://ytcards.demolab.com/?id=-EgpdTFa31g&title=Running+Out+Of+Work&lang=en&timestamp=1792258685&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1537" alt="Running Out Of Work" title="Running Out Of Work">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=L8KbTUySgtA" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=L8KbTUySgtA&title=China%27s+New+AI+Tech+at+the+Canton+Fair%21&lang=en&timestamp=1792251485&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=224">
+          <img src="https://ytcards.demolab.com/?id=L8KbTUySgtA&title=China%27s+New+AI+Tech+at+the+Canton+Fair%21&lang=en&timestamp=1792251485&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=224" alt="China's New AI Tech at the Canton Fair!" title="China's New AI Tech at the Canton Fair!">
         </picture>
       </a>
     </td>
