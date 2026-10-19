@@ -620,56 +620,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
+      <a href="https://www.youtube.com/watch?v=O4lrgCecT0Y" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=O4lrgCecT0Y&title=MAGA+Host+Left+SPEECHLESS+Live+On+Air%E2%80%A6+This+Is+UGLY%21&lang=en&timestamp=1792412586&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=913">
+          <img src="https://ytcards.demolab.com/?id=O4lrgCecT0Y&title=MAGA+Host+Left+SPEECHLESS+Live+On+Air%E2%80%A6+This+Is+UGLY%21&lang=en&timestamp=1792412586&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=913" alt="MAGA Host Left SPEECHLESS Live On Air… This Is UGLY!" title="MAGA Host Left SPEECHLESS Live On Air… This Is UGLY!">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
       <a href="https://www.youtube.com/watch?v=wS3lJpOs9Uw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wS3lJpOs9Uw&title=Anthropic+Just+Shocked+The+World...+AI+SINGULARITY+Is+Here%21&lang=en&timestamp=1792371892&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=848">
-          <img src="https://ytcards.demolab.com/?id=wS3lJpOs9Uw&title=Anthropic+Just+Shocked+The+World...+AI+SINGULARITY+Is+Here%21&lang=en&timestamp=1792371892&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=848" alt="Anthropic Just Shocked The World... AI SINGULARITY Is Here!" title="Anthropic Just Shocked The World... AI SINGULARITY Is Here!">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wS3lJpOs9Uw&title=Anthropic+Just+Shocked+The+World...+AI+SINGULARITY+Is+Here%21&lang=en&timestamp=1792372986&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=848">
+          <img src="https://ytcards.demolab.com/?id=wS3lJpOs9Uw&title=Anthropic+Just+Shocked+The+World...+AI+SINGULARITY+Is+Here%21&lang=en&timestamp=1792372986&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=848" alt="Anthropic Just Shocked The World... AI SINGULARITY Is Here!" title="Anthropic Just Shocked The World... AI SINGULARITY Is Here!">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=XfOUDRFBLTc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=WxmogvXKjtQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XfOUDRFBLTc&title=How+artificial+intelligence+is+recognising+individual+Tassie+lobsters+%7C+Landline+%7C+ABC+News&lang=en&timestamp=1792393492&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=810">
-          <img src="https://ytcards.demolab.com/?id=XfOUDRFBLTc&title=How+artificial+intelligence+is+recognising+individual+Tassie+lobsters+%7C+Landline+%7C+ABC+News&lang=en&timestamp=1792393492&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=810" alt="How artificial intelligence is recognising individual Tassie lobsters | Landline | ABC News" title="How artificial intelligence is recognising individual Tassie lobsters | Landline | ABC News">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=rMgM0NxnWLE" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=rMgM0NxnWLE&title=Disney+BETRAYS+Hollywood%21+ALL+IN+Moonshot+BUY+of+Artificial+Intelligence+Org%21+Will+AI+Save+Stock%3F%21&lang=en&timestamp=1792371892&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=939">
-          <img src="https://ytcards.demolab.com/?id=rMgM0NxnWLE&title=Disney+BETRAYS+Hollywood%21+ALL+IN+Moonshot+BUY+of+Artificial+Intelligence+Org%21+Will+AI+Save+Stock%3F%21&lang=en&timestamp=1792371892&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=939" alt="Disney BETRAYS Hollywood! ALL IN Moonshot BUY of Artificial Intelligence Org! Will AI Save Stock?!" title="Disney BETRAYS Hollywood! ALL IN Moonshot BUY of Artificial Intelligence Org! Will AI Save Stock?!">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WxmogvXKjtQ&title=%28Official%29+Microsoft+Free+Artificial+Intelligence+Certification+Course+%7C+AI+Engineer+Courses&lang=en&timestamp=1792412586&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=498">
+          <img src="https://ytcards.demolab.com/?id=WxmogvXKjtQ&title=%28Official%29+Microsoft+Free+Artificial+Intelligence+Certification+Course+%7C+AI+Engineer+Courses&lang=en&timestamp=1792412586&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=498" alt="(Official) Microsoft Free Artificial Intelligence Certification Course | AI Engineer Courses" title="(Official) Microsoft Free Artificial Intelligence Certification Course | AI Engineer Courses">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=WxmogvXKjtQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Q-OCWTKUv1c" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WxmogvXKjtQ&title=%28Official%29+Microsoft+Free+Artificial+Intelligence+Certification+Course+%7C+AI+Engineer+Courses&lang=en&timestamp=1792411492&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=498">
-          <img src="https://ytcards.demolab.com/?id=WxmogvXKjtQ&title=%28Official%29+Microsoft+Free+Artificial+Intelligence+Certification+Course+%7C+AI+Engineer+Courses&lang=en&timestamp=1792411492&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=498" alt="(Official) Microsoft Free Artificial Intelligence Certification Course | AI Engineer Courses" title="(Official) Microsoft Free Artificial Intelligence Certification Course | AI Engineer Courses">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Q-OCWTKUv1c&title=Germany+Falling+Behind+In+AI%3F+NVIDIA+CEO+Huang+Urges+Berlin+To+Catch+Up+In+The+Global+AI+Race&lang=en&timestamp=1792412586&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=483">
+          <img src="https://ytcards.demolab.com/?id=Q-OCWTKUv1c&title=Germany+Falling+Behind+In+AI%3F+NVIDIA+CEO+Huang+Urges+Berlin+To+Catch+Up+In+The+Global+AI+Race&lang=en&timestamp=1792412586&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=483" alt="Germany Falling Behind In AI? NVIDIA CEO Huang Urges Berlin To Catch Up In The Global AI Race" title="Germany Falling Behind In AI? NVIDIA CEO Huang Urges Berlin To Catch Up In The Global AI Race">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=v5xLQC0ruEY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=XfOUDRFBLTc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=v5xLQC0ruEY&title=CoreWeave+Plunges+%26+AI+Panic+Spreads+as+Credit+Fears+Grow&lang=en&timestamp=1792350292&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=792">
-          <img src="https://ytcards.demolab.com/?id=v5xLQC0ruEY&title=CoreWeave+Plunges+%26+AI+Panic+Spreads+as+Credit+Fears+Grow&lang=en&timestamp=1792350292&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=792" alt="CoreWeave Plunges & AI Panic Spreads as Credit Fears Grow" title="CoreWeave Plunges & AI Panic Spreads as Credit Fears Grow">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XfOUDRFBLTc&title=How+artificial+intelligence+is+recognising+individual+Tassie+lobsters+%7C+Landline+%7C+ABC+News&lang=en&timestamp=1792394586&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=810">
+          <img src="https://ytcards.demolab.com/?id=XfOUDRFBLTc&title=How+artificial+intelligence+is+recognising+individual+Tassie+lobsters+%7C+Landline+%7C+ABC+News&lang=en&timestamp=1792394586&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=810" alt="How artificial intelligence is recognising individual Tassie lobsters | Landline | ABC News" title="How artificial intelligence is recognising individual Tassie lobsters | Landline | ABC News">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=0g3GJPehJOI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=rMgM0NxnWLE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=0g3GJPehJOI&title=COMP+3200+-+Intro+to+Artificial+Intelligence+-+Lecture+10+-+MiniMax+Search+Enhancements&lang=en&timestamp=1792386292&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4824">
-          <img src="https://ytcards.demolab.com/?id=0g3GJPehJOI&title=COMP+3200+-+Intro+to+Artificial+Intelligence+-+Lecture+10+-+MiniMax+Search+Enhancements&lang=en&timestamp=1792386292&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4824" alt="COMP 3200 - Intro to Artificial Intelligence - Lecture 10 - MiniMax Search Enhancements" title="COMP 3200 - Intro to Artificial Intelligence - Lecture 10 - MiniMax Search Enhancements">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=rMgM0NxnWLE&title=Disney+BETRAYS+Hollywood%21+ALL+IN+Moonshot+BUY+of+Artificial+Intelligence+Org%21+Will+AI+Save+Stock%3F%21&lang=en&timestamp=1792372986&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=939">
+          <img src="https://ytcards.demolab.com/?id=rMgM0NxnWLE&title=Disney+BETRAYS+Hollywood%21+ALL+IN+Moonshot+BUY+of+Artificial+Intelligence+Org%21+Will+AI+Save+Stock%3F%21&lang=en&timestamp=1792372986&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=939" alt="Disney BETRAYS Hollywood! ALL IN Moonshot BUY of Artificial Intelligence Org! Will AI Save Stock?!" title="Disney BETRAYS Hollywood! ALL IN Moonshot BUY of Artificial Intelligence Org! Will AI Save Stock?!">
         </picture>
       </a>
     </td>
