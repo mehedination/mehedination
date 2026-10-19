@@ -618,56 +618,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=H5KkePO-hIc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=XfOUDRFBLTc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=H5KkePO-hIc&title=AI+Just+Went+Too+Far+%E2%80%94+And+What+Happened+Next+Is+Shocking...&lang=en&timestamp=1792277377&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2422">
-          <img src="https://ytcards.demolab.com/?id=H5KkePO-hIc&title=AI+Just+Went+Too+Far+%E2%80%94+And+What+Happened+Next+Is+Shocking...&lang=en&timestamp=1792277377&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2422" alt="AI Just Went Too Far — And What Happened Next Is Shocking..." title="AI Just Went Too Far — And What Happened Next Is Shocking...">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XfOUDRFBLTc&title=How+artificial+intelligence+is+recognising+individual+Tassie+lobsters+%7C+Landline+%7C+ABC+News&lang=en&timestamp=1792394633&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=810">
+          <img src="https://ytcards.demolab.com/?id=XfOUDRFBLTc&title=How+artificial+intelligence+is+recognising+individual+Tassie+lobsters+%7C+Landline+%7C+ABC+News&lang=en&timestamp=1792394633&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=810" alt="How artificial intelligence is recognising individual Tassie lobsters | Landline | ABC News" title="How artificial intelligence is recognising individual Tassie lobsters | Landline | ABC News">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=eE7Ev2q1eRA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=wS3lJpOs9Uw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=eE7Ev2q1eRA&title=Teenagers+turning+to+artificial+intelligence+for+relationships+and+advice&lang=en&timestamp=1792280977&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=274">
-          <img src="https://ytcards.demolab.com/?id=eE7Ev2q1eRA&title=Teenagers+turning+to+artificial+intelligence+for+relationships+and+advice&lang=en&timestamp=1792280977&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=274" alt="Teenagers turning to artificial intelligence for relationships and advice" title="Teenagers turning to artificial intelligence for relationships and advice">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wS3lJpOs9Uw&title=Anthropic+Just+Shocked+The+World...+AI+SINGULARITY+Is+Here%21&lang=en&timestamp=1792373033&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=848">
+          <img src="https://ytcards.demolab.com/?id=wS3lJpOs9Uw&title=Anthropic+Just+Shocked+The+World...+AI+SINGULARITY+Is+Here%21&lang=en&timestamp=1792373033&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=848" alt="Anthropic Just Shocked The World... AI SINGULARITY Is Here!" title="Anthropic Just Shocked The World... AI SINGULARITY Is Here!">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Cd3QM3foiLU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=24j6YmsTVng" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Cd3QM3foiLU&title=MAXIMUM+OVERDRIVE%3A+Could+Rogue+AI+Turn+Our+Machines+Against+Us+in+the+near+future%3F&lang=en&timestamp=1792284577&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2517">
-          <img src="https://ytcards.demolab.com/?id=Cd3QM3foiLU&title=MAXIMUM+OVERDRIVE%3A+Could+Rogue+AI+Turn+Our+Machines+Against+Us+in+the+near+future%3F&lang=en&timestamp=1792284577&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2517" alt="MAXIMUM OVERDRIVE: Could Rogue AI Turn Our Machines Against Us in the near future?" title="MAXIMUM OVERDRIVE: Could Rogue AI Turn Our Machines Against Us in the near future?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=24j6YmsTVng&title=Anthropic%27s+UBI+PLAN%3F%21+NEW+OpenAI+Aurora+Models%2C+Fable+5.5+UPGRADE%2C+%26+OpenCode+HACK%21+AI+NEWS&lang=en&timestamp=1792394633&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1265">
+          <img src="https://ytcards.demolab.com/?id=24j6YmsTVng&title=Anthropic%27s+UBI+PLAN%3F%21+NEW+OpenAI+Aurora+Models%2C+Fable+5.5+UPGRADE%2C+%26+OpenCode+HACK%21+AI+NEWS&lang=en&timestamp=1792394633&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1265" alt="Anthropic's UBI PLAN?! NEW OpenAI Aurora Models, Fable 5.5 UPGRADE, & OpenCode HACK! AI NEWS" title="Anthropic's UBI PLAN?! NEW OpenAI Aurora Models, Fable 5.5 UPGRADE, & OpenCode HACK! AI NEWS">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=AwmZTXFEnWY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=rMgM0NxnWLE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=AwmZTXFEnWY&title=Aging+Will+Soon+Be+Solved+by+AI&lang=en&timestamp=1792277377&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1041">
-          <img src="https://ytcards.demolab.com/?id=AwmZTXFEnWY&title=Aging+Will+Soon+Be+Solved+by+AI&lang=en&timestamp=1792277377&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1041" alt="Aging Will Soon Be Solved by AI" title="Aging Will Soon Be Solved by AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=rMgM0NxnWLE&title=Disney+BETRAYS+Hollywood%21+ALL+IN+Moonshot+BUY+of+Artificial+Intelligence+Org%21+Will+AI+Save+Stock%3F%21&lang=en&timestamp=1792373033&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=939">
+          <img src="https://ytcards.demolab.com/?id=rMgM0NxnWLE&title=Disney+BETRAYS+Hollywood%21+ALL+IN+Moonshot+BUY+of+Artificial+Intelligence+Org%21+Will+AI+Save+Stock%3F%21&lang=en&timestamp=1792373033&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=939" alt="Disney BETRAYS Hollywood! ALL IN Moonshot BUY of Artificial Intelligence Org! Will AI Save Stock?!" title="Disney BETRAYS Hollywood! ALL IN Moonshot BUY of Artificial Intelligence Org! Will AI Save Stock?!">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=v5xLQC0ruEY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=v5xLQC0ruEY&title=CoreWeave+Plunges+%26+AI+Panic+Spreads+as+Credit+Fears+Grow&lang=en&timestamp=1792338577&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=792">
-          <img src="https://ytcards.demolab.com/?id=v5xLQC0ruEY&title=CoreWeave+Plunges+%26+AI+Panic+Spreads+as+Credit+Fears+Grow&lang=en&timestamp=1792338577&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=792" alt="CoreWeave Plunges & AI Panic Spreads as Credit Fears Grow" title="CoreWeave Plunges & AI Panic Spreads as Credit Fears Grow">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=v5xLQC0ruEY&title=CoreWeave+Plunges+%26+AI+Panic+Spreads+as+Credit+Fears+Grow&lang=en&timestamp=1792337033&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=792">
+          <img src="https://ytcards.demolab.com/?id=v5xLQC0ruEY&title=CoreWeave+Plunges+%26+AI+Panic+Spreads+as+Credit+Fears+Grow&lang=en&timestamp=1792337033&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=792" alt="CoreWeave Plunges & AI Panic Spreads as Credit Fears Grow" title="CoreWeave Plunges & AI Panic Spreads as Credit Fears Grow">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=sqkrAg6cWAk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=0g3GJPehJOI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sqkrAg6cWAk&title=Everyone+in+AI+Is+Lying%E2%80%94and+They+Know+It&lang=en&timestamp=1792277377&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=790">
-          <img src="https://ytcards.demolab.com/?id=sqkrAg6cWAk&title=Everyone+in+AI+Is+Lying%E2%80%94and+They+Know+It&lang=en&timestamp=1792277377&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=790" alt="Everyone in AI Is Lying—and They Know It" title="Everyone in AI Is Lying—and They Know It">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=0g3GJPehJOI&title=COMP+3200+-+Intro+to+Artificial+Intelligence+-+Lecture+10+-+MiniMax+Search+Enhancements&lang=en&timestamp=1792383833&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4824">
+          <img src="https://ytcards.demolab.com/?id=0g3GJPehJOI&title=COMP+3200+-+Intro+to+Artificial+Intelligence+-+Lecture+10+-+MiniMax+Search+Enhancements&lang=en&timestamp=1792383833&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4824" alt="COMP 3200 - Intro to Artificial Intelligence - Lecture 10 - MiniMax Search Enhancements" title="COMP 3200 - Intro to Artificial Intelligence - Lecture 10 - MiniMax Search Enhancements">
         </picture>
       </a>
     </td>
