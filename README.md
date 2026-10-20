@@ -622,56 +622,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=MuEaRCHTqc4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=8sZVFELAb4U" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=MuEaRCHTqc4&title=APOCALYPSE+2026%3A+Nuclear+Weapons%2C+AI%2C+and+the+Prophecies+Worrying+the+World&lang=en&timestamp=1792415618&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4102">
-          <img src="https://ytcards.demolab.com/?id=MuEaRCHTqc4&title=APOCALYPSE+2026%3A+Nuclear+Weapons%2C+AI%2C+and+the+Prophecies+Worrying+the+World&lang=en&timestamp=1792415618&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4102" alt="APOCALYPSE 2026: Nuclear Weapons, AI, and the Prophecies Worrying the World" title="APOCALYPSE 2026: Nuclear Weapons, AI, and the Prophecies Worrying the World">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8sZVFELAb4U&title=Why+The+Fears+About+Artificial+Intelligence+And+Data+Centers+Are+Overblown&lang=en&timestamp=1792504819&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=256">
+          <img src="https://ytcards.demolab.com/?id=8sZVFELAb4U&title=Why+The+Fears+About+Artificial+Intelligence+And+Data+Centers+Are+Overblown&lang=en&timestamp=1792504819&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=256" alt="Why The Fears About Artificial Intelligence And Data Centers Are Overblown" title="Why The Fears About Artificial Intelligence And Data Centers Are Overblown">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=d6SO10ihpL4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=d6SO10ihpL4&title=A+Potentially+Historic+AI+Breakthrough&lang=en&timestamp=1792430018&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1224">
-          <img src="https://ytcards.demolab.com/?id=d6SO10ihpL4&title=A+Potentially+Historic+AI+Breakthrough&lang=en&timestamp=1792430018&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1224" alt="A Potentially Historic AI Breakthrough" title="A Potentially Historic AI Breakthrough">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=d6SO10ihpL4&title=A+Potentially+Historic+AI+Breakthrough&lang=en&timestamp=1792428319&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1224">
+          <img src="https://ytcards.demolab.com/?id=d6SO10ihpL4&title=A+Potentially+Historic+AI+Breakthrough&lang=en&timestamp=1792428319&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1224" alt="A Potentially Historic AI Breakthrough" title="A Potentially Historic AI Breakthrough">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=AqKreap6T_Y" target="_blank">
+      <a href="https://www.youtube.com/watch?v=JZ7DnHoPLLQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=AqKreap6T_Y&title=Artificial+Intelligence+Scanned+the+Sumerian+Stock+Exchange+%E2%80%94+The+Content+Shocked+Everyone&lang=en&timestamp=1792448018&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=895">
-          <img src="https://ytcards.demolab.com/?id=AqKreap6T_Y&title=Artificial+Intelligence+Scanned+the+Sumerian+Stock+Exchange+%E2%80%94+The+Content+Shocked+Everyone&lang=en&timestamp=1792448018&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=895" alt="Artificial Intelligence Scanned the Sumerian Stock Exchange — The Content Shocked Everyone" title="Artificial Intelligence Scanned the Sumerian Stock Exchange — The Content Shocked Everyone">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JZ7DnHoPLLQ&title=LIVE%3A+The+People%27s+AI+Assembly&lang=en&timestamp=1792464319&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=11861">
+          <img src="https://ytcards.demolab.com/?id=JZ7DnHoPLLQ&title=LIVE%3A+The+People%27s+AI+Assembly&lang=en&timestamp=1792464319&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=11861" alt="LIVE: The People's AI Assembly" title="LIVE: The People's AI Assembly">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=kdiMiOHCjM4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=xsr-OcXhVGU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=kdiMiOHCjM4&title=Low+Tech+-+Internet+-+Artificial+Intelligence&lang=en&timestamp=1792486838&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=786">
-          <img src="https://ytcards.demolab.com/?id=kdiMiOHCjM4&title=Low+Tech+-+Internet+-+Artificial+Intelligence&lang=en&timestamp=1792486838&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=786" alt="Low Tech - Internet - Artificial Intelligence" title="Low Tech - Internet - Artificial Intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xsr-OcXhVGU&title=2030%3A+The+AI+Accumulative+Risk+Scenario&lang=en&timestamp=1792435519&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1220">
+          <img src="https://ytcards.demolab.com/?id=xsr-OcXhVGU&title=2030%3A+The+AI+Accumulative+Risk+Scenario&lang=en&timestamp=1792435519&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1220" alt="2030: The AI Accumulative Risk Scenario" title="2030: The AI Accumulative Risk Scenario">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=xzdqtbU5Hh4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=PA3p_fma6X4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xzdqtbU5Hh4&title=Is+Europe+Preparing+the+Way+for+the+Antichrist%3F+%7C+CONNECT+Q%26A&lang=en&timestamp=1792426418&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3692">
-          <img src="https://ytcards.demolab.com/?id=xzdqtbU5Hh4&title=Is+Europe+Preparing+the+Way+for+the+Antichrist%3F+%7C+CONNECT+Q%26A&lang=en&timestamp=1792426418&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3692" alt="Is Europe Preparing the Way for the Antichrist? | CONNECT Q&A" title="Is Europe Preparing the Way for the Antichrist? | CONNECT Q&A">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PA3p_fma6X4&title=Artificial+Intelligence+unit+-+Welsh+Translation&lang=en&timestamp=1792507399&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=87">
+          <img src="https://ytcards.demolab.com/?id=PA3p_fma6X4&title=Artificial+Intelligence+unit+-+Welsh+Translation&lang=en&timestamp=1792507399&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=87" alt="Artificial Intelligence unit - Welsh Translation" title="Artificial Intelligence unit - Welsh Translation">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=6zT2jrr34Fo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=N_0Q2jBV0ns" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6zT2jrr34Fo&title=AI-Ready%3A+Artificial+Intelligence+in+Proteomics+Research+and+Practice&lang=en&timestamp=1792480418&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4360">
-          <img src="https://ytcards.demolab.com/?id=6zT2jrr34Fo&title=AI-Ready%3A+Artificial+Intelligence+in+Proteomics+Research+and+Practice&lang=en&timestamp=1792480418&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4360" alt="AI-Ready: Artificial Intelligence in Proteomics Research and Practice" title="AI-Ready: Artificial Intelligence in Proteomics Research and Practice">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=N_0Q2jBV0ns&title=Why+AI+could+overwhelm+Britain%27s+public+services&lang=en&timestamp=1792475119&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=513">
+          <img src="https://ytcards.demolab.com/?id=N_0Q2jBV0ns&title=Why+AI+could+overwhelm+Britain%27s+public+services&lang=en&timestamp=1792475119&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=513" alt="Why AI could overwhelm Britain's public services" title="Why AI could overwhelm Britain's public services">
         </picture>
       </a>
     </td>
