@@ -623,56 +623,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=8sZVFELAb4U" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8sZVFELAb4U&title=Why+The+Fears+About+Artificial+Intelligence+And+Data+Centers+Are+Overblown&lang=en&timestamp=1792504819&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=256">
-          <img src="https://ytcards.demolab.com/?id=8sZVFELAb4U&title=Why+The+Fears+About+Artificial+Intelligence+And+Data+Centers+Are+Overblown&lang=en&timestamp=1792504819&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=256" alt="Why The Fears About Artificial Intelligence And Data Centers Are Overblown" title="Why The Fears About Artificial Intelligence And Data Centers Are Overblown">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8sZVFELAb4U&title=Why+The+Fears+About+Artificial+Intelligence+And+Data+Centers+Are+Overblown&lang=en&timestamp=1792508351&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=256">
+          <img src="https://ytcards.demolab.com/?id=8sZVFELAb4U&title=Why+The+Fears+About+Artificial+Intelligence+And+Data+Centers+Are+Overblown&lang=en&timestamp=1792508351&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=256" alt="Why The Fears About Artificial Intelligence And Data Centers Are Overblown" title="Why The Fears About Artificial Intelligence And Data Centers Are Overblown">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=d6SO10ihpL4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=a-_TTEdieaI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=d6SO10ihpL4&title=A+Potentially+Historic+AI+Breakthrough&lang=en&timestamp=1792428319&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1224">
-          <img src="https://ytcards.demolab.com/?id=d6SO10ihpL4&title=A+Potentially+Historic+AI+Breakthrough&lang=en&timestamp=1792428319&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1224" alt="A Potentially Historic AI Breakthrough" title="A Potentially Historic AI Breakthrough">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=a-_TTEdieaI&title=Microsoft+AI%E2%80%99s+CEO+on+building+a+human-first+AI+future+%7C+Terms+of+Service&lang=en&timestamp=1792486751&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1986">
+          <img src="https://ytcards.demolab.com/?id=a-_TTEdieaI&title=Microsoft+AI%E2%80%99s+CEO+on+building+a+human-first+AI+future+%7C+Terms+of+Service&lang=en&timestamp=1792486751&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1986" alt="Microsoft AI’s CEO on building a human-first AI future | Terms of Service" title="Microsoft AI’s CEO on building a human-first AI future | Terms of Service">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=JZ7DnHoPLLQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=xsr-OcXhVGU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JZ7DnHoPLLQ&title=LIVE%3A+The+People%27s+AI+Assembly&lang=en&timestamp=1792464319&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=11861">
-          <img src="https://ytcards.demolab.com/?id=JZ7DnHoPLLQ&title=LIVE%3A+The+People%27s+AI+Assembly&lang=en&timestamp=1792464319&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=11861" alt="LIVE: The People's AI Assembly" title="LIVE: The People's AI Assembly">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xsr-OcXhVGU&title=2030%3A+The+AI+Accumulative+Risk+Scenario&lang=en&timestamp=1792436351&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1220">
+          <img src="https://ytcards.demolab.com/?id=xsr-OcXhVGU&title=2030%3A+The+AI+Accumulative+Risk+Scenario&lang=en&timestamp=1792436351&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1220" alt="2030: The AI Accumulative Risk Scenario" title="2030: The AI Accumulative Risk Scenario">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=xsr-OcXhVGU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=d6SO10ihpL4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xsr-OcXhVGU&title=2030%3A+The+AI+Accumulative+Risk+Scenario&lang=en&timestamp=1792435519&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1220">
-          <img src="https://ytcards.demolab.com/?id=xsr-OcXhVGU&title=2030%3A+The+AI+Accumulative+Risk+Scenario&lang=en&timestamp=1792435519&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1220" alt="2030: The AI Accumulative Risk Scenario" title="2030: The AI Accumulative Risk Scenario">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=d6SO10ihpL4&title=A+Potentially+Historic+AI+Breakthrough&lang=en&timestamp=1792436351&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1224">
+          <img src="https://ytcards.demolab.com/?id=d6SO10ihpL4&title=A+Potentially+Historic+AI+Breakthrough&lang=en&timestamp=1792436351&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1224" alt="A Potentially Historic AI Breakthrough" title="A Potentially Historic AI Breakthrough">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=PA3p_fma6X4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=JZ7DnHoPLLQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PA3p_fma6X4&title=Artificial+Intelligence+unit+-+Welsh+Translation&lang=en&timestamp=1792507399&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=87">
-          <img src="https://ytcards.demolab.com/?id=PA3p_fma6X4&title=Artificial+Intelligence+unit+-+Welsh+Translation&lang=en&timestamp=1792507399&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=87" alt="Artificial Intelligence unit - Welsh Translation" title="Artificial Intelligence unit - Welsh Translation">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JZ7DnHoPLLQ&title=LIVE%3A+The+People%27s+AI+Assembly&lang=en&timestamp=1792465151&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=11861">
+          <img src="https://ytcards.demolab.com/?id=JZ7DnHoPLLQ&title=LIVE%3A+The+People%27s+AI+Assembly&lang=en&timestamp=1792465151&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=11861" alt="LIVE: The People's AI Assembly" title="LIVE: The People's AI Assembly">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=N_0Q2jBV0ns" target="_blank">
+      <a href="https://www.youtube.com/watch?v=VqFx18ts_Mc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=N_0Q2jBV0ns&title=Why+AI+could+overwhelm+Britain%27s+public+services&lang=en&timestamp=1792475119&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=513">
-          <img src="https://ytcards.demolab.com/?id=N_0Q2jBV0ns&title=Why+AI+could+overwhelm+Britain%27s+public+services&lang=en&timestamp=1792475119&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=513" alt="Why AI could overwhelm Britain's public services" title="Why AI could overwhelm Britain's public services">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=VqFx18ts_Mc&title=Best+FREE+AI+Courses+With+Certificates+in+2026&lang=en&timestamp=1792501151&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=821">
+          <img src="https://ytcards.demolab.com/?id=VqFx18ts_Mc&title=Best+FREE+AI+Courses+With+Certificates+in+2026&lang=en&timestamp=1792501151&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=821" alt="Best FREE AI Courses With Certificates in 2026" title="Best FREE AI Courses With Certificates in 2026">
         </picture>
       </a>
     </td>
