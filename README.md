@@ -627,56 +627,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=jWmkQIoLvug" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jWmkQIoLvug&title=%E2%80%9CWhen+the+Bubble+Bursts%E2%80%9D%3A+Naomi+Klein+%26+Astra+Taylor+on+Reclaiming+Democracy+from+AI+Oligarchs&lang=en&timestamp=1792606903&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1737">
-          <img src="https://ytcards.demolab.com/?id=jWmkQIoLvug&title=%E2%80%9CWhen+the+Bubble+Bursts%E2%80%9D%3A+Naomi+Klein+%26+Astra+Taylor+on+Reclaiming+Democracy+from+AI+Oligarchs&lang=en&timestamp=1792606903&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1737" alt="“When the Bubble Bursts”: Naomi Klein & Astra Taylor on Reclaiming Democracy from AI Oligarchs" title="“When the Bubble Bursts”: Naomi Klein & Astra Taylor on Reclaiming Democracy from AI Oligarchs">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jWmkQIoLvug&title=%E2%80%9CWhen+the+Bubble+Bursts%E2%80%9D%3A+Naomi+Klein+%26+Astra+Taylor+on+Reclaiming+Democracy+from+AI+Oligarchs&lang=en&timestamp=1792620563&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1737">
+          <img src="https://ytcards.demolab.com/?id=jWmkQIoLvug&title=%E2%80%9CWhen+the+Bubble+Bursts%E2%80%9D%3A+Naomi+Klein+%26+Astra+Taylor+on+Reclaiming+Democracy+from+AI+Oligarchs&lang=en&timestamp=1792620563&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1737" alt="“When the Bubble Bursts”: Naomi Klein & Astra Taylor on Reclaiming Democracy from AI Oligarchs" title="“When the Bubble Bursts”: Naomi Klein & Astra Taylor on Reclaiming Democracy from AI Oligarchs">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=hNefZz4z4QA" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hNefZz4z4QA&title=Concerns+mount+over+artificial+intelligence+as+Silicon+Valley+sees+AI+boom+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1792620563&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=328">
+          <img src="https://ytcards.demolab.com/?id=hNefZz4z4QA&title=Concerns+mount+over+artificial+intelligence+as+Silicon+Valley+sees+AI+boom+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1792620563&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=328" alt="Concerns mount over artificial intelligence as Silicon Valley sees AI boom • FRANCE 24 English" title="Concerns mount over artificial intelligence as Silicon Valley sees AI boom • FRANCE 24 English">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=ugLWsar-sw8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ugLWsar-sw8&title=%22Apocalypse+Now+and+Then%22%3A+Author+Arundhati+Roy+on+Artificial+Intelligence%2C+Capitalism+%26+More&lang=en&timestamp=1792689703&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1199">
-          <img src="https://ytcards.demolab.com/?id=ugLWsar-sw8&title=%22Apocalypse+Now+and+Then%22%3A+Author+Arundhati+Roy+on+Artificial+Intelligence%2C+Capitalism+%26+More&lang=en&timestamp=1792689703&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1199" alt="&quot;Apocalypse Now and Then&quot;: Author Arundhati Roy on Artificial Intelligence, Capitalism & More" title="&quot;Apocalypse Now and Then&quot;: Author Arundhati Roy on Artificial Intelligence, Capitalism & More">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=TQlf8QqDOV8" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=TQlf8QqDOV8&title=AI+discovers+bug+that+puts+up+to+70%25+of+websites+at+risk&lang=en&timestamp=1792621303&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=298">
-          <img src="https://ytcards.demolab.com/?id=TQlf8QqDOV8&title=AI+discovers+bug+that+puts+up+to+70%25+of+websites+at+risk&lang=en&timestamp=1792621303&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=298" alt="AI discovers bug that puts up to 70% of websites at risk" title="AI discovers bug that puts up to 70% of websites at risk">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ugLWsar-sw8&title=%22Apocalypse+Now+and+Then%22%3A+Author+Arundhati+Roy+on+Artificial+Intelligence%2C+Capitalism+%26+More&lang=en&timestamp=1792688963&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1199">
+          <img src="https://ytcards.demolab.com/?id=ugLWsar-sw8&title=%22Apocalypse+Now+and+Then%22%3A+Author+Arundhati+Roy+on+Artificial+Intelligence%2C+Capitalism+%26+More&lang=en&timestamp=1792688963&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1199" alt="&quot;Apocalypse Now and Then&quot;: Author Arundhati Roy on Artificial Intelligence, Capitalism & More" title="&quot;Apocalypse Now and Then&quot;: Author Arundhati Roy on Artificial Intelligence, Capitalism & More">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=hNefZz4z4QA" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hNefZz4z4QA&title=Concerns+mount+over+artificial+intelligence+as+Silicon+Valley+sees+AI+boom+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1792606903&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=328">
-          <img src="https://ytcards.demolab.com/?id=hNefZz4z4QA&title=Concerns+mount+over+artificial+intelligence+as+Silicon+Valley+sees+AI+boom+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1792606903&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=328" alt="Concerns mount over artificial intelligence as Silicon Valley sees AI boom • FRANCE 24 English" title="Concerns mount over artificial intelligence as Silicon Valley sees AI boom • FRANCE 24 English">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=nVFk3hGaakQ" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nVFk3hGaakQ&title=The+Rogue+AI+PANIC+Was+Planned&lang=en&timestamp=1792624903&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1677">
-          <img src="https://ytcards.demolab.com/?id=nVFk3hGaakQ&title=The+Rogue+AI+PANIC+Was+Planned&lang=en&timestamp=1792624903&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1677" alt="The Rogue AI PANIC Was Planned" title="The Rogue AI PANIC Was Planned">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
       <a href="https://www.youtube.com/watch?v=3gXLmy7DK_4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3gXLmy7DK_4&title=Sam+Altman%3A+RSI%2C+AI+Consciousness%2C+OpenAI%27s+New+Hardware%2C+Compute%2C+and+more%21&lang=en&timestamp=1792606903&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2708">
-          <img src="https://ytcards.demolab.com/?id=3gXLmy7DK_4&title=Sam+Altman%3A+RSI%2C+AI+Consciousness%2C+OpenAI%27s+New+Hardware%2C+Compute%2C+and+more%21&lang=en&timestamp=1792606903&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2708" alt="Sam Altman: RSI, AI Consciousness, OpenAI's New Hardware, Compute, and more!" title="Sam Altman: RSI, AI Consciousness, OpenAI's New Hardware, Compute, and more!">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3gXLmy7DK_4&title=Sam+Altman%3A+RSI%2C+AI+Consciousness%2C+OpenAI%27s+New+Hardware%2C+Compute%2C+and+more%21&lang=en&timestamp=1792620563&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2708">
+          <img src="https://ytcards.demolab.com/?id=3gXLmy7DK_4&title=Sam+Altman%3A+RSI%2C+AI+Consciousness%2C+OpenAI%27s+New+Hardware%2C+Compute%2C+and+more%21&lang=en&timestamp=1792620563&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2708" alt="Sam Altman: RSI, AI Consciousness, OpenAI's New Hardware, Compute, and more!" title="Sam Altman: RSI, AI Consciousness, OpenAI's New Hardware, Compute, and more!">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=TQlf8QqDOV8" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=TQlf8QqDOV8&title=AI+discovers+bug+that+puts+up+to+70%25+of+websites+at+risk&lang=en&timestamp=1792620563&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=298">
+          <img src="https://ytcards.demolab.com/?id=TQlf8QqDOV8&title=AI+discovers+bug+that+puts+up+to+70%25+of+websites+at+risk&lang=en&timestamp=1792620563&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=298" alt="AI discovers bug that puts up to 70% of websites at risk" title="AI discovers bug that puts up to 70% of websites at risk">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=0UPkaqIxkk8" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=0UPkaqIxkk8&title=Combatting+online+scams+in+the+age+of+AI+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1792678163&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=670">
+          <img src="https://ytcards.demolab.com/?id=0UPkaqIxkk8&title=Combatting+online+scams+in+the+age+of+AI+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1792678163&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=670" alt="Combatting online scams in the age of AI • FRANCE 24 English" title="Combatting online scams in the age of AI • FRANCE 24 English">
         </picture>
       </a>
     </td>
