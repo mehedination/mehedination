@@ -631,56 +631,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=V69hjwqbCdM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=oMpCkdFn754" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=V69hjwqbCdM&title=Scientists+Are+Discovering+How+AI+Could+Turn+Against+Humanity&lang=en&timestamp=1792787177&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=482">
-          <img src="https://ytcards.demolab.com/?id=V69hjwqbCdM&title=Scientists+Are+Discovering+How+AI+Could+Turn+Against+Humanity&lang=en&timestamp=1792787177&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=482" alt="Scientists Are Discovering How AI Could Turn Against Humanity" title="Scientists Are Discovering How AI Could Turn Against Humanity">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=oMpCkdFn754&title=US+banks+scramble+to+control+their+AI+agent+activity&lang=en&timestamp=1792833475&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=124">
+          <img src="https://ytcards.demolab.com/?id=oMpCkdFn754&title=US+banks+scramble+to+control+their+AI+agent+activity&lang=en&timestamp=1792833475&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=124" alt="US banks scramble to control their AI agent activity" title="US banks scramble to control their AI agent activity">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=LPlZXfs0-C0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=V69hjwqbCdM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=LPlZXfs0-C0&title=Why+is+the+UK+at+the+forefront+of+AI-driven+job+cuts%3F+%7C+Inside+Story&lang=en&timestamp=1792779977&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1641">
-          <img src="https://ytcards.demolab.com/?id=LPlZXfs0-C0&title=Why+is+the+UK+at+the+forefront+of+AI-driven+job+cuts%3F+%7C+Inside+Story&lang=en&timestamp=1792779977&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1641" alt="Why is the UK at the forefront of AI-driven job cuts? | Inside Story" title="Why is the UK at the forefront of AI-driven job cuts? | Inside Story">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=V69hjwqbCdM&title=Scientists+Are+Discovering+How+AI+Could+Turn+Against+Humanity&lang=en&timestamp=1792786675&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=482">
+          <img src="https://ytcards.demolab.com/?id=V69hjwqbCdM&title=Scientists+Are+Discovering+How+AI+Could+Turn+Against+Humanity&lang=en&timestamp=1792786675&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=482" alt="Scientists Are Discovering How AI Could Turn Against Humanity" title="Scientists Are Discovering How AI Could Turn Against Humanity">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=TfLcLI2NNuw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=TfLcLI2NNuw&title=%22WE%27RE+DOOMED%21+AI+Is+About+to+Trigger+a+MASSIVE+Banking+Apocalypse%22+-+Jordi+Visser&lang=en&timestamp=1792787177&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1123">
-          <img src="https://ytcards.demolab.com/?id=TfLcLI2NNuw&title=%22WE%27RE+DOOMED%21+AI+Is+About+to+Trigger+a+MASSIVE+Banking+Apocalypse%22+-+Jordi+Visser&lang=en&timestamp=1792787177&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1123" alt="&quot;WE'RE DOOMED! AI Is About to Trigger a MASSIVE Banking Apocalypse&quot; - Jordi Visser" title="&quot;WE'RE DOOMED! AI Is About to Trigger a MASSIVE Banking Apocalypse&quot; - Jordi Visser">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=TfLcLI2NNuw&title=%22WE%27RE+DOOMED%21+AI+Is+About+to+Trigger+a+MASSIVE+Banking+Apocalypse%22+-+Jordi+Visser&lang=en&timestamp=1792786675&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1123">
+          <img src="https://ytcards.demolab.com/?id=TfLcLI2NNuw&title=%22WE%27RE+DOOMED%21+AI+Is+About+to+Trigger+a+MASSIVE+Banking+Apocalypse%22+-+Jordi+Visser&lang=en&timestamp=1792786675&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1123" alt="&quot;WE'RE DOOMED! AI Is About to Trigger a MASSIVE Banking Apocalypse&quot; - Jordi Visser" title="&quot;WE'RE DOOMED! AI Is About to Trigger a MASSIVE Banking Apocalypse&quot; - Jordi Visser">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=sR-tHubZyuY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=XW4D6NguJmA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sR-tHubZyuY&title=What+Artificial+Intelligence+Just+Revealed+About+The+Future+of+Physics+Is+Wild&lang=en&timestamp=1792794377&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7939">
-          <img src="https://ytcards.demolab.com/?id=sR-tHubZyuY&title=What+Artificial+Intelligence+Just+Revealed+About+The+Future+of+Physics+Is+Wild&lang=en&timestamp=1792794377&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7939" alt="What Artificial Intelligence Just Revealed About The Future of Physics Is Wild" title="What Artificial Intelligence Just Revealed About The Future of Physics Is Wild">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XW4D6NguJmA&title=Recent+News+in+Artificial+Intelligence%3A+Critical+Analysis+%28Featuring+Connor+Leahy%29&lang=en&timestamp=1792765075&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3891">
+          <img src="https://ytcards.demolab.com/?id=XW4D6NguJmA&title=Recent+News+in+Artificial+Intelligence%3A+Critical+Analysis+%28Featuring+Connor+Leahy%29&lang=en&timestamp=1792765075&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3891" alt="Recent News in Artificial Intelligence: Critical Analysis (Featuring Connor Leahy)" title="Recent News in Artificial Intelligence: Critical Analysis (Featuring Connor Leahy)">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=XW4D6NguJmA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=sR-tHubZyuY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XW4D6NguJmA&title=Recent+News+in+Artificial+Intelligence%3A+Critical+Analysis+%28Featuring+Connor+Leahy%29&lang=en&timestamp=1792765577&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3891">
-          <img src="https://ytcards.demolab.com/?id=XW4D6NguJmA&title=Recent+News+in+Artificial+Intelligence%3A+Critical+Analysis+%28Featuring+Connor+Leahy%29&lang=en&timestamp=1792765577&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3891" alt="Recent News in Artificial Intelligence: Critical Analysis (Featuring Connor Leahy)" title="Recent News in Artificial Intelligence: Critical Analysis (Featuring Connor Leahy)">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sR-tHubZyuY&title=What+Artificial+Intelligence+Just+Revealed+About+The+Future+of+Physics+Is+Wild&lang=en&timestamp=1792793875&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7939">
+          <img src="https://ytcards.demolab.com/?id=sR-tHubZyuY&title=What+Artificial+Intelligence+Just+Revealed+About+The+Future+of+Physics+Is+Wild&lang=en&timestamp=1792793875&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7939" alt="What Artificial Intelligence Just Revealed About The Future of Physics Is Wild" title="What Artificial Intelligence Just Revealed About The Future of Physics Is Wild">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=pjkbC1dCBiw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=pjkbC1dCBiw&title=AI+agents+accessing+bank+accounts+without+approval%2C+report+says&lang=en&timestamp=1792776377&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=322">
-          <img src="https://ytcards.demolab.com/?id=pjkbC1dCBiw&title=AI+agents+accessing+bank+accounts+without+approval%2C+report+says&lang=en&timestamp=1792776377&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=322" alt="AI agents accessing bank accounts without approval, report says" title="AI agents accessing bank accounts without approval, report says">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=pjkbC1dCBiw&title=AI+agents+accessing+bank+accounts+without+approval%2C+report+says&lang=en&timestamp=1792775875&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=322">
+          <img src="https://ytcards.demolab.com/?id=pjkbC1dCBiw&title=AI+agents+accessing+bank+accounts+without+approval%2C+report+says&lang=en&timestamp=1792775875&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=322" alt="AI agents accessing bank accounts without approval, report says" title="AI agents accessing bank accounts without approval, report says">
         </picture>
       </a>
     </td>
