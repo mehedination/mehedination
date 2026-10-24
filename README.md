@@ -629,56 +629,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
+      <a href="https://www.youtube.com/watch?v=V69hjwqbCdM" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=V69hjwqbCdM&title=Scientists+Are+Discovering+How+AI+Could+Turn+Against+Humanity&lang=en&timestamp=1792787258&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=482">
+          <img src="https://ytcards.demolab.com/?id=V69hjwqbCdM&title=Scientists+Are+Discovering+How+AI+Could+Turn+Against+Humanity&lang=en&timestamp=1792787258&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=482" alt="Scientists Are Discovering How AI Could Turn Against Humanity" title="Scientists Are Discovering How AI Could Turn Against Humanity">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
       <a href="https://www.youtube.com/watch?v=XW4D6NguJmA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XW4D6NguJmA&title=Recent+News+in+Artificial+Intelligence%3A+Critical+Analysis+%28Featuring+Connor+Leahy%29&lang=en&timestamp=1792765172&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3891">
-          <img src="https://ytcards.demolab.com/?id=XW4D6NguJmA&title=Recent+News+in+Artificial+Intelligence%3A+Critical+Analysis+%28Featuring+Connor+Leahy%29&lang=en&timestamp=1792765172&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3891" alt="Recent News in Artificial Intelligence: Critical Analysis (Featuring Connor Leahy)" title="Recent News in Artificial Intelligence: Critical Analysis (Featuring Connor Leahy)">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XW4D6NguJmA&title=Recent+News+in+Artificial+Intelligence%3A+Critical+Analysis+%28Featuring+Connor+Leahy%29&lang=en&timestamp=1792765658&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3891">
+          <img src="https://ytcards.demolab.com/?id=XW4D6NguJmA&title=Recent+News+in+Artificial+Intelligence%3A+Critical+Analysis+%28Featuring+Connor+Leahy%29&lang=en&timestamp=1792765658&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3891" alt="Recent News in Artificial Intelligence: Critical Analysis (Featuring Connor Leahy)" title="Recent News in Artificial Intelligence: Critical Analysis (Featuring Connor Leahy)">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=2Lexxq7Daz8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=TfLcLI2NNuw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2Lexxq7Daz8&title=AI+Spending+Sparks+Tech+Stock+Selloff%3A+Meta+Shares+Slump+7%25+As+AI+Spending+Soars+%7C+WION&lang=en&timestamp=1792754372&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=198">
-          <img src="https://ytcards.demolab.com/?id=2Lexxq7Daz8&title=AI+Spending+Sparks+Tech+Stock+Selloff%3A+Meta+Shares+Slump+7%25+As+AI+Spending+Soars+%7C+WION&lang=en&timestamp=1792754372&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=198" alt="AI Spending Sparks Tech Stock Selloff: Meta Shares Slump 7% As AI Spending Soars | WION" title="AI Spending Sparks Tech Stock Selloff: Meta Shares Slump 7% As AI Spending Soars | WION">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=sR-tHubZyuY" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sR-tHubZyuY&title=What+Artificial+Intelligence+Just+Revealed+About+The+Future+of+Physics+Is+Wild&lang=en&timestamp=1792793972&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7939">
-          <img src="https://ytcards.demolab.com/?id=sR-tHubZyuY&title=What+Artificial+Intelligence+Just+Revealed+About+The+Future+of+Physics+Is+Wild&lang=en&timestamp=1792793972&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7939" alt="What Artificial Intelligence Just Revealed About The Future of Physics Is Wild" title="What Artificial Intelligence Just Revealed About The Future of Physics Is Wild">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=TfLcLI2NNuw&title=%22WE%27RE+DOOMED%21+AI+Is+About+to+Trigger+a+MASSIVE+Banking+Apocalypse%22+-+Jordi+Visser&lang=en&timestamp=1792787258&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1123">
+          <img src="https://ytcards.demolab.com/?id=TfLcLI2NNuw&title=%22WE%27RE+DOOMED%21+AI+Is+About+to+Trigger+a+MASSIVE+Banking+Apocalypse%22+-+Jordi+Visser&lang=en&timestamp=1792787258&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1123" alt="&quot;WE'RE DOOMED! AI Is About to Trigger a MASSIVE Banking Apocalypse&quot; - Jordi Visser" title="&quot;WE'RE DOOMED! AI Is About to Trigger a MASSIVE Banking Apocalypse&quot; - Jordi Visser">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=EVOhKJMtyug" target="_blank">
+      <a href="https://www.youtube.com/watch?v=LPlZXfs0-C0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EVOhKJMtyug&title=Artificial+Intelligence%3A+The+Greatest+Existential+Threat+Humanity+Has+Ever+Faced&lang=en&timestamp=1792797572&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=767">
-          <img src="https://ytcards.demolab.com/?id=EVOhKJMtyug&title=Artificial+Intelligence%3A+The+Greatest+Existential+Threat+Humanity+Has+Ever+Faced&lang=en&timestamp=1792797572&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=767" alt="Artificial Intelligence: The Greatest Existential Threat Humanity Has Ever Faced" title="Artificial Intelligence: The Greatest Existential Threat Humanity Has Ever Faced">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=LPlZXfs0-C0&title=Why+is+the+UK+at+the+forefront+of+AI-driven+job+cuts%3F+%7C+Inside+Story&lang=en&timestamp=1792780058&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1641">
+          <img src="https://ytcards.demolab.com/?id=LPlZXfs0-C0&title=Why+is+the+UK+at+the+forefront+of+AI-driven+job+cuts%3F+%7C+Inside+Story&lang=en&timestamp=1792780058&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1641" alt="Why is the UK at the forefront of AI-driven job cuts? | Inside Story" title="Why is the UK at the forefront of AI-driven job cuts? | Inside Story">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=7CiNH7L64zc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=dImB59slNo8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=7CiNH7L64zc&title=Should+Christians+Use+AI%3F+%7C+Collin+Hansen+%7C+%23149&lang=en&timestamp=1792754372&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6018">
-          <img src="https://ytcards.demolab.com/?id=7CiNH7L64zc&title=Should+Christians+Use+AI%3F+%7C+Collin+Hansen+%7C+%23149&lang=en&timestamp=1792754372&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6018" alt="Should Christians Use AI? | Collin Hansen | #149" title="Should Christians Use AI? | Collin Hansen | #149">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=dImB59slNo8&title=Experts+at+CU+are+tracking+how+artificial+intelligence+will+play+major+role+in+elections&lang=en&timestamp=1792816958&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=109">
+          <img src="https://ytcards.demolab.com/?id=dImB59slNo8&title=Experts+at+CU+are+tracking+how+artificial+intelligence+will+play+major+role+in+elections&lang=en&timestamp=1792816958&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=109" alt="Experts at CU are tracking how artificial intelligence will play major role in elections" title="Experts at CU are tracking how artificial intelligence will play major role in elections">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=lQNIqNO-Wuk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=sR-tHubZyuY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lQNIqNO-Wuk&title=Alien+technology+would+dwarf+Artificial+Intelligence+-+Avi+Loeb&lang=en&timestamp=1792768772&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=274">
-          <img src="https://ytcards.demolab.com/?id=lQNIqNO-Wuk&title=Alien+technology+would+dwarf+Artificial+Intelligence+-+Avi+Loeb&lang=en&timestamp=1792768772&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=274" alt="Alien technology would dwarf Artificial Intelligence - Avi Loeb" title="Alien technology would dwarf Artificial Intelligence - Avi Loeb">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sR-tHubZyuY&title=What+Artificial+Intelligence+Just+Revealed+About+The+Future+of+Physics+Is+Wild&lang=en&timestamp=1792794458&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7939">
+          <img src="https://ytcards.demolab.com/?id=sR-tHubZyuY&title=What+Artificial+Intelligence+Just+Revealed+About+The+Future+of+Physics+Is+Wild&lang=en&timestamp=1792794458&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7939" alt="What Artificial Intelligence Just Revealed About The Future of Physics Is Wild" title="What Artificial Intelligence Just Revealed About The Future of Physics Is Wild">
         </picture>
       </a>
     </td>
