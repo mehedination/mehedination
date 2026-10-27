@@ -637,56 +637,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=OnXVUXktKxQ" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=OnXVUXktKxQ&title=Why+so+many+AI+developers+are+freaked+out+about+AI&lang=en&timestamp=1792946101&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=545">
-          <img src="https://ytcards.demolab.com/?id=OnXVUXktKxQ&title=Why+so+many+AI+developers+are+freaked+out+about+AI&lang=en&timestamp=1792946101&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=545" alt="Why so many AI developers are freaked out about AI" title="Why so many AI developers are freaked out about AI">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
       <a href="https://www.youtube.com/watch?v=W3Zn_sjdHxM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=W3Zn_sjdHxM&title=Inside+the+secret+race+to+build+artificial+intelligence+%7C+The+Gray+Area&lang=en&timestamp=1793018101&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2506">
-          <img src="https://ytcards.demolab.com/?id=W3Zn_sjdHxM&title=Inside+the+secret+race+to+build+artificial+intelligence+%7C+The+Gray+Area&lang=en&timestamp=1793018101&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2506" alt="Inside the secret race to build artificial intelligence | The Gray Area" title="Inside the secret race to build artificial intelligence | The Gray Area">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=W3Zn_sjdHxM&title=Inside+the+secret+race+to+build+artificial+intelligence+%7C+The+Gray+Area&lang=en&timestamp=1793017523&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2506">
+          <img src="https://ytcards.demolab.com/?id=W3Zn_sjdHxM&title=Inside+the+secret+race+to+build+artificial+intelligence+%7C+The+Gray+Area&lang=en&timestamp=1793017523&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2506" alt="Inside the secret race to build artificial intelligence | The Gray Area" title="Inside the secret race to build artificial intelligence | The Gray Area">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=U5zQzSqywEY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=lbtUnjWh1_c" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=U5zQzSqywEY&title=Artificial+Intelligence+Full+Course+for+Beginners+%28FREE%29+%7C+12+Hours+%7C+Complete+AI+Course&lang=en&timestamp=1793028901&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=42261">
-          <img src="https://ytcards.demolab.com/?id=U5zQzSqywEY&title=Artificial+Intelligence+Full+Course+for+Beginners+%28FREE%29+%7C+12+Hours+%7C+Complete+AI+Course&lang=en&timestamp=1793028901&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=42261" alt="Artificial Intelligence Full Course for Beginners (FREE) | 12 Hours | Complete AI Course" title="Artificial Intelligence Full Course for Beginners (FREE) | 12 Hours | Complete AI Course">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lbtUnjWh1_c&title=I+hacked+my+camera+with+AI+%28and+so+can+you%29&lang=en&timestamp=1793046323&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1218">
+          <img src="https://ytcards.demolab.com/?id=lbtUnjWh1_c&title=I+hacked+my+camera+with+AI+%28and+so+can+you%29&lang=en&timestamp=1793046323&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1218" alt="I hacked my camera with AI (and so can you)" title="I hacked my camera with AI (and so can you)">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=IJrxpS0Vpxg" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=IJrxpS0Vpxg&title=Microsoft+Offers+Buyouts+To+25%25+Of+Company&lang=en&timestamp=1793046323&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=199">
+          <img src="https://ytcards.demolab.com/?id=IJrxpS0Vpxg&title=Microsoft+Offers+Buyouts+To+25%25+Of+Company&lang=en&timestamp=1793046323&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=199" alt="Microsoft Offers Buyouts To 25% Of Company" title="Microsoft Offers Buyouts To 25% Of Company">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=MFP7CRm2xW4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=v5d8nwgiSYI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=MFP7CRm2xW4&title=Jack+Dorsey+Just+Revealed+a+Terrifying+AI+Breakthrough&lang=en&timestamp=1792949701&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1487">
-          <img src="https://ytcards.demolab.com/?id=MFP7CRm2xW4&title=Jack+Dorsey+Just+Revealed+a+Terrifying+AI+Breakthrough&lang=en&timestamp=1792949701&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1487" alt="Jack Dorsey Just Revealed a Terrifying AI Breakthrough" title="Jack Dorsey Just Revealed a Terrifying AI Breakthrough">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=v5d8nwgiSYI&title=Patent+Strategy+in+the+Age+of+AI&lang=en&timestamp=1793042723&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2381">
+          <img src="https://ytcards.demolab.com/?id=v5d8nwgiSYI&title=Patent+Strategy+in+the+Age+of+AI&lang=en&timestamp=1793042723&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2381" alt="Patent Strategy in the Age of AI" title="Patent Strategy in the Age of AI">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=cg9GiIY4dGI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=U5zQzSqywEY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=cg9GiIY4dGI&title=The+DARK+Truth+About+AI%E2%80%A6+Even+Its+Creators+Are+WARNING+Us&lang=en&timestamp=1792964101&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1989">
-          <img src="https://ytcards.demolab.com/?id=cg9GiIY4dGI&title=The+DARK+Truth+About+AI%E2%80%A6+Even+Its+Creators+Are+WARNING+Us&lang=en&timestamp=1792964101&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1989" alt="The DARK Truth About AI… Even Its Creators Are WARNING Us" title="The DARK Truth About AI… Even Its Creators Are WARNING Us">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=U5zQzSqywEY&title=Artificial+Intelligence+Full+Course+for+Beginners+%28FREE%29+%7C+12+Hours+%7C+Complete+AI+Course&lang=en&timestamp=1793028323&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=42261">
+          <img src="https://ytcards.demolab.com/?id=U5zQzSqywEY&title=Artificial+Intelligence+Full+Course+for+Beginners+%28FREE%29+%7C+12+Hours+%7C+Complete+AI+Course&lang=en&timestamp=1793028323&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=42261" alt="Artificial Intelligence Full Course for Beginners (FREE) | 12 Hours | Complete AI Course" title="Artificial Intelligence Full Course for Beginners (FREE) | 12 Hours | Complete AI Course">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=uampG3Do-E0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=m2M1xdb6W38" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=uampG3Do-E0&title=Has+AI+Killed+Hollywood+Yet%3F&lang=en&timestamp=1792956901&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1755">
-          <img src="https://ytcards.demolab.com/?id=uampG3Do-E0&title=Has+AI+Killed+Hollywood+Yet%3F&lang=en&timestamp=1792956901&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1755" alt="Has AI Killed Hollywood Yet?" title="Has AI Killed Hollywood Yet?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=m2M1xdb6W38&title=Which+AI+Role+Should+You+Prepare+For%3F&lang=en&timestamp=1793042723&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=547">
+          <img src="https://ytcards.demolab.com/?id=m2M1xdb6W38&title=Which+AI+Role+Should+You+Prepare+For%3F&lang=en&timestamp=1793042723&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=547" alt="Which AI Role Should You Prepare For?" title="Which AI Role Should You Prepare For?">
         </picture>
       </a>
     </td>
