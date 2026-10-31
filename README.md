@@ -642,56 +642,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ojOdB-7Dbdg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=nzu3qTTx1-8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ojOdB-7Dbdg&title=Artificial+intelligence+and+psychotherapy+%7C+DW+Documentary&lang=en&timestamp=1793295455&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2612">
-          <img src="https://ytcards.demolab.com/?id=ojOdB-7Dbdg&title=Artificial+intelligence+and+psychotherapy+%7C+DW+Documentary&lang=en&timestamp=1793295455&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2612" alt="Artificial intelligence and psychotherapy | DW Documentary" title="Artificial intelligence and psychotherapy | DW Documentary">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nzu3qTTx1-8&title=Is+the+huge+AI+gamble+worth+the+risk%3F+%7C+Business+Beyond&lang=en&timestamp=1793359723&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1559">
+          <img src="https://ytcards.demolab.com/?id=nzu3qTTx1-8&title=Is+the+huge+AI+gamble+worth+the+risk%3F+%7C+Business+Beyond&lang=en&timestamp=1793359723&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1559" alt="Is the huge AI gamble worth the risk? | Business Beyond" title="Is the huge AI gamble worth the risk? | Business Beyond">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=y0EnvtctqQM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=A-dxxTV1b_o" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=y0EnvtctqQM&title=Over+130%2C000+Tech+Jobs+Lost+In+2026%2C+But+AI+Isn%27t+The+Only+Reason+%7C+Here%27s+What%27s+Really+Happening&lang=en&timestamp=1793273855&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=236">
-          <img src="https://ytcards.demolab.com/?id=y0EnvtctqQM&title=Over+130%2C000+Tech+Jobs+Lost+In+2026%2C+But+AI+Isn%27t+The+Only+Reason+%7C+Here%27s+What%27s+Really+Happening&lang=en&timestamp=1793273855&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=236" alt="Over 130,000 Tech Jobs Lost In 2026, But AI Isn't The Only Reason | Here's What's Really Happening" title="Over 130,000 Tech Jobs Lost In 2026, But AI Isn't The Only Reason | Here's What's Really Happening">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=A-dxxTV1b_o&title=Investors+in+AI+race+spooked+after+Google+value+drops+%24500bn+%7C+BBC+News&lang=en&timestamp=1793381323&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=316">
+          <img src="https://ytcards.demolab.com/?id=A-dxxTV1b_o&title=Investors+in+AI+race+spooked+after+Google+value+drops+%24500bn+%7C+BBC+News&lang=en&timestamp=1793381323&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=316" alt="Investors in AI race spooked after Google value drops $500bn | BBC News" title="Investors in AI race spooked after Google value drops $500bn | BBC News">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=YvyQXq6VyQ0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=B4K-yu7qhhU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=YvyQXq6VyQ0&title=Is+the+huge+spend+on+artificial+intelligence+paying+off%3F+%7C+Herald+NOW+Business&lang=en&timestamp=1793299055&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=241">
-          <img src="https://ytcards.demolab.com/?id=YvyQXq6VyQ0&title=Is+the+huge+spend+on+artificial+intelligence+paying+off%3F+%7C+Herald+NOW+Business&lang=en&timestamp=1793299055&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=241" alt="Is the huge spend on artificial intelligence paying off? | Herald NOW Business" title="Is the huge spend on artificial intelligence paying off? | Herald NOW Business">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=B4K-yu7qhhU&title=Artificial+Intelligence+deal+at+Canada-E.U.+summit+is+significant+given+China+and+U.S.+AI+dominance&lang=en&timestamp=1793370523&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=238">
+          <img src="https://ytcards.demolab.com/?id=B4K-yu7qhhU&title=Artificial+Intelligence+deal+at+Canada-E.U.+summit+is+significant+given+China+and+U.S.+AI+dominance&lang=en&timestamp=1793370523&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=238" alt="Artificial Intelligence deal at Canada-E.U. summit is significant given China and U.S. AI dominance" title="Artificial Intelligence deal at Canada-E.U. summit is significant given China and U.S. AI dominance">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=grhoUWSd4aA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=hIIzIh4l208" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=grhoUWSd4aA&title=How+USCIS%2C+CBP%2C+ICE+Use+AI%2C+Super+Intelligence%28SI%29+on+Your+US+Visa%2C+I-94%2C+and+USCIS+Applications&lang=en&timestamp=1793291855&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1119">
-          <img src="https://ytcards.demolab.com/?id=grhoUWSd4aA&title=How+USCIS%2C+CBP%2C+ICE+Use+AI%2C+Super+Intelligence%28SI%29+on+Your+US+Visa%2C+I-94%2C+and+USCIS+Applications&lang=en&timestamp=1793291855&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1119" alt="How USCIS, CBP, ICE Use AI, Super Intelligence(SI) on Your US Visa, I-94, and USCIS Applications" title="How USCIS, CBP, ICE Use AI, Super Intelligence(SI) on Your US Visa, I-94, and USCIS Applications">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hIIzIh4l208&title=AI+CRASH+SPREADS+WORLDWIDE&lang=en&timestamp=1793356123&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=929">
+          <img src="https://ytcards.demolab.com/?id=hIIzIh4l208&title=AI+CRASH+SPREADS+WORLDWIDE&lang=en&timestamp=1793356123&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=929" alt="AI CRASH SPREADS WORLDWIDE" title="AI CRASH SPREADS WORLDWIDE">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=HGkRMGVwWGM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=u4LPlZdU09s" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=HGkRMGVwWGM&title=The+History+of+Artificial+Intelligence+%281950%E2%80%932026%29+%E2%80%94+Told+Like+a+Movie&lang=en&timestamp=1793309855&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4803">
-          <img src="https://ytcards.demolab.com/?id=HGkRMGVwWGM&title=The+History+of+Artificial+Intelligence+%281950%E2%80%932026%29+%E2%80%94+Told+Like+a+Movie&lang=en&timestamp=1793309855&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4803" alt="The History of Artificial Intelligence (1950–2026) — Told Like a Movie" title="The History of Artificial Intelligence (1950–2026) — Told Like a Movie">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=u4LPlZdU09s&title=Essential+for+AI%2C+but+opposition+to+data+centers+is+mounting&lang=en&timestamp=1793366923&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=141">
+          <img src="https://ytcards.demolab.com/?id=u4LPlZdU09s&title=Essential+for+AI%2C+but+opposition+to+data+centers+is+mounting&lang=en&timestamp=1793366923&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=141" alt="Essential for AI, but opposition to data centers is mounting" title="Essential for AI, but opposition to data centers is mounting">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=3MPFKGgvqv8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Vp8kDyreDGI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3MPFKGgvqv8&title=What+Is+AI%3F+Artificial+Intelligence+Explained+in+5+Minutes&lang=en&timestamp=1793288255&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=243">
-          <img src="https://ytcards.demolab.com/?id=3MPFKGgvqv8&title=What+Is+AI%3F+Artificial+Intelligence+Explained+in+5+Minutes&lang=en&timestamp=1793288255&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=243" alt="What Is AI? Artificial Intelligence Explained in 5 Minutes" title="What Is AI? Artificial Intelligence Explained in 5 Minutes">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Vp8kDyreDGI&title=AI+vs+ML+vs+Data+Science+vs+Data+Analytics+%7C+Which+Career+Is+Best%3F+%7C+Intellipaat&lang=en&timestamp=1793374123&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=796">
+          <img src="https://ytcards.demolab.com/?id=Vp8kDyreDGI&title=AI+vs+ML+vs+Data+Science+vs+Data+Analytics+%7C+Which+Career+Is+Best%3F+%7C+Intellipaat&lang=en&timestamp=1793374123&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=796" alt="AI vs ML vs Data Science vs Data Analytics | Which Career Is Best? | Intellipaat" title="AI vs ML vs Data Science vs Data Analytics | Which Career Is Best? | Intellipaat">
         </picture>
       </a>
     </td>
