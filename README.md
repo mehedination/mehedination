@@ -646,56 +646,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=UIYoKcIvSVo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=8FN2wkLap-Q" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=UIYoKcIvSVo&title=AI+News+Is+Getting+Absolutely+RIDICULOUS&lang=en&timestamp=1793465736&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1827">
-          <img src="https://ytcards.demolab.com/?id=UIYoKcIvSVo&title=AI+News+Is+Getting+Absolutely+RIDICULOUS&lang=en&timestamp=1793465736&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1827" alt="AI News Is Getting Absolutely RIDICULOUS" title="AI News Is Getting Absolutely RIDICULOUS">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8FN2wkLap-Q&title=Forbes+%231+Tech+Investor+Warns+of+Revolution%2C+AI+Bank+Heists+%26+How+to+Avoid+a+Dystopian+Future&lang=en&timestamp=1793469147&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5262">
+          <img src="https://ytcards.demolab.com/?id=8FN2wkLap-Q&title=Forbes+%231+Tech+Investor+Warns+of+Revolution%2C+AI+Bank+Heists+%26+How+to+Avoid+a+Dystopian+Future&lang=en&timestamp=1793469147&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5262" alt="Forbes #1 Tech Investor Warns of Revolution, AI Bank Heists & How to Avoid a Dystopian Future" title="Forbes #1 Tech Investor Warns of Revolution, AI Bank Heists & How to Avoid a Dystopian Future">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=lHJxUsdupho" target="_blank">
+      <a href="https://www.youtube.com/watch?v=k0yClGrFAUU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lHJxUsdupho&title=How+the+Media+Manufactures+AI+Belief&lang=en&timestamp=1793436936&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=658">
-          <img src="https://ytcards.demolab.com/?id=lHJxUsdupho&title=How+the+Media+Manufactures+AI+Belief&lang=en&timestamp=1793436936&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=658" alt="How the Media Manufactures AI Belief" title="How the Media Manufactures AI Belief">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=k0yClGrFAUU&title=ChatGPT%2C+Delusion+and+Death%3A+The+Hidden+Dangers+of+Artificial+Intelligence&lang=en&timestamp=1793520027&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=546">
+          <img src="https://ytcards.demolab.com/?id=k0yClGrFAUU&title=ChatGPT%2C+Delusion+and+Death%3A+The+Hidden+Dangers+of+Artificial+Intelligence&lang=en&timestamp=1793520027&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=546" alt="ChatGPT, Delusion and Death: The Hidden Dangers of Artificial Intelligence" title="ChatGPT, Delusion and Death: The Hidden Dangers of Artificial Intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=KjuAcZf8NC0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KjuAcZf8NC0&title=They+Ran+Every+Antichrist+Clue+Through+GROK+AI%E2%80%A6+Its+Answer+Shocked+Everyone&lang=en&timestamp=1793487336&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1380">
-          <img src="https://ytcards.demolab.com/?id=KjuAcZf8NC0&title=They+Ran+Every+Antichrist+Clue+Through+GROK+AI%E2%80%A6+Its+Answer+Shocked+Everyone&lang=en&timestamp=1793487336&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1380" alt="They Ran Every Antichrist Clue Through GROK AI… Its Answer Shocked Everyone" title="They Ran Every Antichrist Clue Through GROK AI… Its Answer Shocked Everyone">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KjuAcZf8NC0&title=They+Ran+Every+Antichrist+Clue+Through+GROK+AI%E2%80%A6+Its+Answer+Shocked+Everyone&lang=en&timestamp=1793487147&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1380">
+          <img src="https://ytcards.demolab.com/?id=KjuAcZf8NC0&title=They+Ran+Every+Antichrist+Clue+Through+GROK+AI%E2%80%A6+Its+Answer+Shocked+Everyone&lang=en&timestamp=1793487147&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1380" alt="They Ran Every Antichrist Clue Through GROK AI… Its Answer Shocked Everyone" title="They Ran Every Antichrist Clue Through GROK AI… Its Answer Shocked Everyone">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=8FN2wkLap-Q" target="_blank">
+      <a href="https://www.youtube.com/watch?v=NVkU7G_0GJY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8FN2wkLap-Q&title=Forbes+%231+Tech+Investor+Warns+of+Revolution%2C+AI+Bank+Heists+%26+How+to+Avoid+a+Dystopian+Future&lang=en&timestamp=1793469336&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5262">
-          <img src="https://ytcards.demolab.com/?id=8FN2wkLap-Q&title=Forbes+%231+Tech+Investor+Warns+of+Revolution%2C+AI+Bank+Heists+%26+How+to+Avoid+a+Dystopian+Future&lang=en&timestamp=1793469336&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5262" alt="Forbes #1 Tech Investor Warns of Revolution, AI Bank Heists & How to Avoid a Dystopian Future" title="Forbes #1 Tech Investor Warns of Revolution, AI Bank Heists & How to Avoid a Dystopian Future">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=NVkU7G_0GJY&title=%242+Trillion+Market+SHOCK%21+Wall+Street+PLUNGES+as+America%E2%80%99s+Tech+Giants+Tumble%21&lang=en&timestamp=1793487147&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=834">
+          <img src="https://ytcards.demolab.com/?id=NVkU7G_0GJY&title=%242+Trillion+Market+SHOCK%21+Wall+Street+PLUNGES+as+America%E2%80%99s+Tech+Giants+Tumble%21&lang=en&timestamp=1793487147&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=834" alt="$2 Trillion Market SHOCK! Wall Street PLUNGES as America’s Tech Giants Tumble!" title="$2 Trillion Market SHOCK! Wall Street PLUNGES as America’s Tech Giants Tumble!">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=Vzh4CmJavxE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Vzh4CmJavxE&title=Who+Is+Responsible+When+AI+Makes+a+Mistake%3F+%7C+The+Age+of+AI&lang=en&timestamp=1793447736&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3228">
-          <img src="https://ytcards.demolab.com/?id=Vzh4CmJavxE&title=Who+Is+Responsible+When+AI+Makes+a+Mistake%3F+%7C+The+Age+of+AI&lang=en&timestamp=1793447736&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3228" alt="Who Is Responsible When AI Makes a Mistake? | The Age of AI" title="Who Is Responsible When AI Makes a Mistake? | The Age of AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Vzh4CmJavxE&title=Who+Is+Responsible+When+AI+Makes+a+Mistake%3F+%7C+The+Age+of+AI&lang=en&timestamp=1793447547&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3228">
+          <img src="https://ytcards.demolab.com/?id=Vzh4CmJavxE&title=Who+Is+Responsible+When+AI+Makes+a+Mistake%3F+%7C+The+Age+of+AI&lang=en&timestamp=1793447547&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3228" alt="Who Is Responsible When AI Makes a Mistake? | The Age of AI" title="Who Is Responsible When AI Makes a Mistake? | The Age of AI">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=q_I1JMRrr9Y" target="_blank">
+      <a href="https://www.youtube.com/watch?v=lHJxUsdupho" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=q_I1JMRrr9Y&title=How+To+Get+a+Religious+Exemption+From+Using+A.I.+-+Weekly+Weird+News&lang=en&timestamp=1793496276&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4226">
-          <img src="https://ytcards.demolab.com/?id=q_I1JMRrr9Y&title=How+To+Get+a+Religious+Exemption+From+Using+A.I.+-+Weekly+Weird+News&lang=en&timestamp=1793496276&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4226" alt="How To Get a Religious Exemption From Using A.I. - Weekly Weird News" title="How To Get a Religious Exemption From Using A.I. - Weekly Weird News">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lHJxUsdupho&title=How+the+Media+Manufactures+AI+Belief&lang=en&timestamp=1793436747&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=658">
+          <img src="https://ytcards.demolab.com/?id=lHJxUsdupho&title=How+the+Media+Manufactures+AI+Belief&lang=en&timestamp=1793436747&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=658" alt="How the Media Manufactures AI Belief" title="How the Media Manufactures AI Belief">
         </picture>
       </a>
     </td>
