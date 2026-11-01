@@ -645,56 +645,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=GdwJqQawOz8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=UIYoKcIvSVo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=GdwJqQawOz8&title=Intel+Sinks+29%25+On+Earnings%E2%80%94As+AI+Spending+Fears+Worsen+Tech+Selloff&lang=en&timestamp=1793391790&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=165">
-          <img src="https://ytcards.demolab.com/?id=GdwJqQawOz8&title=Intel+Sinks+29%25+On+Earnings%E2%80%94As+AI+Spending+Fears+Worsen+Tech+Selloff&lang=en&timestamp=1793391790&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=165" alt="Intel Sinks 29% On Earnings—As AI Spending Fears Worsen Tech Selloff" title="Intel Sinks 29% On Earnings—As AI Spending Fears Worsen Tech Selloff">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=UIYoKcIvSVo&title=AI+News+Is+Getting+Absolutely+RIDICULOUS&lang=en&timestamp=1793465736&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1827">
+          <img src="https://ytcards.demolab.com/?id=UIYoKcIvSVo&title=AI+News+Is+Getting+Absolutely+RIDICULOUS&lang=en&timestamp=1793465736&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1827" alt="AI News Is Getting Absolutely RIDICULOUS" title="AI News Is Getting Absolutely RIDICULOUS">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=4u5gRQ0USsE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=lHJxUsdupho" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4u5gRQ0USsE&title=Here%27s+why+an+AI-generated+campaign+ad+is+allowed+on+the+air+in+Pennsylvania&lang=en&timestamp=1793398990&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=189">
-          <img src="https://ytcards.demolab.com/?id=4u5gRQ0USsE&title=Here%27s+why+an+AI-generated+campaign+ad+is+allowed+on+the+air+in+Pennsylvania&lang=en&timestamp=1793398990&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=189" alt="Here's why an AI-generated campaign ad is allowed on the air in Pennsylvania" title="Here's why an AI-generated campaign ad is allowed on the air in Pennsylvania">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lHJxUsdupho&title=How+the+Media+Manufactures+AI+Belief&lang=en&timestamp=1793436936&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=658">
+          <img src="https://ytcards.demolab.com/?id=lHJxUsdupho&title=How+the+Media+Manufactures+AI+Belief&lang=en&timestamp=1793436936&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=658" alt="How the Media Manufactures AI Belief" title="How the Media Manufactures AI Belief">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=A-dxxTV1b_o" target="_blank">
+      <a href="https://www.youtube.com/watch?v=KjuAcZf8NC0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=A-dxxTV1b_o&title=Investors+in+AI+race+spooked+after+Google+value+drops+%24500bn+%7C+BBC+News&lang=en&timestamp=1793380990&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=316">
-          <img src="https://ytcards.demolab.com/?id=A-dxxTV1b_o&title=Investors+in+AI+race+spooked+after+Google+value+drops+%24500bn+%7C+BBC+News&lang=en&timestamp=1793380990&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=316" alt="Investors in AI race spooked after Google value drops $500bn | BBC News" title="Investors in AI race spooked after Google value drops $500bn | BBC News">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KjuAcZf8NC0&title=They+Ran+Every+Antichrist+Clue+Through+GROK+AI%E2%80%A6+Its+Answer+Shocked+Everyone&lang=en&timestamp=1793487336&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1380">
+          <img src="https://ytcards.demolab.com/?id=KjuAcZf8NC0&title=They+Ran+Every+Antichrist+Clue+Through+GROK+AI%E2%80%A6+Its+Answer+Shocked+Everyone&lang=en&timestamp=1793487336&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1380" alt="They Ran Every Antichrist Clue Through GROK AI… Its Answer Shocked Everyone" title="They Ran Every Antichrist Clue Through GROK AI… Its Answer Shocked Everyone">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=nzu3qTTx1-8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=8FN2wkLap-Q" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nzu3qTTx1-8&title=Is+the+huge+AI+gamble+worth+the+risk%3F+%7C+Business+Beyond&lang=en&timestamp=1793366590&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1559">
-          <img src="https://ytcards.demolab.com/?id=nzu3qTTx1-8&title=Is+the+huge+AI+gamble+worth+the+risk%3F+%7C+Business+Beyond&lang=en&timestamp=1793366590&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1559" alt="Is the huge AI gamble worth the risk? | Business Beyond" title="Is the huge AI gamble worth the risk? | Business Beyond">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8FN2wkLap-Q&title=Forbes+%231+Tech+Investor+Warns+of+Revolution%2C+AI+Bank+Heists+%26+How+to+Avoid+a+Dystopian+Future&lang=en&timestamp=1793469336&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5262">
+          <img src="https://ytcards.demolab.com/?id=8FN2wkLap-Q&title=Forbes+%231+Tech+Investor+Warns+of+Revolution%2C+AI+Bank+Heists+%26+How+to+Avoid+a+Dystopian+Future&lang=en&timestamp=1793469336&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5262" alt="Forbes #1 Tech Investor Warns of Revolution, AI Bank Heists & How to Avoid a Dystopian Future" title="Forbes #1 Tech Investor Warns of Revolution, AI Bank Heists & How to Avoid a Dystopian Future">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=4Ka6e3NJbUQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Vzh4CmJavxE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4Ka6e3NJbUQ&title=I+was+wrong+about+AI+again.&lang=en&timestamp=1793388190&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=8197">
-          <img src="https://ytcards.demolab.com/?id=4Ka6e3NJbUQ&title=I+was+wrong+about+AI+again.&lang=en&timestamp=1793388190&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=8197" alt="I was wrong about AI again." title="I was wrong about AI again.">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Vzh4CmJavxE&title=Who+Is+Responsible+When+AI+Makes+a+Mistake%3F+%7C+The+Age+of+AI&lang=en&timestamp=1793447736&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3228">
+          <img src="https://ytcards.demolab.com/?id=Vzh4CmJavxE&title=Who+Is+Responsible+When+AI+Makes+a+Mistake%3F+%7C+The+Age+of+AI&lang=en&timestamp=1793447736&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3228" alt="Who Is Responsible When AI Makes a Mistake? | The Age of AI" title="Who Is Responsible When AI Makes a Mistake? | The Age of AI">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=au_yC2hWxnU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=q_I1JMRrr9Y" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=au_yC2hWxnU&title=%E0%B0%AE%E0%B1%80+H1B+VISA+Application++USCIS+%E0%B0%B5%E0%B0%BE%E0%B0%B3%E0%B1%8D%E0%B0%B3%E0%B1%81+Super+Intelligence+AI+USE+%E0%B0%9A%E0%B1%87%E0%B0%B8%E0%B0%BF+track++%E0%B0%9A%E0%B1%87%E0%B0%AF%E0%B0%AC%E0%B1%8B%E0%B0%A4%E0%B1%81%E0%B0%A8%E0%B1%8D%E0%B0%A8%E0%B0%BE%E0%B0%B0%E0%B0%BE+%3F&lang=en&timestamp=1793406190&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=889">
-          <img src="https://ytcards.demolab.com/?id=au_yC2hWxnU&title=%E0%B0%AE%E0%B1%80+H1B+VISA+Application++USCIS+%E0%B0%B5%E0%B0%BE%E0%B0%B3%E0%B1%8D%E0%B0%B3%E0%B1%81+Super+Intelligence+AI+USE+%E0%B0%9A%E0%B1%87%E0%B0%B8%E0%B0%BF+track++%E0%B0%9A%E0%B1%87%E0%B0%AF%E0%B0%AC%E0%B1%8B%E0%B0%A4%E0%B1%81%E0%B0%A8%E0%B1%8D%E0%B0%A8%E0%B0%BE%E0%B0%B0%E0%B0%BE+%3F&lang=en&timestamp=1793406190&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=889" alt="మీ H1B VISA Application  USCIS వాళ్ళు Super Intelligence AI USE చేసి track  చేయబోతున్నారా ?" title="మీ H1B VISA Application  USCIS వాళ్ళు Super Intelligence AI USE చేసి track  చేయబోతున్నారా ?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=q_I1JMRrr9Y&title=How+To+Get+a+Religious+Exemption+From+Using+A.I.+-+Weekly+Weird+News&lang=en&timestamp=1793496276&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4226">
+          <img src="https://ytcards.demolab.com/?id=q_I1JMRrr9Y&title=How+To+Get+a+Religious+Exemption+From+Using+A.I.+-+Weekly+Weird+News&lang=en&timestamp=1793496276&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4226" alt="How To Get a Religious Exemption From Using A.I. - Weekly Weird News" title="How To Get a Religious Exemption From Using A.I. - Weekly Weird News">
         </picture>
       </a>
     </td>
