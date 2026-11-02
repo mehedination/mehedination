@@ -651,56 +651,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=8f5uFn9bOwY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8f5uFn9bOwY&title=Fareed+unpacks+AI%2C+the+Iran+war%2C+Trump+%26+more+%7C+Fareed%27s+Take+roundup&lang=en&timestamp=1793582515&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1472">
-          <img src="https://ytcards.demolab.com/?id=8f5uFn9bOwY&title=Fareed+unpacks+AI%2C+the+Iran+war%2C+Trump+%26+more+%7C+Fareed%27s+Take+roundup&lang=en&timestamp=1793582515&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1472" alt="Fareed unpacks AI, the Iran war, Trump & more | Fareed's Take roundup" title="Fareed unpacks AI, the Iran war, Trump & more | Fareed's Take roundup">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8f5uFn9bOwY&title=Fareed%27s+latest+on+AI%2C+Iran+war%2C+Trump+%26+US+strategy+%7C+Fareed%27s+Takes+roundup&lang=en&timestamp=1793584500&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1472">
+          <img src="https://ytcards.demolab.com/?id=8f5uFn9bOwY&title=Fareed%27s+latest+on+AI%2C+Iran+war%2C+Trump+%26+US+strategy+%7C+Fareed%27s+Takes+roundup&lang=en&timestamp=1793584500&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1472" alt="Fareed's latest on AI, Iran war, Trump & US strategy | Fareed's Takes roundup" title="Fareed's latest on AI, Iran war, Trump & US strategy | Fareed's Takes roundup">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=vvbVlI957Qg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vvbVlI957Qg&title=Top+Pollster+Reveals+How+People+Feel+About+Artificial+Intelligence+As+Issue+Becomes+Key+For+Midterms&lang=en&timestamp=1793535715&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=114">
-          <img src="https://ytcards.demolab.com/?id=vvbVlI957Qg&title=Top+Pollster+Reveals+How+People+Feel+About+Artificial+Intelligence+As+Issue+Becomes+Key+For+Midterms&lang=en&timestamp=1793535715&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=114" alt="Top Pollster Reveals How People Feel About Artificial Intelligence As Issue Becomes Key For Midterms" title="Top Pollster Reveals How People Feel About Artificial Intelligence As Issue Becomes Key For Midterms">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=pqUe2En041E" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=pqUe2En041E&title=AI-Powered+Business+Analytics+with+Excel+Full+Course+2026+%7C+Master+Excel+%26+AI+Skills+%7C+Simplilearn&lang=en&timestamp=1793553715&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=16289">
-          <img src="https://ytcards.demolab.com/?id=pqUe2En041E&title=AI-Powered+Business+Analytics+with+Excel+Full+Course+2026+%7C+Master+Excel+%26+AI+Skills+%7C+Simplilearn&lang=en&timestamp=1793553715&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=16289" alt="AI-Powered Business Analytics with Excel Full Course 2026 | Master Excel & AI Skills | Simplilearn" title="AI-Powered Business Analytics with Excel Full Course 2026 | Master Excel & AI Skills | Simplilearn">
-        </picture>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=41dnLNlhIV0" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=41dnLNlhIV0&title=Microsoft+Offers+Buyouts+to+60%2C000+Workers+as+It+Bets+%24175B+on+AI&lang=en&timestamp=1793550115&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=444">
-          <img src="https://ytcards.demolab.com/?id=41dnLNlhIV0&title=Microsoft+Offers+Buyouts+to+60%2C000+Workers+as+It+Bets+%24175B+on+AI&lang=en&timestamp=1793550115&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=444" alt="Microsoft Offers Buyouts to 60,000 Workers as It Bets $175B on AI" title="Microsoft Offers Buyouts to 60,000 Workers as It Bets $175B on AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vvbVlI957Qg&title=Top+Pollster+Reveals+How+People+Feel+About+Artificial+Intelligence+As+Issue+Becomes+Key+For+Midterms&lang=en&timestamp=1793555700&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=114">
+          <img src="https://ytcards.demolab.com/?id=vvbVlI957Qg&title=Top+Pollster+Reveals+How+People+Feel+About+Artificial+Intelligence+As+Issue+Becomes+Key+For+Midterms&lang=en&timestamp=1793555700&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=114" alt="Top Pollster Reveals How People Feel About Artificial Intelligence As Issue Becomes Key For Midterms" title="Top Pollster Reveals How People Feel About Artificial Intelligence As Issue Becomes Key For Midterms">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=XMiFWBoDxRs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XMiFWBoDxRs&title=Forget+AI%3A+Trump+Is+Promoting+%E2%80%98Super+Intelligence%E2%80%99&lang=en&timestamp=1793575315&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=538">
-          <img src="https://ytcards.demolab.com/?id=XMiFWBoDxRs&title=Forget+AI%3A+Trump+Is+Promoting+%E2%80%98Super+Intelligence%E2%80%99&lang=en&timestamp=1793575315&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=538" alt="Forget AI: Trump Is Promoting ‘Super Intelligence’" title="Forget AI: Trump Is Promoting ‘Super Intelligence’">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XMiFWBoDxRs&title=Trump%E2%80%99s+New+AI+Agenda%3F+Ditch+the+Name%2C+Embrace+%E2%80%98Super+Intelligence%E2%80%99&lang=en&timestamp=1793577300&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=538">
+          <img src="https://ytcards.demolab.com/?id=XMiFWBoDxRs&title=Trump%E2%80%99s+New+AI+Agenda%3F+Ditch+the+Name%2C+Embrace+%E2%80%98Super+Intelligence%E2%80%99&lang=en&timestamp=1793577300&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=538" alt="Trump’s New AI Agenda? Ditch the Name, Embrace ‘Super Intelligence’" title="Trump’s New AI Agenda? Ditch the Name, Embrace ‘Super Intelligence’">
+        </picture>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=jhR2WdSOljM" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jhR2WdSOljM&title=Is+the+term+%E2%80%9CArtificial+Intelligence%E2%80%9D+our+true+North+Star%3F&lang=en&timestamp=1793598900&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=80">
+          <img src="https://ytcards.demolab.com/?id=jhR2WdSOljM&title=Is+the+term+%E2%80%9CArtificial+Intelligence%E2%80%9D+our+true+North+Star%3F&lang=en&timestamp=1793598900&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=80" alt="Is the term “Artificial Intelligence” our true North Star?" title="Is the term “Artificial Intelligence” our true North Star?">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=NE02_gBvTAI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=8aGNgb6HX4o" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=NE02_gBvTAI&title=AI+and+the+2026+US+Midterms%3A+The+New+Political+Battleground&lang=en&timestamp=1793535715&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=618">
-          <img src="https://ytcards.demolab.com/?id=NE02_gBvTAI&title=AI+and+the+2026+US+Midterms%3A+The+New+Political+Battleground&lang=en&timestamp=1793535715&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=618" alt="AI and the 2026 US Midterms: The New Political Battleground" title="AI and the 2026 US Midterms: The New Political Battleground">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8aGNgb6HX4o&title=Can+AI+solve+biology%3F+%7C+Lex+Fridman&lang=en&timestamp=1793570100&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=240">
+          <img src="https://ytcards.demolab.com/?id=8aGNgb6HX4o&title=Can+AI+solve+biology%3F+%7C+Lex+Fridman&lang=en&timestamp=1793570100&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=240" alt="Can AI solve biology? | Lex Fridman" title="Can AI solve biology? | Lex Fridman">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=41dnLNlhIV0" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=41dnLNlhIV0&title=Microsoft+Offers+Buyouts+to+60%2C000+Workers+as+It+Bets+%24175B+on+AI&lang=en&timestamp=1793555700&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=444">
+          <img src="https://ytcards.demolab.com/?id=41dnLNlhIV0&title=Microsoft+Offers+Buyouts+to+60%2C000+Workers+as+It+Bets+%24175B+on+AI&lang=en&timestamp=1793555700&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=444" alt="Microsoft Offers Buyouts to 60,000 Workers as It Bets $175B on AI" title="Microsoft Offers Buyouts to 60,000 Workers as It Bets $175B on AI">
         </picture>
       </a>
     </td>
