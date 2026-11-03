@@ -653,56 +653,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=zYVIXCC-dR0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zYVIXCC-dR0&title=5+AI+questions+everyone+should+be+asking&lang=en&timestamp=1793633979&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=874">
-          <img src="https://ytcards.demolab.com/?id=zYVIXCC-dR0&title=5+AI+questions+everyone+should+be+asking&lang=en&timestamp=1793633979&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=874" alt="5 AI questions everyone should be asking" title="5 AI questions everyone should be asking">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zYVIXCC-dR0&title=5+AI+questions+everyone+should+be+asking&lang=en&timestamp=1793633949&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=874">
+          <img src="https://ytcards.demolab.com/?id=zYVIXCC-dR0&title=5+AI+questions+everyone+should+be+asking&lang=en&timestamp=1793633949&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=874" alt="5 AI questions everyone should be asking" title="5 AI questions everyone should be asking">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=YIUPaYpXk_E" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ag3qNV9IcsM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=YIUPaYpXk_E&title=As+Backlash+Against+AI+Grows%2C+Sam+Altman+promotes+AI+As+%27Absolute+Necessity%27+At+ADIPEC+In+Abu+Dhabi&lang=en&timestamp=1793626779&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1013">
-          <img src="https://ytcards.demolab.com/?id=YIUPaYpXk_E&title=As+Backlash+Against+AI+Grows%2C+Sam+Altman+promotes+AI+As+%27Absolute+Necessity%27+At+ADIPEC+In+Abu+Dhabi&lang=en&timestamp=1793626779&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1013" alt="As Backlash Against AI Grows, Sam Altman promotes AI As 'Absolute Necessity' At ADIPEC In Abu Dhabi" title="As Backlash Against AI Grows, Sam Altman promotes AI As 'Absolute Necessity' At ADIPEC In Abu Dhabi">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ag3qNV9IcsM&title=Are+we+seeing+another+dot-com+bubble%3F+%7C+Artificial+intelligence&lang=en&timestamp=1793684349&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=128">
+          <img src="https://ytcards.demolab.com/?id=ag3qNV9IcsM&title=Are+we+seeing+another+dot-com+bubble%3F+%7C+Artificial+intelligence&lang=en&timestamp=1793684349&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=128" alt="Are we seeing another dot-com bubble? | Artificial intelligence" title="Are we seeing another dot-com bubble? | Artificial intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=yzXLrX-EA9o" target="_blank">
+      <a href="https://www.youtube.com/watch?v=axQCMW4ouNM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=yzXLrX-EA9o&title=It+Begins%3A+AI+Has+Started+Improving+Itself.&lang=en&timestamp=1793619579&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=673">
-          <img src="https://ytcards.demolab.com/?id=yzXLrX-EA9o&title=It+Begins%3A+AI+Has+Started+Improving+Itself.&lang=en&timestamp=1793619579&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=673" alt="It Begins: AI Has Started Improving Itself." title="It Begins: AI Has Started Improving Itself.">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=axQCMW4ouNM&title=Top+Neuroscientist%3A+%22We+Have+Paused+Human+Development%22+%7C+Karl+Friston&lang=en&timestamp=1793648349&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5347">
+          <img src="https://ytcards.demolab.com/?id=axQCMW4ouNM&title=Top+Neuroscientist%3A+%22We+Have+Paused+Human+Development%22+%7C+Karl+Friston&lang=en&timestamp=1793648349&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5347" alt="Top Neuroscientist: &quot;We Have Paused Human Development&quot; | Karl Friston" title="Top Neuroscientist: &quot;We Have Paused Human Development&quot; | Karl Friston">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=5Umh_bUYDGY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=N3L_uVuyaHM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5Umh_bUYDGY&title=AI+Weekly%3A+Tech+stock+dives%2C+Tolstoy+chatbot&lang=en&timestamp=1793626779&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=167">
-          <img src="https://ytcards.demolab.com/?id=5Umh_bUYDGY&title=AI+Weekly%3A+Tech+stock+dives%2C+Tolstoy+chatbot&lang=en&timestamp=1793626779&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=167" alt="AI Weekly: Tech stock dives, Tolstoy chatbot" title="AI Weekly: Tech stock dives, Tolstoy chatbot">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=N3L_uVuyaHM&title=US+NEWS+%7C+AI+vs+Pollsters%3A+Can+Artificial+Intelligence+Predict+The+Midterm+Results%3F+%7C+Trump+%7C+N18G&lang=en&timestamp=1793680749&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5095">
+          <img src="https://ytcards.demolab.com/?id=N3L_uVuyaHM&title=US+NEWS+%7C+AI+vs+Pollsters%3A+Can+Artificial+Intelligence+Predict+The+Midterm+Results%3F+%7C+Trump+%7C+N18G&lang=en&timestamp=1793680749&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5095" alt="US NEWS | AI vs Pollsters: Can Artificial Intelligence Predict The Midterm Results? | Trump | N18G" title="US NEWS | AI vs Pollsters: Can Artificial Intelligence Predict The Midterm Results? | Trump | N18G">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=AY2JsPdGcvY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=yzXLrX-EA9o" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=AY2JsPdGcvY&title=AI+Collapse+Warning&lang=en&timestamp=1793615979&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=945">
-          <img src="https://ytcards.demolab.com/?id=AY2JsPdGcvY&title=AI+Collapse+Warning&lang=en&timestamp=1793615979&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=945" alt="AI Collapse Warning" title="AI Collapse Warning">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=yzXLrX-EA9o&title=It+Begins%3A+AI+Has+Started+Improving+Itself.&lang=en&timestamp=1793619549&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=673">
+          <img src="https://ytcards.demolab.com/?id=yzXLrX-EA9o&title=It+Begins%3A+AI+Has+Started+Improving+Itself.&lang=en&timestamp=1793619549&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=673" alt="It Begins: AI Has Started Improving Itself." title="It Begins: AI Has Started Improving Itself.">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=8HRL3XLeKOQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=W_SmNZetTJI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8HRL3XLeKOQ&title=Rise+and+Fall+of+the+Most+Valuable+AI+Companies+%7C+2020-2026&lang=en&timestamp=1793619579&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=522">
-          <img src="https://ytcards.demolab.com/?id=8HRL3XLeKOQ&title=Rise+and+Fall+of+the+Most+Valuable+AI+Companies+%7C+2020-2026&lang=en&timestamp=1793619579&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=522" alt="Rise and Fall of the Most Valuable AI Companies | 2020-2026" title="Rise and Fall of the Most Valuable AI Companies | 2020-2026">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=W_SmNZetTJI&title=Are+We+Living+in+the+End+Times%3F+Gen+Z%2C+AI+%26+Women%E2%80%99s+Rights+%7C+Sahil+Adeem+%7C+Full+Podcast&lang=en&timestamp=1793633949&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3443">
+          <img src="https://ytcards.demolab.com/?id=W_SmNZetTJI&title=Are+We+Living+in+the+End+Times%3F+Gen+Z%2C+AI+%26+Women%E2%80%99s+Rights+%7C+Sahil+Adeem+%7C+Full+Podcast&lang=en&timestamp=1793633949&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3443" alt="Are We Living in the End Times? Gen Z, AI & Women’s Rights | Sahil Adeem | Full Podcast" title="Are We Living in the End Times? Gen Z, AI & Women’s Rights | Sahil Adeem | Full Podcast">
         </picture>
       </a>
     </td>
