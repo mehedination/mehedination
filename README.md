@@ -656,56 +656,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=9FjbFGYKxAc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9FjbFGYKxAc&title=AI+Is+Making+Discoveries+That+Shouldn%27t+Be+Possible&lang=en&timestamp=1793699821&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1501">
-          <img src="https://ytcards.demolab.com/?id=9FjbFGYKxAc&title=AI+Is+Making+Discoveries+That+Shouldn%27t+Be+Possible&lang=en&timestamp=1793699821&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1501" alt="AI Is Making Discoveries That Shouldn't Be Possible" title="AI Is Making Discoveries That Shouldn't Be Possible">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9FjbFGYKxAc&title=AI+Is+Now+Doing+Things+Scientists+Thought+Were+Impossible&lang=en&timestamp=1793699505&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1501">
+          <img src="https://ytcards.demolab.com/?id=9FjbFGYKxAc&title=AI+Is+Now+Doing+Things+Scientists+Thought+Were+Impossible&lang=en&timestamp=1793699505&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1501" alt="AI Is Now Doing Things Scientists Thought Were Impossible" title="AI Is Now Doing Things Scientists Thought Were Impossible">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=zXekn7txdLk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zXekn7txdLk&title=Microsoft+AI+Says+We+Should+Destroy+Conscious+AI%C2%A0Before+it+Arises+&lang=en&timestamp=1793699821&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=358">
-          <img src="https://ytcards.demolab.com/?id=zXekn7txdLk&title=Microsoft+AI+Says+We+Should+Destroy+Conscious+AI%C2%A0Before+it+Arises+&lang=en&timestamp=1793699821&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=358" alt="Microsoft AI Says We Should Destroy Conscious AI Before it Arises " title="Microsoft AI Says We Should Destroy Conscious AI Before it Arises ">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zXekn7txdLk&title=Microsoft+AI+Says+We+Should+Destroy+Conscious+AI%C2%A0Before+it+Arises+&lang=en&timestamp=1793699505&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=358">
+          <img src="https://ytcards.demolab.com/?id=zXekn7txdLk&title=Microsoft+AI+Says+We+Should+Destroy+Conscious+AI%C2%A0Before+it+Arises+&lang=en&timestamp=1793699505&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=358" alt="Microsoft AI Says We Should Destroy Conscious AI Before it Arises " title="Microsoft AI Says We Should Destroy Conscious AI Before it Arises ">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=_OODHaVlMH8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=vKzPdFRBPWc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_OODHaVlMH8&title=Ep.+249%3A+Anthropic+Files+for+IPO%2C+AI+and+the+Meaning+of+Work+%26+Microsoft%27s+60K-Employee+Buyout+Offer&lang=en&timestamp=1793703421&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5493">
-          <img src="https://ytcards.demolab.com/?id=_OODHaVlMH8&title=Ep.+249%3A+Anthropic+Files+for+IPO%2C+AI+and+the+Meaning+of+Work+%26+Microsoft%27s+60K-Employee+Buyout+Offer&lang=en&timestamp=1793703421&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5493" alt="Ep. 249: Anthropic Files for IPO, AI and the Meaning of Work & Microsoft's 60K-Employee Buyout Offer" title="Ep. 249: Anthropic Files for IPO, AI and the Meaning of Work & Microsoft's 60K-Employee Buyout Offer">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vKzPdFRBPWc&title=AI+Losses+Explode+as+Anthropic+Reveals+the+Cost+of+the+Boom&lang=en&timestamp=1793731905&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=883">
+          <img src="https://ytcards.demolab.com/?id=vKzPdFRBPWc&title=AI+Losses+Explode+as+Anthropic+Reveals+the+Cost+of+the+Boom&lang=en&timestamp=1793731905&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=883" alt="AI Losses Explode as Anthropic Reveals the Cost of the Boom" title="AI Losses Explode as Anthropic Reveals the Cost of the Boom">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=HWaniazPj5Y" target="_blank">
+      <a href="https://www.youtube.com/watch?v=K1v_POHkQb8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=HWaniazPj5Y&title=AI+Panic+Deepens+as+Oracle%2C+Marvell+%26+Lumentum+Plunge&lang=en&timestamp=1793707021&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=796">
-          <img src="https://ytcards.demolab.com/?id=HWaniazPj5Y&title=AI+Panic+Deepens+as+Oracle%2C+Marvell+%26+Lumentum+Plunge&lang=en&timestamp=1793707021&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=796" alt="AI Panic Deepens as Oracle, Marvell & Lumentum Plunge" title="AI Panic Deepens as Oracle, Marvell & Lumentum Plunge">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=K1v_POHkQb8&title=What+Grigori+Perelman+thinks+about+AI+solving+mathematics+%7C+Lex+Fridman&lang=en&timestamp=1793742705&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=261">
+          <img src="https://ytcards.demolab.com/?id=K1v_POHkQb8&title=What+Grigori+Perelman+thinks+about+AI+solving+mathematics+%7C+Lex+Fridman&lang=en&timestamp=1793742705&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=261" alt="What Grigori Perelman thinks about AI solving mathematics | Lex Fridman" title="What Grigori Perelman thinks about AI solving mathematics | Lex Fridman">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ZBc7RJy0Ldg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=_OODHaVlMH8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ZBc7RJy0Ldg&title=Artificial+Intelligence+and+Genuine+Cheating%21&lang=en&timestamp=1793710621&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=136">
-          <img src="https://ytcards.demolab.com/?id=ZBc7RJy0Ldg&title=Artificial+Intelligence+and+Genuine+Cheating%21&lang=en&timestamp=1793710621&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=136" alt="Artificial Intelligence and Genuine Cheating!" title="Artificial Intelligence and Genuine Cheating!">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_OODHaVlMH8&title=Ep.+249%3A+Anthropic+Files+for+IPO%2C+AI+and+the+Meaning+of+Work+%26+Microsoft%27s+60K-Employee+Buyout+Offer&lang=en&timestamp=1793703105&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5493">
+          <img src="https://ytcards.demolab.com/?id=_OODHaVlMH8&title=Ep.+249%3A+Anthropic+Files+for+IPO%2C+AI+and+the+Meaning+of+Work+%26+Microsoft%27s+60K-Employee+Buyout+Offer&lang=en&timestamp=1793703105&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5493" alt="Ep. 249: Anthropic Files for IPO, AI and the Meaning of Work & Microsoft's 60K-Employee Buyout Offer" title="Ep. 249: Anthropic Files for IPO, AI and the Meaning of Work & Microsoft's 60K-Employee Buyout Offer">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Y4mxXmMh128" target="_blank">
+      <a href="https://www.youtube.com/watch?v=kRLo7_djfqw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Y4mxXmMh128&title=Super+AI+Will+Send+Every+Investment+To+ZERO%E2%80%A6+Except+One+%7C+Jeff+Booth+%26+Eric+Yakes&lang=en&timestamp=1793710621&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1975">
-          <img src="https://ytcards.demolab.com/?id=Y4mxXmMh128&title=Super+AI+Will+Send+Every+Investment+To+ZERO%E2%80%A6+Except+One+%7C+Jeff+Booth+%26+Eric+Yakes&lang=en&timestamp=1793710621&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1975" alt="Super AI Will Send Every Investment To ZERO… Except One | Jeff Booth & Eric Yakes" title="Super AI Will Send Every Investment To ZERO… Except One | Jeff Booth & Eric Yakes">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=kRLo7_djfqw&title=SOLIDWORKS+2027+First+Look%3A+AI+Workflows+%26+LEO+Virtual+Companion&lang=en&timestamp=1793721105&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=269">
+          <img src="https://ytcards.demolab.com/?id=kRLo7_djfqw&title=SOLIDWORKS+2027+First+Look%3A+AI+Workflows+%26+LEO+Virtual+Companion&lang=en&timestamp=1793721105&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=269" alt="SOLIDWORKS 2027 First Look: AI Workflows & LEO Virtual Companion" title="SOLIDWORKS 2027 First Look: AI Workflows & LEO Virtual Companion">
         </picture>
       </a>
     </td>
