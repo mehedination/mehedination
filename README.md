@@ -661,56 +661,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=R-OeFlyzveI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=R-OeFlyzveI&title=Something+Strange+Is+Happening+With+GPT-6.2&lang=en&timestamp=1793954459&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1494">
-          <img src="https://ytcards.demolab.com/?id=R-OeFlyzveI&title=Something+Strange+Is+Happening+With+GPT-6.2&lang=en&timestamp=1793954459&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1494" alt="Something Strange Is Happening With GPT-6.2" title="Something Strange Is Happening With GPT-6.2">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=R-OeFlyzveI&title=Something+Strange+Is+Happening+With+GPT-6.2&lang=en&timestamp=1793957225&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1494">
+          <img src="https://ytcards.demolab.com/?id=R-OeFlyzveI&title=Something+Strange+Is+Happening+With+GPT-6.2&lang=en&timestamp=1793957225&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1494" alt="Something Strange Is Happening With GPT-6.2" title="Something Strange Is Happening With GPT-6.2">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=NeHNkU9nKtI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=of-WwgsQO3U" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=NeHNkU9nKtI&title=The+AI+Crash+Is+Way+Worse+Than+People+Realize&lang=en&timestamp=1793986859&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6975">
-          <img src="https://ytcards.demolab.com/?id=NeHNkU9nKtI&title=The+AI+Crash+Is+Way+Worse+Than+People+Realize&lang=en&timestamp=1793986859&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6975" alt="The AI Crash Is Way Worse Than People Realize" title="The AI Crash Is Way Worse Than People Realize">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=of-WwgsQO3U&title=Could+US+Democrats+burst+the+AI+bubble+after+global+tech+shares+plummet%3F+%7C+Global+News+Podcast&lang=en&timestamp=1793993225&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=543">
+          <img src="https://ytcards.demolab.com/?id=of-WwgsQO3U&title=Could+US+Democrats+burst+the+AI+bubble+after+global+tech+shares+plummet%3F+%7C+Global+News+Podcast&lang=en&timestamp=1793993225&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=543" alt="Could US Democrats burst the AI bubble after global tech shares plummet? | Global News Podcast" title="Could US Democrats burst the AI bubble after global tech shares plummet? | Global News Podcast">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=3cV1sR2PANA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Itr3Ld5c9yI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3cV1sR2PANA&title=The+Big+Question%3A+AI+Bubble+or+Boom%3F&lang=en&timestamp=1793965259&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1103">
-          <img src="https://ytcards.demolab.com/?id=3cV1sR2PANA&title=The+Big+Question%3A+AI+Bubble+or+Boom%3F&lang=en&timestamp=1793965259&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1103" alt="The Big Question: AI Bubble or Boom?" title="The Big Question: AI Bubble or Boom?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Itr3Ld5c9yI&title=Dramatic+tech+and+AI+share+sell-off+wipes+trillions+off+stock+markets&lang=en&timestamp=1793996825&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=480">
+          <img src="https://ytcards.demolab.com/?id=Itr3Ld5c9yI&title=Dramatic+tech+and+AI+share+sell-off+wipes+trillions+off+stock+markets&lang=en&timestamp=1793996825&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=480" alt="Dramatic tech and AI share sell-off wipes trillions off stock markets" title="Dramatic tech and AI share sell-off wipes trillions off stock markets">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Xq7rPlcO0pA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=3cV1sR2PANA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Xq7rPlcO0pA&title=AI+CRASH+Deepens+as+%243+TRILLION+Wiped+Out+%26+Global+Markets+Plunge&lang=en&timestamp=1793958059&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1039">
-          <img src="https://ytcards.demolab.com/?id=Xq7rPlcO0pA&title=AI+CRASH+Deepens+as+%243+TRILLION+Wiped+Out+%26+Global+Markets+Plunge&lang=en&timestamp=1793958059&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1039" alt="AI CRASH Deepens as $3 TRILLION Wiped Out & Global Markets Plunge" title="AI CRASH Deepens as $3 TRILLION Wiped Out & Global Markets Plunge">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3cV1sR2PANA&title=The+Big+Question%3A+AI+Bubble+or+Boom%3F&lang=en&timestamp=1793964425&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1103">
+          <img src="https://ytcards.demolab.com/?id=3cV1sR2PANA&title=The+Big+Question%3A+AI+Bubble+or+Boom%3F&lang=en&timestamp=1793964425&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1103" alt="The Big Question: AI Bubble or Boom?" title="The Big Question: AI Bubble or Boom?">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=yOHXzSlIG_k" target="_blank">
+      <a href="https://www.youtube.com/watch?v=r-SstgFlsuI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=yOHXzSlIG_k&title=Trump+backs+AI%2C+vows+to+help+US+states+%27become+rich%27+with+tech&lang=en&timestamp=1793976059&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=147">
-          <img src="https://ytcards.demolab.com/?id=yOHXzSlIG_k&title=Trump+backs+AI%2C+vows+to+help+US+states+%27become+rich%27+with+tech&lang=en&timestamp=1793976059&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=147" alt="Trump backs AI, vows to help US states 'become rich' with tech" title="Trump backs AI, vows to help US states 'become rich' with tech">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=r-SstgFlsuI&title=The+Next+AI+Boom+Won%E2%80%99t+Stay+Inside+Data+Centers&lang=en&timestamp=1794014825&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1139">
+          <img src="https://ytcards.demolab.com/?id=r-SstgFlsuI&title=The+Next+AI+Boom+Won%E2%80%99t+Stay+Inside+Data+Centers&lang=en&timestamp=1794014825&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1139" alt="The Next AI Boom Won’t Stay Inside Data Centers" title="The Next AI Boom Won’t Stay Inside Data Centers">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=vqAKdzkDia0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=wFvBd2C6pHk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vqAKdzkDia0&title=AI+Won%27t+Need+Us.+Its+Builders+Are+OK+With+That.&lang=en&timestamp=1793994059&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=920">
-          <img src="https://ytcards.demolab.com/?id=vqAKdzkDia0&title=AI+Won%27t+Need+Us.+Its+Builders+Are+OK+With+That.&lang=en&timestamp=1793994059&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=920" alt="AI Won't Need Us. Its Builders Are OK With That." title="AI Won't Need Us. Its Builders Are OK With That.">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wFvBd2C6pHk&title=How+Nate%27s+Honey+Uses+AI+To+Protect+Its+6+Billion+Bees+%7C+AI+In+Action&lang=en&timestamp=1793975225&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1182">
+          <img src="https://ytcards.demolab.com/?id=wFvBd2C6pHk&title=How+Nate%27s+Honey+Uses+AI+To+Protect+Its+6+Billion+Bees+%7C+AI+In+Action&lang=en&timestamp=1793975225&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1182" alt="How Nate's Honey Uses AI To Protect Its 6 Billion Bees | AI In Action" title="How Nate's Honey Uses AI To Protect Its 6 Billion Bees | AI In Action">
         </picture>
       </a>
     </td>
