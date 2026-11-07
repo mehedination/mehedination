@@ -663,56 +663,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=-5lA_cwi6JU" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-5lA_cwi6JU&title=Pichai%E2%80%99s+Diwali+Bomb%3F+Google+Offers+Voluntary+Buyouts+After+Microsoft+%26+Meta+%7C+Firstpost+America&lang=en&timestamp=1793982546&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=307">
-          <img src="https://ytcards.demolab.com/?id=-5lA_cwi6JU&title=Pichai%E2%80%99s+Diwali+Bomb%3F+Google+Offers+Voluntary+Buyouts+After+Microsoft+%26+Meta+%7C+Firstpost+America&lang=en&timestamp=1793982546&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=307" alt="Pichai’s Diwali Bomb? Google Offers Voluntary Buyouts After Microsoft & Meta | Firstpost America" title="Pichai’s Diwali Bomb? Google Offers Voluntary Buyouts After Microsoft & Meta | Firstpost America">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=of-WwgsQO3U" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=of-WwgsQO3U&title=Could+US+Democrats+burst+the+AI+bubble+after+global+tech+shares+plummet%3F+%7C+Global+News+Podcast&lang=en&timestamp=1793993346&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=543">
-          <img src="https://ytcards.demolab.com/?id=of-WwgsQO3U&title=Could+US+Democrats+burst+the+AI+bubble+after+global+tech+shares+plummet%3F+%7C+Global+News+Podcast&lang=en&timestamp=1793993346&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=543" alt="Could US Democrats burst the AI bubble after global tech shares plummet? | Global News Podcast" title="Could US Democrats burst the AI bubble after global tech shares plummet? | Global News Podcast">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
       <a href="https://www.youtube.com/watch?v=r-SstgFlsuI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=r-SstgFlsuI&title=Nvidia+Just+Showed+Us+Where+AI+Money+Is+Going+Next&lang=en&timestamp=1794014946&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1139">
-          <img src="https://ytcards.demolab.com/?id=r-SstgFlsuI&title=Nvidia+Just+Showed+Us+Where+AI+Money+Is+Going+Next&lang=en&timestamp=1794014946&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1139" alt="Nvidia Just Showed Us Where AI Money Is Going Next" title="Nvidia Just Showed Us Where AI Money Is Going Next">
-        </picture>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Itr3Ld5c9yI" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Itr3Ld5c9yI&title=AI+bubble+fears+prompt+dramatic+sell-off&lang=en&timestamp=1793996946&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=480">
-          <img src="https://ytcards.demolab.com/?id=Itr3Ld5c9yI&title=AI+bubble+fears+prompt+dramatic+sell-off&lang=en&timestamp=1793996946&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=480" alt="AI bubble fears prompt dramatic sell-off" title="AI bubble fears prompt dramatic sell-off">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Gfu2cQWzdGs" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Gfu2cQWzdGs&title=Artificial+Intelligence%2C+Natural+Stupidity%3A+Have+We+Learnt+Nothing+from+Railway+Mania%3F&lang=en&timestamp=1794040146&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=691">
-          <img src="https://ytcards.demolab.com/?id=Gfu2cQWzdGs&title=Artificial+Intelligence%2C+Natural+Stupidity%3A+Have+We+Learnt+Nothing+from+Railway+Mania%3F&lang=en&timestamp=1794040146&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=691" alt="Artificial Intelligence, Natural Stupidity: Have We Learnt Nothing from Railway Mania?" title="Artificial Intelligence, Natural Stupidity: Have We Learnt Nothing from Railway Mania?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=r-SstgFlsuI&title=Nvidia+Just+Showed+Us+Where+AI+Money+Is+Going+Next&lang=en&timestamp=1794016612&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1139">
+          <img src="https://ytcards.demolab.com/?id=r-SstgFlsuI&title=Nvidia+Just+Showed+Us+Where+AI+Money+Is+Going+Next&lang=en&timestamp=1794016612&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1139" alt="Nvidia Just Showed Us Where AI Money Is Going Next" title="Nvidia Just Showed Us Where AI Money Is Going Next">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=R-OeFlyzveI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=R-OeFlyzveI&title=Something+Strange+Is+Happening+With+GPT-6.2&lang=en&timestamp=1793978946&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1494">
-          <img src="https://ytcards.demolab.com/?id=R-OeFlyzveI&title=Something+Strange+Is+Happening+With+GPT-6.2&lang=en&timestamp=1793978946&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1494" alt="Something Strange Is Happening With GPT-6.2" title="Something Strange Is Happening With GPT-6.2">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=R-OeFlyzveI&title=Something+Strange+Is+Happening+With+GPT-6.2&lang=en&timestamp=1793995012&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1494">
+          <img src="https://ytcards.demolab.com/?id=R-OeFlyzveI&title=Something+Strange+Is+Happening+With+GPT-6.2&lang=en&timestamp=1793995012&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1494" alt="Something Strange Is Happening With GPT-6.2" title="Something Strange Is Happening With GPT-6.2">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=Itr3Ld5c9yI" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Itr3Ld5c9yI&title=AI+bubble+fears+prompt+dramatic+sell-off&lang=en&timestamp=1793998612&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=480">
+          <img src="https://ytcards.demolab.com/?id=Itr3Ld5c9yI&title=AI+bubble+fears+prompt+dramatic+sell-off&lang=en&timestamp=1793998612&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=480" alt="AI bubble fears prompt dramatic sell-off" title="AI bubble fears prompt dramatic sell-off">
+        </picture>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=Gfu2cQWzdGs" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Gfu2cQWzdGs&title=Artificial+Intelligence%2C+Natural+Stupidity%3A+Have+We+Learnt+Nothing+from+Railway+Mania%3F&lang=en&timestamp=1794041812&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=691">
+          <img src="https://ytcards.demolab.com/?id=Gfu2cQWzdGs&title=Artificial+Intelligence%2C+Natural+Stupidity%3A+Have+We+Learnt+Nothing+from+Railway+Mania%3F&lang=en&timestamp=1794041812&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=691" alt="Artificial Intelligence, Natural Stupidity: Have We Learnt Nothing from Railway Mania?" title="Artificial Intelligence, Natural Stupidity: Have We Learnt Nothing from Railway Mania?">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=of-WwgsQO3U" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=of-WwgsQO3U&title=Could+US+Democrats+burst+the+AI+bubble+after+global+tech+shares+plummet%3F+%7C+Global+News+Podcast&lang=en&timestamp=1793995012&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=543">
+          <img src="https://ytcards.demolab.com/?id=of-WwgsQO3U&title=Could+US+Democrats+burst+the+AI+bubble+after+global+tech+shares+plummet%3F+%7C+Global+News+Podcast&lang=en&timestamp=1793995012&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=543" alt="Could US Democrats burst the AI bubble after global tech shares plummet? | Global News Podcast" title="Could US Democrats burst the AI bubble after global tech shares plummet? | Global News Podcast">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=TSy-pLsJav4" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=TSy-pLsJav4&title=AI+Data+centres+face+growing+backlash+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1794045412&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=113">
+          <img src="https://ytcards.demolab.com/?id=TSy-pLsJav4&title=AI+Data+centres+face+growing+backlash+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1794045412&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=113" alt="AI Data centres face growing backlash • FRANCE 24 English" title="AI Data centres face growing backlash • FRANCE 24 English">
         </picture>
       </a>
     </td>
