@@ -664,56 +664,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=r-SstgFlsuI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=r-SstgFlsuI&title=Nvidia+Just+Showed+Us+Where+AI+Money+Is+Going+Next&lang=en&timestamp=1794016612&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1139">
-          <img src="https://ytcards.demolab.com/?id=r-SstgFlsuI&title=Nvidia+Just+Showed+Us+Where+AI+Money+Is+Going+Next&lang=en&timestamp=1794016612&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1139" alt="Nvidia Just Showed Us Where AI Money Is Going Next" title="Nvidia Just Showed Us Where AI Money Is Going Next">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=R-OeFlyzveI" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=R-OeFlyzveI&title=Something+Strange+Is+Happening+With+GPT-6.2&lang=en&timestamp=1793995012&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1494">
-          <img src="https://ytcards.demolab.com/?id=R-OeFlyzveI&title=Something+Strange+Is+Happening+With+GPT-6.2&lang=en&timestamp=1793995012&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1494" alt="Something Strange Is Happening With GPT-6.2" title="Something Strange Is Happening With GPT-6.2">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=r-SstgFlsuI&title=Nvidia+Just+Showed+Us+Where+AI+Money+Is+Going+Next&lang=en&timestamp=1794015156&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1139">
+          <img src="https://ytcards.demolab.com/?id=r-SstgFlsuI&title=Nvidia+Just+Showed+Us+Where+AI+Money+Is+Going+Next&lang=en&timestamp=1794015156&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1139" alt="Nvidia Just Showed Us Where AI Money Is Going Next" title="Nvidia Just Showed Us Where AI Money Is Going Next">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=Itr3Ld5c9yI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Itr3Ld5c9yI&title=AI+bubble+fears+prompt+dramatic+sell-off&lang=en&timestamp=1793998612&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=480">
-          <img src="https://ytcards.demolab.com/?id=Itr3Ld5c9yI&title=AI+bubble+fears+prompt+dramatic+sell-off&lang=en&timestamp=1793998612&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=480" alt="AI bubble fears prompt dramatic sell-off" title="AI bubble fears prompt dramatic sell-off">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Itr3Ld5c9yI&title=AI+bubble+fears+prompt+dramatic+sell-off&lang=en&timestamp=1794007956&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=480">
+          <img src="https://ytcards.demolab.com/?id=Itr3Ld5c9yI&title=AI+bubble+fears+prompt+dramatic+sell-off&lang=en&timestamp=1794007956&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=480" alt="AI bubble fears prompt dramatic sell-off" title="AI bubble fears prompt dramatic sell-off">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=Gfu2cQWzdGs" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Gfu2cQWzdGs&title=Artificial+Intelligence%2C+Natural+Stupidity%3A+Have+We+Learnt+Nothing+from+Railway+Mania%3F&lang=en&timestamp=1794040356&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=691">
+          <img src="https://ytcards.demolab.com/?id=Gfu2cQWzdGs&title=Artificial+Intelligence%2C+Natural+Stupidity%3A+Have+We+Learnt+Nothing+from+Railway+Mania%3F&lang=en&timestamp=1794040356&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=691" alt="Artificial Intelligence, Natural Stupidity: Have We Learnt Nothing from Railway Mania?" title="Artificial Intelligence, Natural Stupidity: Have We Learnt Nothing from Railway Mania?">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Gfu2cQWzdGs" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Gfu2cQWzdGs&title=Artificial+Intelligence%2C+Natural+Stupidity%3A+Have+We+Learnt+Nothing+from+Railway+Mania%3F&lang=en&timestamp=1794041812&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=691">
-          <img src="https://ytcards.demolab.com/?id=Gfu2cQWzdGs&title=Artificial+Intelligence%2C+Natural+Stupidity%3A+Have+We+Learnt+Nothing+from+Railway+Mania%3F&lang=en&timestamp=1794041812&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=691" alt="Artificial Intelligence, Natural Stupidity: Have We Learnt Nothing from Railway Mania?" title="Artificial Intelligence, Natural Stupidity: Have We Learnt Nothing from Railway Mania?">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=of-WwgsQO3U" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=of-WwgsQO3U&title=Could+US+Democrats+burst+the+AI+bubble+after+global+tech+shares+plummet%3F+%7C+Global+News+Podcast&lang=en&timestamp=1793995012&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=543">
-          <img src="https://ytcards.demolab.com/?id=of-WwgsQO3U&title=Could+US+Democrats+burst+the+AI+bubble+after+global+tech+shares+plummet%3F+%7C+Global+News+Podcast&lang=en&timestamp=1793995012&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=543" alt="Could US Democrats burst the AI bubble after global tech shares plummet? | Global News Podcast" title="Could US Democrats burst the AI bubble after global tech shares plummet? | Global News Podcast">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
       <a href="https://www.youtube.com/watch?v=TSy-pLsJav4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=TSy-pLsJav4&title=AI+Data+centres+face+growing+backlash+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1794045412&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=113">
-          <img src="https://ytcards.demolab.com/?id=TSy-pLsJav4&title=AI+Data+centres+face+growing+backlash+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1794045412&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=113" alt="AI Data centres face growing backlash • FRANCE 24 English" title="AI Data centres face growing backlash • FRANCE 24 English">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=TSy-pLsJav4&title=AI+Data+centres+face+growing+backlash+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1794047556&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=113">
+          <img src="https://ytcards.demolab.com/?id=TSy-pLsJav4&title=AI+Data+centres+face+growing+backlash+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1794047556&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=113" alt="AI Data centres face growing backlash • FRANCE 24 English" title="AI Data centres face growing backlash • FRANCE 24 English">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=wFvBd2C6pHk" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wFvBd2C6pHk&title=How+Nate%27s+Honey+Uses+AI+To+Protect+Its+6+Billion+Bees+%7C+AI+In+Action&lang=en&timestamp=1794007956&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1182">
+          <img src="https://ytcards.demolab.com/?id=wFvBd2C6pHk&title=How+Nate%27s+Honey+Uses+AI+To+Protect+Its+6+Billion+Bees+%7C+AI+In+Action&lang=en&timestamp=1794007956&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1182" alt="How Nate's Honey Uses AI To Protect Its 6 Billion Bees | AI In Action" title="How Nate's Honey Uses AI To Protect Its 6 Billion Bees | AI In Action">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=ygFxnkTHb5w" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ygFxnkTHb5w&title=Scary+Signs+Artificial+Intelligence+Is+Getting+Too+Dangerous+to+Ignore&lang=en&timestamp=1794011556&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=10839">
+          <img src="https://ytcards.demolab.com/?id=ygFxnkTHb5w&title=Scary+Signs+Artificial+Intelligence+Is+Getting+Too+Dangerous+to+Ignore&lang=en&timestamp=1794011556&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=10839" alt="Scary Signs Artificial Intelligence Is Getting Too Dangerous to Ignore" title="Scary Signs Artificial Intelligence Is Getting Too Dangerous to Ignore">
         </picture>
       </a>
     </td>
