@@ -660,56 +660,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=qRvrxk7FPaY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=R-OeFlyzveI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qRvrxk7FPaY&title=Orlando+Bravo+on+regulating+AI+models%3A+%27Let+competition+run+free%27&lang=en&timestamp=1793818583&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=192">
-          <img src="https://ytcards.demolab.com/?id=qRvrxk7FPaY&title=Orlando+Bravo+on+regulating+AI+models%3A+%27Let+competition+run+free%27&lang=en&timestamp=1793818583&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=192" alt="Orlando Bravo on regulating AI models: 'Let competition run free'" title="Orlando Bravo on regulating AI models: 'Let competition run free'">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=R-OeFlyzveI&title=Something+Strange+Is+Happening+With+GPT-6.2&lang=en&timestamp=1793954459&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1494">
+          <img src="https://ytcards.demolab.com/?id=R-OeFlyzveI&title=Something+Strange+Is+Happening+With+GPT-6.2&lang=en&timestamp=1793954459&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1494" alt="Something Strange Is Happening With GPT-6.2" title="Something Strange Is Happening With GPT-6.2">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=t1ehzq7_BVA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=NeHNkU9nKtI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=t1ehzq7_BVA&title=Trump+Just+Lost+The+Midterms...+Every+AI+CEO+is+Panicking%21&lang=en&timestamp=1793796983&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1029">
-          <img src="https://ytcards.demolab.com/?id=t1ehzq7_BVA&title=Trump+Just+Lost+The+Midterms...+Every+AI+CEO+is+Panicking%21&lang=en&timestamp=1793796983&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1029" alt="Trump Just Lost The Midterms... Every AI CEO is Panicking!" title="Trump Just Lost The Midterms... Every AI CEO is Panicking!">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=NeHNkU9nKtI&title=The+AI+Crash+Is+Way+Worse+Than+People+Realize&lang=en&timestamp=1793986859&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6975">
+          <img src="https://ytcards.demolab.com/?id=NeHNkU9nKtI&title=The+AI+Crash+Is+Way+Worse+Than+People+Realize&lang=en&timestamp=1793986859&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6975" alt="The AI Crash Is Way Worse Than People Realize" title="The AI Crash Is Way Worse Than People Realize">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=lA0-nUm7oKQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=3cV1sR2PANA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lA0-nUm7oKQ&title=AI+is+taking+JOBS+-+Can+Canada+FIGHT+back%3F&lang=en&timestamp=1793796983&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=522">
-          <img src="https://ytcards.demolab.com/?id=lA0-nUm7oKQ&title=AI+is+taking+JOBS+-+Can+Canada+FIGHT+back%3F&lang=en&timestamp=1793796983&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=522" alt="AI is taking JOBS - Can Canada FIGHT back?" title="AI is taking JOBS - Can Canada FIGHT back?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3cV1sR2PANA&title=The+Big+Question%3A+AI+Bubble+or+Boom%3F&lang=en&timestamp=1793965259&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1103">
+          <img src="https://ytcards.demolab.com/?id=3cV1sR2PANA&title=The+Big+Question%3A+AI+Bubble+or+Boom%3F&lang=en&timestamp=1793965259&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1103" alt="The Big Question: AI Bubble or Boom?" title="The Big Question: AI Bubble or Boom?">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=mt9GH_rsXnw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Xq7rPlcO0pA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mt9GH_rsXnw&title=AI+Cost+Shock+%E2%80%94+Apple+Sounds+the+Alarm&lang=en&timestamp=1793814983&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=891">
-          <img src="https://ytcards.demolab.com/?id=mt9GH_rsXnw&title=AI+Cost+Shock+%E2%80%94+Apple+Sounds+the+Alarm&lang=en&timestamp=1793814983&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=891" alt="AI Cost Shock — Apple Sounds the Alarm" title="AI Cost Shock — Apple Sounds the Alarm">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Xq7rPlcO0pA&title=AI+CRASH+Deepens+as+%243+TRILLION+Wiped+Out+%26+Global+Markets+Plunge&lang=en&timestamp=1793958059&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1039">
+          <img src="https://ytcards.demolab.com/?id=Xq7rPlcO0pA&title=AI+CRASH+Deepens+as+%243+TRILLION+Wiped+Out+%26+Global+Markets+Plunge&lang=en&timestamp=1793958059&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1039" alt="AI CRASH Deepens as $3 TRILLION Wiped Out & Global Markets Plunge" title="AI CRASH Deepens as $3 TRILLION Wiped Out & Global Markets Plunge">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=7_BkuF2yu2A" target="_blank">
+      <a href="https://www.youtube.com/watch?v=yOHXzSlIG_k" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=7_BkuF2yu2A&title=Australian+Schools+To+Restrict+Use+Of+Artificial+Intelligence+In+The+Classroom+%7C+10+News&lang=en&timestamp=1793850983&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=95">
-          <img src="https://ytcards.demolab.com/?id=7_BkuF2yu2A&title=Australian+Schools+To+Restrict+Use+Of+Artificial+Intelligence+In+The+Classroom+%7C+10+News&lang=en&timestamp=1793850983&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=95" alt="Australian Schools To Restrict Use Of Artificial Intelligence In The Classroom | 10 News" title="Australian Schools To Restrict Use Of Artificial Intelligence In The Classroom | 10 News">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=yOHXzSlIG_k&title=Trump+backs+AI%2C+vows+to+help+US+states+%27become+rich%27+with+tech&lang=en&timestamp=1793976059&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=147">
+          <img src="https://ytcards.demolab.com/?id=yOHXzSlIG_k&title=Trump+backs+AI%2C+vows+to+help+US+states+%27become+rich%27+with+tech&lang=en&timestamp=1793976059&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=147" alt="Trump backs AI, vows to help US states 'become rich' with tech" title="Trump backs AI, vows to help US states 'become rich' with tech">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=KNrnpqPknvI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=vqAKdzkDia0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KNrnpqPknvI&title=Episode+%23144%3A+The+Real+AI+Takeover+Isn%E2%80%99t+What+You+Think&lang=en&timestamp=1793796983&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2736">
-          <img src="https://ytcards.demolab.com/?id=KNrnpqPknvI&title=Episode+%23144%3A+The+Real+AI+Takeover+Isn%E2%80%99t+What+You+Think&lang=en&timestamp=1793796983&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2736" alt="Episode #144: The Real AI Takeover Isn’t What You Think" title="Episode #144: The Real AI Takeover Isn’t What You Think">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vqAKdzkDia0&title=AI+Won%27t+Need+Us.+Its+Builders+Are+OK+With+That.&lang=en&timestamp=1793994059&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=920">
+          <img src="https://ytcards.demolab.com/?id=vqAKdzkDia0&title=AI+Won%27t+Need+Us.+Its+Builders+Are+OK+With+That.&lang=en&timestamp=1793994059&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=920" alt="AI Won't Need Us. Its Builders Are OK With That." title="AI Won't Need Us. Its Builders Are OK With That.">
         </picture>
       </a>
     </td>
