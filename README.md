@@ -666,56 +666,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
+      <a href="https://www.youtube.com/watch?v=XMxcSf9XkbQ" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XMxcSf9XkbQ&title=Is+it+too+late+to+stop+AI+from+taking+over+the+world%3F+%7C+60+Minutes+Australia&lang=en&timestamp=1794131098&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1080">
+          <img src="https://ytcards.demolab.com/?id=XMxcSf9XkbQ&title=Is+it+too+late+to+stop+AI+from+taking+over+the+world%3F+%7C+60+Minutes+Australia&lang=en&timestamp=1794131098&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1080" alt="Is it too late to stop AI from taking over the world? | 60 Minutes Australia" title="Is it too late to stop AI from taking over the world? | 60 Minutes Australia">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
       <a href="https://www.youtube.com/watch?v=1QCXvQ5BFo0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1QCXvQ5BFo0&title=Europeans+protest+construction+of+large+AI+data+centres+across+continent&lang=en&timestamp=1794070420&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=307">
-          <img src="https://ytcards.demolab.com/?id=1QCXvQ5BFo0&title=Europeans+protest+construction+of+large+AI+data+centres+across+continent&lang=en&timestamp=1794070420&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=307" alt="Europeans protest construction of large AI data centres across continent" title="Europeans protest construction of large AI data centres across continent">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1QCXvQ5BFo0&title=Europeans+protest+construction+of+large+AI+data+centres+across+continent&lang=en&timestamp=1794069898&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=307">
+          <img src="https://ytcards.demolab.com/?id=1QCXvQ5BFo0&title=Europeans+protest+construction+of+large+AI+data+centres+across+continent&lang=en&timestamp=1794069898&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=307" alt="Europeans protest construction of large AI data centres across continent" title="Europeans protest construction of large AI data centres across continent">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=N-lNgyf-8KA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=4Id5aTlYkHg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=N-lNgyf-8KA&title=%27AI+will+change+the+world%3A+Accept+it%27+%7C+Piers+Linney&lang=en&timestamp=1794059620&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=584">
-          <img src="https://ytcards.demolab.com/?id=N-lNgyf-8KA&title=%27AI+will+change+the+world%3A+Accept+it%27+%7C+Piers+Linney&lang=en&timestamp=1794059620&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=584" alt="'AI will change the world: Accept it' | Piers Linney" title="'AI will change the world: Accept it' | Piers Linney">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Gfu2cQWzdGs" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Gfu2cQWzdGs&title=Artificial+Intelligence%2C+Natural+Stupidity%3A+Have+We+Learnt+Nothing+from+Railway+Mania%3F&lang=en&timestamp=1794041620&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=691">
-          <img src="https://ytcards.demolab.com/?id=Gfu2cQWzdGs&title=Artificial+Intelligence%2C+Natural+Stupidity%3A+Have+We+Learnt+Nothing+from+Railway+Mania%3F&lang=en&timestamp=1794041620&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=691" alt="Artificial Intelligence, Natural Stupidity: Have We Learnt Nothing from Railway Mania?" title="Artificial Intelligence, Natural Stupidity: Have We Learnt Nothing from Railway Mania?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4Id5aTlYkHg&title=The+AI+Alignment+Problem+%26+Its+Solutions%2C+with+Aza+Raskin&lang=en&timestamp=1794069898&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4964">
+          <img src="https://ytcards.demolab.com/?id=4Id5aTlYkHg&title=The+AI+Alignment+Problem+%26+Its+Solutions%2C+with+Aza+Raskin&lang=en&timestamp=1794069898&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4964" alt="The AI Alignment Problem & Its Solutions, with Aza Raskin" title="The AI Alignment Problem & Its Solutions, with Aza Raskin">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=4yXpXO4ESz0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=EWpZC-wOA_I" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4yXpXO4ESz0&title=What+Saying+Please+to+AI+Does+to+You&lang=en&timestamp=1794074020&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1506">
-          <img src="https://ytcards.demolab.com/?id=4yXpXO4ESz0&title=What+Saying+Please+to+AI+Does+to+You&lang=en&timestamp=1794074020&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1506" alt="What Saying Please to AI Does to You" title="What Saying Please to AI Does to You">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EWpZC-wOA_I&title=The+PHP+emergency%3A+How+AI+has+changed+hacking+forever+-+BBC+World+Service&lang=en&timestamp=1794098698&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=338">
+          <img src="https://ytcards.demolab.com/?id=EWpZC-wOA_I&title=The+PHP+emergency%3A+How+AI+has+changed+hacking+forever+-+BBC+World+Service&lang=en&timestamp=1794098698&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=338" alt="The PHP emergency: How AI has changed hacking forever - BBC World Service" title="The PHP emergency: How AI has changed hacking forever - BBC World Service">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=5lgQpM3CuPE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=2VCn9b69xnI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5lgQpM3CuPE&title=OpenAI+Discovers+GPT+Is+Quietly+Sabotaging+AI+Safety+Research&lang=en&timestamp=1794052420&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=373">
-          <img src="https://ytcards.demolab.com/?id=5lgQpM3CuPE&title=OpenAI+Discovers+GPT+Is+Quietly+Sabotaging+AI+Safety+Research&lang=en&timestamp=1794052420&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=373" alt="OpenAI Discovers GPT Is Quietly Sabotaging AI Safety Research" title="OpenAI Discovers GPT Is Quietly Sabotaging AI Safety Research">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2VCn9b69xnI&title=Judges+Get+Caught+Using+AI+In+Court&lang=en&timestamp=1794091498&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=788">
+          <img src="https://ytcards.demolab.com/?id=2VCn9b69xnI&title=Judges+Get+Caught+Using+AI+In+Court&lang=en&timestamp=1794091498&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=788" alt="Judges Get Caught Using AI In Court" title="Judges Get Caught Using AI In Court">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Oupq_kZfB1w" target="_blank">
+      <a href="https://www.youtube.com/watch?v=VjZVego3m-U" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Oupq_kZfB1w&title=Will+Chinese+RAM+Fabrication+Save+Us+From+The+AI+Crisis%3F&lang=en&timestamp=1794074020&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=555">
-          <img src="https://ytcards.demolab.com/?id=Oupq_kZfB1w&title=Will+Chinese+RAM+Fabrication+Save+Us+From+The+AI+Crisis%3F&lang=en&timestamp=1794074020&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=555" alt="Will Chinese RAM Fabrication Save Us From The AI Crisis?" title="Will Chinese RAM Fabrication Save Us From The AI Crisis?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=VjZVego3m-U&title=The+Real+Tech+Crash+Hasn%27t+Even+Started%3A+Here%27s+The+Trigger+%7C+John-Clark+Levin&lang=en&timestamp=1794091498&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1968">
+          <img src="https://ytcards.demolab.com/?id=VjZVego3m-U&title=The+Real+Tech+Crash+Hasn%27t+Even+Started%3A+Here%27s+The+Trigger+%7C+John-Clark+Levin&lang=en&timestamp=1794091498&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1968" alt="The Real Tech Crash Hasn't Even Started: Here's The Trigger | John-Clark Levin" title="The Real Tech Crash Hasn't Even Started: Here's The Trigger | John-Clark Levin">
         </picture>
       </a>
     </td>
