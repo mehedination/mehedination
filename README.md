@@ -665,56 +665,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=r-SstgFlsuI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=1QCXvQ5BFo0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=r-SstgFlsuI&title=Nvidia+Just+Showed+Us+Where+AI+Money+Is+Going+Next&lang=en&timestamp=1794015156&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1139">
-          <img src="https://ytcards.demolab.com/?id=r-SstgFlsuI&title=Nvidia+Just+Showed+Us+Where+AI+Money+Is+Going+Next&lang=en&timestamp=1794015156&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1139" alt="Nvidia Just Showed Us Where AI Money Is Going Next" title="Nvidia Just Showed Us Where AI Money Is Going Next">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1QCXvQ5BFo0&title=Europeans+protest+construction+of+large+AI+data+centres+across+continent&lang=en&timestamp=1794070420&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=307">
+          <img src="https://ytcards.demolab.com/?id=1QCXvQ5BFo0&title=Europeans+protest+construction+of+large+AI+data+centres+across+continent&lang=en&timestamp=1794070420&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=307" alt="Europeans protest construction of large AI data centres across continent" title="Europeans protest construction of large AI data centres across continent">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Itr3Ld5c9yI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=N-lNgyf-8KA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Itr3Ld5c9yI&title=AI+bubble+fears+prompt+dramatic+sell-off&lang=en&timestamp=1794007956&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=480">
-          <img src="https://ytcards.demolab.com/?id=Itr3Ld5c9yI&title=AI+bubble+fears+prompt+dramatic+sell-off&lang=en&timestamp=1794007956&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=480" alt="AI bubble fears prompt dramatic sell-off" title="AI bubble fears prompt dramatic sell-off">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=N-lNgyf-8KA&title=%27AI+will+change+the+world%3A+Accept+it%27+%7C+Piers+Linney&lang=en&timestamp=1794059620&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=584">
+          <img src="https://ytcards.demolab.com/?id=N-lNgyf-8KA&title=%27AI+will+change+the+world%3A+Accept+it%27+%7C+Piers+Linney&lang=en&timestamp=1794059620&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=584" alt="'AI will change the world: Accept it' | Piers Linney" title="'AI will change the world: Accept it' | Piers Linney">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=Gfu2cQWzdGs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Gfu2cQWzdGs&title=Artificial+Intelligence%2C+Natural+Stupidity%3A+Have+We+Learnt+Nothing+from+Railway+Mania%3F&lang=en&timestamp=1794040356&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=691">
-          <img src="https://ytcards.demolab.com/?id=Gfu2cQWzdGs&title=Artificial+Intelligence%2C+Natural+Stupidity%3A+Have+We+Learnt+Nothing+from+Railway+Mania%3F&lang=en&timestamp=1794040356&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=691" alt="Artificial Intelligence, Natural Stupidity: Have We Learnt Nothing from Railway Mania?" title="Artificial Intelligence, Natural Stupidity: Have We Learnt Nothing from Railway Mania?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Gfu2cQWzdGs&title=Artificial+Intelligence%2C+Natural+Stupidity%3A+Have+We+Learnt+Nothing+from+Railway+Mania%3F&lang=en&timestamp=1794041620&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=691">
+          <img src="https://ytcards.demolab.com/?id=Gfu2cQWzdGs&title=Artificial+Intelligence%2C+Natural+Stupidity%3A+Have+We+Learnt+Nothing+from+Railway+Mania%3F&lang=en&timestamp=1794041620&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=691" alt="Artificial Intelligence, Natural Stupidity: Have We Learnt Nothing from Railway Mania?" title="Artificial Intelligence, Natural Stupidity: Have We Learnt Nothing from Railway Mania?">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=TSy-pLsJav4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=4yXpXO4ESz0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=TSy-pLsJav4&title=AI+Data+centres+face+growing+backlash+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1794047556&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=113">
-          <img src="https://ytcards.demolab.com/?id=TSy-pLsJav4&title=AI+Data+centres+face+growing+backlash+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1794047556&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=113" alt="AI Data centres face growing backlash • FRANCE 24 English" title="AI Data centres face growing backlash • FRANCE 24 English">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4yXpXO4ESz0&title=What+Saying+Please+to+AI+Does+to+You&lang=en&timestamp=1794074020&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1506">
+          <img src="https://ytcards.demolab.com/?id=4yXpXO4ESz0&title=What+Saying+Please+to+AI+Does+to+You&lang=en&timestamp=1794074020&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1506" alt="What Saying Please to AI Does to You" title="What Saying Please to AI Does to You">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=wFvBd2C6pHk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=5lgQpM3CuPE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wFvBd2C6pHk&title=How+Nate%27s+Honey+Uses+AI+To+Protect+Its+6+Billion+Bees+%7C+AI+In+Action&lang=en&timestamp=1794007956&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1182">
-          <img src="https://ytcards.demolab.com/?id=wFvBd2C6pHk&title=How+Nate%27s+Honey+Uses+AI+To+Protect+Its+6+Billion+Bees+%7C+AI+In+Action&lang=en&timestamp=1794007956&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1182" alt="How Nate's Honey Uses AI To Protect Its 6 Billion Bees | AI In Action" title="How Nate's Honey Uses AI To Protect Its 6 Billion Bees | AI In Action">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5lgQpM3CuPE&title=OpenAI+Discovers+GPT+Is+Quietly+Sabotaging+AI+Safety+Research&lang=en&timestamp=1794052420&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=373">
+          <img src="https://ytcards.demolab.com/?id=5lgQpM3CuPE&title=OpenAI+Discovers+GPT+Is+Quietly+Sabotaging+AI+Safety+Research&lang=en&timestamp=1794052420&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=373" alt="OpenAI Discovers GPT Is Quietly Sabotaging AI Safety Research" title="OpenAI Discovers GPT Is Quietly Sabotaging AI Safety Research">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ygFxnkTHb5w" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Oupq_kZfB1w" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ygFxnkTHb5w&title=Scary+Signs+Artificial+Intelligence+Is+Getting+Too+Dangerous+to+Ignore&lang=en&timestamp=1794011556&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=10839">
-          <img src="https://ytcards.demolab.com/?id=ygFxnkTHb5w&title=Scary+Signs+Artificial+Intelligence+Is+Getting+Too+Dangerous+to+Ignore&lang=en&timestamp=1794011556&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=10839" alt="Scary Signs Artificial Intelligence Is Getting Too Dangerous to Ignore" title="Scary Signs Artificial Intelligence Is Getting Too Dangerous to Ignore">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Oupq_kZfB1w&title=Will+Chinese+RAM+Fabrication+Save+Us+From+The+AI+Crisis%3F&lang=en&timestamp=1794074020&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=555">
+          <img src="https://ytcards.demolab.com/?id=Oupq_kZfB1w&title=Will+Chinese+RAM+Fabrication+Save+Us+From+The+AI+Crisis%3F&lang=en&timestamp=1794074020&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=555" alt="Will Chinese RAM Fabrication Save Us From The AI Crisis?" title="Will Chinese RAM Fabrication Save Us From The AI Crisis?">
         </picture>
       </a>
     </td>
