@@ -667,56 +667,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=XMxcSf9XkbQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=qN3V4PiOF7Y" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XMxcSf9XkbQ&title=Is+it+too+late+to+stop+AI+from+taking+over+the+world%3F+%7C+60+Minutes+Australia&lang=en&timestamp=1794131098&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1080">
-          <img src="https://ytcards.demolab.com/?id=XMxcSf9XkbQ&title=Is+it+too+late+to+stop+AI+from+taking+over+the+world%3F+%7C+60+Minutes+Australia&lang=en&timestamp=1794131098&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1080" alt="Is it too late to stop AI from taking over the world? | 60 Minutes Australia" title="Is it too late to stop AI from taking over the world? | 60 Minutes Australia">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qN3V4PiOF7Y&title=Marco+Rubio+Participates+In+Artificial+Intelligence+Working+Session+At+G7+Foreign+Ministers%E2%80%99+Meeting&lang=en&timestamp=1794244467&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=46">
+          <img src="https://ytcards.demolab.com/?id=qN3V4PiOF7Y&title=Marco+Rubio+Participates+In+Artificial+Intelligence+Working+Session+At+G7+Foreign+Ministers%E2%80%99+Meeting&lang=en&timestamp=1794244467&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=46" alt="Marco Rubio Participates In Artificial Intelligence Working Session At G7 Foreign Ministers’ Meeting" title="Marco Rubio Participates In Artificial Intelligence Working Session At G7 Foreign Ministers’ Meeting">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=1QCXvQ5BFo0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=vs1k8Aeu7vs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1QCXvQ5BFo0&title=Europeans+protest+construction+of+large+AI+data+centres+across+continent&lang=en&timestamp=1794069898&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=307">
-          <img src="https://ytcards.demolab.com/?id=1QCXvQ5BFo0&title=Europeans+protest+construction+of+large+AI+data+centres+across+continent&lang=en&timestamp=1794069898&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=307" alt="Europeans protest construction of large AI data centres across continent" title="Europeans protest construction of large AI data centres across continent">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vs1k8Aeu7vs&title=Stand+Out+in+2027+with+an+ANTI-AI+Approach&lang=en&timestamp=1794194067&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2328">
+          <img src="https://ytcards.demolab.com/?id=vs1k8Aeu7vs&title=Stand+Out+in+2027+with+an+ANTI-AI+Approach&lang=en&timestamp=1794194067&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2328" alt="Stand Out in 2027 with an ANTI-AI Approach" title="Stand Out in 2027 with an ANTI-AI Approach">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=4Id5aTlYkHg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=lxh2A45oWNo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4Id5aTlYkHg&title=The+AI+Alignment+Problem+%26+Its+Solutions%2C+with+Aza+Raskin&lang=en&timestamp=1794069898&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4964">
-          <img src="https://ytcards.demolab.com/?id=4Id5aTlYkHg&title=The+AI+Alignment+Problem+%26+Its+Solutions%2C+with+Aza+Raskin&lang=en&timestamp=1794069898&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4964" alt="The AI Alignment Problem & Its Solutions, with Aza Raskin" title="The AI Alignment Problem & Its Solutions, with Aza Raskin">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lxh2A45oWNo&title=The+Nvidia+spy+scandal%3A+how+close+is+China+to+America%27s+AI+SECRETS%3F&lang=en&timestamp=1794251667&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1870">
+          <img src="https://ytcards.demolab.com/?id=lxh2A45oWNo&title=The+Nvidia+spy+scandal%3A+how+close+is+China+to+America%27s+AI+SECRETS%3F&lang=en&timestamp=1794251667&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1870" alt="The Nvidia spy scandal: how close is China to America's AI SECRETS?" title="The Nvidia spy scandal: how close is China to America's AI SECRETS?">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=EWpZC-wOA_I" target="_blank">
+      <a href="https://www.youtube.com/watch?v=pabDkNR7jIs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EWpZC-wOA_I&title=The+PHP+emergency%3A+How+AI+has+changed+hacking+forever+-+BBC+World+Service&lang=en&timestamp=1794098698&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=338">
-          <img src="https://ytcards.demolab.com/?id=EWpZC-wOA_I&title=The+PHP+emergency%3A+How+AI+has+changed+hacking+forever+-+BBC+World+Service&lang=en&timestamp=1794098698&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=338" alt="The PHP emergency: How AI has changed hacking forever - BBC World Service" title="The PHP emergency: How AI has changed hacking forever - BBC World Service">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=pabDkNR7jIs&title=The+Future+of+AI+Infrastructure&lang=en&timestamp=1794248067&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2391">
+          <img src="https://ytcards.demolab.com/?id=pabDkNR7jIs&title=The+Future+of+AI+Infrastructure&lang=en&timestamp=1794248067&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2391" alt="The Future of AI Infrastructure" title="The Future of AI Infrastructure">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=2VCn9b69xnI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=F5Ka3YXiPFg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2VCn9b69xnI&title=Judges+Get+Caught+Using+AI+In+Court&lang=en&timestamp=1794091498&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=788">
-          <img src="https://ytcards.demolab.com/?id=2VCn9b69xnI&title=Judges+Get+Caught+Using+AI+In+Court&lang=en&timestamp=1794091498&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=788" alt="Judges Get Caught Using AI In Court" title="Judges Get Caught Using AI In Court">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=F5Ka3YXiPFg&title=The+AI+Bubble+Is+Bursting%3F+%245.7+Trillion+Just+Vanished+From+Wall+Street&lang=en&timestamp=1794230067&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=566">
+          <img src="https://ytcards.demolab.com/?id=F5Ka3YXiPFg&title=The+AI+Bubble+Is+Bursting%3F+%245.7+Trillion+Just+Vanished+From+Wall+Street&lang=en&timestamp=1794230067&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=566" alt="The AI Bubble Is Bursting? $5.7 Trillion Just Vanished From Wall Street" title="The AI Bubble Is Bursting? $5.7 Trillion Just Vanished From Wall Street">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=VjZVego3m-U" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Brqve7QW0aE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=VjZVego3m-U&title=The+Real+Tech+Crash+Hasn%27t+Even+Started%3A+Here%27s+The+Trigger+%7C+John-Clark+Levin&lang=en&timestamp=1794091498&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1968">
-          <img src="https://ytcards.demolab.com/?id=VjZVego3m-U&title=The+Real+Tech+Crash+Hasn%27t+Even+Started%3A+Here%27s+The+Trigger+%7C+John-Clark+Levin&lang=en&timestamp=1794091498&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1968" alt="The Real Tech Crash Hasn't Even Started: Here's The Trigger | John-Clark Levin" title="The Real Tech Crash Hasn't Even Started: Here's The Trigger | John-Clark Levin">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Brqve7QW0aE&title=Nvidia+CEO+probed+over+alleged+China+spy%3A+Who+exactly+is+Jensen+Huang%3F+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1794240867&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=113">
+          <img src="https://ytcards.demolab.com/?id=Brqve7QW0aE&title=Nvidia+CEO+probed+over+alleged+China+spy%3A+Who+exactly+is+Jensen+Huang%3F+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1794240867&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=113" alt="Nvidia CEO probed over alleged China spy: Who exactly is Jensen Huang? • FRANCE 24 English" title="Nvidia CEO probed over alleged China spy: Who exactly is Jensen Huang? • FRANCE 24 English">
         </picture>
       </a>
     </td>
