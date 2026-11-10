@@ -668,56 +668,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=qN3V4PiOF7Y" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ZfC98aM9C8Y" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qN3V4PiOF7Y&title=Marco+Rubio+Participates+In+Artificial+Intelligence+Working+Session+At+G7+Foreign+Ministers%E2%80%99+Meeting&lang=en&timestamp=1794244467&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=46">
-          <img src="https://ytcards.demolab.com/?id=qN3V4PiOF7Y&title=Marco+Rubio+Participates+In+Artificial+Intelligence+Working+Session+At+G7+Foreign+Ministers%E2%80%99+Meeting&lang=en&timestamp=1794244467&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=46" alt="Marco Rubio Participates In Artificial Intelligence Working Session At G7 Foreign Ministers’ Meeting" title="Marco Rubio Participates In Artificial Intelligence Working Session At G7 Foreign Ministers’ Meeting">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ZfC98aM9C8Y&title=%27Godfather+of+AI%27+says+humans+face+%2720%25+chance+of+extinction%27&lang=en&timestamp=1794294856&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=699">
+          <img src="https://ytcards.demolab.com/?id=ZfC98aM9C8Y&title=%27Godfather+of+AI%27+says+humans+face+%2720%25+chance+of+extinction%27&lang=en&timestamp=1794294856&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=699" alt="'Godfather of AI' says humans face '20% chance of extinction'" title="'Godfather of AI' says humans face '20% chance of extinction'">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=vs1k8Aeu7vs" target="_blank">
+      <a href="https://www.youtube.com/watch?v=-NFyMYLlCeg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vs1k8Aeu7vs&title=Stand+Out+in+2027+with+an+ANTI-AI+Approach&lang=en&timestamp=1794194067&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2328">
-          <img src="https://ytcards.demolab.com/?id=vs1k8Aeu7vs&title=Stand+Out+in+2027+with+an+ANTI-AI+Approach&lang=en&timestamp=1794194067&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2328" alt="Stand Out in 2027 with an ANTI-AI Approach" title="Stand Out in 2027 with an ANTI-AI Approach">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-NFyMYLlCeg&title=OpenAI+Caught+Its+AI+Deceiving+Its+Own+Researchers%E2%80%A6&lang=en&timestamp=1794266056&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=741">
+          <img src="https://ytcards.demolab.com/?id=-NFyMYLlCeg&title=OpenAI+Caught+Its+AI+Deceiving+Its+Own+Researchers%E2%80%A6&lang=en&timestamp=1794266056&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=741" alt="OpenAI Caught Its AI Deceiving Its Own Researchers…" title="OpenAI Caught Its AI Deceiving Its Own Researchers…">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=lxh2A45oWNo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=M7XcOqeHbZs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lxh2A45oWNo&title=The+Nvidia+spy+scandal%3A+how+close+is+China+to+America%27s+AI+SECRETS%3F&lang=en&timestamp=1794251667&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1870">
-          <img src="https://ytcards.demolab.com/?id=lxh2A45oWNo&title=The+Nvidia+spy+scandal%3A+how+close+is+China+to+America%27s+AI+SECRETS%3F&lang=en&timestamp=1794251667&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1870" alt="The Nvidia spy scandal: how close is China to America's AI SECRETS?" title="The Nvidia spy scandal: how close is China to America's AI SECRETS?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=M7XcOqeHbZs&title=Ex-Anthropic+Insider%3A+Human+Extinction+Has+Quietly+Started&lang=en&timestamp=1794244456&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=926">
+          <img src="https://ytcards.demolab.com/?id=M7XcOqeHbZs&title=Ex-Anthropic+Insider%3A+Human+Extinction+Has+Quietly+Started&lang=en&timestamp=1794244456&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=926" alt="Ex-Anthropic Insider: Human Extinction Has Quietly Started" title="Ex-Anthropic Insider: Human Extinction Has Quietly Started">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=pabDkNR7jIs" target="_blank">
+      <a href="https://www.youtube.com/watch?v=lxh2A45oWNo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=pabDkNR7jIs&title=The+Future+of+AI+Infrastructure&lang=en&timestamp=1794248067&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2391">
-          <img src="https://ytcards.demolab.com/?id=pabDkNR7jIs&title=The+Future+of+AI+Infrastructure&lang=en&timestamp=1794248067&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2391" alt="The Future of AI Infrastructure" title="The Future of AI Infrastructure">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lxh2A45oWNo&title=Did+China+target+the+most+powerful+man+in+AI%3F+The+Nvidia+scandal&lang=en&timestamp=1794251656&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1870">
+          <img src="https://ytcards.demolab.com/?id=lxh2A45oWNo&title=Did+China+target+the+most+powerful+man+in+AI%3F+The+Nvidia+scandal&lang=en&timestamp=1794251656&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1870" alt="Did China target the most powerful man in AI? The Nvidia scandal" title="Did China target the most powerful man in AI? The Nvidia scandal">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=F5Ka3YXiPFg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=y70Y4y2714E" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=F5Ka3YXiPFg&title=The+AI+Bubble+Is+Bursting%3F+%245.7+Trillion+Just+Vanished+From+Wall+Street&lang=en&timestamp=1794230067&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=566">
-          <img src="https://ytcards.demolab.com/?id=F5Ka3YXiPFg&title=The+AI+Bubble+Is+Bursting%3F+%245.7+Trillion+Just+Vanished+From+Wall+Street&lang=en&timestamp=1794230067&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=566" alt="The AI Bubble Is Bursting? $5.7 Trillion Just Vanished From Wall Street" title="The AI Bubble Is Bursting? $5.7 Trillion Just Vanished From Wall Street">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=y70Y4y2714E&title=Australia+Plans+Mandatory+Safeguards+For+Artificial+Intelligence+%7C++WION+News&lang=en&timestamp=1794305656&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=149">
+          <img src="https://ytcards.demolab.com/?id=y70Y4y2714E&title=Australia+Plans+Mandatory+Safeguards+For+Artificial+Intelligence+%7C++WION+News&lang=en&timestamp=1794305656&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=149" alt="Australia Plans Mandatory Safeguards For Artificial Intelligence |  WION News" title="Australia Plans Mandatory Safeguards For Artificial Intelligence |  WION News">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Brqve7QW0aE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=qN3V4PiOF7Y" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Brqve7QW0aE&title=Nvidia+CEO+probed+over+alleged+China+spy%3A+Who+exactly+is+Jensen+Huang%3F+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1794240867&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=113">
-          <img src="https://ytcards.demolab.com/?id=Brqve7QW0aE&title=Nvidia+CEO+probed+over+alleged+China+spy%3A+Who+exactly+is+Jensen+Huang%3F+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1794240867&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=113" alt="Nvidia CEO probed over alleged China spy: Who exactly is Jensen Huang? • FRANCE 24 English" title="Nvidia CEO probed over alleged China spy: Who exactly is Jensen Huang? • FRANCE 24 English">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qN3V4PiOF7Y&title=Marco+Rubio+Participates+In+Artificial+Intelligence+Working+Session+At+G7+Foreign+Ministers%E2%80%99+Meeting&lang=en&timestamp=1794244456&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=46">
+          <img src="https://ytcards.demolab.com/?id=qN3V4PiOF7Y&title=Marco+Rubio+Participates+In+Artificial+Intelligence+Working+Session+At+G7+Foreign+Ministers%E2%80%99+Meeting&lang=en&timestamp=1794244456&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=46" alt="Marco Rubio Participates In Artificial Intelligence Working Session At G7 Foreign Ministers’ Meeting" title="Marco Rubio Participates In Artificial Intelligence Working Session At G7 Foreign Ministers’ Meeting">
         </picture>
       </a>
     </td>
