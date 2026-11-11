@@ -671,56 +671,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
+      <a href="https://www.youtube.com/watch?v=DvOxaT_hCmc" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=DvOxaT_hCmc&title=The+Economics+of+AI+Don%E2%80%99t+Add+Up&lang=en&timestamp=1794414282&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=483">
+          <img src="https://ytcards.demolab.com/?id=DvOxaT_hCmc&title=The+Economics+of+AI+Don%E2%80%99t+Add+Up&lang=en&timestamp=1794414282&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=483" alt="The Economics of AI Don’t Add Up" title="The Economics of AI Don’t Add Up">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
       <a href="https://www.youtube.com/watch?v=SSgsrfEWtJ4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SSgsrfEWtJ4&title=New+Research%3A+When+AI+Rebels%2C+It+Might+Remember+Who+Was+Nice+to+It&lang=en&timestamp=1794387554&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=437">
-          <img src="https://ytcards.demolab.com/?id=SSgsrfEWtJ4&title=New+Research%3A+When+AI+Rebels%2C+It+Might+Remember+Who+Was+Nice+to+It&lang=en&timestamp=1794387554&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=437" alt="New Research: When AI Rebels, It Might Remember Who Was Nice to It" title="New Research: When AI Rebels, It Might Remember Who Was Nice to It">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SSgsrfEWtJ4&title=New+Research%3A+When+AI+Rebels%2C+It+Might+Remember+Who+Was+Nice+to+It&lang=en&timestamp=1794389082&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=437">
+          <img src="https://ytcards.demolab.com/?id=SSgsrfEWtJ4&title=New+Research%3A+When+AI+Rebels%2C+It+Might+Remember+Who+Was+Nice+to+It&lang=en&timestamp=1794389082&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=437" alt="New Research: When AI Rebels, It Might Remember Who Was Nice to It" title="New Research: When AI Rebels, It Might Remember Who Was Nice to It">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=QQUfMHx5Aug" target="_blank">
+      <a href="https://www.youtube.com/watch?v=q0j9P61eOe4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QQUfMHx5Aug&title=Paul+Christiano%3A+Staying+in+Control+of+Self-Improving+AI+%7C+The+Hinton+Lectures+2026+%28Night+2%29&lang=en&timestamp=1794358754&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5211">
-          <img src="https://ytcards.demolab.com/?id=QQUfMHx5Aug&title=Paul+Christiano%3A+Staying+in+Control+of+Self-Improving+AI+%7C+The+Hinton+Lectures+2026+%28Night+2%29&lang=en&timestamp=1794358754&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5211" alt="Paul Christiano: Staying in Control of Self-Improving AI | The Hinton Lectures 2026 (Night 2)" title="Paul Christiano: Staying in Control of Self-Improving AI | The Hinton Lectures 2026 (Night 2)">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=05AvM4DjAlg" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=05AvM4DjAlg&title=The+Singularity+Was+Predicted+for+This+Friday&lang=en&timestamp=1794329954&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=495">
-          <img src="https://ytcards.demolab.com/?id=05AvM4DjAlg&title=The+Singularity+Was+Predicted+for+This+Friday&lang=en&timestamp=1794329954&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=495" alt="The Singularity Was Predicted for This Friday" title="The Singularity Was Predicted for This Friday">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=q0j9P61eOe4&title=A+Layman+Thinks+About+AI&lang=en&timestamp=1794410682&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2587">
+          <img src="https://ytcards.demolab.com/?id=q0j9P61eOe4&title=A+Layman+Thinks+About+AI&lang=en&timestamp=1794410682&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2587" alt="A Layman Thinks About AI" title="A Layman Thinks About AI">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=JDf0nW49_44" target="_blank">
+      <a href="https://www.youtube.com/watch?v=rsn9d4TN63o" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JDf0nW49_44&title=The+Nvidia+Scandal+is+Worse+than+You+think&lang=en&timestamp=1794329954&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=875">
-          <img src="https://ytcards.demolab.com/?id=JDf0nW49_44&title=The+Nvidia+Scandal+is+Worse+than+You+think&lang=en&timestamp=1794329954&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=875" alt="The Nvidia Scandal is Worse than You think" title="The Nvidia Scandal is Worse than You think">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=rsn9d4TN63o&title=Nvidia+Affair+Scandal%3A+Chinese+Spy+Claims+ROCK+World+of+AI&lang=en&timestamp=1794363882&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2096">
+          <img src="https://ytcards.demolab.com/?id=rsn9d4TN63o&title=Nvidia+Affair+Scandal%3A+Chinese+Spy+Claims+ROCK+World+of+AI&lang=en&timestamp=1794363882&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2096" alt="Nvidia Affair Scandal: Chinese Spy Claims ROCK World of AI" title="Nvidia Affair Scandal: Chinese Spy Claims ROCK World of AI">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=d2CU3Tb0-w0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=vBHyslCIey4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=d2CU3Tb0-w0&title=Spying+for+China+to+Get+NVIDIA+Chips.+The+AI+Race+%26+CEO+Jensen+Huang+Saga+Episode+1.&lang=en&timestamp=1794362354&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=964">
-          <img src="https://ytcards.demolab.com/?id=d2CU3Tb0-w0&title=Spying+for+China+to+Get+NVIDIA+Chips.+The+AI+Race+%26+CEO+Jensen+Huang+Saga+Episode+1.&lang=en&timestamp=1794362354&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=964" alt="Spying for China to Get NVIDIA Chips. The AI Race & CEO Jensen Huang Saga Episode 1." title="Spying for China to Get NVIDIA Chips. The AI Race & CEO Jensen Huang Saga Episode 1.">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vBHyslCIey4&title=%E0%AE%85%E0%AE%AE%E0%AF%86%E0%AE%B0%E0%AE%BF%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%BE%E0%AE%B5%E0%AF%88+%E0%AE%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%AE%E0%AF%8D+%E0%AE%95%E0%AE%BE%E0%AE%A3+%E0%AE%B5%E0%AF%88%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%81%E0%AE%AE%E0%AF%8D+AI+%E0%AE%9A%E0%AE%B0%E0%AE%BF%E0%AE%B5%E0%AF%81%21+%E0%AE%87%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%AF%E0%AE%BE%E0%AE%B5%E0%AF%88%E0%AE%AF%E0%AF%81%E0%AE%AE%E0%AF%8D+%E0%AE%AA%E0%AE%BE%E0%AE%A4%E0%AE%BF%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%81%E0%AE%AE%E0%AE%BE%3F+%7C+DR.%E0%AE%9A%E0%AF%8B%E0%AE%AE+%E0%AE%B5%E0%AE%B3%E0%AF%8D%E0%AE%B3%E0%AE%BF%E0%AE%AF%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%A9%E0%AF%8D+%E0%AE%AA%E0%AF%87%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%BF&lang=en&timestamp=1794399882&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1012">
+          <img src="https://ytcards.demolab.com/?id=vBHyslCIey4&title=%E0%AE%85%E0%AE%AE%E0%AF%86%E0%AE%B0%E0%AE%BF%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%BE%E0%AE%B5%E0%AF%88+%E0%AE%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%AE%E0%AF%8D+%E0%AE%95%E0%AE%BE%E0%AE%A3+%E0%AE%B5%E0%AF%88%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%81%E0%AE%AE%E0%AF%8D+AI+%E0%AE%9A%E0%AE%B0%E0%AE%BF%E0%AE%B5%E0%AF%81%21+%E0%AE%87%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%AF%E0%AE%BE%E0%AE%B5%E0%AF%88%E0%AE%AF%E0%AF%81%E0%AE%AE%E0%AF%8D+%E0%AE%AA%E0%AE%BE%E0%AE%A4%E0%AE%BF%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%81%E0%AE%AE%E0%AE%BE%3F+%7C+DR.%E0%AE%9A%E0%AF%8B%E0%AE%AE+%E0%AE%B5%E0%AE%B3%E0%AF%8D%E0%AE%B3%E0%AE%BF%E0%AE%AF%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%A9%E0%AF%8D+%E0%AE%AA%E0%AF%87%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%BF&lang=en&timestamp=1794399882&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1012" alt="அமெரிக்காவை ஆட்டம் காண வைக்கும் AI சரிவு! இந்தியாவையும் பாதிக்குமா? | DR.சோம வள்ளியப்பன் பேட்டி" title="அமெரிக்காவை ஆட்டம் காண வைக்கும் AI சரிவு! இந்தியாவையும் பாதிக்குமா? | DR.சோம வள்ளியப்பன் பேட்டி">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=nBVlvVoxb2E" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nBVlvVoxb2E&title=20+AI+Predictions+for+2027%3A+The+Changes+Already+Beginning&lang=en&timestamp=1794329954&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=855">
-          <img src="https://ytcards.demolab.com/?id=nBVlvVoxb2E&title=20+AI+Predictions+for+2027%3A+The+Changes+Already+Beginning&lang=en&timestamp=1794329954&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=855" alt="20 AI Predictions for 2027: The Changes Already Beginning" title="20 AI Predictions for 2027: The Changes Already Beginning">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nBVlvVoxb2E&title=20+AI+Predictions+for+2027%3A+The+Changes+Already+Beginning&lang=en&timestamp=1794353082&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=855">
+          <img src="https://ytcards.demolab.com/?id=nBVlvVoxb2E&title=20+AI+Predictions+for+2027%3A+The+Changes+Already+Beginning&lang=en&timestamp=1794353082&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=855" alt="20 AI Predictions for 2027: The Changes Already Beginning" title="20 AI Predictions for 2027: The Changes Already Beginning">
         </picture>
       </a>
     </td>
