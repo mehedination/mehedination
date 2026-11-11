@@ -670,56 +670,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ZfC98aM9C8Y" target="_blank">
+      <a href="https://www.youtube.com/watch?v=SSgsrfEWtJ4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ZfC98aM9C8Y&title=%27We+have+a+20%25+chance+of+extinction%27+%7C+The+%27Godfather+of+AI%27&lang=en&timestamp=1794295066&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=699">
-          <img src="https://ytcards.demolab.com/?id=ZfC98aM9C8Y&title=%27We+have+a+20%25+chance+of+extinction%27+%7C+The+%27Godfather+of+AI%27&lang=en&timestamp=1794295066&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=699" alt="'We have a 20% chance of extinction' | The 'Godfather of AI'" title="'We have a 20% chance of extinction' | The 'Godfather of AI'">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SSgsrfEWtJ4&title=New+Research%3A+When+AI+Rebels%2C+It+Might+Remember+Who+Was+Nice+to+It&lang=en&timestamp=1794387554&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=437">
+          <img src="https://ytcards.demolab.com/?id=SSgsrfEWtJ4&title=New+Research%3A+When+AI+Rebels%2C+It+Might+Remember+Who+Was+Nice+to+It&lang=en&timestamp=1794387554&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=437" alt="New Research: When AI Rebels, It Might Remember Who Was Nice to It" title="New Research: When AI Rebels, It Might Remember Who Was Nice to It">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=pqvHf-2AaL0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=QQUfMHx5Aug" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=pqvHf-2AaL0&title=Anthropic+%24500+BILLION+AI+Shock&lang=en&timestamp=1794313066&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1048">
-          <img src="https://ytcards.demolab.com/?id=pqvHf-2AaL0&title=Anthropic+%24500+BILLION+AI+Shock&lang=en&timestamp=1794313066&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1048" alt="Anthropic $500 BILLION AI Shock" title="Anthropic $500 BILLION AI Shock">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QQUfMHx5Aug&title=Paul+Christiano%3A+Staying+in+Control+of+Self-Improving+AI+%7C+The+Hinton+Lectures+2026+%28Night+2%29&lang=en&timestamp=1794358754&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5211">
+          <img src="https://ytcards.demolab.com/?id=QQUfMHx5Aug&title=Paul+Christiano%3A+Staying+in+Control+of+Self-Improving+AI+%7C+The+Hinton+Lectures+2026+%28Night+2%29&lang=en&timestamp=1794358754&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5211" alt="Paul Christiano: Staying in Control of Self-Improving AI | The Hinton Lectures 2026 (Night 2)" title="Paul Christiano: Staying in Control of Self-Improving AI | The Hinton Lectures 2026 (Night 2)">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=G3q7uqWJTWo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=05AvM4DjAlg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=G3q7uqWJTWo&title=Is+It+Too+Late+to+Save+Humans+from+AI%3F+With+Bill+Gates+%7C+Great+Question&lang=en&timestamp=1794269866&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2210">
-          <img src="https://ytcards.demolab.com/?id=G3q7uqWJTWo&title=Is+It+Too+Late+to+Save+Humans+from+AI%3F+With+Bill+Gates+%7C+Great+Question&lang=en&timestamp=1794269866&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2210" alt="Is It Too Late to Save Humans from AI? With Bill Gates | Great Question" title="Is It Too Late to Save Humans from AI? With Bill Gates | Great Question">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=05AvM4DjAlg&title=The+Singularity+Was+Predicted+for+This+Friday&lang=en&timestamp=1794329954&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=495">
+          <img src="https://ytcards.demolab.com/?id=05AvM4DjAlg&title=The+Singularity+Was+Predicted+for+This+Friday&lang=en&timestamp=1794329954&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=495" alt="The Singularity Was Predicted for This Friday" title="The Singularity Was Predicted for This Friday">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=M7XcOqeHbZs" target="_blank">
+      <a href="https://www.youtube.com/watch?v=JDf0nW49_44" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=M7XcOqeHbZs&title=Ex-Anthropic+Insider%3A+Human+Extinction+Has+Quietly+Started&lang=en&timestamp=1794255466&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=926">
-          <img src="https://ytcards.demolab.com/?id=M7XcOqeHbZs&title=Ex-Anthropic+Insider%3A+Human+Extinction+Has+Quietly+Started&lang=en&timestamp=1794255466&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=926" alt="Ex-Anthropic Insider: Human Extinction Has Quietly Started" title="Ex-Anthropic Insider: Human Extinction Has Quietly Started">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JDf0nW49_44&title=The+Nvidia+Scandal+is+Worse+than+You+think&lang=en&timestamp=1794329954&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=875">
+          <img src="https://ytcards.demolab.com/?id=JDf0nW49_44&title=The+Nvidia+Scandal+is+Worse+than+You+think&lang=en&timestamp=1794329954&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=875" alt="The Nvidia Scandal is Worse than You think" title="The Nvidia Scandal is Worse than You think">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=lxh2A45oWNo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=d2CU3Tb0-w0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lxh2A45oWNo&title=Nvidia+SPY+scandal%3A+Did+Chinese+intelligence+target+the+most+powerful+man+in+AI%3F&lang=en&timestamp=1794255466&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1833">
-          <img src="https://ytcards.demolab.com/?id=lxh2A45oWNo&title=Nvidia+SPY+scandal%3A+Did+Chinese+intelligence+target+the+most+powerful+man+in+AI%3F&lang=en&timestamp=1794255466&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1833" alt="Nvidia SPY scandal: Did Chinese intelligence target the most powerful man in AI?" title="Nvidia SPY scandal: Did Chinese intelligence target the most powerful man in AI?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=d2CU3Tb0-w0&title=Spying+for+China+to+Get+NVIDIA+Chips.+The+AI+Race+%26+CEO+Jensen+Huang+Saga+Episode+1.&lang=en&timestamp=1794362354&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=964">
+          <img src="https://ytcards.demolab.com/?id=d2CU3Tb0-w0&title=Spying+for+China+to+Get+NVIDIA+Chips.+The+AI+Race+%26+CEO+Jensen+Huang+Saga+Episode+1.&lang=en&timestamp=1794362354&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=964" alt="Spying for China to Get NVIDIA Chips. The AI Race & CEO Jensen Huang Saga Episode 1." title="Spying for China to Get NVIDIA Chips. The AI Race & CEO Jensen Huang Saga Episode 1.">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=nBVlvVoxb2E" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nBVlvVoxb2E&title=20+AI+Predictions+for+2027%3A+The+Changes+Already+Beginning&lang=en&timestamp=1794323866&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=855">
-          <img src="https://ytcards.demolab.com/?id=nBVlvVoxb2E&title=20+AI+Predictions+for+2027%3A+The+Changes+Already+Beginning&lang=en&timestamp=1794323866&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=855" alt="20 AI Predictions for 2027: The Changes Already Beginning" title="20 AI Predictions for 2027: The Changes Already Beginning">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nBVlvVoxb2E&title=20+AI+Predictions+for+2027%3A+The+Changes+Already+Beginning&lang=en&timestamp=1794329954&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=855">
+          <img src="https://ytcards.demolab.com/?id=nBVlvVoxb2E&title=20+AI+Predictions+for+2027%3A+The+Changes+Already+Beginning&lang=en&timestamp=1794329954&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=855" alt="20 AI Predictions for 2027: The Changes Already Beginning" title="20 AI Predictions for 2027: The Changes Already Beginning">
         </picture>
       </a>
     </td>
