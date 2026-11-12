@@ -672,56 +672,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=DvOxaT_hCmc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=42fSmDTR03g" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=DvOxaT_hCmc&title=The+Economics+of+AI+Don%E2%80%99t+Add+Up&lang=en&timestamp=1794414282&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=483">
-          <img src="https://ytcards.demolab.com/?id=DvOxaT_hCmc&title=The+Economics+of+AI+Don%E2%80%99t+Add+Up&lang=en&timestamp=1794414282&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=483" alt="The Economics of AI Don’t Add Up" title="The Economics of AI Don’t Add Up">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=42fSmDTR03g&title=AI+2027%E2%80%99s+Authors+Say+We%E2%80%99re+Already+5+Months+Ahead%E2%80%A6&lang=en&timestamp=1794413218&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=904">
+          <img src="https://ytcards.demolab.com/?id=42fSmDTR03g&title=AI+2027%E2%80%99s+Authors+Say+We%E2%80%99re+Already+5+Months+Ahead%E2%80%A6&lang=en&timestamp=1794413218&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=904" alt="AI 2027’s Authors Say We’re Already 5 Months Ahead…" title="AI 2027’s Authors Say We’re Already 5 Months Ahead…">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=SSgsrfEWtJ4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=OwwqYQWWX6c" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SSgsrfEWtJ4&title=New+Research%3A+When+AI+Rebels%2C+It+Might+Remember+Who+Was+Nice+to+It&lang=en&timestamp=1794389082&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=437">
-          <img src="https://ytcards.demolab.com/?id=SSgsrfEWtJ4&title=New+Research%3A+When+AI+Rebels%2C+It+Might+Remember+Who+Was+Nice+to+It&lang=en&timestamp=1794389082&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=437" alt="New Research: When AI Rebels, It Might Remember Who Was Nice to It" title="New Research: When AI Rebels, It Might Remember Who Was Nice to It">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=OwwqYQWWX6c&title=Wall+Street%E2%80%99s+artificial+intelligence+trade+springs+back+to+life&lang=en&timestamp=1794445618&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=71">
+          <img src="https://ytcards.demolab.com/?id=OwwqYQWWX6c&title=Wall+Street%E2%80%99s+artificial+intelligence+trade+springs+back+to+life&lang=en&timestamp=1794445618&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=71" alt="Wall Street’s artificial intelligence trade springs back to life" title="Wall Street’s artificial intelligence trade springs back to life">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=q0j9P61eOe4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=XPb0GzjeoE4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=q0j9P61eOe4&title=A+Layman+Thinks+About+AI&lang=en&timestamp=1794410682&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2587">
-          <img src="https://ytcards.demolab.com/?id=q0j9P61eOe4&title=A+Layman+Thinks+About+AI&lang=en&timestamp=1794410682&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2587" alt="A Layman Thinks About AI" title="A Layman Thinks About AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XPb0GzjeoE4&title=Yuval+Harari%E2%80%99s+AI+Prediction+Includes+A+Warning+Of+Extinction+%26+More&lang=en&timestamp=1794424018&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1122">
+          <img src="https://ytcards.demolab.com/?id=XPb0GzjeoE4&title=Yuval+Harari%E2%80%99s+AI+Prediction+Includes+A+Warning+Of+Extinction+%26+More&lang=en&timestamp=1794424018&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1122" alt="Yuval Harari’s AI Prediction Includes A Warning Of Extinction & More" title="Yuval Harari’s AI Prediction Includes A Warning Of Extinction & More">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=rsn9d4TN63o" target="_blank">
+      <a href="https://www.youtube.com/watch?v=wxV2j0xIXC4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=rsn9d4TN63o&title=Nvidia+Affair+Scandal%3A+Chinese+Spy+Claims+ROCK+World+of+AI&lang=en&timestamp=1794363882&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2096">
-          <img src="https://ytcards.demolab.com/?id=rsn9d4TN63o&title=Nvidia+Affair+Scandal%3A+Chinese+Spy+Claims+ROCK+World+of+AI&lang=en&timestamp=1794363882&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2096" alt="Nvidia Affair Scandal: Chinese Spy Claims ROCK World of AI" title="Nvidia Affair Scandal: Chinese Spy Claims ROCK World of AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wxV2j0xIXC4&title=What+Is+AI%3F+How+Artificial+Intelligence+Works%2C+Explained+Simply+%7C+Twiggy+Tells&lang=en&timestamp=1794456418&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=819">
+          <img src="https://ytcards.demolab.com/?id=wxV2j0xIXC4&title=What+Is+AI%3F+How+Artificial+Intelligence+Works%2C+Explained+Simply+%7C+Twiggy+Tells&lang=en&timestamp=1794456418&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=819" alt="What Is AI? How Artificial Intelligence Works, Explained Simply | Twiggy Tells" title="What Is AI? How Artificial Intelligence Works, Explained Simply | Twiggy Tells">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=vBHyslCIey4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ZYTC33KciM8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vBHyslCIey4&title=%E0%AE%85%E0%AE%AE%E0%AF%86%E0%AE%B0%E0%AE%BF%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%BE%E0%AE%B5%E0%AF%88+%E0%AE%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%AE%E0%AF%8D+%E0%AE%95%E0%AE%BE%E0%AE%A3+%E0%AE%B5%E0%AF%88%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%81%E0%AE%AE%E0%AF%8D+AI+%E0%AE%9A%E0%AE%B0%E0%AE%BF%E0%AE%B5%E0%AF%81%21+%E0%AE%87%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%AF%E0%AE%BE%E0%AE%B5%E0%AF%88%E0%AE%AF%E0%AF%81%E0%AE%AE%E0%AF%8D+%E0%AE%AA%E0%AE%BE%E0%AE%A4%E0%AE%BF%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%81%E0%AE%AE%E0%AE%BE%3F+%7C+DR.%E0%AE%9A%E0%AF%8B%E0%AE%AE+%E0%AE%B5%E0%AE%B3%E0%AF%8D%E0%AE%B3%E0%AE%BF%E0%AE%AF%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%A9%E0%AF%8D+%E0%AE%AA%E0%AF%87%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%BF&lang=en&timestamp=1794399882&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1012">
-          <img src="https://ytcards.demolab.com/?id=vBHyslCIey4&title=%E0%AE%85%E0%AE%AE%E0%AF%86%E0%AE%B0%E0%AE%BF%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%BE%E0%AE%B5%E0%AF%88+%E0%AE%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%AE%E0%AF%8D+%E0%AE%95%E0%AE%BE%E0%AE%A3+%E0%AE%B5%E0%AF%88%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%81%E0%AE%AE%E0%AF%8D+AI+%E0%AE%9A%E0%AE%B0%E0%AE%BF%E0%AE%B5%E0%AF%81%21+%E0%AE%87%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%AF%E0%AE%BE%E0%AE%B5%E0%AF%88%E0%AE%AF%E0%AF%81%E0%AE%AE%E0%AF%8D+%E0%AE%AA%E0%AE%BE%E0%AE%A4%E0%AE%BF%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%81%E0%AE%AE%E0%AE%BE%3F+%7C+DR.%E0%AE%9A%E0%AF%8B%E0%AE%AE+%E0%AE%B5%E0%AE%B3%E0%AF%8D%E0%AE%B3%E0%AE%BF%E0%AE%AF%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%A9%E0%AF%8D+%E0%AE%AA%E0%AF%87%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%BF&lang=en&timestamp=1794399882&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1012" alt="அமெரிக்காவை ஆட்டம் காண வைக்கும் AI சரிவு! இந்தியாவையும் பாதிக்குமா? | DR.சோம வள்ளியப்பன் பேட்டி" title="அமெரிக்காவை ஆட்டம் காண வைக்கும் AI சரிவு! இந்தியாவையும் பாதிக்குமா? | DR.சோம வள்ளியப்பன் பேட்டி">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ZYTC33KciM8&title=%27Nvidia%27s+most+capable+chips%E2%80%A6%27%3A+Explosive+report+reveals+blacklisted+Chinese+University+bought+H200&lang=en&timestamp=1794416818&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=516">
+          <img src="https://ytcards.demolab.com/?id=ZYTC33KciM8&title=%27Nvidia%27s+most+capable+chips%E2%80%A6%27%3A+Explosive+report+reveals+blacklisted+Chinese+University+bought+H200&lang=en&timestamp=1794416818&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=516" alt="'Nvidia's most capable chips…': Explosive report reveals blacklisted Chinese University bought H200" title="'Nvidia's most capable chips…': Explosive report reveals blacklisted Chinese University bought H200">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=nBVlvVoxb2E" target="_blank">
+      <a href="https://www.youtube.com/watch?v=3DBpupR2s3g" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nBVlvVoxb2E&title=20+AI+Predictions+for+2027%3A+The+Changes+Already+Beginning&lang=en&timestamp=1794353082&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=855">
-          <img src="https://ytcards.demolab.com/?id=nBVlvVoxb2E&title=20+AI+Predictions+for+2027%3A+The+Changes+Already+Beginning&lang=en&timestamp=1794353082&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=855" alt="20 AI Predictions for 2027: The Changes Already Beginning" title="20 AI Predictions for 2027: The Changes Already Beginning">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3DBpupR2s3g&title=IS+ARTIFICIAL+INTELLIGENCE+TAKING+OVER+MEDICAL+CODING%3F&lang=en&timestamp=1794449218&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=960">
+          <img src="https://ytcards.demolab.com/?id=3DBpupR2s3g&title=IS+ARTIFICIAL+INTELLIGENCE+TAKING+OVER+MEDICAL+CODING%3F&lang=en&timestamp=1794449218&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=960" alt="IS ARTIFICIAL INTELLIGENCE TAKING OVER MEDICAL CODING?" title="IS ARTIFICIAL INTELLIGENCE TAKING OVER MEDICAL CODING?">
         </picture>
       </a>
     </td>
