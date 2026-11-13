@@ -675,56 +675,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=42fSmDTR03g" target="_blank">
+      <a href="https://www.youtube.com/watch?v=HPCayerH1Jw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=42fSmDTR03g&title=AI+2027%E2%80%99s+Authors+Say+We%E2%80%99re+Already+5+Months+Ahead%E2%80%A6&lang=en&timestamp=1794434746&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=904">
-          <img src="https://ytcards.demolab.com/?id=42fSmDTR03g&title=AI+2027%E2%80%99s+Authors+Say+We%E2%80%99re+Already+5+Months+Ahead%E2%80%A6&lang=en&timestamp=1794434746&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=904" alt="AI 2027’s Authors Say We’re Already 5 Months Ahead…" title="AI 2027’s Authors Say We’re Already 5 Months Ahead…">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=HPCayerH1Jw&title=It%E2%80%99s+Happening...+SUPERHUMAN+AI+Is+Almost+Here%21+%28Everything+Changes%29&lang=en&timestamp=1794529149&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=823">
+          <img src="https://ytcards.demolab.com/?id=HPCayerH1Jw&title=It%E2%80%99s+Happening...+SUPERHUMAN+AI+Is+Almost+Here%21+%28Everything+Changes%29&lang=en&timestamp=1794529149&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=823" alt="It’s Happening... SUPERHUMAN AI Is Almost Here! (Everything Changes)" title="It’s Happening... SUPERHUMAN AI Is Almost Here! (Everything Changes)">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=NCghRPb0pH8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=NCghRPb0pH8&title=Artificial+intelligence+summit+at+WMU&lang=en&timestamp=1794517906&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=92">
-          <img src="https://ytcards.demolab.com/?id=NCghRPb0pH8&title=Artificial+intelligence+summit+at+WMU&lang=en&timestamp=1794517906&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=92" alt="Artificial intelligence summit at WMU" title="Artificial intelligence summit at WMU">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=NCghRPb0pH8&title=Artificial+intelligence+summit+at+WMU&lang=en&timestamp=1794518349&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=92">
+          <img src="https://ytcards.demolab.com/?id=NCghRPb0pH8&title=Artificial+intelligence+summit+at+WMU&lang=en&timestamp=1794518349&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=92" alt="Artificial intelligence summit at WMU" title="Artificial intelligence summit at WMU">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=3C4eYrJSzuY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Sjdvu4nHfDk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3C4eYrJSzuY&title=Fable+5.2+Just+Made+Opus+5.5+Obsolete&lang=en&timestamp=1794434746&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1407">
-          <img src="https://ytcards.demolab.com/?id=3C4eYrJSzuY&title=Fable+5.2+Just+Made+Opus+5.5+Obsolete&lang=en&timestamp=1794434746&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1407" alt="Fable 5.2 Just Made Opus 5.5 Obsolete" title="Fable 5.2 Just Made Opus 5.5 Obsolete">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Sjdvu4nHfDk&title=Anthropic+Researcher+explains+how+to+train+LLMs&lang=en&timestamp=1794521949&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3376">
+          <img src="https://ytcards.demolab.com/?id=Sjdvu4nHfDk&title=Anthropic+Researcher+explains+how+to+train+LLMs&lang=en&timestamp=1794521949&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3376" alt="Anthropic Researcher explains how to train LLMs" title="Anthropic Researcher explains how to train LLMs">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=-TcXGB8Ps2I" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Dt7Q_VQxGHc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-TcXGB8Ps2I&title=How+AI+Works+with+Human+Intelligence%3F&lang=en&timestamp=1794434746&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1556">
-          <img src="https://ytcards.demolab.com/?id=-TcXGB8Ps2I&title=How+AI+Works+with+Human+Intelligence%3F&lang=en&timestamp=1794434746&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1556" alt="How AI Works with Human Intelligence?" title="How AI Works with Human Intelligence?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Dt7Q_VQxGHc&title=Jensen+Huang+Is+Out.+Everything+in+AI+Is+Now+Up+for+Grabs.&lang=en&timestamp=1794511149&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1765">
+          <img src="https://ytcards.demolab.com/?id=Dt7Q_VQxGHc&title=Jensen+Huang+Is+Out.+Everything+in+AI+Is+Now+Up+for+Grabs.&lang=en&timestamp=1794511149&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1765" alt="Jensen Huang Is Out. Everything in AI Is Now Up for Grabs." title="Jensen Huang Is Out. Everything in AI Is Now Up for Grabs.">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=19oaEhVph6g" target="_blank">
+      <a href="https://www.youtube.com/watch?v=XqJmpIbfQzo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=19oaEhVph6g&title=Art+at+Stake+%3A+Human+Intelligence+VS+Artificial+Intelligence++%7C+Debleena+Dutt+%7C+TEDxUEM+Kolkata&lang=en&timestamp=1794503146&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1571">
-          <img src="https://ytcards.demolab.com/?id=19oaEhVph6g&title=Art+at+Stake+%3A+Human+Intelligence+VS+Artificial+Intelligence++%7C+Debleena+Dutt+%7C+TEDxUEM+Kolkata&lang=en&timestamp=1794503146&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1571" alt="Art at Stake : Human Intelligence VS Artificial Intelligence  | Debleena Dutt | TEDxUEM Kolkata" title="Art at Stake : Human Intelligence VS Artificial Intelligence  | Debleena Dutt | TEDxUEM Kolkata">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XqJmpIbfQzo&title=%E2%80%98Quantum+is+going+to+be+the+next+big+thing+after+artificial+intelligence%E2%80%99%3A+CEO+of+Xanadu&lang=en&timestamp=1794593949&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=391">
+          <img src="https://ytcards.demolab.com/?id=XqJmpIbfQzo&title=%E2%80%98Quantum+is+going+to+be+the+next+big+thing+after+artificial+intelligence%E2%80%99%3A+CEO+of+Xanadu&lang=en&timestamp=1794593949&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=391" alt="‘Quantum is going to be the next big thing after artificial intelligence’: CEO of Xanadu" title="‘Quantum is going to be the next big thing after artificial intelligence’: CEO of Xanadu">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=IpCVjHcqzHg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=_D9xnwWpTKk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=IpCVjHcqzHg&title=AI+and+India%3A+Navigating+the+AI+Revolution&lang=en&timestamp=1794467146&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3122">
-          <img src="https://ytcards.demolab.com/?id=IpCVjHcqzHg&title=AI+and+India%3A+Navigating+the+AI+Revolution&lang=en&timestamp=1794467146&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3122" alt="AI and India: Navigating the AI Revolution" title="AI and India: Navigating the AI Revolution">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_D9xnwWpTKk&title=Artificial+Intelligence%2C+Quality+%26+the+Future+of+Software+Engineering&lang=en&timestamp=1794583149&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=947">
+          <img src="https://ytcards.demolab.com/?id=_D9xnwWpTKk&title=Artificial+Intelligence%2C+Quality+%26+the+Future+of+Software+Engineering&lang=en&timestamp=1794583149&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=947" alt="Artificial Intelligence, Quality & the Future of Software Engineering" title="Artificial Intelligence, Quality & the Future of Software Engineering">
         </picture>
       </a>
     </td>
