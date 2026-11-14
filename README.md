@@ -676,56 +676,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=HPCayerH1Jw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=CvLX2SaSxtQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=HPCayerH1Jw&title=It%E2%80%99s+Happening...+SUPERHUMAN+AI+Is+Almost+Here%21+%28Everything+Changes%29&lang=en&timestamp=1794529149&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=823">
-          <img src="https://ytcards.demolab.com/?id=HPCayerH1Jw&title=It%E2%80%99s+Happening...+SUPERHUMAN+AI+Is+Almost+Here%21+%28Everything+Changes%29&lang=en&timestamp=1794529149&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=823" alt="It’s Happening... SUPERHUMAN AI Is Almost Here! (Everything Changes)" title="It’s Happening... SUPERHUMAN AI Is Almost Here! (Everything Changes)">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=CvLX2SaSxtQ&title=The+race+to+control+artificial+intelligence+%7C+Ian+Bremmer+Explains&lang=en&timestamp=1794601538&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=194">
+          <img src="https://ytcards.demolab.com/?id=CvLX2SaSxtQ&title=The+race+to+control+artificial+intelligence+%7C+Ian+Bremmer+Explains&lang=en&timestamp=1794601538&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=194" alt="The race to control artificial intelligence | Ian Bremmer Explains" title="The race to control artificial intelligence | Ian Bremmer Explains">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=NCghRPb0pH8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=SsOFOwZZnFg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=NCghRPb0pH8&title=Artificial+intelligence+summit+at+WMU&lang=en&timestamp=1794518349&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=92">
-          <img src="https://ytcards.demolab.com/?id=NCghRPb0pH8&title=Artificial+intelligence+summit+at+WMU&lang=en&timestamp=1794518349&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=92" alt="Artificial intelligence summit at WMU" title="Artificial intelligence summit at WMU">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SsOFOwZZnFg&title=Will+artificial+intelligence+take+your+job%3F+%7C+Insiders%3A+On+Background&lang=en&timestamp=1794626738&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1234">
+          <img src="https://ytcards.demolab.com/?id=SsOFOwZZnFg&title=Will+artificial+intelligence+take+your+job%3F+%7C+Insiders%3A+On+Background&lang=en&timestamp=1794626738&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1234" alt="Will artificial intelligence take your job? | Insiders: On Background" title="Will artificial intelligence take your job? | Insiders: On Background">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Sjdvu4nHfDk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=JY85W9WRSck" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Sjdvu4nHfDk&title=Anthropic+Researcher+explains+how+to+train+LLMs&lang=en&timestamp=1794521949&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3376">
-          <img src="https://ytcards.demolab.com/?id=Sjdvu4nHfDk&title=Anthropic+Researcher+explains+how+to+train+LLMs&lang=en&timestamp=1794521949&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3376" alt="Anthropic Researcher explains how to train LLMs" title="Anthropic Researcher explains how to train LLMs">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JY85W9WRSck&title=Stephen+Wolfram+Just+Revealed+That+AI+Might+Have+%22FEELINGS%22%2C+and+Could+Experience+Pain&lang=en&timestamp=1794601538&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=8356">
+          <img src="https://ytcards.demolab.com/?id=JY85W9WRSck&title=Stephen+Wolfram+Just+Revealed+That+AI+Might+Have+%22FEELINGS%22%2C+and+Could+Experience+Pain&lang=en&timestamp=1794601538&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=8356" alt="Stephen Wolfram Just Revealed That AI Might Have &quot;FEELINGS&quot;, and Could Experience Pain" title="Stephen Wolfram Just Revealed That AI Might Have &quot;FEELINGS&quot;, and Could Experience Pain">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Dt7Q_VQxGHc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=PYpzQk7cH_Q" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Dt7Q_VQxGHc&title=Jensen+Huang+Is+Out.+Everything+in+AI+Is+Now+Up+for+Grabs.&lang=en&timestamp=1794511149&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1765">
-          <img src="https://ytcards.demolab.com/?id=Dt7Q_VQxGHc&title=Jensen+Huang+Is+Out.+Everything+in+AI+Is+Now+Up+for+Grabs.&lang=en&timestamp=1794511149&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1765" alt="Jensen Huang Is Out. Everything in AI Is Now Up for Grabs." title="Jensen Huang Is Out. Everything in AI Is Now Up for Grabs.">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PYpzQk7cH_Q&title=AI+startup+says+nationwide+ground+stop+was+not+caused+by+its+software&lang=en&timestamp=1794615938&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=361">
+          <img src="https://ytcards.demolab.com/?id=PYpzQk7cH_Q&title=AI+startup+says+nationwide+ground+stop+was+not+caused+by+its+software&lang=en&timestamp=1794615938&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=361" alt="AI startup says nationwide ground stop was not caused by its software" title="AI startup says nationwide ground stop was not caused by its software">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=XqJmpIbfQzo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=pxbHidG7suE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XqJmpIbfQzo&title=%E2%80%98Quantum+is+going+to+be+the+next+big+thing+after+artificial+intelligence%E2%80%99%3A+CEO+of+Xanadu&lang=en&timestamp=1794593949&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=391">
-          <img src="https://ytcards.demolab.com/?id=XqJmpIbfQzo&title=%E2%80%98Quantum+is+going+to+be+the+next+big+thing+after+artificial+intelligence%E2%80%99%3A+CEO+of+Xanadu&lang=en&timestamp=1794593949&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=391" alt="‘Quantum is going to be the next big thing after artificial intelligence’: CEO of Xanadu" title="‘Quantum is going to be the next big thing after artificial intelligence’: CEO of Xanadu">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=pxbHidG7suE&title=Looking+for+a+new+job%3F+Artificial+intelligence+impact&lang=en&timestamp=1794633938&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=122">
+          <img src="https://ytcards.demolab.com/?id=pxbHidG7suE&title=Looking+for+a+new+job%3F+Artificial+intelligence+impact&lang=en&timestamp=1794633938&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=122" alt="Looking for a new job? Artificial intelligence impact" title="Looking for a new job? Artificial intelligence impact">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=_D9xnwWpTKk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Az2aRR51fDU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_D9xnwWpTKk&title=Artificial+Intelligence%2C+Quality+%26+the+Future+of+Software+Engineering&lang=en&timestamp=1794583149&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=947">
-          <img src="https://ytcards.demolab.com/?id=_D9xnwWpTKk&title=Artificial+Intelligence%2C+Quality+%26+the+Future+of+Software+Engineering&lang=en&timestamp=1794583149&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=947" alt="Artificial Intelligence, Quality & the Future of Software Engineering" title="Artificial Intelligence, Quality & the Future of Software Engineering">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Az2aRR51fDU&title=Jensen+Huang+exits+NVIDIA+%26+does+Claude+Fable+5.2+count+as+AGI%3F&lang=en&timestamp=1794565538&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2155">
+          <img src="https://ytcards.demolab.com/?id=Az2aRR51fDU&title=Jensen+Huang+exits+NVIDIA+%26+does+Claude+Fable+5.2+count+as+AGI%3F&lang=en&timestamp=1794565538&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2155" alt="Jensen Huang exits NVIDIA & does Claude Fable 5.2 count as AGI?" title="Jensen Huang exits NVIDIA & does Claude Fable 5.2 count as AGI?">
         </picture>
       </a>
     </td>
