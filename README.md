@@ -679,56 +679,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
+      <a href="https://www.youtube.com/watch?v=Yg8GNp1Qmfk" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Yg8GNp1Qmfk&title=Elon+Musk+Says+Humans+Won%E2%80%99t+Control+AI+%E2%80%93+Here%E2%80%99s+Why%21&lang=en&timestamp=1794684970&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=492">
+          <img src="https://ytcards.demolab.com/?id=Yg8GNp1Qmfk&title=Elon+Musk+Says+Humans+Won%E2%80%99t+Control+AI+%E2%80%93+Here%E2%80%99s+Why%21&lang=en&timestamp=1794684970&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=492" alt="Elon Musk Says Humans Won’t Control AI – Here’s Why!" title="Elon Musk Says Humans Won’t Control AI – Here’s Why!">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
       <a href="https://www.youtube.com/watch?v=HAF50MLyERU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=HAF50MLyERU&title=Is+the+AI+party+over+after+a+week+from+hell%3F+%7C+BBC+News&lang=en&timestamp=1794667296&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=937">
-          <img src="https://ytcards.demolab.com/?id=HAF50MLyERU&title=Is+the+AI+party+over+after+a+week+from+hell%3F+%7C+BBC+News&lang=en&timestamp=1794667296&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=937" alt="Is the AI party over after a week from hell? | BBC News" title="Is the AI party over after a week from hell? | BBC News">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=HAF50MLyERU&title=Is+the+AI+party+over+after+a+week+from+hell%3F+%7C+BBC+News&lang=en&timestamp=1794684970&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=937">
+          <img src="https://ytcards.demolab.com/?id=HAF50MLyERU&title=Is+the+AI+party+over+after+a+week+from+hell%3F+%7C+BBC+News&lang=en&timestamp=1794684970&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=937" alt="Is the AI party over after a week from hell? | BBC News" title="Is the AI party over after a week from hell? | BBC News">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=CvLX2SaSxtQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=IWYaqPYmf0g" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=CvLX2SaSxtQ&title=The+race+to+control+artificial+intelligence+%7C+Ian+Bremmer+Explains&lang=en&timestamp=1794613296&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=194">
-          <img src="https://ytcards.demolab.com/?id=CvLX2SaSxtQ&title=The+race+to+control+artificial+intelligence+%7C+Ian+Bremmer+Explains&lang=en&timestamp=1794613296&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=194" alt="The race to control artificial intelligence | Ian Bremmer Explains" title="The race to control artificial intelligence | Ian Bremmer Explains">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=n8NgziKvHMc" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=n8NgziKvHMc&title=AI%27s+Takeoff+Year+%7C+Live+from+Utrecht&lang=en&timestamp=1794616896&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2504">
-          <img src="https://ytcards.demolab.com/?id=n8NgziKvHMc&title=AI%27s+Takeoff+Year+%7C+Live+from+Utrecht&lang=en&timestamp=1794616896&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2504" alt="AI's Takeoff Year | Live from Utrecht" title="AI's Takeoff Year | Live from Utrecht">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=IWYaqPYmf0g&title=The+Nvidia+scandal+is+bad+news+for+Europe+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1794753370&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=367">
+          <img src="https://ytcards.demolab.com/?id=IWYaqPYmf0g&title=The+Nvidia+scandal+is+bad+news+for+Europe+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1794753370&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=367" alt="The Nvidia scandal is bad news for Europe • FRANCE 24 English" title="The Nvidia scandal is bad news for Europe • FRANCE 24 English">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=-TXnjS09HI0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=7OsG4F9RU6Q" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-TXnjS09HI0&title=What+Happens+to+AI+Without+Jensen+Huang%3F&lang=en&timestamp=1794613296&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=403">
-          <img src="https://ytcards.demolab.com/?id=-TXnjS09HI0&title=What+Happens+to+AI+Without+Jensen+Huang%3F&lang=en&timestamp=1794613296&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=403" alt="What Happens to AI Without Jensen Huang?" title="What Happens to AI Without Jensen Huang?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=7OsG4F9RU6Q&title=The+AI+Job+Crisis+Is+Already+Here%2C+Are+You+Ready%3F&lang=en&timestamp=1794699370&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=526">
+          <img src="https://ytcards.demolab.com/?id=7OsG4F9RU6Q&title=The+AI+Job+Crisis+Is+Already+Here%2C+Are+You+Ready%3F&lang=en&timestamp=1794699370&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=526" alt="The AI Job Crisis Is Already Here, Are You Ready?" title="The AI Job Crisis Is Already Here, Are You Ready?">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=aNvx7dT4p8o" target="_blank">
+      <a href="https://www.youtube.com/watch?v=-oNkL3sk68c" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aNvx7dT4p8o&title=Local+AI+is+Overhyped+and+Tribalism+is+Ruining+It&lang=en&timestamp=1794613296&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=553">
-          <img src="https://ytcards.demolab.com/?id=aNvx7dT4p8o&title=Local+AI+is+Overhyped+and+Tribalism+is+Ruining+It&lang=en&timestamp=1794613296&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=553" alt="Local AI is Overhyped and Tribalism is Ruining It" title="Local AI is Overhyped and Tribalism is Ruining It">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-oNkL3sk68c&title=Google%27s+Gemini+4+KRYPTON+Is+INSANE&lang=en&timestamp=1794728170&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=869">
+          <img src="https://ytcards.demolab.com/?id=-oNkL3sk68c&title=Google%27s+Gemini+4+KRYPTON+Is+INSANE&lang=en&timestamp=1794728170&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=869" alt="Google's Gemini 4 KRYPTON Is INSANE" title="Google's Gemini 4 KRYPTON Is INSANE">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Yg8GNp1Qmfk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Y4cGOKbQLYw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Yg8GNp1Qmfk&title=Elon+Musk+Says+Humans+Won%E2%80%99t+Control+AI+%E2%80%93+Here%E2%80%99s+Why%21&lang=en&timestamp=1794681696&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=492">
-          <img src="https://ytcards.demolab.com/?id=Yg8GNp1Qmfk&title=Elon+Musk+Says+Humans+Won%E2%80%99t+Control+AI+%E2%80%93+Here%E2%80%99s+Why%21&lang=en&timestamp=1794681696&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=492" alt="Elon Musk Says Humans Won’t Control AI – Here’s Why!" title="Elon Musk Says Humans Won’t Control AI – Here’s Why!">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Y4cGOKbQLYw&title=AI+Finally+Decoded+Whale+Language+%E2%80%94+The+First+Message+Shocked+Scientists&lang=en&timestamp=1794684970&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=815">
+          <img src="https://ytcards.demolab.com/?id=Y4cGOKbQLYw&title=AI+Finally+Decoded+Whale+Language+%E2%80%94+The+First+Message+Shocked+Scientists&lang=en&timestamp=1794684970&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=815" alt="AI Finally Decoded Whale Language — The First Message Shocked Scientists" title="AI Finally Decoded Whale Language — The First Message Shocked Scientists">
         </picture>
       </a>
     </td>
