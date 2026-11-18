@@ -681,56 +681,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=HAF50MLyERU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=0MvcuIrects" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=HAF50MLyERU&title=Is+the+AI+party+over+after+a+week+from+hell%3F+%7C+BBC+News&lang=en&timestamp=1794700138&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=937">
-          <img src="https://ytcards.demolab.com/?id=HAF50MLyERU&title=Is+the+AI+party+over+after+a+week+from+hell%3F+%7C+BBC+News&lang=en&timestamp=1794700138&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=937" alt="Is the AI party over after a week from hell? | BBC News" title="Is the AI party over after a week from hell? | BBC News">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=0MvcuIrects&title=Is+AI+Really+Superintelligence%3F+ANI%2C+AGI+%26+ASI+Explained&lang=en&timestamp=1794919790&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=806">
+          <img src="https://ytcards.demolab.com/?id=0MvcuIrects&title=Is+AI+Really+Superintelligence%3F+ANI%2C+AGI+%26+ASI+Explained&lang=en&timestamp=1794919790&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=806" alt="Is AI Really Superintelligence? ANI, AGI & ASI Explained" title="Is AI Really Superintelligence? ANI, AGI & ASI Explained">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=IWYaqPYmf0g" target="_blank">
+      <a href="https://www.youtube.com/watch?v=eIoWgBIyyg4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=IWYaqPYmf0g&title=The+Nvidia+scandal+is+bad+news+for+Europe+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1794754138&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=367">
-          <img src="https://ytcards.demolab.com/?id=IWYaqPYmf0g&title=The+Nvidia+scandal+is+bad+news+for+Europe+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1794754138&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=367" alt="The Nvidia scandal is bad news for Europe • FRANCE 24 English" title="The Nvidia scandal is bad news for Europe • FRANCE 24 English">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=eIoWgBIyyg4&title=The+REAL+Dangers+of+Artificial+Intelligence+and+CHILLING+Statements+from+Anthropic+CEO+and+Elon+Musk&lang=en&timestamp=1794962990&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1481">
+          <img src="https://ytcards.demolab.com/?id=eIoWgBIyyg4&title=The+REAL+Dangers+of+Artificial+Intelligence+and+CHILLING+Statements+from+Anthropic+CEO+and+Elon+Musk&lang=en&timestamp=1794962990&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1481" alt="The REAL Dangers of Artificial Intelligence and CHILLING Statements from Anthropic CEO and Elon Musk" title="The REAL Dangers of Artificial Intelligence and CHILLING Statements from Anthropic CEO and Elon Musk">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Yg8GNp1Qmfk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=HcGYgOvLXV8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Yg8GNp1Qmfk&title=Elon+Musk+Says+Humans+Won%E2%80%99t+Control+AI+%E2%80%93+Here%E2%80%99s+Why%21&lang=en&timestamp=1794700138&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=492">
-          <img src="https://ytcards.demolab.com/?id=Yg8GNp1Qmfk&title=Elon+Musk+Says+Humans+Won%E2%80%99t+Control+AI+%E2%80%93+Here%E2%80%99s+Why%21&lang=en&timestamp=1794700138&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=492" alt="Elon Musk Says Humans Won’t Control AI – Here’s Why!" title="Elon Musk Says Humans Won’t Control AI – Here’s Why!">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=HcGYgOvLXV8&title=Can+AI+really+think%3F+The+history+of+machine+intelligence+%7C+BBC+News&lang=en&timestamp=1794941390&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1555">
+          <img src="https://ytcards.demolab.com/?id=HcGYgOvLXV8&title=Can+AI+really+think%3F+The+history+of+machine+intelligence+%7C+BBC+News&lang=en&timestamp=1794941390&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1555" alt="Can AI really think? The history of machine intelligence | BBC News" title="Can AI really think? The history of machine intelligence | BBC News">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=L5q2Gg-8too" target="_blank">
+      <a href="https://www.youtube.com/watch?v=-Pmst8bkRaE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=L5q2Gg-8too&title=Humanoid+Robot+With+Living+Human+Brain+Is+Walking+Around+San+Francisco.&lang=en&timestamp=1794739738&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=433">
-          <img src="https://ytcards.demolab.com/?id=L5q2Gg-8too&title=Humanoid+Robot+With+Living+Human+Brain+Is+Walking+Around+San+Francisco.&lang=en&timestamp=1794739738&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=433" alt="Humanoid Robot With Living Human Brain Is Walking Around San Francisco." title="Humanoid Robot With Living Human Brain Is Walking Around San Francisco.">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-Pmst8bkRaE&title=John+Lennox+on+How+AI+Could+Take+Over+the+World&lang=en&timestamp=1794937790&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1318">
+          <img src="https://ytcards.demolab.com/?id=-Pmst8bkRaE&title=John+Lennox+on+How+AI+Could+Take+Over+the+World&lang=en&timestamp=1794937790&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1318" alt="John Lennox on How AI Could Take Over the World" title="John Lennox on How AI Could Take Over the World">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=xebHV54vHZs" target="_blank">
+      <a href="https://www.youtube.com/watch?v=rZLxBGqSs0E" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xebHV54vHZs&title=Nvidia+CEO+Jensen+Huang+Resigns%3A+Did+China+Just+Win+the+AI+War%3F&lang=en&timestamp=1794757738&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=905">
-          <img src="https://ytcards.demolab.com/?id=xebHV54vHZs&title=Nvidia+CEO+Jensen+Huang+Resigns%3A+Did+China+Just+Win+the+AI+War%3F&lang=en&timestamp=1794757738&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=905" alt="Nvidia CEO Jensen Huang Resigns: Did China Just Win the AI War?" title="Nvidia CEO Jensen Huang Resigns: Did China Just Win the AI War?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=rZLxBGqSs0E&title=CHINA+Blocked&lang=en&timestamp=1794934190&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=741">
+          <img src="https://ytcards.demolab.com/?id=rZLxBGqSs0E&title=CHINA+Blocked&lang=en&timestamp=1794934190&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=741" alt="CHINA Blocked" title="CHINA Blocked">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=c2fh_B89N18" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ivSYwurykmc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=c2fh_B89N18&title=%22AI+safety%22+won%27t+save+us&lang=en&timestamp=1794700138&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1183">
-          <img src="https://ytcards.demolab.com/?id=c2fh_B89N18&title=%22AI+safety%22+won%27t+save+us&lang=en&timestamp=1794700138&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1183" alt="&quot;AI safety&quot; won't save us" title="&quot;AI safety&quot; won't save us">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ivSYwurykmc&title=AiSHA+AI+Warns+Us+To+Learn+AI+Or+Prepare+For+Possible+Job+Loss&lang=en&timestamp=1794944990&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1077">
+          <img src="https://ytcards.demolab.com/?id=ivSYwurykmc&title=AiSHA+AI+Warns+Us+To+Learn+AI+Or+Prepare+For+Possible+Job+Loss&lang=en&timestamp=1794944990&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1077" alt="AiSHA AI Warns Us To Learn AI Or Prepare For Possible Job Loss" title="AiSHA AI Warns Us To Learn AI Or Prepare For Possible Job Loss">
         </picture>
       </a>
     </td>
