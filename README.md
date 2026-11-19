@@ -683,56 +683,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=eIoWgBIyyg4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ufeJbTNq-BI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=eIoWgBIyyg4&title=The+REAL+Dangers+of+Artificial+Intelligence+and+CHILLING+Statements+from+Anthropic+CEO+and+Elon+Musk&lang=en&timestamp=1794962457&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1481">
-          <img src="https://ytcards.demolab.com/?id=eIoWgBIyyg4&title=The+REAL+Dangers+of+Artificial+Intelligence+and+CHILLING+Statements+from+Anthropic+CEO+and+Elon+Musk&lang=en&timestamp=1794962457&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1481" alt="The REAL Dangers of Artificial Intelligence and CHILLING Statements from Anthropic CEO and Elon Musk" title="The REAL Dangers of Artificial Intelligence and CHILLING Statements from Anthropic CEO and Elon Musk">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ufeJbTNq-BI&title=Artificial+-+Official+Trailer+-+In+Select+Theaters+Christmas+Day%2C+Everywhere+January+8&lang=en&timestamp=1795024716&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=126">
+          <img src="https://ytcards.demolab.com/?id=ufeJbTNq-BI&title=Artificial+-+Official+Trailer+-+In+Select+Theaters+Christmas+Day%2C+Everywhere+January+8&lang=en&timestamp=1795024716&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=126" alt="Artificial - Official Trailer - In Select Theaters Christmas Day, Everywhere January 8" title="Artificial - Official Trailer - In Select Theaters Christmas Day, Everywhere January 8">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=0MvcuIrects" target="_blank">
+      <a href="https://www.youtube.com/watch?v=SO4t-jxcMlQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=0MvcuIrects&title=Is+AI+Really+Superintelligence%3F+ANI%2C+AGI+%26+ASI+Explained&lang=en&timestamp=1794940857&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=806">
-          <img src="https://ytcards.demolab.com/?id=0MvcuIrects&title=Is+AI+Really+Superintelligence%3F+ANI%2C+AGI+%26+ASI+Explained&lang=en&timestamp=1794940857&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=806" alt="Is AI Really Superintelligence? ANI, AGI & ASI Explained" title="Is AI Really Superintelligence? ANI, AGI & ASI Explained">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SO4t-jxcMlQ&title=Artificial+-+Official+Trailer&lang=en&timestamp=1795028316&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=126">
+          <img src="https://ytcards.demolab.com/?id=SO4t-jxcMlQ&title=Artificial+-+Official+Trailer&lang=en&timestamp=1795028316&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=126" alt="Artificial - Official Trailer" title="Artificial - Official Trailer">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=HcGYgOvLXV8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=oksWhQZmX64" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=HcGYgOvLXV8&title=Can+AI+really+think%3F+The+history+of+machine+intelligence+%7C+BBC+News&lang=en&timestamp=1794940857&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1555">
-          <img src="https://ytcards.demolab.com/?id=HcGYgOvLXV8&title=Can+AI+really+think%3F+The+history+of+machine+intelligence+%7C+BBC+News&lang=en&timestamp=1794940857&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1555" alt="Can AI really think? The history of machine intelligence | BBC News" title="Can AI really think? The history of machine intelligence | BBC News">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=oksWhQZmX64&title=Let%27s+Find+Uncensored+AI+Agents%3A+Abliterated+Artificial+Intelligence&lang=en&timestamp=1795046316&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=8005">
+          <img src="https://ytcards.demolab.com/?id=oksWhQZmX64&title=Let%27s+Find+Uncensored+AI+Agents%3A+Abliterated+Artificial+Intelligence&lang=en&timestamp=1795046316&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=8005" alt="Let's Find Uncensored AI Agents: Abliterated Artificial Intelligence" title="Let's Find Uncensored AI Agents: Abliterated Artificial Intelligence">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=-Pmst8bkRaE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=nbscGy5jcc0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-Pmst8bkRaE&title=John+Lennox+on+How+AI+Could+Take+Over+the+World+%28and+Where+It%27s+Already+Happening%29&lang=en&timestamp=1794940857&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1318">
-          <img src="https://ytcards.demolab.com/?id=-Pmst8bkRaE&title=John+Lennox+on+How+AI+Could+Take+Over+the+World+%28and+Where+It%27s+Already+Happening%29&lang=en&timestamp=1794940857&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1318" alt="John Lennox on How AI Could Take Over the World (and Where It's Already Happening)" title="John Lennox on How AI Could Take Over the World (and Where It's Already Happening)">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nbscGy5jcc0&title=Andrew+Yang+Reacts+to+His+Viral+Debates+on+Artificial+Intelligence+%7C+Surrounded+Follow-Up&lang=en&timestamp=1795024716&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1911">
+          <img src="https://ytcards.demolab.com/?id=nbscGy5jcc0&title=Andrew+Yang+Reacts+to+His+Viral+Debates+on+Artificial+Intelligence+%7C+Surrounded+Follow-Up&lang=en&timestamp=1795024716&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1911" alt="Andrew Yang Reacts to His Viral Debates on Artificial Intelligence | Surrounded Follow-Up" title="Andrew Yang Reacts to His Viral Debates on Artificial Intelligence | Surrounded Follow-Up">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=nZvsuU0-F5Y" target="_blank">
+      <a href="https://www.youtube.com/watch?v=KAYTRXycQtw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nZvsuU0-F5Y&title=Daniel+Susskind+on+Raising+Kids+in+the+Age+of+AI+%7C+The+Daily+Show&lang=en&timestamp=1794976857&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1267">
-          <img src="https://ytcards.demolab.com/?id=nZvsuU0-F5Y&title=Daniel+Susskind+on+Raising+Kids+in+the+Age+of+AI+%7C+The+Daily+Show&lang=en&timestamp=1794976857&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1267" alt="Daniel Susskind on Raising Kids in the Age of AI | The Daily Show" title="Daniel Susskind on Raising Kids in the Age of AI | The Daily Show">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KAYTRXycQtw&title=Tech+experts+say+recent+outages+could+be+tied+to+artificial+intelligence+updates&lang=en&timestamp=1795042716&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=149">
+          <img src="https://ytcards.demolab.com/?id=KAYTRXycQtw&title=Tech+experts+say+recent+outages+could+be+tied+to+artificial+intelligence+updates&lang=en&timestamp=1795042716&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=149" alt="Tech experts say recent outages could be tied to artificial intelligence updates" title="Tech experts say recent outages could be tied to artificial intelligence updates">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=OXwwYvoW9H4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Hd7OIjE633I" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=OXwwYvoW9H4&title=The+AI+Takeover+Has+Completely+BACKFIRED&lang=en&timestamp=1794969657&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1353">
-          <img src="https://ytcards.demolab.com/?id=OXwwYvoW9H4&title=The+AI+Takeover+Has+Completely+BACKFIRED&lang=en&timestamp=1794969657&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1353" alt="The AI Takeover Has Completely BACKFIRED" title="The AI Takeover Has Completely BACKFIRED">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Hd7OIjE633I&title=The+AI+Cartel%3A+Inside+the+%244+Trillion+War+for+Global+Control&lang=en&timestamp=1794992316&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2410">
+          <img src="https://ytcards.demolab.com/?id=Hd7OIjE633I&title=The+AI+Cartel%3A+Inside+the+%244+Trillion+War+for+Global+Control&lang=en&timestamp=1794992316&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2410" alt="The AI Cartel: Inside the $4 Trillion War for Global Control" title="The AI Cartel: Inside the $4 Trillion War for Global Control">
         </picture>
       </a>
     </td>
