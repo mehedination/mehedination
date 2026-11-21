@@ -684,56 +684,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ufeJbTNq-BI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=XXcWhCEiDeQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ufeJbTNq-BI&title=Artificial+-+Official+Trailer+-+In+Select+Theaters+Christmas+Day%2C+Everywhere+January+8&lang=en&timestamp=1795024716&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=126">
-          <img src="https://ytcards.demolab.com/?id=ufeJbTNq-BI&title=Artificial+-+Official+Trailer+-+In+Select+Theaters+Christmas+Day%2C+Everywhere+January+8&lang=en&timestamp=1795024716&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=126" alt="Artificial - Official Trailer - In Select Theaters Christmas Day, Everywhere January 8" title="Artificial - Official Trailer - In Select Theaters Christmas Day, Everywhere January 8">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XXcWhCEiDeQ&title=Gen+AI+Is+Getting+Impossible+To+Tell%E2%80%A6&lang=en&timestamp=1795201025&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1165">
+          <img src="https://ytcards.demolab.com/?id=XXcWhCEiDeQ&title=Gen+AI+Is+Getting+Impossible+To+Tell%E2%80%A6&lang=en&timestamp=1795201025&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1165" alt="Gen AI Is Getting Impossible To Tell…" title="Gen AI Is Getting Impossible To Tell…">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=SO4t-jxcMlQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=miaREoBO7Oc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SO4t-jxcMlQ&title=Artificial+-+Official+Trailer&lang=en&timestamp=1795028316&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=126">
-          <img src="https://ytcards.demolab.com/?id=SO4t-jxcMlQ&title=Artificial+-+Official+Trailer&lang=en&timestamp=1795028316&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=126" alt="Artificial - Official Trailer" title="Artificial - Official Trailer">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=miaREoBO7Oc&title=What+Anthropic%27s+record+IPO+reveals+about+the+AI+bubble+%7C+DW+News&lang=en&timestamp=1795219025&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1191">
+          <img src="https://ytcards.demolab.com/?id=miaREoBO7Oc&title=What+Anthropic%27s+record+IPO+reveals+about+the+AI+bubble+%7C+DW+News&lang=en&timestamp=1795219025&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1191" alt="What Anthropic's record IPO reveals about the AI bubble | DW News" title="What Anthropic's record IPO reveals about the AI bubble | DW News">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=oksWhQZmX64" target="_blank">
+      <a href="https://www.youtube.com/watch?v=weoadodturI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=oksWhQZmX64&title=Let%27s+Find+Uncensored+AI+Agents%3A+Abliterated+Artificial+Intelligence&lang=en&timestamp=1795046316&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=8005">
-          <img src="https://ytcards.demolab.com/?id=oksWhQZmX64&title=Let%27s+Find+Uncensored+AI+Agents%3A+Abliterated+Artificial+Intelligence&lang=en&timestamp=1795046316&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=8005" alt="Let's Find Uncensored AI Agents: Abliterated Artificial Intelligence" title="Let's Find Uncensored AI Agents: Abliterated Artificial Intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=weoadodturI&title=Australia+and+China+agree+to+annual+AI+talks+%7C+9+News+Australia&lang=en&timestamp=1795215425&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=76">
+          <img src="https://ytcards.demolab.com/?id=weoadodturI&title=Australia+and+China+agree+to+annual+AI+talks+%7C+9+News+Australia&lang=en&timestamp=1795215425&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=76" alt="Australia and China agree to annual AI talks | 9 News Australia" title="Australia and China agree to annual AI talks | 9 News Australia">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=nbscGy5jcc0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=s0ZfyXYp3Ns" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nbscGy5jcc0&title=Andrew+Yang+Reacts+to+His+Viral+Debates+on+Artificial+Intelligence+%7C+Surrounded+Follow-Up&lang=en&timestamp=1795024716&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1911">
-          <img src="https://ytcards.demolab.com/?id=nbscGy5jcc0&title=Andrew+Yang+Reacts+to+His+Viral+Debates+on+Artificial+Intelligence+%7C+Surrounded+Follow-Up&lang=en&timestamp=1795024716&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1911" alt="Andrew Yang Reacts to His Viral Debates on Artificial Intelligence | Surrounded Follow-Up" title="Andrew Yang Reacts to His Viral Debates on Artificial Intelligence | Surrounded Follow-Up">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=s0ZfyXYp3Ns&title=OpenAI+Just+Revealed+How+Far+AI+Self-Improvement+Has+Gone%E2%80%A6&lang=en&timestamp=1795190225&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=777">
+          <img src="https://ytcards.demolab.com/?id=s0ZfyXYp3Ns&title=OpenAI+Just+Revealed+How+Far+AI+Self-Improvement+Has+Gone%E2%80%A6&lang=en&timestamp=1795190225&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=777" alt="OpenAI Just Revealed How Far AI Self-Improvement Has Gone…" title="OpenAI Just Revealed How Far AI Self-Improvement Has Gone…">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=KAYTRXycQtw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=1pQ-HPRo3ZU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KAYTRXycQtw&title=Tech+experts+say+recent+outages+could+be+tied+to+artificial+intelligence+updates&lang=en&timestamp=1795042716&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=149">
-          <img src="https://ytcards.demolab.com/?id=KAYTRXycQtw&title=Tech+experts+say+recent+outages+could+be+tied+to+artificial+intelligence+updates&lang=en&timestamp=1795042716&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=149" alt="Tech experts say recent outages could be tied to artificial intelligence updates" title="Tech experts say recent outages could be tied to artificial intelligence updates">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1pQ-HPRo3ZU&title=AI+scientist%3A+%E2%80%98We+haven%E2%80%99t+had+Chernobyl+yet.+We+will+get+Chernobyl%E2%80%99&lang=en&timestamp=1795172225&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=390">
+          <img src="https://ytcards.demolab.com/?id=1pQ-HPRo3ZU&title=AI+scientist%3A+%E2%80%98We+haven%E2%80%99t+had+Chernobyl+yet.+We+will+get+Chernobyl%E2%80%99&lang=en&timestamp=1795172225&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=390" alt="AI scientist: ‘We haven’t had Chernobyl yet. We will get Chernobyl’" title="AI scientist: ‘We haven’t had Chernobyl yet. We will get Chernobyl’">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Hd7OIjE633I" target="_blank">
+      <a href="https://www.youtube.com/watch?v=dPbqI6lFmuo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Hd7OIjE633I&title=The+AI+Cartel%3A+Inside+the+%244+Trillion+War+for+Global+Control&lang=en&timestamp=1794992316&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2410">
-          <img src="https://ytcards.demolab.com/?id=Hd7OIjE633I&title=The+AI+Cartel%3A+Inside+the+%244+Trillion+War+for+Global+Control&lang=en&timestamp=1794992316&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2410" alt="The AI Cartel: Inside the $4 Trillion War for Global Control" title="The AI Cartel: Inside the $4 Trillion War for Global Control">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=dPbqI6lFmuo&title=ARTIFICIAL+Official+Trailer+%282026%29+Andrew+Garfield%2C+New+Sci-Fi+Movies&lang=en&timestamp=1795193825&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=137">
+          <img src="https://ytcards.demolab.com/?id=dPbqI6lFmuo&title=ARTIFICIAL+Official+Trailer+%282026%29+Andrew+Garfield%2C+New+Sci-Fi+Movies&lang=en&timestamp=1795193825&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=137" alt="ARTIFICIAL Official Trailer (2026) Andrew Garfield, New Sci-Fi Movies" title="ARTIFICIAL Official Trailer (2026) Andrew Garfield, New Sci-Fi Movies">
         </picture>
       </a>
     </td>
