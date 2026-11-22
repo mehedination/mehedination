@@ -688,56 +688,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=YKS34sswxbg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=-MiM5xfAe2c" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=YKS34sswxbg&title=AI+that+builds+itself%3A+Golden+age+or+time+to+panic%3F+%7C+BBC+News&lang=en&timestamp=1795265965&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=946">
-          <img src="https://ytcards.demolab.com/?id=YKS34sswxbg&title=AI+that+builds+itself%3A+Golden+age+or+time+to+panic%3F+%7C+BBC+News&lang=en&timestamp=1795265965&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=946" alt="AI that builds itself: Golden age or time to panic? | BBC News" title="AI that builds itself: Golden age or time to panic? | BBC News">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-MiM5xfAe2c&title=AI+Is+Becoming+Unpredictable+As+It+Gets+Intelligent%2C+Scientists+Find&lang=en&timestamp=1795280148&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=411">
+          <img src="https://ytcards.demolab.com/?id=-MiM5xfAe2c&title=AI+Is+Becoming+Unpredictable+As+It+Gets+Intelligent%2C+Scientists+Find&lang=en&timestamp=1795280148&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=411" alt="AI Is Becoming Unpredictable As It Gets Intelligent, Scientists Find" title="AI Is Becoming Unpredictable As It Gets Intelligent, Scientists Find">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=-MiM5xfAe2c" target="_blank">
+      <a href="https://www.youtube.com/watch?v=YKS34sswxbg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-MiM5xfAe2c&title=AI+Is+Getting+Intelligent.+But+Not+How+You+Think&lang=en&timestamp=1795280365&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=411">
-          <img src="https://ytcards.demolab.com/?id=-MiM5xfAe2c&title=AI+Is+Getting+Intelligent.+But+Not+How+You+Think&lang=en&timestamp=1795280365&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=411" alt="AI Is Getting Intelligent. But Not How You Think" title="AI Is Getting Intelligent. But Not How You Think">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=YKS34sswxbg&title=AI+that+builds+itself%3A+Golden+age+or+time+to+panic%3F+%7C+BBC+News&lang=en&timestamp=1795265748&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=946">
+          <img src="https://ytcards.demolab.com/?id=YKS34sswxbg&title=AI+that+builds+itself%3A+Golden+age+or+time+to+panic%3F+%7C+BBC+News&lang=en&timestamp=1795265748&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=946" alt="AI that builds itself: Golden age or time to panic? | BBC News" title="AI that builds itself: Golden age or time to panic? | BBC News">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=2I4qMBiK6hg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2I4qMBiK6hg&title=AI+out+of+control%3F+-+Why+Artificial+Intelligence+experts+are+sounding+the+alarm+%7C+DW+Documentary&lang=en&timestamp=1795283965&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5332">
-          <img src="https://ytcards.demolab.com/?id=2I4qMBiK6hg&title=AI+out+of+control%3F+-+Why+Artificial+Intelligence+experts+are+sounding+the+alarm+%7C+DW+Documentary&lang=en&timestamp=1795283965&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5332" alt="AI out of control? - Why Artificial Intelligence experts are sounding the alarm | DW Documentary" title="AI out of control? - Why Artificial Intelligence experts are sounding the alarm | DW Documentary">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2I4qMBiK6hg&title=AI+out+of+control%3F+-+Why+Artificial+Intelligence+experts+are+sounding+the+alarm+%7C+DW+Documentary&lang=en&timestamp=1795283748&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5332">
+          <img src="https://ytcards.demolab.com/?id=2I4qMBiK6hg&title=AI+out+of+control%3F+-+Why+Artificial+Intelligence+experts+are+sounding+the+alarm+%7C+DW+Documentary&lang=en&timestamp=1795283748&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5332" alt="AI out of control? - Why Artificial Intelligence experts are sounding the alarm | DW Documentary" title="AI out of control? - Why Artificial Intelligence experts are sounding the alarm | DW Documentary">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=-wRPYMn06MQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Gb_BVxmJ69w" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-wRPYMn06MQ&title=Trump+goes+all+in+on+AI+while+DOWNPLAYING+Americans%27+top+concerns+%7C+Roll+the+Tape&lang=en&timestamp=1795269565&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=600">
-          <img src="https://ytcards.demolab.com/?id=-wRPYMn06MQ&title=Trump+goes+all+in+on+AI+while+DOWNPLAYING+Americans%27+top+concerns+%7C+Roll+the+Tape&lang=en&timestamp=1795269565&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=600" alt="Trump goes all in on AI while DOWNPLAYING Americans' top concerns | Roll the Tape" title="Trump goes all in on AI while DOWNPLAYING Americans' top concerns | Roll the Tape">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Gb_BVxmJ69w&title=Scary+Signs+Artificial+Intelligence+Is+Becoming+More+Dangerous+Than+We+Thought&lang=en&timestamp=1795308948&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=9240">
+          <img src="https://ytcards.demolab.com/?id=Gb_BVxmJ69w&title=Scary+Signs+Artificial+Intelligence+Is+Becoming+More+Dangerous+Than+We+Thought&lang=en&timestamp=1795308948&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=9240" alt="Scary Signs Artificial Intelligence Is Becoming More Dangerous Than We Thought" title="Scary Signs Artificial Intelligence Is Becoming More Dangerous Than We Thought">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=7OHSGSL4S6A" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=7OHSGSL4S6A&title=The+Birth+of+an+Artificial+Intelligence.+Really%3F&lang=en&timestamp=1795276765&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1121">
-          <img src="https://ytcards.demolab.com/?id=7OHSGSL4S6A&title=The+Birth+of+an+Artificial+Intelligence.+Really%3F&lang=en&timestamp=1795276765&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1121" alt="The Birth of an Artificial Intelligence. Really?" title="The Birth of an Artificial Intelligence. Really?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=7OHSGSL4S6A&title=The+Birth+of+an+Artificial+Intelligence.+Really%3F&lang=en&timestamp=1795276548&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1121">
+          <img src="https://ytcards.demolab.com/?id=7OHSGSL4S6A&title=The+Birth+of+an+Artificial+Intelligence.+Really%3F&lang=en&timestamp=1795276548&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1121" alt="The Birth of an Artificial Intelligence. Really?" title="The Birth of an Artificial Intelligence. Really?">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=B4RAGeZ81k8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=KU9D58pxm0E" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=B4RAGeZ81k8&title=Claude+Just+Did+the+UNTHINKABLE%E2%80%A6&lang=en&timestamp=1795287565&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=825">
-          <img src="https://ytcards.demolab.com/?id=B4RAGeZ81k8&title=Claude+Just+Did+the+UNTHINKABLE%E2%80%A6&lang=en&timestamp=1795287565&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=825" alt="Claude Just Did the UNTHINKABLE…" title="Claude Just Did the UNTHINKABLE…">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KU9D58pxm0E&title=How+to+Use+Black+Friday+to+Prepare+for+the+AI+Wars&lang=en&timestamp=1795280148&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1471">
+          <img src="https://ytcards.demolab.com/?id=KU9D58pxm0E&title=How+to+Use+Black+Friday+to+Prepare+for+the+AI+Wars&lang=en&timestamp=1795280148&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1471" alt="How to Use Black Friday to Prepare for the AI Wars" title="How to Use Black Friday to Prepare for the AI Wars">
         </picture>
       </a>
     </td>
