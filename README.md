@@ -691,56 +691,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=2I4qMBiK6hg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=atwnkFRcB4g" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2I4qMBiK6hg&title=AI+out+of+control%3F+-+Why+Artificial+Intelligence+experts+are+sounding+the+alarm+%7C+DW+Documentary&lang=en&timestamp=1795299538&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5332">
-          <img src="https://ytcards.demolab.com/?id=2I4qMBiK6hg&title=AI+out+of+control%3F+-+Why+Artificial+Intelligence+experts+are+sounding+the+alarm+%7C+DW+Documentary&lang=en&timestamp=1795299538&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5332" alt="AI out of control? - Why Artificial Intelligence experts are sounding the alarm | DW Documentary" title="AI out of control? - Why Artificial Intelligence experts are sounding the alarm | DW Documentary">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=atwnkFRcB4g&title=Even+AI+Sceptics+Are+Changing+Their+Forecasts&lang=en&timestamp=1795449687&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=443">
+          <img src="https://ytcards.demolab.com/?id=atwnkFRcB4g&title=Even+AI+Sceptics+Are+Changing+Their+Forecasts&lang=en&timestamp=1795449687&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=443" alt="Even AI Sceptics Are Changing Their Forecasts" title="Even AI Sceptics Are Changing Their Forecasts">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=YKS34sswxbg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=EAKmMqkfkv8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=YKS34sswxbg&title=AI+that+builds+itself%3A+Golden+age+or+time+to+panic%3F+%7C+BBC+News&lang=en&timestamp=1795299538&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=946">
-          <img src="https://ytcards.demolab.com/?id=YKS34sswxbg&title=AI+that+builds+itself%3A+Golden+age+or+time+to+panic%3F+%7C+BBC+News&lang=en&timestamp=1795299538&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=946" alt="AI that builds itself: Golden age or time to panic? | BBC News" title="AI that builds itself: Golden age or time to panic? | BBC News">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EAKmMqkfkv8&title=What+Is+AI%2C+Really%3F+From+Turing+to+ChatGPT+and+Nigeria%27s+AI+Strategy+%7C+GET+307+Module+1&lang=en&timestamp=1795464087&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2393">
+          <img src="https://ytcards.demolab.com/?id=EAKmMqkfkv8&title=What+Is+AI%2C+Really%3F+From+Turing+to+ChatGPT+and+Nigeria%27s+AI+Strategy+%7C+GET+307+Module+1&lang=en&timestamp=1795464087&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2393" alt="What Is AI, Really? From Turing to ChatGPT and Nigeria's AI Strategy | GET 307 Module 1" title="What Is AI, Really? From Turing to ChatGPT and Nigeria's AI Strategy | GET 307 Module 1">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=xvAOtdSQUR0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=UyYpwFGeszk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xvAOtdSQUR0&title=Artificial+Intelligence+and+International+Security&lang=en&timestamp=1795364338&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=8595">
-          <img src="https://ytcards.demolab.com/?id=xvAOtdSQUR0&title=Artificial+Intelligence+and+International+Security&lang=en&timestamp=1795364338&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=8595" alt="Artificial Intelligence and International Security" title="Artificial Intelligence and International Security">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=UyYpwFGeszk&title=Life+in+2050%3A+How+AI+Will+Shape+the+Future+%7C+Anti-Aging%2C+3D+Organs+%26+Artificial+Sun%21+%7C+FACTS4U&lang=en&timestamp=1795449687&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1270">
+          <img src="https://ytcards.demolab.com/?id=UyYpwFGeszk&title=Life+in+2050%3A+How+AI+Will+Shape+the+Future+%7C+Anti-Aging%2C+3D+Organs+%26+Artificial+Sun%21+%7C+FACTS4U&lang=en&timestamp=1795449687&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1270" alt="Life in 2050: How AI Will Shape the Future | Anti-Aging, 3D Organs & Artificial Sun! | FACTS4U" title="Life in 2050: How AI Will Shape the Future | Anti-Aging, 3D Organs & Artificial Sun! | FACTS4U">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=-MiM5xfAe2c" target="_blank">
+      <a href="https://www.youtube.com/watch?v=MDMz8_NVi2Q" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-MiM5xfAe2c&title=AI+Is+Getting+Intelligent.+But+Not+How+You+Think&lang=en&timestamp=1795299538&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=411">
-          <img src="https://ytcards.demolab.com/?id=-MiM5xfAe2c&title=AI+Is+Getting+Intelligent.+But+Not+How+You+Think&lang=en&timestamp=1795299538&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=411" alt="AI Is Getting Intelligent. But Not How You Think" title="AI Is Getting Intelligent. But Not How You Think">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=MDMz8_NVi2Q&title=God+vs+AI%3F+Why+The+Catholic+Church+Is+Taking+On+Silicon+Valley+%7C+Vantage&lang=en&timestamp=1795456887&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=347">
+          <img src="https://ytcards.demolab.com/?id=MDMz8_NVi2Q&title=God+vs+AI%3F+Why+The+Catholic+Church+Is+Taking+On+Silicon+Valley+%7C+Vantage&lang=en&timestamp=1795456887&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=347" alt="God vs AI? Why The Catholic Church Is Taking On Silicon Valley | Vantage" title="God vs AI? Why The Catholic Church Is Taking On Silicon Valley | Vantage">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=BwEYELVCYTU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=h4tHDFCPmQE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BwEYELVCYTU&title=David+Sacks+on+the+Future+of+AI%3A+Uncertainty+Ahead+%7C+TomorrowX+Summit&lang=en&timestamp=1795299538&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2054">
-          <img src="https://ytcards.demolab.com/?id=BwEYELVCYTU&title=David+Sacks+on+the+Future+of+AI%3A+Uncertainty+Ahead+%7C+TomorrowX+Summit&lang=en&timestamp=1795299538&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2054" alt="David Sacks on the Future of AI: Uncertainty Ahead | TomorrowX Summit" title="David Sacks on the Future of AI: Uncertainty Ahead | TomorrowX Summit">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=h4tHDFCPmQE&title=Vibe+Coding+vs.+Agentic+Coding%3A+Which+Should+You+Use%3F&lang=en&timestamp=1795435287&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=517">
+          <img src="https://ytcards.demolab.com/?id=h4tHDFCPmQE&title=Vibe+Coding+vs.+Agentic+Coding%3A+Which+Should+You+Use%3F&lang=en&timestamp=1795435287&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=517" alt="Vibe Coding vs. Agentic Coding: Which Should You Use?" title="Vibe Coding vs. Agentic Coding: Which Should You Use?">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=w90JkdOX2os" target="_blank">
+      <a href="https://www.youtube.com/watch?v=F_EvlmL955Y" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=w90JkdOX2os&title=Which+jobs+are+still+safe+from+AI%3F+%7C+DW+News&lang=en&timestamp=1795299538&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=488">
-          <img src="https://ytcards.demolab.com/?id=w90JkdOX2os&title=Which+jobs+are+still+safe+from+AI%3F+%7C+DW+News&lang=en&timestamp=1795299538&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=488" alt="Which jobs are still safe from AI? | DW News" title="Which jobs are still safe from AI? | DW News">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=F_EvlmL955Y&title=Explainer+on+Artificial+Intelligence+and+It%27s+Impact+on+Welfare+Provision&lang=en&timestamp=1795456887&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=938">
+          <img src="https://ytcards.demolab.com/?id=F_EvlmL955Y&title=Explainer+on+Artificial+Intelligence+and+It%27s+Impact+on+Welfare+Provision&lang=en&timestamp=1795456887&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=938" alt="Explainer on Artificial Intelligence and It's Impact on Welfare Provision" title="Explainer on Artificial Intelligence and It's Impact on Welfare Provision">
         </picture>
       </a>
     </td>
