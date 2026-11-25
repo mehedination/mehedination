@@ -693,56 +693,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=qgL_IbP2qKg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=lzcMnRfW818" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qgL_IbP2qKg&title=OpenAI+insider%3A+An+AI+accident+is+the+most+likely+way+people+will+die&lang=en&timestamp=1795494067&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1315">
-          <img src="https://ytcards.demolab.com/?id=qgL_IbP2qKg&title=OpenAI+insider%3A+An+AI+accident+is+the+most+likely+way+people+will+die&lang=en&timestamp=1795494067&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1315" alt="OpenAI insider: An AI accident is the most likely way people will die" title="OpenAI insider: An AI accident is the most likely way people will die">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lzcMnRfW818&title=OpenAI+Rituals%2C+Claude+Worship%2C+and+an+AI+Cult.+This+Is+Getting+Weird&lang=en&timestamp=1795544927&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=282">
+          <img src="https://ytcards.demolab.com/?id=lzcMnRfW818&title=OpenAI+Rituals%2C+Claude+Worship%2C+and+an+AI+Cult.+This+Is+Getting+Weird&lang=en&timestamp=1795544927&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=282" alt="OpenAI Rituals, Claude Worship, and an AI Cult. This Is Getting Weird" title="OpenAI Rituals, Claude Worship, and an AI Cult. This Is Getting Weird">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=kD7j3M_TQW0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=LR0vKhL29_Q" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=kD7j3M_TQW0&title=Some+Actual+Solutions+To+Fixing+the+Artificial+Intelligence+MESS+We%27re+in+Right+Now&lang=en&timestamp=1795486867&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=469">
-          <img src="https://ytcards.demolab.com/?id=kD7j3M_TQW0&title=Some+Actual+Solutions+To+Fixing+the+Artificial+Intelligence+MESS+We%27re+in+Right+Now&lang=en&timestamp=1795486867&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=469" alt="Some Actual Solutions To Fixing the Artificial Intelligence MESS We're in Right Now" title="Some Actual Solutions To Fixing the Artificial Intelligence MESS We're in Right Now">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=LR0vKhL29_Q&title=The+Awful+Truth+About+AI&lang=en&timestamp=1795544927&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=833">
+          <img src="https://ytcards.demolab.com/?id=LR0vKhL29_Q&title=The+Awful+Truth+About+AI&lang=en&timestamp=1795544927&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=833" alt="The Awful Truth About AI" title="The Awful Truth About AI">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=atwnkFRcB4g" target="_blank">
+      <a href="https://www.youtube.com/watch?v=-xjNO0GoNbY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=atwnkFRcB4g&title=Even+AI+Sceptics+Are+Changing+Their+Forecasts&lang=en&timestamp=1795450867&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=443">
-          <img src="https://ytcards.demolab.com/?id=atwnkFRcB4g&title=Even+AI+Sceptics+Are+Changing+Their+Forecasts&lang=en&timestamp=1795450867&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=443" alt="Even AI Sceptics Are Changing Their Forecasts" title="Even AI Sceptics Are Changing Their Forecasts">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-xjNO0GoNbY&title=OpenAI%E2%80%99s+Next+Model+Is+Scaring+Its+Own+Employees&lang=en&timestamp=1795562927&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1814">
+          <img src="https://ytcards.demolab.com/?id=-xjNO0GoNbY&title=OpenAI%E2%80%99s+Next+Model+Is+Scaring+Its+Own+Employees&lang=en&timestamp=1795562927&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1814" alt="OpenAI’s Next Model Is Scaring Its Own Employees" title="OpenAI’s Next Model Is Scaring Its Own Employees">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=mqnR_11YRaA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=eDXwi1TGZZU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mqnR_11YRaA&title=Market+Liquidity+Is+Drying+Up%3A+What+Happens+To+Bitcoin+%26+Stocks%3F+%7C+Guy+Turner&lang=en&timestamp=1795476067&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2935">
-          <img src="https://ytcards.demolab.com/?id=mqnR_11YRaA&title=Market+Liquidity+Is+Drying+Up%3A+What+Happens+To+Bitcoin+%26+Stocks%3F+%7C+Guy+Turner&lang=en&timestamp=1795476067&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2935" alt="Market Liquidity Is Drying Up: What Happens To Bitcoin & Stocks? | Guy Turner" title="Market Liquidity Is Drying Up: What Happens To Bitcoin & Stocks? | Guy Turner">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=eDXwi1TGZZU&title=How+to+Win+the+Battle+Against+AI%2C+Jennifer+Lopez%E2%80%99s+OUTRAGEOUS+Grievance+on+Display%2C+and+More&lang=en&timestamp=1795559327&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=8677">
+          <img src="https://ytcards.demolab.com/?id=eDXwi1TGZZU&title=How+to+Win+the+Battle+Against+AI%2C+Jennifer+Lopez%E2%80%99s+OUTRAGEOUS+Grievance+on+Display%2C+and+More&lang=en&timestamp=1795559327&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=8677" alt="How to Win the Battle Against AI, Jennifer Lopez’s OUTRAGEOUS Grievance on Display, and More" title="How to Win the Battle Against AI, Jennifer Lopez’s OUTRAGEOUS Grievance on Display, and More">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=XAPU5ckeM70" target="_blank">
+      <a href="https://www.youtube.com/watch?v=fO2dvMshws0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XAPU5ckeM70&title=What+Jensen+Huang+Would+Do+Differently+If+He+Started+Again&lang=en&timestamp=1795522867&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=686">
-          <img src="https://ytcards.demolab.com/?id=XAPU5ckeM70&title=What+Jensen+Huang+Would+Do+Differently+If+He+Started+Again&lang=en&timestamp=1795522867&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=686" alt="What Jensen Huang Would Do Differently If He Started Again" title="What Jensen Huang Would Do Differently If He Started Again">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=fO2dvMshws0&title=%27We+have+no+idea+how+to+control+it%27%3A+Renowned+AI+expert+Stuart+Russell+on+the+technology%27s+dangers&lang=en&timestamp=1795559327&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=921">
+          <img src="https://ytcards.demolab.com/?id=fO2dvMshws0&title=%27We+have+no+idea+how+to+control+it%27%3A+Renowned+AI+expert+Stuart+Russell+on+the+technology%27s+dangers&lang=en&timestamp=1795559327&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=921" alt="'We have no idea how to control it': Renowned AI expert Stuart Russell on the technology's dangers" title="'We have no idea how to control it': Renowned AI expert Stuart Russell on the technology's dangers">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Hw9mpSP2grY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Xh__vpPjBbM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Hw9mpSP2grY&title=AI+Solved+the+Riemann+Hypothesis%2C+and+Mathematicians+Are+Freaking+Out&lang=en&timestamp=1795461667&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=604">
-          <img src="https://ytcards.demolab.com/?id=Hw9mpSP2grY&title=AI+Solved+the+Riemann+Hypothesis%2C+and+Mathematicians+Are+Freaking+Out&lang=en&timestamp=1795461667&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=604" alt="AI Solved the Riemann Hypothesis, and Mathematicians Are Freaking Out" title="AI Solved the Riemann Hypothesis, and Mathematicians Are Freaking Out">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Xh__vpPjBbM&title=AI+Cyberattacks+Reach+TERRIFYING+New+Level&lang=en&timestamp=1795580927&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1078">
+          <img src="https://ytcards.demolab.com/?id=Xh__vpPjBbM&title=AI+Cyberattacks+Reach+TERRIFYING+New+Level&lang=en&timestamp=1795580927&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1078" alt="AI Cyberattacks Reach TERRIFYING New Level" title="AI Cyberattacks Reach TERRIFYING New Level">
         </picture>
       </a>
     </td>
