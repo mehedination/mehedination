@@ -694,56 +694,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=lzcMnRfW818" target="_blank">
+      <a href="https://www.youtube.com/watch?v=4hPRHFTY08I" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lzcMnRfW818&title=OpenAI+Rituals%2C+Claude+Worship%2C+and+an+AI+Cult.+This+Is+Getting+Weird&lang=en&timestamp=1795544927&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=282">
-          <img src="https://ytcards.demolab.com/?id=lzcMnRfW818&title=OpenAI+Rituals%2C+Claude+Worship%2C+and+an+AI+Cult.+This+Is+Getting+Weird&lang=en&timestamp=1795544927&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=282" alt="OpenAI Rituals, Claude Worship, and an AI Cult. This Is Getting Weird" title="OpenAI Rituals, Claude Worship, and an AI Cult. This Is Getting Weird">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4hPRHFTY08I&title=AI+Is+Speedrunning+India%27s+Economic+Demise&lang=en&timestamp=1795619042&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1056">
+          <img src="https://ytcards.demolab.com/?id=4hPRHFTY08I&title=AI+Is+Speedrunning+India%27s+Economic+Demise&lang=en&timestamp=1795619042&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1056" alt="AI Is Speedrunning India's Economic Demise" title="AI Is Speedrunning India's Economic Demise">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=LR0vKhL29_Q" target="_blank">
+      <a href="https://www.youtube.com/watch?v=hKT3D85aNL8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=LR0vKhL29_Q&title=The+Awful+Truth+About+AI&lang=en&timestamp=1795544927&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=833">
-          <img src="https://ytcards.demolab.com/?id=LR0vKhL29_Q&title=The+Awful+Truth+About+AI&lang=en&timestamp=1795544927&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=833" alt="The Awful Truth About AI" title="The Awful Truth About AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hKT3D85aNL8&title=Artificial+Intelligence+Nears+Takeover&lang=en&timestamp=1795593842&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2552">
+          <img src="https://ytcards.demolab.com/?id=hKT3D85aNL8&title=Artificial+Intelligence+Nears+Takeover&lang=en&timestamp=1795593842&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2552" alt="Artificial Intelligence Nears Takeover" title="Artificial Intelligence Nears Takeover">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=-xjNO0GoNbY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=e5qK2E18EMQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-xjNO0GoNbY&title=OpenAI%E2%80%99s+Next+Model+Is+Scaring+Its+Own+Employees&lang=en&timestamp=1795562927&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1814">
-          <img src="https://ytcards.demolab.com/?id=-xjNO0GoNbY&title=OpenAI%E2%80%99s+Next+Model+Is+Scaring+Its+Own+Employees&lang=en&timestamp=1795562927&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1814" alt="OpenAI’s Next Model Is Scaring Its Own Employees" title="OpenAI’s Next Model Is Scaring Its Own Employees">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=e5qK2E18EMQ&title=Artificial+Intelligence+and+the+A.G.I.+Horizon&lang=en&timestamp=1795608242&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4780">
+          <img src="https://ytcards.demolab.com/?id=e5qK2E18EMQ&title=Artificial+Intelligence+and+the+A.G.I.+Horizon&lang=en&timestamp=1795608242&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4780" alt="Artificial Intelligence and the A.G.I. Horizon" title="Artificial Intelligence and the A.G.I. Horizon">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=eDXwi1TGZZU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=xooUABY15EU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=eDXwi1TGZZU&title=How+to+Win+the+Battle+Against+AI%2C+Jennifer+Lopez%E2%80%99s+OUTRAGEOUS+Grievance+on+Display%2C+and+More&lang=en&timestamp=1795559327&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=8677">
-          <img src="https://ytcards.demolab.com/?id=eDXwi1TGZZU&title=How+to+Win+the+Battle+Against+AI%2C+Jennifer+Lopez%E2%80%99s+OUTRAGEOUS+Grievance+on+Display%2C+and+More&lang=en&timestamp=1795559327&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=8677" alt="How to Win the Battle Against AI, Jennifer Lopez’s OUTRAGEOUS Grievance on Display, and More" title="How to Win the Battle Against AI, Jennifer Lopez’s OUTRAGEOUS Grievance on Display, and More">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xooUABY15EU&title=XPENG+IRON+Robot+LIVE+at+AI+Day+2026+%E2%80%93+No+Remote+Control&lang=en&timestamp=1795615442&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3213">
+          <img src="https://ytcards.demolab.com/?id=xooUABY15EU&title=XPENG+IRON+Robot+LIVE+at+AI+Day+2026+%E2%80%93+No+Remote+Control&lang=en&timestamp=1795615442&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3213" alt="XPENG IRON Robot LIVE at AI Day 2026 – No Remote Control" title="XPENG IRON Robot LIVE at AI Day 2026 – No Remote Control">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=fO2dvMshws0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=6p7lofButOw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=fO2dvMshws0&title=%27We+have+no+idea+how+to+control+it%27%3A+Renowned+AI+expert+Stuart+Russell+on+the+technology%27s+dangers&lang=en&timestamp=1795559327&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=921">
-          <img src="https://ytcards.demolab.com/?id=fO2dvMshws0&title=%27We+have+no+idea+how+to+control+it%27%3A+Renowned+AI+expert+Stuart+Russell+on+the+technology%27s+dangers&lang=en&timestamp=1795559327&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=921" alt="'We have no idea how to control it': Renowned AI expert Stuart Russell on the technology's dangers" title="'We have no idea how to control it': Renowned AI expert Stuart Russell on the technology's dangers">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6p7lofButOw&title=Pro+Se+Litigant+Brings+Artificial+Intelligence+and+Natural+Stupidity+to+Court%21&lang=en&timestamp=1795637042&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6074">
+          <img src="https://ytcards.demolab.com/?id=6p7lofButOw&title=Pro+Se+Litigant+Brings+Artificial+Intelligence+and+Natural+Stupidity+to+Court%21&lang=en&timestamp=1795637042&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6074" alt="Pro Se Litigant Brings Artificial Intelligence and Natural Stupidity to Court!" title="Pro Se Litigant Brings Artificial Intelligence and Natural Stupidity to Court!">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Xh__vpPjBbM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=3Qw2f8Ml7ys" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Xh__vpPjBbM&title=AI+Cyberattacks+Reach+TERRIFYING+New+Level&lang=en&timestamp=1795580927&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1078">
-          <img src="https://ytcards.demolab.com/?id=Xh__vpPjBbM&title=AI+Cyberattacks+Reach+TERRIFYING+New+Level&lang=en&timestamp=1795580927&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1078" alt="AI Cyberattacks Reach TERRIFYING New Level" title="AI Cyberattacks Reach TERRIFYING New Level">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3Qw2f8Ml7ys&title=The+Entire+History+of+Artificial+Intelligence+in+44+Minutes&lang=en&timestamp=1795655222&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2661">
+          <img src="https://ytcards.demolab.com/?id=3Qw2f8Ml7ys&title=The+Entire+History+of+Artificial+Intelligence+in+44+Minutes&lang=en&timestamp=1795655222&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2661" alt="The Entire History of Artificial Intelligence in 44 Minutes" title="The Entire History of Artificial Intelligence in 44 Minutes">
         </picture>
       </a>
     </td>
