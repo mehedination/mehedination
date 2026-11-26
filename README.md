@@ -696,56 +696,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=GUGZ1waSJXc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=gNPH2axWjF8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=GUGZ1waSJXc&title=Why+the+AI+Bubble+Is+Designed+to+Pop+%7C+Whitney+Webb+%26+Mark+Goodwin&lang=en&timestamp=1795633086&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7843">
-          <img src="https://ytcards.demolab.com/?id=GUGZ1waSJXc&title=Why+the+AI+Bubble+Is+Designed+to+Pop+%7C+Whitney+Webb+%26+Mark+Goodwin&lang=en&timestamp=1795633086&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7843" alt="Why the AI Bubble Is Designed to Pop | Whitney Webb & Mark Goodwin" title="Why the AI Bubble Is Designed to Pop | Whitney Webb & Mark Goodwin">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=gNPH2axWjF8&title=I+was+wrong+about+AI.+Here+are+my+updated+thoughts&lang=en&timestamp=1795670512&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=593">
+          <img src="https://ytcards.demolab.com/?id=gNPH2axWjF8&title=I+was+wrong+about+AI.+Here+are+my+updated+thoughts&lang=en&timestamp=1795670512&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=593" alt="I was wrong about AI. Here are my updated thoughts" title="I was wrong about AI. Here are my updated thoughts">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=sd7sKACnYjo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=r1aEPmGqQrs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sd7sKACnYjo&title=THE+AI+CRASH+IS+IN+FLIGHT.+ARE+YOU+PREPARED%3F&lang=en&timestamp=1795665486&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7616">
-          <img src="https://ytcards.demolab.com/?id=sd7sKACnYjo&title=THE+AI+CRASH+IS+IN+FLIGHT.+ARE+YOU+PREPARED%3F&lang=en&timestamp=1795665486&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7616" alt="THE AI CRASH IS IN FLIGHT. ARE YOU PREPARED?" title="THE AI CRASH IS IN FLIGHT. ARE YOU PREPARED?">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=V4i2FQRTZJU" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=V4i2FQRTZJU&title=He+Built+An+AI+Software+Factory+From+Scratch%2C+Here%27s+What+He+Learned&lang=en&timestamp=1795636686&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=841">
-          <img src="https://ytcards.demolab.com/?id=V4i2FQRTZJU&title=He+Built+An+AI+Software+Factory+From+Scratch%2C+Here%27s+What+He+Learned&lang=en&timestamp=1795636686&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=841" alt="He Built An AI Software Factory From Scratch, Here's What He Learned" title="He Built An AI Software Factory From Scratch, Here's What He Learned">
-        </picture>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=e5qK2E18EMQ" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=e5qK2E18EMQ&title=Artificial+Intelligence+and+the+A.G.I.+Horizon&lang=en&timestamp=1795607886&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4780">
-          <img src="https://ytcards.demolab.com/?id=e5qK2E18EMQ&title=Artificial+Intelligence+and+the+A.G.I.+Horizon&lang=en&timestamp=1795607886&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4780" alt="Artificial Intelligence and the A.G.I. Horizon" title="Artificial Intelligence and the A.G.I. Horizon">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=4hPRHFTY08I" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4hPRHFTY08I&title=AI+Is+Speedrunning+India%27s+Economic+Demise&lang=en&timestamp=1795618686&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1056">
-          <img src="https://ytcards.demolab.com/?id=4hPRHFTY08I&title=AI+Is+Speedrunning+India%27s+Economic+Demise&lang=en&timestamp=1795618686&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1056" alt="AI Is Speedrunning India's Economic Demise" title="AI Is Speedrunning India's Economic Demise">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=r1aEPmGqQrs&title=Anthropic+Just+Revealed+Something+Disturbing+About+Its+AI%E2%80%A6&lang=en&timestamp=1795706512&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=545">
+          <img src="https://ytcards.demolab.com/?id=r1aEPmGqQrs&title=Anthropic+Just+Revealed+Something+Disturbing+About+Its+AI%E2%80%A6&lang=en&timestamp=1795706512&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=545" alt="Anthropic Just Revealed Something Disturbing About Its AI…" title="Anthropic Just Revealed Something Disturbing About Its AI…">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=hKT3D85aNL8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hKT3D85aNL8&title=Artificial+Intelligence+Nears+Takeover&lang=en&timestamp=1795607886&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2552">
-          <img src="https://ytcards.demolab.com/?id=hKT3D85aNL8&title=Artificial+Intelligence+Nears+Takeover&lang=en&timestamp=1795607886&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2552" alt="Artificial Intelligence Nears Takeover" title="Artificial Intelligence Nears Takeover">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hKT3D85aNL8&title=Artificial+Intelligence+Nears+Takeover&lang=en&timestamp=1795641712&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2552">
+          <img src="https://ytcards.demolab.com/?id=hKT3D85aNL8&title=Artificial+Intelligence+Nears+Takeover&lang=en&timestamp=1795641712&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2552" alt="Artificial Intelligence Nears Takeover" title="Artificial Intelligence Nears Takeover">
+        </picture>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=Nl13uO4xOdM" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Nl13uO4xOdM&title=How+a+new+generation+of+AI+agents+could+change+holiday+shopping&lang=en&timestamp=1795648912&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=215">
+          <img src="https://ytcards.demolab.com/?id=Nl13uO4xOdM&title=How+a+new+generation+of+AI+agents+could+change+holiday+shopping&lang=en&timestamp=1795648912&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=215" alt="How a new generation of AI agents could change holiday shopping" title="How a new generation of AI agents could change holiday shopping">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=KTyN3mjh8l4" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KTyN3mjh8l4&title=Building+an+AI+Trading+Bot+with+Claude+AI+Agents+%28Full+Tutorial%29&lang=en&timestamp=1795724512&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=392">
+          <img src="https://ytcards.demolab.com/?id=KTyN3mjh8l4&title=Building+an+AI+Trading+Bot+with+Claude+AI+Agents+%28Full+Tutorial%29&lang=en&timestamp=1795724512&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=392" alt="Building an AI Trading Bot with Claude AI Agents (Full Tutorial)" title="Building an AI Trading Bot with Claude AI Agents (Full Tutorial)">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=YOi_k2mZamc" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=YOi_k2mZamc&title=OpenAI+and+Anthropic+Built+Something+They%27re+Afraid+Of&lang=en&timestamp=1795641712&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=652">
+          <img src="https://ytcards.demolab.com/?id=YOi_k2mZamc&title=OpenAI+and+Anthropic+Built+Something+They%27re+Afraid+Of&lang=en&timestamp=1795641712&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=652" alt="OpenAI and Anthropic Built Something They're Afraid Of" title="OpenAI and Anthropic Built Something They're Afraid Of">
         </picture>
       </a>
     </td>
