@@ -695,56 +695,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=4hPRHFTY08I" target="_blank">
+      <a href="https://www.youtube.com/watch?v=GUGZ1waSJXc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4hPRHFTY08I&title=AI+Is+Speedrunning+India%27s+Economic+Demise&lang=en&timestamp=1795619042&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1056">
-          <img src="https://ytcards.demolab.com/?id=4hPRHFTY08I&title=AI+Is+Speedrunning+India%27s+Economic+Demise&lang=en&timestamp=1795619042&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1056" alt="AI Is Speedrunning India's Economic Demise" title="AI Is Speedrunning India's Economic Demise">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=GUGZ1waSJXc&title=Why+the+AI+Bubble+Is+Designed+to+Pop+%7C+Whitney+Webb+%26+Mark+Goodwin&lang=en&timestamp=1795633086&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7843">
+          <img src="https://ytcards.demolab.com/?id=GUGZ1waSJXc&title=Why+the+AI+Bubble+Is+Designed+to+Pop+%7C+Whitney+Webb+%26+Mark+Goodwin&lang=en&timestamp=1795633086&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7843" alt="Why the AI Bubble Is Designed to Pop | Whitney Webb & Mark Goodwin" title="Why the AI Bubble Is Designed to Pop | Whitney Webb & Mark Goodwin">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=hKT3D85aNL8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=sd7sKACnYjo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hKT3D85aNL8&title=Artificial+Intelligence+Nears+Takeover&lang=en&timestamp=1795593842&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2552">
-          <img src="https://ytcards.demolab.com/?id=hKT3D85aNL8&title=Artificial+Intelligence+Nears+Takeover&lang=en&timestamp=1795593842&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2552" alt="Artificial Intelligence Nears Takeover" title="Artificial Intelligence Nears Takeover">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sd7sKACnYjo&title=THE+AI+CRASH+IS+IN+FLIGHT.+ARE+YOU+PREPARED%3F&lang=en&timestamp=1795665486&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7616">
+          <img src="https://ytcards.demolab.com/?id=sd7sKACnYjo&title=THE+AI+CRASH+IS+IN+FLIGHT.+ARE+YOU+PREPARED%3F&lang=en&timestamp=1795665486&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7616" alt="THE AI CRASH IS IN FLIGHT. ARE YOU PREPARED?" title="THE AI CRASH IS IN FLIGHT. ARE YOU PREPARED?">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=e5qK2E18EMQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=V4i2FQRTZJU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=e5qK2E18EMQ&title=Artificial+Intelligence+and+the+A.G.I.+Horizon&lang=en&timestamp=1795608242&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4780">
-          <img src="https://ytcards.demolab.com/?id=e5qK2E18EMQ&title=Artificial+Intelligence+and+the+A.G.I.+Horizon&lang=en&timestamp=1795608242&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4780" alt="Artificial Intelligence and the A.G.I. Horizon" title="Artificial Intelligence and the A.G.I. Horizon">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=V4i2FQRTZJU&title=He+Built+An+AI+Software+Factory+From+Scratch%2C+Here%27s+What+He+Learned&lang=en&timestamp=1795636686&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=841">
+          <img src="https://ytcards.demolab.com/?id=V4i2FQRTZJU&title=He+Built+An+AI+Software+Factory+From+Scratch%2C+Here%27s+What+He+Learned&lang=en&timestamp=1795636686&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=841" alt="He Built An AI Software Factory From Scratch, Here's What He Learned" title="He Built An AI Software Factory From Scratch, Here's What He Learned">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=xooUABY15EU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=e5qK2E18EMQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xooUABY15EU&title=XPENG+IRON+Robot+LIVE+at+AI+Day+2026+%E2%80%93+No+Remote+Control&lang=en&timestamp=1795615442&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3213">
-          <img src="https://ytcards.demolab.com/?id=xooUABY15EU&title=XPENG+IRON+Robot+LIVE+at+AI+Day+2026+%E2%80%93+No+Remote+Control&lang=en&timestamp=1795615442&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3213" alt="XPENG IRON Robot LIVE at AI Day 2026 – No Remote Control" title="XPENG IRON Robot LIVE at AI Day 2026 – No Remote Control">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=e5qK2E18EMQ&title=Artificial+Intelligence+and+the+A.G.I.+Horizon&lang=en&timestamp=1795607886&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4780">
+          <img src="https://ytcards.demolab.com/?id=e5qK2E18EMQ&title=Artificial+Intelligence+and+the+A.G.I.+Horizon&lang=en&timestamp=1795607886&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4780" alt="Artificial Intelligence and the A.G.I. Horizon" title="Artificial Intelligence and the A.G.I. Horizon">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=6p7lofButOw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=4hPRHFTY08I" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6p7lofButOw&title=Pro+Se+Litigant+Brings+Artificial+Intelligence+and+Natural+Stupidity+to+Court%21&lang=en&timestamp=1795637042&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6074">
-          <img src="https://ytcards.demolab.com/?id=6p7lofButOw&title=Pro+Se+Litigant+Brings+Artificial+Intelligence+and+Natural+Stupidity+to+Court%21&lang=en&timestamp=1795637042&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6074" alt="Pro Se Litigant Brings Artificial Intelligence and Natural Stupidity to Court!" title="Pro Se Litigant Brings Artificial Intelligence and Natural Stupidity to Court!">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4hPRHFTY08I&title=AI+Is+Speedrunning+India%27s+Economic+Demise&lang=en&timestamp=1795618686&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1056">
+          <img src="https://ytcards.demolab.com/?id=4hPRHFTY08I&title=AI+Is+Speedrunning+India%27s+Economic+Demise&lang=en&timestamp=1795618686&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1056" alt="AI Is Speedrunning India's Economic Demise" title="AI Is Speedrunning India's Economic Demise">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=3Qw2f8Ml7ys" target="_blank">
+      <a href="https://www.youtube.com/watch?v=hKT3D85aNL8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3Qw2f8Ml7ys&title=The+Entire+History+of+Artificial+Intelligence+in+44+Minutes&lang=en&timestamp=1795655222&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2661">
-          <img src="https://ytcards.demolab.com/?id=3Qw2f8Ml7ys&title=The+Entire+History+of+Artificial+Intelligence+in+44+Minutes&lang=en&timestamp=1795655222&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2661" alt="The Entire History of Artificial Intelligence in 44 Minutes" title="The Entire History of Artificial Intelligence in 44 Minutes">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hKT3D85aNL8&title=Artificial+Intelligence+Nears+Takeover&lang=en&timestamp=1795607886&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2552">
+          <img src="https://ytcards.demolab.com/?id=hKT3D85aNL8&title=Artificial+Intelligence+Nears+Takeover&lang=en&timestamp=1795607886&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2552" alt="Artificial Intelligence Nears Takeover" title="Artificial Intelligence Nears Takeover">
         </picture>
       </a>
     </td>
