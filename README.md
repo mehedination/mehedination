@@ -697,56 +697,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=gNPH2axWjF8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=17VYhOrgKSM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=gNPH2axWjF8&title=I+was+wrong+about+AI.+Here+are+my+updated+thoughts&lang=en&timestamp=1795670512&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=593">
-          <img src="https://ytcards.demolab.com/?id=gNPH2axWjF8&title=I+was+wrong+about+AI.+Here+are+my+updated+thoughts&lang=en&timestamp=1795670512&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=593" alt="I was wrong about AI. Here are my updated thoughts" title="I was wrong about AI. Here are my updated thoughts">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=17VYhOrgKSM&title=How+Agentic+AI+Is+Transforming+Telecom+Networks+%7C+Orange+OpenTech+2026&lang=en&timestamp=1795687047&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3473">
+          <img src="https://ytcards.demolab.com/?id=17VYhOrgKSM&title=How+Agentic+AI+Is+Transforming+Telecom+Networks+%7C+Orange+OpenTech+2026&lang=en&timestamp=1795687047&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3473" alt="How Agentic AI Is Transforming Telecom Networks | Orange OpenTech 2026" title="How Agentic AI Is Transforming Telecom Networks | Orange OpenTech 2026">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=r1aEPmGqQrs" target="_blank">
+      <a href="https://www.youtube.com/watch?v=dNjSTTWaarc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=r1aEPmGqQrs&title=Anthropic+Just+Revealed+Something+Disturbing+About+Its+AI%E2%80%A6&lang=en&timestamp=1795706512&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=545">
-          <img src="https://ytcards.demolab.com/?id=r1aEPmGqQrs&title=Anthropic+Just+Revealed+Something+Disturbing+About+Its+AI%E2%80%A6&lang=en&timestamp=1795706512&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=545" alt="Anthropic Just Revealed Something Disturbing About Its AI…" title="Anthropic Just Revealed Something Disturbing About Its AI…">
-        </picture>
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=hKT3D85aNL8" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hKT3D85aNL8&title=Artificial+Intelligence+Nears+Takeover&lang=en&timestamp=1795641712&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2552">
-          <img src="https://ytcards.demolab.com/?id=hKT3D85aNL8&title=Artificial+Intelligence+Nears+Takeover&lang=en&timestamp=1795641712&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2552" alt="Artificial Intelligence Nears Takeover" title="Artificial Intelligence Nears Takeover">
-        </picture>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Nl13uO4xOdM" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Nl13uO4xOdM&title=How+a+new+generation+of+AI+agents+could+change+holiday+shopping&lang=en&timestamp=1795648912&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=215">
-          <img src="https://ytcards.demolab.com/?id=Nl13uO4xOdM&title=How+a+new+generation+of+AI+agents+could+change+holiday+shopping&lang=en&timestamp=1795648912&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=215" alt="How a new generation of AI agents could change holiday shopping" title="How a new generation of AI agents could change holiday shopping">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=dNjSTTWaarc&title=Session+4.1+-+How+artificial+intelligence+agents+are+reinventing+business&lang=en&timestamp=1795723047&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3806">
+          <img src="https://ytcards.demolab.com/?id=dNjSTTWaarc&title=Session+4.1+-+How+artificial+intelligence+agents+are+reinventing+business&lang=en&timestamp=1795723047&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3806" alt="Session 4.1 - How artificial intelligence agents are reinventing business" title="Session 4.1 - How artificial intelligence agents are reinventing business">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=KTyN3mjh8l4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KTyN3mjh8l4&title=Building+an+AI+Trading+Bot+with+Claude+AI+Agents+%28Full+Tutorial%29&lang=en&timestamp=1795724512&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=392">
-          <img src="https://ytcards.demolab.com/?id=KTyN3mjh8l4&title=Building+an+AI+Trading+Bot+with+Claude+AI+Agents+%28Full+Tutorial%29&lang=en&timestamp=1795724512&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=392" alt="Building an AI Trading Bot with Claude AI Agents (Full Tutorial)" title="Building an AI Trading Bot with Claude AI Agents (Full Tutorial)">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KTyN3mjh8l4&title=Building+an+AI+Trading+Bot+with+Claude+AI+Agents+%28Full+Tutorial%29&lang=en&timestamp=1795723047&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=392">
+          <img src="https://ytcards.demolab.com/?id=KTyN3mjh8l4&title=Building+an+AI+Trading+Bot+with+Claude+AI+Agents+%28Full+Tutorial%29&lang=en&timestamp=1795723047&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=392" alt="Building an AI Trading Bot with Claude AI Agents (Full Tutorial)" title="Building an AI Trading Bot with Claude AI Agents (Full Tutorial)">
+        </picture>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=PHLS0ZgnMEg" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PHLS0ZgnMEg&title=upload+ready+2+mp4&lang=en&timestamp=1795701447&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5547">
+          <img src="https://ytcards.demolab.com/?id=PHLS0ZgnMEg&title=upload+ready+2+mp4&lang=en&timestamp=1795701447&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5547" alt="upload ready 2 mp4" title="upload ready 2 mp4">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=YOi_k2mZamc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=9TjSNSdiPnA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=YOi_k2mZamc&title=OpenAI+and+Anthropic+Built+Something+They%27re+Afraid+Of&lang=en&timestamp=1795641712&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=652">
-          <img src="https://ytcards.demolab.com/?id=YOi_k2mZamc&title=OpenAI+and+Anthropic+Built+Something+They%27re+Afraid+Of&lang=en&timestamp=1795641712&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=652" alt="OpenAI and Anthropic Built Something They're Afraid Of" title="OpenAI and Anthropic Built Something They're Afraid Of">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9TjSNSdiPnA&title=LIVE+%7C+AI+Stocks+in+Freefall%3A+Is+the+AI+Bubble+Finally+Bursting%3F+%7C+The+Palki+Sharma+Show+%7C+IGR&lang=en&timestamp=1795712247&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3395">
+          <img src="https://ytcards.demolab.com/?id=9TjSNSdiPnA&title=LIVE+%7C+AI+Stocks+in+Freefall%3A+Is+the+AI+Bubble+Finally+Bursting%3F+%7C+The+Palki+Sharma+Show+%7C+IGR&lang=en&timestamp=1795712247&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3395" alt="LIVE | AI Stocks in Freefall: Is the AI Bubble Finally Bursting? | The Palki Sharma Show | IGR" title="LIVE | AI Stocks in Freefall: Is the AI Bubble Finally Bursting? | The Palki Sharma Show | IGR">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=_iTbNy5aOR0" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_iTbNy5aOR0&title=AI+Agent+Architecture%3A+Where+Does+Your+Agent+Actually+Run%3F&lang=en&timestamp=1795697847&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=421">
+          <img src="https://ytcards.demolab.com/?id=_iTbNy5aOR0&title=AI+Agent+Architecture%3A+Where+Does+Your+Agent+Actually+Run%3F&lang=en&timestamp=1795697847&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=421" alt="AI Agent Architecture: Where Does Your Agent Actually Run?" title="AI Agent Architecture: Where Does Your Agent Actually Run?">
         </picture>
       </a>
     </td>
