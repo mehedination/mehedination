@@ -700,56 +700,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=r1aEPmGqQrs" target="_blank">
+      <a href="https://www.youtube.com/watch?v=5PBGnASz_DQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=r1aEPmGqQrs&title=Anthropic%E2%80%99s+AI+Is+Starting+to+Scare+Its+Own+Researchers%E2%80%A6&lang=en&timestamp=1795732271&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=545">
-          <img src="https://ytcards.demolab.com/?id=r1aEPmGqQrs&title=Anthropic%E2%80%99s+AI+Is+Starting+to+Scare+Its+Own+Researchers%E2%80%A6&lang=en&timestamp=1795732271&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=545" alt="Anthropic’s AI Is Starting to Scare Its Own Researchers…" title="Anthropic’s AI Is Starting to Scare Its Own Researchers…">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5PBGnASz_DQ&title=The+AI+Singularity+May+Have+Already+Started%E2%80%A6&lang=en&timestamp=1795793659&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=612">
+          <img src="https://ytcards.demolab.com/?id=5PBGnASz_DQ&title=The+AI+Singularity+May+Have+Already+Started%E2%80%A6&lang=en&timestamp=1795793659&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=612" alt="The AI Singularity May Have Already Started…" title="The AI Singularity May Have Already Started…">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=_K_eWWQuFBo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=nRC4h_jKC2Y" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_K_eWWQuFBo&title=Michael+Walker+Meets%3A+The+AI+DOOMERS&lang=en&timestamp=1795732271&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=639">
-          <img src="https://ytcards.demolab.com/?id=_K_eWWQuFBo&title=Michael+Walker+Meets%3A+The+AI+DOOMERS&lang=en&timestamp=1795732271&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=639" alt="Michael Walker Meets: The AI DOOMERS" title="Michael Walker Meets: The AI DOOMERS">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nRC4h_jKC2Y&title=Elon+Musk+Just+Took+the+AI+War+Into+Outer+Space&lang=en&timestamp=1795808059&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=568">
+          <img src="https://ytcards.demolab.com/?id=nRC4h_jKC2Y&title=Elon+Musk+Just+Took+the+AI+War+Into+Outer+Space&lang=en&timestamp=1795808059&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=568" alt="Elon Musk Just Took the AI War Into Outer Space" title="Elon Musk Just Took the AI War Into Outer Space">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=d5pbml1ynxs" target="_blank">
+      <a href="https://www.youtube.com/watch?v=GCkUcv9ZarI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=d5pbml1ynxs&title=Anthropic+Just+Fired+Back+At+OpenAI...+And+Exposed+The+Lie+Every+AI+Lab+Is+Telling&lang=en&timestamp=1795743071&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=838">
-          <img src="https://ytcards.demolab.com/?id=d5pbml1ynxs&title=Anthropic+Just+Fired+Back+At+OpenAI...+And+Exposed+The+Lie+Every+AI+Lab+Is+Telling&lang=en&timestamp=1795743071&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=838" alt="Anthropic Just Fired Back At OpenAI... And Exposed The Lie Every AI Lab Is Telling" title="Anthropic Just Fired Back At OpenAI... And Exposed The Lie Every AI Lab Is Telling">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=GCkUcv9ZarI&title=They+Just+Banned+Your+Home+Computers.&lang=en&timestamp=1795790059&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=942">
+          <img src="https://ytcards.demolab.com/?id=GCkUcv9ZarI&title=They+Just+Banned+Your+Home+Computers.&lang=en&timestamp=1795790059&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=942" alt="They Just Banned Your Home Computers." title="They Just Banned Your Home Computers.">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=vRB_KivNUmI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=LH2AmO7PYfI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vRB_KivNUmI&title=They+Can+Read+Your+Minds+Now.&lang=en&timestamp=1795732271&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=871">
-          <img src="https://ytcards.demolab.com/?id=vRB_KivNUmI&title=They+Can+Read+Your+Minds+Now.&lang=en&timestamp=1795732271&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=871" alt="They Can Read Your Minds Now." title="They Can Read Your Minds Now.">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=LH2AmO7PYfI&title=AI+Agents+Can+HACK+U.S.+Military+Systems+%26+Trigger+a+Nuclear+War%3F%21&lang=en&timestamp=1795786459&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1236">
+          <img src="https://ytcards.demolab.com/?id=LH2AmO7PYfI&title=AI+Agents+Can+HACK+U.S.+Military+Systems+%26+Trigger+a+Nuclear+War%3F%21&lang=en&timestamp=1795786459&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1236" alt="AI Agents Can HACK U.S. Military Systems & Trigger a Nuclear War?!" title="AI Agents Can HACK U.S. Military Systems & Trigger a Nuclear War?!">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=47aOwiqwRPs" target="_blank">
+      <a href="https://www.youtube.com/watch?v=6yvCVBGIWD0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=47aOwiqwRPs&title=Scary+Signs+Artificial+Intelligence+Is+Advancing+Faster+Than+We+Can+Control&lang=en&timestamp=1795739471&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7061">
-          <img src="https://ytcards.demolab.com/?id=47aOwiqwRPs&title=Scary+Signs+Artificial+Intelligence+Is+Advancing+Faster+Than+We+Can+Control&lang=en&timestamp=1795739471&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7061" alt="Scary Signs Artificial Intelligence Is Advancing Faster Than We Can Control" title="Scary Signs Artificial Intelligence Is Advancing Faster Than We Can Control">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6yvCVBGIWD0&title=16+Year+Old+Indian+AI+Prodigy+Raul+John+Aju+Impresses+Putin+At+Moscow%27s+AI+Journey+2026&lang=en&timestamp=1795768459&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=188">
+          <img src="https://ytcards.demolab.com/?id=6yvCVBGIWD0&title=16+Year+Old+Indian+AI+Prodigy+Raul+John+Aju+Impresses+Putin+At+Moscow%27s+AI+Journey+2026&lang=en&timestamp=1795768459&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=188" alt="16 Year Old Indian AI Prodigy Raul John Aju Impresses Putin At Moscow's AI Journey 2026" title="16 Year Old Indian AI Prodigy Raul John Aju Impresses Putin At Moscow's AI Journey 2026">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=GIa1407KO7c" target="_blank">
+      <a href="https://www.youtube.com/watch?v=VHsi0G2g4GY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=GIa1407KO7c&title=Bill+Gates+Changed+His+Mind+About+AI+and+Jobs&lang=en&timestamp=1795732271&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=618">
-          <img src="https://ytcards.demolab.com/?id=GIa1407KO7c&title=Bill+Gates+Changed+His+Mind+About+AI+and+Jobs&lang=en&timestamp=1795732271&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=618" alt="Bill Gates Changed His Mind About AI and Jobs" title="Bill Gates Changed His Mind About AI and Jobs">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=VHsi0G2g4GY&title=AI+Summits+The+Mount+Everest+Of+Math+%7C+World+Science+Festival&lang=en&timestamp=1795826059&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2419">
+          <img src="https://ytcards.demolab.com/?id=VHsi0G2g4GY&title=AI+Summits+The+Mount+Everest+Of+Math+%7C+World+Science+Festival&lang=en&timestamp=1795826059&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2419" alt="AI Summits The Mount Everest Of Math | World Science Festival" title="AI Summits The Mount Everest Of Math | World Science Festival">
         </picture>
       </a>
     </td>
